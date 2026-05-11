@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2.0.2] - 2026-05-11
+
+- Update repository URL to github.com/liontude/picons
+
 ## [2.0.1] - 2026-05-11
 
 - Fix `fontPackage` reference (was `app_icons`, now `picons`) — icons were not rendering

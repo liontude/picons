@@ -3,37 +3,37 @@ import 'extensions.dart';
 enum StyleFileData {
   regular(
     styleName: 'regular',
-    fontFileName: 'App.ttf',
+    fontFileName: 'Phosphor.ttf',
     idx: 0,
   ),
 
   thin(
     styleName: 'thin',
-    fontFileName: 'App-Thin.ttf',
+    fontFileName: 'Phosphor-Thin.ttf',
     idx: 1,
   ),
 
   light(
     styleName: 'light',
-    fontFileName: 'App-Light.ttf',
+    fontFileName: 'Phosphor-Light.ttf',
     idx: 2,
   ),
 
   bold(
     styleName: 'bold',
-    fontFileName: 'App-Bold.ttf',
+    fontFileName: 'Phosphor-Bold.ttf',
     idx: 3,
   ),
 
   fill(
     styleName: 'fill',
-    fontFileName: 'App-Fill.ttf',
+    fontFileName: 'Phosphor-Fill.ttf',
     idx: 4,
   ),
 
   duotone(
     styleName: 'duotone',
-    fontFileName: 'App-Duotone.ttf',
+    fontFileName: 'Phosphor-Duotone.ttf',
     idx: 5,
   );
 

@@ -5,15 +5,8 @@ Based on [Phosphor Icons](https://phosphoricons.com).
 
 ## Installation
 
-```yaml
-dependencies:
-  app_icons:
-    git:
-      url: https://github.com/liontude/app-icons.git
-```
-
 ```bash
-flutter pub get
+flutter pub add app_icons
 ```
 
 ## Usage

@@ -1,8 +1,7 @@
 name: app_icons
 description: 772 Phosphor icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
 version: 1.0.0
-maintainer: Liontude, LLC
-homepage: https://github.com/liontude/app-icons
+homepage: https://phosphoricons.com
 repository: https://github.com/liontude/app-icons
 
 environment:

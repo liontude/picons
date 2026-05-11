@@ -55,6 +55,11 @@ void generateBaseClass(List icons) {
         '/// This class helps to access the icons of all the styles. Use the specific style class to access the icons of that style:',
         ...styles.map((style) => '/// - [${style.className}]'),
       ])
+      ..fields.add(Field((b) => b
+        ..static = true
+        ..name = 'defaultStyle'
+        ..type = Reference('AppIconsStyle')
+        ..assignment = Code('AppIconsStyle.regular')))
       ..methods.addAll(methods);
   });
 
@@ -89,7 +94,7 @@ Method buildBaseFieldIcon(dynamic icon) {
   final fullName = rawName.split(",").first;
   final name = formatName(fullName, style: 'regular');
   final styles = StyleFileData.values;
-  var code = 'switch (style) {';
+  var code = 'switch (AppIcons.defaultStyle) {';
   for (final style in styles) {
     code += '''
 case AppIconsStyle.${style.styleName}:
@@ -100,12 +105,9 @@ case AppIconsStyle.${style.styleName}:
   return Method((methodBuilder) => methodBuilder
     ..name = name
     ..static = true
+    ..type = MethodType.getter
     ..docs.addAll(styles.map((style) =>
         '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
-    ..optionalParameters.add(Parameter((parameterBuilder) => parameterBuilder
-      ..name = 'style'
-      ..defaultTo = Code('AppIconsStyle.regular')
-      ..type = Reference('AppIconsStyle')))
     ..body = Code(code)
     ..returns = Reference('AppIconData'));
 }

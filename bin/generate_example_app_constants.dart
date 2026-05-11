@@ -25,7 +25,7 @@ void generateExampleAppConstants(List icons) {
     for (final style in StyleFileData.values) {
       final name = formatName(fullName, style: 'regular');
       final mapEntryLine =
-          "'$fullName': AppIcons.$name(AppIconsStyle.${style.styleName})";
+          "'$fullName': ${style.className}.$name";
       stylesMaps[style]!.add(mapEntryLine);
     }
   });

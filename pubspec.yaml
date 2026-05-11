@@ -6,7 +6,7 @@ homepage: https://phosphoricons.com/
 repository: https://github.com/phosphor-icons/phosphor-flutter
 
 environment:
-  sdk: ">=2.12.0 <4.0.0"
+  sdk: ">=2.13.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:

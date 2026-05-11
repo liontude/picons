@@ -1,5 +1,7 @@
 # Picons
 
+<img src="https://raw.githubusercontent.com/liontude/picons/main/demo.png" width="600" />
+
 1512 icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
 Based on [Phosphor Icons](https://phosphoricons.com).
 

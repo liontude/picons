@@ -3,37 +3,37 @@ import 'extensions.dart';
 enum StyleFileData {
   regular(
     styleName: 'regular',
-    fontFileName: 'Phosphor.ttf',
+    fontFileName: 'App.ttf',
     idx: 0,
   ),
 
   thin(
     styleName: 'thin',
-    fontFileName: 'Phosphor-Thin.ttf',
+    fontFileName: 'App-Thin.ttf',
     idx: 1,
   ),
 
   light(
     styleName: 'light',
-    fontFileName: 'Phosphor-Light.ttf',
+    fontFileName: 'App-Light.ttf',
     idx: 2,
   ),
 
   bold(
     styleName: 'bold',
-    fontFileName: 'Phosphor-Bold.ttf',
+    fontFileName: 'App-Bold.ttf',
     idx: 3,
   ),
 
   fill(
     styleName: 'fill',
-    fontFileName: 'Phosphor-Fill.ttf',
+    fontFileName: 'App-Fill.ttf',
     idx: 4,
   ),
 
   duotone(
     styleName: 'duotone',
-    fontFileName: 'Phosphor-Duotone.ttf',
+    fontFileName: 'App-Duotone.ttf',
     idx: 5,
   );
 
@@ -49,7 +49,7 @@ enum StyleFileData {
 
   String get directoryName => styleName;
   String get docsLine => '/// ${styleName.capitalize()} Icons';
-  String get className => 'PhosphorIcons${styleName.capitalize()}';
-  String get classFileName => 'phosphor_icons_$styleName.dart';
+  String get className => 'AppIcons${styleName.capitalize()}';
+  String get classFileName => 'app_icons_$styleName.dart';
   String get classConstructorLine => '$className()';
 }

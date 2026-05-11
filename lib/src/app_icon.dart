@@ -1,10 +1,10 @@
-library phosphor_flutter;
+library app_icons;
 
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:app_icons/app_icons.dart';
 
-class PhosphorIcon extends Icon {
-  const PhosphorIcon(
+class AppIcon extends Icon {
+  const AppIcon(
     IconData icon, {
     Key? key,
     double? size,
@@ -37,8 +37,8 @@ class PhosphorIcon extends Icon {
 
   @override
   Widget build(BuildContext context) {
-    if (icon is PhosphorDuotoneIconData) {
-      final duotoneIcon = icon as PhosphorDuotoneIconData;
+    if (icon is AppDuotoneIconData) {
+      final duotoneIcon = icon as AppDuotoneIconData;
       return Stack(
         alignment: Alignment.center,
         children: [

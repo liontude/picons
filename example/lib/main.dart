@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:app_icons/app_icons.dart';
 
 import 'constants/all_icons.dart';
 
@@ -11,7 +11,7 @@ class _MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Phosphor Icons Demo',
+      title: 'App Icons Demo',
       home: IconsCatalog(),
     );
   }
@@ -25,7 +25,7 @@ class IconsCatalog extends StatefulWidget {
 }
 
 class _IconsCatalogState extends State<IconsCatalog> {
-  late List<PhosphorIconData> _icons;
+  late List<AppIconData> _icons;
   late List<String> _iconsNames;
   String _title = 'Icons Catalog - regular';
 
@@ -57,16 +57,16 @@ class _IconsCatalogState extends State<IconsCatalog> {
         centerTitle: true,
         backgroundColor: const Color(0xff35313d),
         actions: [
-          PopupMenuButton<PhosphorIconsStyle>(
+          PopupMenuButton<AppIconsStyle>(
             tooltip: 'Style',
-            icon: Icon(PhosphorIcons.pencilLine(PhosphorIconsStyle.regular)),
-            itemBuilder: (context) => PhosphorIconsStyle.values
-                .map((style) => PopupMenuItem<PhosphorIconsStyle>(
+            icon: Icon(AppIcons.pencilLine(AppIconsStyle.regular)),
+            itemBuilder: (context) => AppIconsStyle.values
+                .map((style) => PopupMenuItem<AppIconsStyle>(
                       value: style,
                       child: Row(
                         children: [
-                          PhosphorIcon(
-                            PhosphorIcons.pencilLine(style),
+                          AppIcon(
+                            AppIcons.pencilLine(style),
                             color: Colors.black,
                           ),
                           const SizedBox(width: 8),
@@ -77,27 +77,27 @@ class _IconsCatalogState extends State<IconsCatalog> {
                 .toList(),
             onSelected: (value) {
               final (icons, names) = switch (value) {
-                PhosphorIconsStyle.regular => (
+                AppIconsStyle.regular => (
                     AllIcons.regularIcons.values.toList(),
                     AllIcons.regularIcons.keys.toList()
                   ),
-                PhosphorIconsStyle.thin => (
+                AppIconsStyle.thin => (
                     AllIcons.thinIcons.values.toList(),
                     AllIcons.thinIcons.keys.toList()
                   ),
-                PhosphorIconsStyle.light => (
+                AppIconsStyle.light => (
                     AllIcons.lightIcons.values.toList(),
                     AllIcons.lightIcons.keys.toList()
                   ),
-                PhosphorIconsStyle.bold => (
+                AppIconsStyle.bold => (
                     AllIcons.boldIcons.values.toList(),
                     AllIcons.boldIcons.keys.toList()
                   ),
-                PhosphorIconsStyle.fill => (
+                AppIconsStyle.fill => (
                     AllIcons.fillIcons.values.toList(),
                     AllIcons.fillIcons.keys.toList()
                   ),
-                PhosphorIconsStyle.duotone => (
+                AppIconsStyle.duotone => (
                     AllIcons.duotoneIcons.values.toList(),
                     AllIcons.duotoneIcons.keys.toList()
                   ),
@@ -127,7 +127,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                PhosphorIcon(
+                AppIcon(
                   _icons[index],
                   size: 48,
                 ),

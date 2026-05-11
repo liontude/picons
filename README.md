@@ -27,7 +27,7 @@ Add this to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  phosphor_flutter: ^any
+  app_icons: ^any
 ```
 
 Then run the pub get command
@@ -38,31 +38,31 @@ flutter pub get
 
 ## Usage
 
-### `PhosphorIcon` Widget
+### `AppIcon` Widget
 
 The easiest way to use all the Phosphor Icons in your app is to use the
-`PhosphorIcon` widget with one of the style-specific icon classes and pass any of our `PhosphorIcons` to it.
+`AppIcon` widget with one of the style-specific icon classes and pass any of our `AppIcons` to it.
 
 ### Available Styles:
-- `PhosphorIconsRegular`
-- `PhosphorIconsThin`
-- `PhosphorIconsLight`
-- `PhosphorIconsBold`
-- `PhosphorIconsFill`
-- `PhosphorIconsDuotone`
+- `AppIconsRegular`
+- `AppIconsThin`
+- `AppIconsLight`
+- `AppIconsBold`
+- `AppIconsFill`
+- `AppIconsDuotone`
 
 > [!TIP]
-> Use the style classes for smaller font file size. The alternative syntax `PhosphorIcons.pencil(PhosphorIconsStyle.fill)` is not recommended as it prevents tree shaking.
+> Use the style classes for smaller font file size. The alternative syntax `AppIcons.pencil(AppIconsStyle.fill)` is not recommended as it prevents tree shaking.
 
 ```dart
 // import the package
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:app_icons/app_icons.dart';
 
 // This will show the [Note Pencil] icon in its fill version
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
-PhosphorIcon(
-  PhosphorIconsFill.notePencil,
+AppIcon(
+  AppIconsFill.notePencil,
   color: Colors.green,
   size: 30.0,
   semanticLabel: 'New Note',
@@ -73,11 +73,11 @@ you could also use the duotone style like this
 
 ```dart
 // import the package
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:app_icons/app_icons.dart';
 
 // This will show the [Note Pencil] icon in it's duotone version
-PhosphorIcon(
-  PhosphorIconsDuotone.notePencil,
+AppIcon(
+  AppIconsDuotone.notePencil,
   color: Colors.green,
 ),
 ```
@@ -88,13 +88,13 @@ a 20% of opacity, but you can easily override that behavior with the
 
 ```dart
 // import the package
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:app_icons/app_icons.dart';
 
 // This will show the [Note Pencil] icon in it's duotone version where the
 // foreground color will be green and the background color will be yellow
 // with an opacity of 50%
-PhosphorIcon(
-  PhosphorIconsDuotone.notePencil,
+AppIcon(
+  AppIconsDuotone.notePencil,
   color: Colors.green,
   duotoneSecondaryOpacity: 0.50,
   duotoneSecondaryColor: Colors.yellow,
@@ -105,12 +105,12 @@ you can even make the opacity 100% to have a real duocolor icon.
 
 ### Flutter `Icon` Widget
 
-You can use the native flutter `Icon()` widget passing any `PhosphorIcon` value
+You can use the native flutter `Icon()` widget passing any `AppIcon` value
 like any Material Icon
 
 > NOTE: Due some limitations with the flutter `Icon` widget when you pass a duotone
 > icon it will render it as a simple icon, for this case prefer to use our
-> custom `PhosphorIcon` widget that works the same as `Icon` but support our
+> custom `AppIcon` widget that works the same as `Icon` but support our
 > duotone style
 
 ```dart
@@ -121,7 +121,7 @@ Icon(
 
 // With Phosphor Icons
 Icon(
-  PhosphorIconsRegular.pencil, // Pencil Icon
+  AppIconsRegular.pencil, // Pencil Icon
 ),
 ```
 
@@ -132,7 +132,7 @@ You could use any property of the [`Icon widget`](https://api.flutter.dev/flutte
 // with a size of 30.0, green color and a semantic label for
 // screen readers.
 Icon(
-  PhosphorIconsFill.notePencil,
+  AppIconsFill.notePencil,
   color: Colors.green,
   size: 30.0,
   semanticLabel: 'New Note',
@@ -144,27 +144,27 @@ All the icons has their thin, light, regular, bold and fill versions.
 ## Migration Guide
 
 To migrate from v1.0.0 to 2.1.0 you just need to change all your
-`PhosphorIcons.iconStyle` to the new syntax.
+`AppIcons.iconStyle` to the new syntax.
 For example:
 
 ```dart
 // previous
 Icon(
-  PhosphorIcons.pencilFill, // Pencil Fill Icon
+  AppIcons.pencilFill, // Pencil Fill Icon
 )
 
 // new
 Icon(
-  PhosphorIconsFill.pencil, // Pencil Fill Icon
+  AppIconsFill.pencil, // Pencil Fill Icon
 )
 
 // new and suggested
-PhosphorIcon(
-  PhosphorIconsFill.pencil, // Pencil Fill Icon
+AppIcon(
+  AppIconsFill.pencil, // Pencil Fill Icon
 )
 ```
 
-Also, we encourage you to use our new `PhosphorIcon` widget to have support for
+Also, we encourage you to use our new `AppIcon` widget to have support for
 duotone icons.
 
 ## Example App
@@ -174,7 +174,7 @@ You could see all the icons within the example app.
 Just clone the repository and run the next commands
 
 ```bash
-cd phosphor_flutter/example
+cd app_icons/example
 flutter pub get
 flutter run
 ```
@@ -237,4 +237,8 @@ If you've made a port of Phosphor and you want to see it here, just open a PR [h
 ## License
 
 MIT © [Phosphor Icons](https://github.com/phosphor-icons)
+
+---
+
+This project is a fork of [phosphor-icons/phosphor-flutter](https://github.com/phosphor-icons/phosphor-flutter) by [Phosphor Icons](https://github.com/phosphor-icons), licensed under MIT.
 <!-- END_LINKS -->

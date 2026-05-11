@@ -7,17 +7,17 @@ import 'utils.dart';
 
 /// Generated the main class of the package that exposes all the style classes
 void generateMainClass(List<StyleFileData> styles) {
-  print('Generating style abstract class phosphor_icons.dart file');
+  print('Generating style abstract class app_icons.dart file');
 
   final phosphorLib = Library((libraryBuilder) => libraryBuilder
     ..directives.addAll([
       ...styles.map(
         (style) => Directive.export(
-          'package:phosphor_flutter/src/${style.classFileName}',
+          'package:app_icons/src/${style.classFileName}',
         ),
       ),
       Directive.export(
-        'package:phosphor_flutter/src/phosphor_icons_base.dart',
+        'package:app_icons/src/app_icons_base.dart',
       ),
     ]));
 
@@ -27,18 +27,18 @@ void generateMainClass(List<StyleFileData> styles) {
   );
 
   saveContentToFile(
-    filePath: '../lib/src/phosphor_icons.dart',
+    filePath: '../lib/src/app_icons.dart',
     content: generatedFileContent,
   );
 }
 
 /// Generates an abstract class that exposes all the icons that every style extends
 void generateBaseClass(List icons) {
-  print('Generating phosphor_icons_base.dart file');
+  print('Generating app_icons_base.dart file');
   final styles = StyleFileData.values;
   final stylesEnum = Enum(
     (enumBuilder) => enumBuilder
-      ..name = 'PhosphorIconsStyle'
+      ..name = 'AppIconsStyle'
       ..values.addAll(
         styles.map(
           (style) => EnumValue((builder) => builder
@@ -50,7 +50,7 @@ void generateBaseClass(List icons) {
   final methods = icons.map((icon) => buildBaseFieldIcon(icon)).toList();
   final phosphorIconsClass = Class((classBuilder) {
     classBuilder
-      ..name = 'PhosphorIcons'
+      ..name = 'AppIcons'
       ..docs.addAll([
         '/// This class helps to access the icons of all the styles. Use the specific style class to access the icons of that style:',
         ...styles.map((style) => '/// - [${style.className}]'),
@@ -62,11 +62,11 @@ void generateBaseClass(List icons) {
     (libraryBuilder) => libraryBuilder
       ..directives.addAll([
         Directive.import(
-          'package:phosphor_flutter/src/phosphor_icon_data.dart',
+          'package:app_icons/src/app_icon_data.dart',
         ),
         ...styles.map(
           (style) => Directive.import(
-            'package:phosphor_flutter/src/${style.classFileName}',
+            'package:app_icons/src/${style.classFileName}',
           ),
         ),
       ])
@@ -78,7 +78,7 @@ void generateBaseClass(List icons) {
     '${phosphorLib.accept(emitter)}',
   );
   saveContentToFile(
-    filePath: '../lib/src/phosphor_icons_base.dart',
+    filePath: '../lib/src/app_icons_base.dart',
     content: generatedFileContent,
   );
 }
@@ -92,7 +92,7 @@ Method buildBaseFieldIcon(dynamic icon) {
   var code = 'switch (style) {';
   for (final style in styles) {
     code += '''
-case PhosphorIconsStyle.${style.styleName}:
+case AppIconsStyle.${style.styleName}:
   return ${style.className}.$name;
 ''';
   }
@@ -104,10 +104,10 @@ case PhosphorIconsStyle.${style.styleName}:
         '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
     ..optionalParameters.add(Parameter((parameterBuilder) => parameterBuilder
       ..name = 'style'
-      ..defaultTo = Code('PhosphorIconsStyle.regular')
-      ..type = Reference('PhosphorIconsStyle')))
+      ..defaultTo = Code('AppIconsStyle.regular')
+      ..type = Reference('AppIconsStyle')))
     ..body = Code(code)
-    ..returns = Reference('PhosphorIconData'));
+    ..returns = Reference('AppIconData'));
 }
 
 /// reads the phosphor json  of one style and generates a dart class
@@ -138,7 +138,7 @@ void generateStyleClass(List icons, {required StyleFileData style}) {
     (libraryBuilder) => libraryBuilder
       ..directives.add(
         Directive.import(
-          'package:phosphor_flutter/src/phosphor_icon_data.dart',
+          'package:app_icons/src/app_icon_data.dart',
         ),
       )
       ..directives.add(
@@ -175,13 +175,13 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
     final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'Duotone'),)",
+      "AppDuotoneIconData($foregroundHexCode, AppIconData($backgroundHexCode, 'Duotone'),)",
     );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
     codeStatement = Code(
-      "PhosphorFlatIconData($hexCode, '${style.styleName.capitalize()}')",
+      "AppFlatIconData($hexCode, '${style.styleName.capitalize()}')",
     );
   }
 

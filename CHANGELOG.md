@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [2.0.1] - 2026-05-11
+
+- Fix `fontPackage` reference (was `app_icons`, now `picons`) — icons were not rendering
+- Correct icon count to 1512 in description and example
+
 ## [2.0.0] - 2026-05-11
 
 Renamed package from `app_icons` to `picons` and renamed all public API classes.

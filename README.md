@@ -1,6 +1,6 @@
 # picons
 
-772 icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
+1512 icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
 Based on [Phosphor Icons](https://phosphoricons.com).
 
 ## Installation

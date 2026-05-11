@@ -7,7 +7,7 @@ class PiconData extends IconData {
       : super(
           codePoint,
           fontFamily: 'Phosphor$style',
-          fontPackage: 'app_icons',
+          fontPackage: 'picons',
           matchTextDirection: true,
         );
 }

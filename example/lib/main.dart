@@ -11,7 +11,7 @@ class _MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'App Icons',
+      title: 'Picons',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
@@ -86,13 +86,28 @@ class _IconsCatalogState extends State<IconsCatalog> {
               width: 32,
             ),
             const SizedBox(width: 12),
-            const Text(
-              'App Icons',
-              style: TextStyle(
-                color: Colors.white,
-                fontWeight: FontWeight.bold,
-                fontSize: 20,
-              ),
+            const Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  'Picons',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 18,
+                    height: 1.1,
+                  ),
+                ),
+                Text(
+                  'Based on Phosphor Icons',
+                  style: TextStyle(
+                    color: Colors.white38,
+                    fontSize: 11,
+                    height: 1.1,
+                  ),
+                ),
+              ],
             ),
           ],
         ),
@@ -107,7 +122,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
               onChanged: (v) => setState(() => _query = v.toLowerCase()),
               style: const TextStyle(color: Colors.white),
               decoration: InputDecoration(
-                hintText: 'Search 772 icons...',
+                hintText: 'Search 1512 icons...',
                 hintStyle: const TextStyle(color: Colors.white38),
                 prefixIcon: const Icon(PiconsRegular.magnifyingGlass, color: Colors.white38),
                 suffixIcon: _query.isNotEmpty

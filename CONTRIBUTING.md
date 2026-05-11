@@ -1,4 +1,4 @@
-# Contributing to picons
+# Contributing to Picons
 
 Thanks for taking the time to contribute! This project is a fork of [phosphor-icons/flutter](https://github.com/phosphor-icons/flutter), actively maintained and open to community contributions in every form — code, icons, and design.
 

@@ -18,23 +18,25 @@ flutter pub get
 
 ## Usage
 
-### Default style
-
-Set a global style once and access any icon without repeating it:
-
 ```dart
 import 'package:app_icons/app_icons.dart';
+```
 
-AppIcons.defaultStyle = AppIconsStyle.regular; // default
+### Default style
 
-Icon(AppIcons.pencil)   // uses defaultStyle
+Set a global style once in `main.dart` and access any icon without repeating it:
+
+```dart
+AppIcons.defaultStyle = AppIconsStyle.bold;
+
+Icon(AppIcons.pencil)
 Icon(AppIcons.house)
 Icon(AppIcons.star)
 ```
 
 ### Specific style
 
-Use the style class directly — always explicit, unaffected by `defaultStyle`:
+Use a style class directly — always explicit, unaffected by `defaultStyle`:
 
 ```dart
 Icon(AppIconsRegular.pencil)
@@ -46,12 +48,20 @@ Icon(AppIconsLight.pencil)
 
 ### Duotone
 
-Use `AppIcon` instead of `Icon` to get secondary color support:
+Use `AppIcon` instead of `Icon` to render the duotone stack:
 
 ```dart
+// explicit
 AppIcon(AppIconsDuotone.pencil)
 
-// custom colors
+// via defaultStyle
+AppIcons.defaultStyle = AppIconsStyle.duotone;
+AppIcon(AppIcons.pencil)
+```
+
+Custom secondary color:
+
+```dart
 AppIcon(
   AppIconsDuotone.pencil,
   color: Colors.blue,
@@ -60,18 +70,7 @@ AppIcon(
 )
 ```
 
-> `AppIcon` works exactly like the native `Icon` widget for all non-duotone icons too.
-
-### Available styles
-
-| Class | Usage |
-|---|---|
-| `AppIconsRegular` | `AppIconsRegular.pencil` |
-| `AppIconsThin` | `AppIconsThin.pencil` |
-| `AppIconsLight` | `AppIconsLight.pencil` |
-| `AppIconsBold` | `AppIconsBold.pencil` |
-| `AppIconsFill` | `AppIconsFill.pencil` |
-| `AppIconsDuotone` | `AppIconsDuotone.pencil` |
+> `AppIcon` works exactly like the native `Icon` widget for all non-duotone icons.
 
 ## Example App
 

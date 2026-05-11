@@ -59,14 +59,21 @@ class _IconsCatalogState extends State<IconsCatalog> {
         actions: [
           PopupMenuButton<AppIconsStyle>(
             tooltip: 'Style',
-            icon: Icon(AppIcons.pencilLine(AppIconsStyle.regular)),
+            icon: const Icon(AppIconsRegular.pencilLine),
             itemBuilder: (context) => AppIconsStyle.values
                 .map((style) => PopupMenuItem<AppIconsStyle>(
                       value: style,
                       child: Row(
                         children: [
                           AppIcon(
-                            AppIcons.pencilLine(style),
+                            switch (style) {
+                              AppIconsStyle.regular => AppIconsRegular.pencilLine,
+                              AppIconsStyle.thin => AppIconsThin.pencilLine,
+                              AppIconsStyle.light => AppIconsLight.pencilLine,
+                              AppIconsStyle.bold => AppIconsBold.pencilLine,
+                              AppIconsStyle.fill => AppIconsFill.pencilLine,
+                              AppIconsStyle.duotone => AppIconsDuotone.pencilLine,
+                            },
                             color: Colors.black,
                           ),
                           const SizedBox(width: 8),

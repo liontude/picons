@@ -58,12 +58,33 @@ Custom secondary color:
 Picon(
   PiconsDuotone.pencil,
   color: Colors.blue,
-  duotoneSecondaryColor: Colors.yellow,
-  duotoneSecondaryOpacity: 0.5,
+  duoColor: Colors.yellow,
+  duoOpacity: 0.5,
 )
 ```
 
 > `Picon` works exactly like the native `Icon` widget for all non-duotone icons.
+
+### Theme integration
+
+Configure duotone defaults globally via `PiconsTheme`:
+
+```dart
+MaterialApp(
+  theme: ThemeData(
+    extensions: [
+      PiconsTheme(color: Colors.grey, duoColor: Colors.grey, duoOpacity: 0.2),
+    ],
+  ),
+  darkTheme: ThemeData(
+    extensions: [
+      PiconsTheme(color: Colors.white, duoColor: Colors.white, duoOpacity: 0.15),
+    ],
+  ),
+)
+```
+
+Colors resolve in this order: explicit value on the widget → `PiconsTheme` → `IconTheme`.
 
 ## Example App
 

@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [2.1.0] - 2026-05-11
+
+### New
+
+- `PiconsTheme` — Flutter `ThemeExtension` to configure icon defaults globally, with dark/light theme support
+- `Picon.color` now falls back to `PiconsTheme.color` before `IconTheme`
+- Duotone color cascade: explicit → `PiconsTheme.duoColor` → icon color
+
+### Breaking changes
+
+- `Picon.duotoneSecondaryColor` renamed to `duoColor`
+- `Picon.duotoneSecondaryOpacity` renamed to `duoOpacity` (default remains 0.20)
+
 ## [2.0.3] - 2026-05-11
 
 - Add text descriptions to all icon dartdoc comments — pub.dev score now 160/160

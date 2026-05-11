@@ -1,5 +1,28 @@
 # CHANGELOG
 
+## [2.0.0] - 2026-05-11
+
+Renamed package from `app_icons` to `picons` and renamed all public API classes.
+
+### Breaking changes
+
+- Package name: `app_icons` → `picons`
+- `AppIcon` → `Picon`
+- `AppIcons` → `Picons`
+- `AppIconsStyle` → `PiconsStyle`
+- `AppIconData` → `PiconData`
+- `AppIconsRegular` → `PiconsRegular`
+- `AppIconsBold` → `PiconsBold`
+- `AppIconsFill` → `PiconsFill`
+- `AppIconsThin` → `PiconsThin`
+- `AppIconsLight` → `PiconsLight`
+- `AppIconsDuotone` → `PiconsDuotone`
+- Import: `package:app_icons/app_icons.dart` → `package:picons/picons.dart`
+
+### Other changes
+
+- Example app redesigned: dark theme, search bar, style chips, adaptive grid
+
 ## [1.0.0] - 2026-05-11
 
 Initial release as `app_icons`, forked from [phosphor-icons/phosphor-flutter](https://github.com/phosphor-icons/phosphor-flutter) v2.1.0.

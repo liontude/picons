@@ -167,8 +167,11 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
   final firstName = fullName.split(",").first;
   final name = formatName(firstName, style: style.styleName);
 
-  final iconDocs =
-      '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName.svg)';
+  final iconDocLines = [
+    '/// $firstName',
+    '///',
+    '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName.svg)',
+  ];
 
   late Code codeStatement;
 
@@ -189,7 +192,7 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
 
   return Field(
     (fieldBuilder) => fieldBuilder
-      ..docs.add(iconDocs)
+      ..docs.addAll(iconDocLines)
       ..modifier = FieldModifier.constant
       ..static = true
       ..name = name

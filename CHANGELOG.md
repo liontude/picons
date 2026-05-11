@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [2.0.3] - 2026-05-11
+
+- Add text descriptions to all icon dartdoc comments — pub.dev score now 160/160
+- Rewrite CONTRIBUTING.md: open to icon and code contributions, Figma style reference
+- Update generator to produce correct dartdoc format for future regenerations
+
 ## [2.0.2] - 2026-05-11
 
 - Update repository URL to github.com/liontude/picons

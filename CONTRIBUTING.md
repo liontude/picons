@@ -1,162 +1,114 @@
-<!-- omit in toc -->
+# Contributing to picons
 
-# Contributing to Phosphor Icons
+Thanks for taking the time to contribute! This project is a fork of [phosphor-icons/flutter](https://github.com/phosphor-icons/flutter), actively maintained and open to community contributions in every form — code, icons, and design.
 
-First off, thanks for taking the time to contribute! ❤️
+## Ways to contribute
 
-We welcome many forms of contributions, though due to the creative nature of the project we do not typically accept icon contributions. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them, and read the relevant guidance before making your contribution. We look forward to your input!
+- **Report a bug** — something is broken or behaving unexpectedly
+- **Suggest an enhancement** — a feature or improvement to the Flutter package
+- **Request an icon** — you need an icon that isn't in the set yet
+- **Contribute an icon** — you've designed one and want to add it
+- **Improve the code** — fix a bug, refactor, or add a feature
 
-> If you like the project, but don't have time to contribute, there are other easy ways to support the project and show your appreciation:
->
-> - Donate via [Buy Me a Coffee](https://www.buymeacoffee.com/phosphoricons), or become a recurring contributor via [Patreon](https://patreon.com/phosphoricons) (this really helps!)
-> - Star the project
-> - Tweet about it, or share on other platforms
-> - Refer this project in your project's README
-> - Mention the project at local meetups and tell your friends/colleagues
+---
 
-<!-- omit in toc -->
+## Reporting bugs
 
-## Table of Contents
+Before filing a bug:
 
-- [I Have a Question](#i-have-a-question)
-- [I Want To Contribute](#i-want-to-contribute)
-- [Requesting Icons](#requesting-icons)
-- [Reporting Bugs](#reporting-bugs)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
+- Make sure you're on the latest version.
+- Check if the issue already exists in the [issue tracker](https://github.com/liontude/picons/issues).
 
-## I Have a Question
+When filing a bug, include:
 
-> If you want to ask a question, we assume that you have read the available [documentation](https://github.com/phosphor-icons/flutter/blob/master/README.md).
+- Flutter and Dart versions
+- Steps to reproduce
+- Expected vs. actual behavior
+- A minimal code snippet if possible
 
-Before you ask a question, it is best to search for existing [issues](https://github.com/phosphor-icons/flutter/issues) that might help you. In case you have found a suitable issue and still need clarification, you can add your question as a comment in that issue. It is also advisable to search the internet for answers first.
+Open a [bug report](https://github.com/liontude/picons/issues/new?labels=bug).
 
-If you then still feel the need to ask a question and need clarification, we recommend the following:
+---
 
-- Open a new issue using an [issue template](https://github.com/phosphor-icons/flutter/issues/new/choose).
-- Provide as much context as you can about what you're running into (the template has prompts to help you here).
-- Provide project and platform versions (`nodejs`, `npm`, etc), depending on what seems relevant.
+## Requesting an icon
 
-We will address the issue as soon as we can.
+Open an [icon request issue](https://github.com/liontude/picons/issues/new?labels=icon-request) and describe:
 
-## I Want To Contribute
+- What the icon represents
+- Where you plan to use it
+- Any visual reference (optional but helpful)
 
-> ### Legal Notice <!-- omit in toc -->
->
-> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
+We'll review the request and either design it or open it for community design contributions.
 
-### Requesting Icons
+---
 
-We handle all icon requests on the [@phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) repository. Please create your request there, or send us an email at [hello@phosphoricons.com](mailto:hello@phosphoricons.com?cc=friedtm@gmail.com&subject=Icon%20Request). Be sure to read our documentation on [Requesting Icons](https://github.com/phosphor-icons/homepage/blob/master/CONTRIBUTING.md#requesting-icons).
+## Contributing an icon
 
-### Reporting Bugs
+We welcome icon design contributions. To keep the set visually consistent, all icons must follow the **Phosphor design system**.
 
-<!-- omit in toc -->
+The full icon grid, guidelines, and existing icons are available in the official Figma file:
+[Phosphor Icons — Figma Community](https://www.figma.com/community/file/903830135544202908/phosphor-icons)
 
-#### Before Submitting a Bug Report
+### Design requirements
 
-A good bug report contains all the necessary information for us (or others in the community) to reproduce, diagnose, and fix it. We ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
+- Follow the Phosphor grid and stroke conventions from the Figma file.
+- Provide all 6 styles: **Regular, Thin, Light, Bold, Fill, and Duotone**.
+- Export each style as a clean SVG.
 
-- If your issue pertains to a specific library, please leave it on the relevant repository.
-- Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side, e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://github.com/phosphor-icons/flutter/blob/master/README.md). If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [issue tracker](https://github.com/phosphor-icons/flutter/issues?q=label%3Abug).
-- Also make sure to search elsewhere (including Stack Overflow, framework or environment docs) to see if users outside of the GitHub community have discussed the issue.
-- Collect information about the bug:
-  - Stack trace (Traceback)
-  - OS, Platform and Version
-  - Version of the browser, runtime environment, package manager, depending on what seems relevant.
-  - Your input, code, and any other relevant context
-  - Can you reliably reproduce the issue? And can you also reproduce it with older versions?
+### Submission
 
-<!-- omit in toc -->
+Open a PR with:
 
-#### How Do I Submit a Good Bug Report?
+1. The SVG files for each style under a clearly named folder.
+2. A description of the icon and its intended use.
 
-> Please do not report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs can be sent by email to [hello@phosphoricons.com](mailto:hello@phosphoricons.com?cc=friedtm@gmail.com&subject=Phosphor%20Security%20Vulnerability).
+We'll handle integrating it into the font and generating the Dart code. You don't need to run the generator yourself, though the process is documented in [bin/update_process.md](bin/update_process.md).
 
-<!-- You may add a PGP key to allow the messages to be sent encrypted as well. -->
+---
 
-We use GitHub issues to track bugs and errors. If you run into an issue with the project:
+## Code contributions
 
-- Open an [issue](https://github.com/phosphor-icons/flutter/issues/new?assignees=rektdeckard&labels=bug&projects=&template=bug_report.md&title=).
-- Fill in the templated fields, making sure to:
-  - Explain the behavior you would expect and the actual behavior.
-  - Provide as much context as possible and describe the _reproduction steps_ that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
-  - Provide the information you collected in the previous section.
-
-Once it's filed:
-
-- The project team will label the issue accordingly.
-- A team member will try to reproduce the issue with your provided steps. If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps. Bugs with the `needs-repro` tag will not be addressed until they are reproduced.
-- If the team is able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
-
-<!-- You might want to create an issue template for bugs and errors that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
-
-### Suggesting Enhancements
-
-This section guides you through submitting an enhancement suggestion for Phosphor Icons, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
-
-<!-- omit in toc -->
-
-#### Before Submitting an Enhancement
-
-- Make sure that you are using the latest version.
-- Read the [documentation](https://github.com/phosphor-icons/flutter/blob/master/README.md) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Search the [issues](https://github.com/phosphor-icons/flutter/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
-- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
-
-<!-- omit in toc -->
-
-#### How Do I Submit a Good Enhancement Suggestion?
-
-Enhancement suggestions are tracked as [issues](https://github.com/phosphor-icons/flutter/issues).
-
-- Use a **clear and descriptive title** for the issue to identify the suggestion.
-- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and/or animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to.
-- **Explain why this enhancement would be useful** to most Phosphor Icons users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
-
-<!-- ### Your First Code Contribution -->
-
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
-
--->
-
-<!-- ### Improving The Documentation -->
-
-<!-- If you see something that can be improved in our documentation, -->
-
-## Styleguides
-
-### Code Conventions
-
-We use 80-character print width, 2-space tab width, ES5 trailing commas, double-quoted strings, and trailing semicolons. Please run the format script on all code contributions before submitting a PR:
+### Setup
 
 ```sh
-pnpm format
+flutter pub get
 ```
 
-### Commit Messages
+### Running the generator
 
-We aspire to use [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/#specification) style commit messages. This means commits should be of the format `<noun>(<domain>): <message>`, where:
+The Dart classes in `lib/src/` are auto-generated. To regenerate them:
 
-- `<noun>` is one of `feat`, `fix`, `chore`, `refactor`, `docs`, `style`, `test`, `perf`, `ci`, `build`, or `revert`
-- `<domain>` is a kebab-case name for the main affected area, e.g. `readme`
-- `<message>` is a description in plain English of the changes at a high level
+```sh
+cd bin
+dart pub get
+dart run main.dart
+```
 
-For example: `docs(readme): add installation instructions`.
+### Submitting a PR
 
-Commits should contain a long-form description when relevant, or the message is not enough to describe the full nature of the changes. All commits sholud be limited to 80 characters line length.
+- One logical change per PR.
+- Make sure `flutter analyze` passes with no errors.
+- Follow the commit message conventions below.
 
-<!-- omit in toc -->
+---
 
-## Attribution
+## Commit messages
 
-This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
+We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/):
+
+```
+<type>(<scope>): <subject>
+```
+
+Types: `feat`, `fix`, `chore`, `refactor`, `docs`, `style`, `test`, `perf`
+
+Examples:
+- `feat(icons): add hand-wave icon in all 6 styles`
+- `fix(picon): correct duotone layer opacity`
+- `docs(readme): update usage examples`
+
+---
+
+## Legal notice
+
+By contributing, you confirm that you authored the content, hold the necessary rights, and agree that it may be distributed under the project's [MIT License](LICENSE).

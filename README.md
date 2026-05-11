@@ -1,4 +1,4 @@
-# app_icons
+# picons
 
 772 icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
 Based on [Phosphor Icons](https://phosphoricons.com).
@@ -6,13 +6,13 @@ Based on [Phosphor Icons](https://phosphoricons.com).
 ## Installation
 
 ```bash
-flutter pub add app_icons
+flutter pub add picons
 ```
 
 ## Usage
 
 ```dart
-import 'package:app_icons/app_icons.dart';
+import 'package:picons/picons.dart';
 ```
 
 ### Default style
@@ -20,11 +20,11 @@ import 'package:app_icons/app_icons.dart';
 Set a global style once in `main.dart` and access any icon without repeating it:
 
 ```dart
-AppIcons.defaultStyle = AppIconsStyle.bold;
+Picons.defaultStyle = PiconsStyle.bold;
 
-Icon(AppIcons.pencil)
-Icon(AppIcons.house)
-Icon(AppIcons.star)
+Icon(Picons.pencil)
+Icon(Picons.house)
+Icon(Picons.star)
 ```
 
 ### Specific style
@@ -32,38 +32,38 @@ Icon(AppIcons.star)
 Use a style class directly — always explicit, unaffected by `defaultStyle`:
 
 ```dart
-Icon(AppIconsRegular.pencil)
-Icon(AppIconsFill.pencil)
-Icon(AppIconsBold.pencil)
-Icon(AppIconsThin.pencil)
-Icon(AppIconsLight.pencil)
+Icon(PiconsRegular.pencil)
+Icon(PiconsFill.pencil)
+Icon(PiconsBold.pencil)
+Icon(PiconsThin.pencil)
+Icon(PiconsLight.pencil)
 ```
 
 ### Duotone
 
-Use `AppIcon` instead of `Icon` to render the duotone stack:
+Use `Picon` instead of `Icon` to render the duotone stack:
 
 ```dart
 // explicit
-AppIcon(AppIconsDuotone.pencil)
+Picon(PiconsDuotone.pencil)
 
 // via defaultStyle
-AppIcons.defaultStyle = AppIconsStyle.duotone;
-AppIcon(AppIcons.pencil)
+Picons.defaultStyle = PiconsStyle.duotone;
+Picon(Picons.pencil)
 ```
 
 Custom secondary color:
 
 ```dart
-AppIcon(
-  AppIconsDuotone.pencil,
+Picon(
+  PiconsDuotone.pencil,
   color: Colors.blue,
   duotoneSecondaryColor: Colors.yellow,
   duotoneSecondaryOpacity: 0.5,
 )
 ```
 
-> `AppIcon` works exactly like the native `Icon` widget for all non-duotone icons.
+> `Picon` works exactly like the native `Icon` widget for all non-duotone icons.
 
 ## Example App
 

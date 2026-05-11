@@ -1,9076 +1,9076 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
-import 'package:app_icons/src/app_icon_data.dart';
+import 'package:picons/src/picon_data.dart';
 import 'package:flutter/widgets.dart';
 
 @staticIconProvider
-class AppIconsDuotone {
-  const AppIconsDuotone();
+class PiconsDuotone {
+  const PiconsDuotone();
 
   /// ![acorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn-duotone.svg)
-  static const acorn = AppDuotoneIconData(
+  static const acorn = PiconDuotoneData(
     0xeb9b,
-    AppIconData(0xeb9a, 'Duotone'),
+    PiconData(0xeb9a, 'Duotone'),
   );
 
   /// ![address-book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-duotone.svg)
-  static const addressBook = AppDuotoneIconData(
+  static const addressBook = PiconDuotoneData(
     0xe6f9,
-    AppIconData(0xe6f8, 'Duotone'),
+    PiconData(0xe6f8, 'Duotone'),
   );
 
   /// ![address-book-tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs-duotone.svg)
-  static const addressBookTabs = AppDuotoneIconData(
+  static const addressBookTabs = PiconDuotoneData(
     0xee4f,
-    AppIconData(0xee4e, 'Duotone'),
+    PiconData(0xee4e, 'Duotone'),
   );
 
   /// ![air-traffic-control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control-duotone.svg)
-  static const airTrafficControl = AppDuotoneIconData(
+  static const airTrafficControl = PiconDuotoneData(
     0xecd9,
-    AppIconData(0xecd8, 'Duotone'),
+    PiconData(0xecd8, 'Duotone'),
   );
 
   /// ![airplane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-duotone.svg)
-  static const airplane = AppDuotoneIconData(
+  static const airplane = PiconDuotoneData(
     0xe003,
-    AppIconData(0xe002, 'Duotone'),
+    PiconData(0xe002, 'Duotone'),
   );
 
   /// ![airplane-in-flight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight-duotone.svg)
-  static const airplaneInFlight = AppDuotoneIconData(
+  static const airplaneInFlight = PiconDuotoneData(
     0xe4ff,
-    AppIconData(0xe4fe, 'Duotone'),
+    PiconData(0xe4fe, 'Duotone'),
   );
 
   /// ![airplane-landing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing-duotone.svg)
-  static const airplaneLanding = AppDuotoneIconData(
+  static const airplaneLanding = PiconDuotoneData(
     0xe503,
-    AppIconData(0xe502, 'Duotone'),
+    PiconData(0xe502, 'Duotone'),
   );
 
   /// ![airplane-takeoff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff-duotone.svg)
-  static const airplaneTakeoff = AppDuotoneIconData(
+  static const airplaneTakeoff = PiconDuotoneData(
     0xe505,
-    AppIconData(0xe504, 'Duotone'),
+    PiconData(0xe504, 'Duotone'),
   );
 
   /// ![airplane-taxiing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing-duotone.svg)
-  static const airplaneTaxiing = AppDuotoneIconData(
+  static const airplaneTaxiing = PiconDuotoneData(
     0xe501,
-    AppIconData(0xe500, 'Duotone'),
+    PiconData(0xe500, 'Duotone'),
   );
 
   /// ![airplane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt-duotone.svg)
-  static const airplaneTilt = AppDuotoneIconData(
+  static const airplaneTilt = PiconDuotoneData(
     0xe5d7,
-    AppIconData(0xe5d6, 'Duotone'),
+    PiconData(0xe5d6, 'Duotone'),
   );
 
   /// ![airplay-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay-duotone.svg)
-  static const airplay = AppDuotoneIconData(
+  static const airplay = PiconDuotoneData(
     0xe005,
-    AppIconData(0xe004, 'Duotone'),
+    PiconData(0xe004, 'Duotone'),
   );
 
   /// ![alarm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm-duotone.svg)
-  static const alarm = AppDuotoneIconData(
+  static const alarm = PiconDuotoneData(
     0xe007,
-    AppIconData(0xe006, 'Duotone'),
+    PiconData(0xe006, 'Duotone'),
   );
 
   /// ![alien-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien-duotone.svg)
-  static const alien = AppDuotoneIconData(
+  static const alien = PiconDuotoneData(
     0xe8a7,
-    AppIconData(0xe8a6, 'Duotone'),
+    PiconData(0xe8a6, 'Duotone'),
   );
 
   /// ![align-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-duotone.svg)
-  static const alignBottom = AppDuotoneIconData(
+  static const alignBottom = PiconDuotoneData(
     0xe507,
-    AppIconData(0xe506, 'Duotone'),
+    PiconData(0xe506, 'Duotone'),
   );
 
   /// ![align-bottom-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple-duotone.svg)
-  static const alignBottomSimple = AppDuotoneIconData(
+  static const alignBottomSimple = PiconDuotoneData(
     0xeb0d,
-    AppIconData(0xeb0c, 'Duotone'),
+    PiconData(0xeb0c, 'Duotone'),
   );
 
   /// ![align-center-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-duotone.svg)
-  static const alignCenterHorizontal = AppDuotoneIconData(
+  static const alignCenterHorizontal = PiconDuotoneData(
     0xe50b,
-    AppIconData(0xe50a, 'Duotone'),
+    PiconData(0xe50a, 'Duotone'),
   );
 
   /// ![align-center-horizontal-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple-duotone.svg)
-  static const alignCenterHorizontalSimple = AppDuotoneIconData(
+  static const alignCenterHorizontalSimple = PiconDuotoneData(
     0xeb0f,
-    AppIconData(0xeb0e, 'Duotone'),
+    PiconData(0xeb0e, 'Duotone'),
   );
 
   /// ![align-center-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-duotone.svg)
-  static const alignCenterVertical = AppDuotoneIconData(
+  static const alignCenterVertical = PiconDuotoneData(
     0xe50d,
-    AppIconData(0xe50c, 'Duotone'),
+    PiconData(0xe50c, 'Duotone'),
   );
 
   /// ![align-center-vertical-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple-duotone.svg)
-  static const alignCenterVerticalSimple = AppDuotoneIconData(
+  static const alignCenterVerticalSimple = PiconDuotoneData(
     0xeb11,
-    AppIconData(0xeb10, 'Duotone'),
+    PiconData(0xeb10, 'Duotone'),
   );
 
   /// ![align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-duotone.svg)
-  static const alignLeft = AppDuotoneIconData(
+  static const alignLeft = PiconDuotoneData(
     0xe50f,
-    AppIconData(0xe50e, 'Duotone'),
+    PiconData(0xe50e, 'Duotone'),
   );
 
   /// ![align-left-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple-duotone.svg)
-  static const alignLeftSimple = AppDuotoneIconData(
+  static const alignLeftSimple = PiconDuotoneData(
     0xeaef,
-    AppIconData(0xeaee, 'Duotone'),
+    PiconData(0xeaee, 'Duotone'),
   );
 
   /// ![align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-duotone.svg)
-  static const alignRight = AppDuotoneIconData(
+  static const alignRight = PiconDuotoneData(
     0xe511,
-    AppIconData(0xe510, 'Duotone'),
+    PiconData(0xe510, 'Duotone'),
   );
 
   /// ![align-right-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple-duotone.svg)
-  static const alignRightSimple = AppDuotoneIconData(
+  static const alignRightSimple = PiconDuotoneData(
     0xeb13,
-    AppIconData(0xeb12, 'Duotone'),
+    PiconData(0xeb12, 'Duotone'),
   );
 
   /// ![align-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-duotone.svg)
-  static const alignTop = AppDuotoneIconData(
+  static const alignTop = PiconDuotoneData(
     0xe513,
-    AppIconData(0xe512, 'Duotone'),
+    PiconData(0xe512, 'Duotone'),
   );
 
   /// ![align-top-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple-duotone.svg)
-  static const alignTopSimple = AppDuotoneIconData(
+  static const alignTopSimple = PiconDuotoneData(
     0xeb15,
-    AppIconData(0xeb14, 'Duotone'),
+    PiconData(0xeb14, 'Duotone'),
   );
 
   /// ![amazon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo-duotone.svg)
-  static const amazonLogo = AppDuotoneIconData(
+  static const amazonLogo = PiconDuotoneData(
     0xe96d,
-    AppIconData(0xe96c, 'Duotone'),
+    PiconData(0xe96c, 'Duotone'),
   );
 
   /// ![ambulance-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance-duotone.svg)
-  static const ambulance = AppDuotoneIconData(
+  static const ambulance = PiconDuotoneData(
     0xe573,
-    AppIconData(0xe572, 'Duotone'),
+    PiconData(0xe572, 'Duotone'),
   );
 
   /// ![anchor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-duotone.svg)
-  static const anchor = AppDuotoneIconData(
+  static const anchor = PiconDuotoneData(
     0xe515,
-    AppIconData(0xe514, 'Duotone'),
+    PiconData(0xe514, 'Duotone'),
   );
 
   /// ![anchor-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple-duotone.svg)
-  static const anchorSimple = AppDuotoneIconData(
+  static const anchorSimple = PiconDuotoneData(
     0xe5d9,
-    AppIconData(0xe5d8, 'Duotone'),
+    PiconData(0xe5d8, 'Duotone'),
   );
 
   /// ![android-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo-duotone.svg)
-  static const androidLogo = AppDuotoneIconData(
+  static const androidLogo = PiconDuotoneData(
     0xe009,
-    AppIconData(0xe008, 'Duotone'),
+    PiconData(0xe008, 'Duotone'),
   );
 
   /// ![angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle-duotone.svg)
-  static const angle = AppDuotoneIconData(
+  static const angle = PiconDuotoneData(
     0xe7bd,
-    AppIconData(0xe7bc, 'Duotone'),
+    PiconData(0xe7bc, 'Duotone'),
   );
 
   /// ![angular-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo-duotone.svg)
-  static const angularLogo = AppDuotoneIconData(
+  static const angularLogo = PiconDuotoneData(
     0xeb81,
-    AppIconData(0xeb80, 'Duotone'),
+    PiconData(0xeb80, 'Duotone'),
   );
 
   /// ![aperture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture-duotone.svg)
-  static const aperture = AppDuotoneIconData(
+  static const aperture = PiconDuotoneData(
     0xe00b,
-    AppIconData(0xe00a, 'Duotone'),
+    PiconData(0xe00a, 'Duotone'),
   );
 
   /// ![app-store-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo-duotone.svg)
-  static const appStoreLogo = AppDuotoneIconData(
+  static const appStoreLogo = PiconDuotoneData(
     0xe975,
-    AppIconData(0xe974, 'Duotone'),
+    PiconData(0xe974, 'Duotone'),
   );
 
   /// ![app-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window-duotone.svg)
-  static const appWindow = AppDuotoneIconData(
+  static const appWindow = PiconDuotoneData(
     0xe5db,
-    AppIconData(0xe5da, 'Duotone'),
+    PiconData(0xe5da, 'Duotone'),
   );
 
   /// ![apple-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo-duotone.svg)
-  static const appleLogo = AppDuotoneIconData(
+  static const appleLogo = PiconDuotoneData(
     0xe517,
-    AppIconData(0xe516, 'Duotone'),
+    PiconData(0xe516, 'Duotone'),
   );
 
   /// ![apple-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo-duotone.svg)
-  static const applePodcastsLogo = AppDuotoneIconData(
+  static const applePodcastsLogo = PiconDuotoneData(
     0xeb97,
-    AppIconData(0xeb96, 'Duotone'),
+    PiconData(0xeb96, 'Duotone'),
   );
 
   /// ![approximate-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals-duotone.svg)
-  static const approximateEquals = AppDuotoneIconData(
+  static const approximateEquals = PiconDuotoneData(
     0xedab,
-    AppIconData(0xedaa, 'Duotone'),
+    PiconData(0xedaa, 'Duotone'),
   );
 
   /// ![archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-duotone.svg)
-  static const archive = AppDuotoneIconData(
+  static const archive = PiconDuotoneData(
     0xe00d,
-    AppIconData(0xe00c, 'Duotone'),
+    PiconData(0xe00c, 'Duotone'),
   );
 
   /// ![armchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair-duotone.svg)
-  static const armchair = AppDuotoneIconData(
+  static const armchair = PiconDuotoneData(
     0xe013,
-    AppIconData(0xe012, 'Duotone'),
+    PiconData(0xe012, 'Duotone'),
   );
 
   /// ![arrow-arc-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left-duotone.svg)
-  static const arrowArcLeft = AppDuotoneIconData(
+  static const arrowArcLeft = PiconDuotoneData(
     0xe015,
-    AppIconData(0xe014, 'Duotone'),
+    PiconData(0xe014, 'Duotone'),
   );
 
   /// ![arrow-arc-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right-duotone.svg)
-  static const arrowArcRight = AppDuotoneIconData(
+  static const arrowArcRight = PiconDuotoneData(
     0xe017,
-    AppIconData(0xe016, 'Duotone'),
+    PiconData(0xe016, 'Duotone'),
   );
 
   /// ![arrow-bend-double-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left-duotone.svg)
-  static const arrowBendDoubleUpLeft = AppDuotoneIconData(
+  static const arrowBendDoubleUpLeft = PiconDuotoneData(
     0xe03b,
-    AppIconData(0xe03a, 'Duotone'),
+    PiconData(0xe03a, 'Duotone'),
   );
 
   /// ![arrow-bend-double-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right-duotone.svg)
-  static const arrowBendDoubleUpRight = AppDuotoneIconData(
+  static const arrowBendDoubleUpRight = PiconDuotoneData(
     0xe03d,
-    AppIconData(0xe03c, 'Duotone'),
+    PiconData(0xe03c, 'Duotone'),
   );
 
   /// ![arrow-bend-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left-duotone.svg)
-  static const arrowBendDownLeft = AppDuotoneIconData(
+  static const arrowBendDownLeft = PiconDuotoneData(
     0xe019,
-    AppIconData(0xe018, 'Duotone'),
+    PiconData(0xe018, 'Duotone'),
   );
 
   /// ![arrow-bend-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right-duotone.svg)
-  static const arrowBendDownRight = AppDuotoneIconData(
+  static const arrowBendDownRight = PiconDuotoneData(
     0xe01b,
-    AppIconData(0xe01a, 'Duotone'),
+    PiconData(0xe01a, 'Duotone'),
   );
 
   /// ![arrow-bend-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down-duotone.svg)
-  static const arrowBendLeftDown = AppDuotoneIconData(
+  static const arrowBendLeftDown = PiconDuotoneData(
     0xe01d,
-    AppIconData(0xe01c, 'Duotone'),
+    PiconData(0xe01c, 'Duotone'),
   );
 
   /// ![arrow-bend-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up-duotone.svg)
-  static const arrowBendLeftUp = AppDuotoneIconData(
+  static const arrowBendLeftUp = PiconDuotoneData(
     0xe01f,
-    AppIconData(0xe01e, 'Duotone'),
+    PiconData(0xe01e, 'Duotone'),
   );
 
   /// ![arrow-bend-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down-duotone.svg)
-  static const arrowBendRightDown = AppDuotoneIconData(
+  static const arrowBendRightDown = PiconDuotoneData(
     0xe021,
-    AppIconData(0xe020, 'Duotone'),
+    PiconData(0xe020, 'Duotone'),
   );
 
   /// ![arrow-bend-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up-duotone.svg)
-  static const arrowBendRightUp = AppDuotoneIconData(
+  static const arrowBendRightUp = PiconDuotoneData(
     0xe023,
-    AppIconData(0xe022, 'Duotone'),
+    PiconData(0xe022, 'Duotone'),
   );
 
   /// ![arrow-bend-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left-duotone.svg)
-  static const arrowBendUpLeft = AppDuotoneIconData(
+  static const arrowBendUpLeft = PiconDuotoneData(
     0xe025,
-    AppIconData(0xe024, 'Duotone'),
+    PiconData(0xe024, 'Duotone'),
   );
 
   /// ![arrow-bend-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right-duotone.svg)
-  static const arrowBendUpRight = AppDuotoneIconData(
+  static const arrowBendUpRight = PiconDuotoneData(
     0xe027,
-    AppIconData(0xe026, 'Duotone'),
+    PiconData(0xe026, 'Duotone'),
   );
 
   /// ![arrow-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-duotone.svg)
-  static const arrowCircleDown = AppDuotoneIconData(
+  static const arrowCircleDown = PiconDuotoneData(
     0xe029,
-    AppIconData(0xe028, 'Duotone'),
+    PiconData(0xe028, 'Duotone'),
   );
 
   /// ![arrow-circle-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left-duotone.svg)
-  static const arrowCircleDownLeft = AppDuotoneIconData(
+  static const arrowCircleDownLeft = PiconDuotoneData(
     0xe02b,
-    AppIconData(0xe02a, 'Duotone'),
+    PiconData(0xe02a, 'Duotone'),
   );
 
   /// ![arrow-circle-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right-duotone.svg)
-  static const arrowCircleDownRight = AppDuotoneIconData(
+  static const arrowCircleDownRight = PiconDuotoneData(
     0xe02d,
-    AppIconData(0xe02c, 'Duotone'),
+    PiconData(0xe02c, 'Duotone'),
   );
 
   /// ![arrow-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left-duotone.svg)
-  static const arrowCircleLeft = AppDuotoneIconData(
+  static const arrowCircleLeft = PiconDuotoneData(
     0xe05b,
-    AppIconData(0xe05a, 'Duotone'),
+    PiconData(0xe05a, 'Duotone'),
   );
 
   /// ![arrow-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right-duotone.svg)
-  static const arrowCircleRight = AppDuotoneIconData(
+  static const arrowCircleRight = PiconDuotoneData(
     0xe02f,
-    AppIconData(0xe02e, 'Duotone'),
+    PiconData(0xe02e, 'Duotone'),
   );
 
   /// ![arrow-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-duotone.svg)
-  static const arrowCircleUp = AppDuotoneIconData(
+  static const arrowCircleUp = PiconDuotoneData(
     0xe031,
-    AppIconData(0xe030, 'Duotone'),
+    PiconData(0xe030, 'Duotone'),
   );
 
   /// ![arrow-circle-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left-duotone.svg)
-  static const arrowCircleUpLeft = AppDuotoneIconData(
+  static const arrowCircleUpLeft = PiconDuotoneData(
     0xe033,
-    AppIconData(0xe032, 'Duotone'),
+    PiconData(0xe032, 'Duotone'),
   );
 
   /// ![arrow-circle-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right-duotone.svg)
-  static const arrowCircleUpRight = AppDuotoneIconData(
+  static const arrowCircleUpRight = PiconDuotoneData(
     0xe035,
-    AppIconData(0xe034, 'Duotone'),
+    PiconData(0xe034, 'Duotone'),
   );
 
   /// ![arrow-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise-duotone.svg)
-  static const arrowClockwise = AppDuotoneIconData(
+  static const arrowClockwise = PiconDuotoneData(
     0xe037,
-    AppIconData(0xe036, 'Duotone'),
+    PiconData(0xe036, 'Duotone'),
   );
 
   /// ![arrow-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise-duotone.svg)
-  static const arrowCounterClockwise = AppDuotoneIconData(
+  static const arrowCounterClockwise = PiconDuotoneData(
     0xe039,
-    AppIconData(0xe038, 'Duotone'),
+    PiconData(0xe038, 'Duotone'),
   );
 
   /// ![arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-duotone.svg)
-  static const arrowDown = AppDuotoneIconData(
+  static const arrowDown = PiconDuotoneData(
     0xe03f,
-    AppIconData(0xe03e, 'Duotone'),
+    PiconData(0xe03e, 'Duotone'),
   );
 
   /// ![arrow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left-duotone.svg)
-  static const arrowDownLeft = AppDuotoneIconData(
+  static const arrowDownLeft = PiconDuotoneData(
     0xe041,
-    AppIconData(0xe040, 'Duotone'),
+    PiconData(0xe040, 'Duotone'),
   );
 
   /// ![arrow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right-duotone.svg)
-  static const arrowDownRight = AppDuotoneIconData(
+  static const arrowDownRight = PiconDuotoneData(
     0xe043,
-    AppIconData(0xe042, 'Duotone'),
+    PiconData(0xe042, 'Duotone'),
   );
 
   /// ![arrow-elbow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left-duotone.svg)
-  static const arrowElbowDownLeft = AppDuotoneIconData(
+  static const arrowElbowDownLeft = PiconDuotoneData(
     0xe045,
-    AppIconData(0xe044, 'Duotone'),
+    PiconData(0xe044, 'Duotone'),
   );
 
   /// ![arrow-elbow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right-duotone.svg)
-  static const arrowElbowDownRight = AppDuotoneIconData(
+  static const arrowElbowDownRight = PiconDuotoneData(
     0xe047,
-    AppIconData(0xe046, 'Duotone'),
+    PiconData(0xe046, 'Duotone'),
   );
 
   /// ![arrow-elbow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-duotone.svg)
-  static const arrowElbowLeft = AppDuotoneIconData(
+  static const arrowElbowLeft = PiconDuotoneData(
     0xe049,
-    AppIconData(0xe048, 'Duotone'),
+    PiconData(0xe048, 'Duotone'),
   );
 
   /// ![arrow-elbow-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down-duotone.svg)
-  static const arrowElbowLeftDown = AppDuotoneIconData(
+  static const arrowElbowLeftDown = PiconDuotoneData(
     0xe04b,
-    AppIconData(0xe04a, 'Duotone'),
+    PiconData(0xe04a, 'Duotone'),
   );
 
   /// ![arrow-elbow-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up-duotone.svg)
-  static const arrowElbowLeftUp = AppDuotoneIconData(
+  static const arrowElbowLeftUp = PiconDuotoneData(
     0xe04d,
-    AppIconData(0xe04c, 'Duotone'),
+    PiconData(0xe04c, 'Duotone'),
   );
 
   /// ![arrow-elbow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-duotone.svg)
-  static const arrowElbowRight = AppDuotoneIconData(
+  static const arrowElbowRight = PiconDuotoneData(
     0xe04f,
-    AppIconData(0xe04e, 'Duotone'),
+    PiconData(0xe04e, 'Duotone'),
   );
 
   /// ![arrow-elbow-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down-duotone.svg)
-  static const arrowElbowRightDown = AppDuotoneIconData(
+  static const arrowElbowRightDown = PiconDuotoneData(
     0xe051,
-    AppIconData(0xe050, 'Duotone'),
+    PiconData(0xe050, 'Duotone'),
   );
 
   /// ![arrow-elbow-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up-duotone.svg)
-  static const arrowElbowRightUp = AppDuotoneIconData(
+  static const arrowElbowRightUp = PiconDuotoneData(
     0xe053,
-    AppIconData(0xe052, 'Duotone'),
+    PiconData(0xe052, 'Duotone'),
   );
 
   /// ![arrow-elbow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left-duotone.svg)
-  static const arrowElbowUpLeft = AppDuotoneIconData(
+  static const arrowElbowUpLeft = PiconDuotoneData(
     0xe055,
-    AppIconData(0xe054, 'Duotone'),
+    PiconData(0xe054, 'Duotone'),
   );
 
   /// ![arrow-elbow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right-duotone.svg)
-  static const arrowElbowUpRight = AppDuotoneIconData(
+  static const arrowElbowUpRight = PiconDuotoneData(
     0xe057,
-    AppIconData(0xe056, 'Duotone'),
+    PiconData(0xe056, 'Duotone'),
   );
 
   /// ![arrow-fat-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down-duotone.svg)
-  static const arrowFatDown = AppDuotoneIconData(
+  static const arrowFatDown = PiconDuotoneData(
     0xe519,
-    AppIconData(0xe518, 'Duotone'),
+    PiconData(0xe518, 'Duotone'),
   );
 
   /// ![arrow-fat-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left-duotone.svg)
-  static const arrowFatLeft = AppDuotoneIconData(
+  static const arrowFatLeft = PiconDuotoneData(
     0xe51b,
-    AppIconData(0xe51a, 'Duotone'),
+    PiconData(0xe51a, 'Duotone'),
   );
 
   /// ![arrow-fat-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down-duotone.svg)
-  static const arrowFatLineDown = AppDuotoneIconData(
+  static const arrowFatLineDown = PiconDuotoneData(
     0xe51d,
-    AppIconData(0xe51c, 'Duotone'),
+    PiconData(0xe51c, 'Duotone'),
   );
 
   /// ![arrow-fat-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left-duotone.svg)
-  static const arrowFatLineLeft = AppDuotoneIconData(
+  static const arrowFatLineLeft = PiconDuotoneData(
     0xe51f,
-    AppIconData(0xe51e, 'Duotone'),
+    PiconData(0xe51e, 'Duotone'),
   );
 
   /// ![arrow-fat-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right-duotone.svg)
-  static const arrowFatLineRight = AppDuotoneIconData(
+  static const arrowFatLineRight = PiconDuotoneData(
     0xe521,
-    AppIconData(0xe520, 'Duotone'),
+    PiconData(0xe520, 'Duotone'),
   );
 
   /// ![arrow-fat-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up-duotone.svg)
-  static const arrowFatLineUp = AppDuotoneIconData(
+  static const arrowFatLineUp = PiconDuotoneData(
     0xe523,
-    AppIconData(0xe522, 'Duotone'),
+    PiconData(0xe522, 'Duotone'),
   );
 
   /// ![arrow-fat-lines-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down-duotone.svg)
-  static const arrowFatLinesDown = AppDuotoneIconData(
+  static const arrowFatLinesDown = PiconDuotoneData(
     0xe525,
-    AppIconData(0xe524, 'Duotone'),
+    PiconData(0xe524, 'Duotone'),
   );
 
   /// ![arrow-fat-lines-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left-duotone.svg)
-  static const arrowFatLinesLeft = AppDuotoneIconData(
+  static const arrowFatLinesLeft = PiconDuotoneData(
     0xe527,
-    AppIconData(0xe526, 'Duotone'),
+    PiconData(0xe526, 'Duotone'),
   );
 
   /// ![arrow-fat-lines-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right-duotone.svg)
-  static const arrowFatLinesRight = AppDuotoneIconData(
+  static const arrowFatLinesRight = PiconDuotoneData(
     0xe529,
-    AppIconData(0xe528, 'Duotone'),
+    PiconData(0xe528, 'Duotone'),
   );
 
   /// ![arrow-fat-lines-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up-duotone.svg)
-  static const arrowFatLinesUp = AppDuotoneIconData(
+  static const arrowFatLinesUp = PiconDuotoneData(
     0xe52b,
-    AppIconData(0xe52a, 'Duotone'),
+    PiconData(0xe52a, 'Duotone'),
   );
 
   /// ![arrow-fat-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right-duotone.svg)
-  static const arrowFatRight = AppDuotoneIconData(
+  static const arrowFatRight = PiconDuotoneData(
     0xe52d,
-    AppIconData(0xe52c, 'Duotone'),
+    PiconData(0xe52c, 'Duotone'),
   );
 
   /// ![arrow-fat-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up-duotone.svg)
-  static const arrowFatUp = AppDuotoneIconData(
+  static const arrowFatUp = PiconDuotoneData(
     0xe52f,
-    AppIconData(0xe52e, 'Duotone'),
+    PiconData(0xe52e, 'Duotone'),
   );
 
   /// ![arrow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left-duotone.svg)
-  static const arrowLeft = AppDuotoneIconData(
+  static const arrowLeft = PiconDuotoneData(
     0xe059,
-    AppIconData(0xe058, 'Duotone'),
+    PiconData(0xe058, 'Duotone'),
   );
 
   /// ![arrow-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-duotone.svg)
-  static const arrowLineDown = AppDuotoneIconData(
+  static const arrowLineDown = PiconDuotoneData(
     0xe05d,
-    AppIconData(0xe05c, 'Duotone'),
+    PiconData(0xe05c, 'Duotone'),
   );
 
   /// ![arrow-line-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left-duotone.svg)
-  static const arrowLineDownLeft = AppDuotoneIconData(
+  static const arrowLineDownLeft = PiconDuotoneData(
     0xe05f,
-    AppIconData(0xe05e, 'Duotone'),
+    PiconData(0xe05e, 'Duotone'),
   );
 
   /// ![arrow-line-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right-duotone.svg)
-  static const arrowLineDownRight = AppDuotoneIconData(
+  static const arrowLineDownRight = PiconDuotoneData(
     0xe061,
-    AppIconData(0xe060, 'Duotone'),
+    PiconData(0xe060, 'Duotone'),
   );
 
   /// ![arrow-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left-duotone.svg)
-  static const arrowLineLeft = AppDuotoneIconData(
+  static const arrowLineLeft = PiconDuotoneData(
     0xe063,
-    AppIconData(0xe062, 'Duotone'),
+    PiconData(0xe062, 'Duotone'),
   );
 
   /// ![arrow-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right-duotone.svg)
-  static const arrowLineRight = AppDuotoneIconData(
+  static const arrowLineRight = PiconDuotoneData(
     0xe065,
-    AppIconData(0xe064, 'Duotone'),
+    PiconData(0xe064, 'Duotone'),
   );
 
   /// ![arrow-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-duotone.svg)
-  static const arrowLineUp = AppDuotoneIconData(
+  static const arrowLineUp = PiconDuotoneData(
     0xe067,
-    AppIconData(0xe066, 'Duotone'),
+    PiconData(0xe066, 'Duotone'),
   );
 
   /// ![arrow-line-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left-duotone.svg)
-  static const arrowLineUpLeft = AppDuotoneIconData(
+  static const arrowLineUpLeft = PiconDuotoneData(
     0xe069,
-    AppIconData(0xe068, 'Duotone'),
+    PiconData(0xe068, 'Duotone'),
   );
 
   /// ![arrow-line-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right-duotone.svg)
-  static const arrowLineUpRight = AppDuotoneIconData(
+  static const arrowLineUpRight = PiconDuotoneData(
     0xe06b,
-    AppIconData(0xe06a, 'Duotone'),
+    PiconData(0xe06a, 'Duotone'),
   );
 
   /// ![arrow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right-duotone.svg)
-  static const arrowRight = AppDuotoneIconData(
+  static const arrowRight = PiconDuotoneData(
     0xe06d,
-    AppIconData(0xe06c, 'Duotone'),
+    PiconData(0xe06c, 'Duotone'),
   );
 
   /// ![arrow-square-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-duotone.svg)
-  static const arrowSquareDown = AppDuotoneIconData(
+  static const arrowSquareDown = PiconDuotoneData(
     0xe06f,
-    AppIconData(0xe06e, 'Duotone'),
+    PiconData(0xe06e, 'Duotone'),
   );
 
   /// ![arrow-square-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left-duotone.svg)
-  static const arrowSquareDownLeft = AppDuotoneIconData(
+  static const arrowSquareDownLeft = PiconDuotoneData(
     0xe071,
-    AppIconData(0xe070, 'Duotone'),
+    PiconData(0xe070, 'Duotone'),
   );
 
   /// ![arrow-square-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right-duotone.svg)
-  static const arrowSquareDownRight = AppDuotoneIconData(
+  static const arrowSquareDownRight = PiconDuotoneData(
     0xe073,
-    AppIconData(0xe072, 'Duotone'),
+    PiconData(0xe072, 'Duotone'),
   );
 
   /// ![arrow-square-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in-duotone.svg)
-  static const arrowSquareIn = AppDuotoneIconData(
+  static const arrowSquareIn = PiconDuotoneData(
     0xe5dd,
-    AppIconData(0xe5dc, 'Duotone'),
+    PiconData(0xe5dc, 'Duotone'),
   );
 
   /// ![arrow-square-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left-duotone.svg)
-  static const arrowSquareLeft = AppDuotoneIconData(
+  static const arrowSquareLeft = PiconDuotoneData(
     0xe075,
-    AppIconData(0xe074, 'Duotone'),
+    PiconData(0xe074, 'Duotone'),
   );
 
   /// ![arrow-square-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out-duotone.svg)
-  static const arrowSquareOut = AppDuotoneIconData(
+  static const arrowSquareOut = PiconDuotoneData(
     0xe5df,
-    AppIconData(0xe5de, 'Duotone'),
+    PiconData(0xe5de, 'Duotone'),
   );
 
   /// ![arrow-square-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right-duotone.svg)
-  static const arrowSquareRight = AppDuotoneIconData(
+  static const arrowSquareRight = PiconDuotoneData(
     0xe077,
-    AppIconData(0xe076, 'Duotone'),
+    PiconData(0xe076, 'Duotone'),
   );
 
   /// ![arrow-square-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-duotone.svg)
-  static const arrowSquareUp = AppDuotoneIconData(
+  static const arrowSquareUp = PiconDuotoneData(
     0xe079,
-    AppIconData(0xe078, 'Duotone'),
+    PiconData(0xe078, 'Duotone'),
   );
 
   /// ![arrow-square-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left-duotone.svg)
-  static const arrowSquareUpLeft = AppDuotoneIconData(
+  static const arrowSquareUpLeft = PiconDuotoneData(
     0xe07b,
-    AppIconData(0xe07a, 'Duotone'),
+    PiconData(0xe07a, 'Duotone'),
   );
 
   /// ![arrow-square-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right-duotone.svg)
-  static const arrowSquareUpRight = AppDuotoneIconData(
+  static const arrowSquareUpRight = PiconDuotoneData(
     0xe07d,
-    AppIconData(0xe07c, 'Duotone'),
+    PiconData(0xe07c, 'Duotone'),
   );
 
   /// ![arrow-u-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left-duotone.svg)
-  static const arrowUDownLeft = AppDuotoneIconData(
+  static const arrowUDownLeft = PiconDuotoneData(
     0xe07f,
-    AppIconData(0xe07e, 'Duotone'),
+    PiconData(0xe07e, 'Duotone'),
   );
 
   /// ![arrow-u-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right-duotone.svg)
-  static const arrowUDownRight = AppDuotoneIconData(
+  static const arrowUDownRight = PiconDuotoneData(
     0xe081,
-    AppIconData(0xe080, 'Duotone'),
+    PiconData(0xe080, 'Duotone'),
   );
 
   /// ![arrow-u-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down-duotone.svg)
-  static const arrowULeftDown = AppDuotoneIconData(
+  static const arrowULeftDown = PiconDuotoneData(
     0xe083,
-    AppIconData(0xe082, 'Duotone'),
+    PiconData(0xe082, 'Duotone'),
   );
 
   /// ![arrow-u-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up-duotone.svg)
-  static const arrowULeftUp = AppDuotoneIconData(
+  static const arrowULeftUp = PiconDuotoneData(
     0xe085,
-    AppIconData(0xe084, 'Duotone'),
+    PiconData(0xe084, 'Duotone'),
   );
 
   /// ![arrow-u-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down-duotone.svg)
-  static const arrowURightDown = AppDuotoneIconData(
+  static const arrowURightDown = PiconDuotoneData(
     0xe087,
-    AppIconData(0xe086, 'Duotone'),
+    PiconData(0xe086, 'Duotone'),
   );
 
   /// ![arrow-u-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up-duotone.svg)
-  static const arrowURightUp = AppDuotoneIconData(
+  static const arrowURightUp = PiconDuotoneData(
     0xe089,
-    AppIconData(0xe088, 'Duotone'),
+    PiconData(0xe088, 'Duotone'),
   );
 
   /// ![arrow-u-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left-duotone.svg)
-  static const arrowUUpLeft = AppDuotoneIconData(
+  static const arrowUUpLeft = PiconDuotoneData(
     0xe08b,
-    AppIconData(0xe08a, 'Duotone'),
+    PiconData(0xe08a, 'Duotone'),
   );
 
   /// ![arrow-u-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right-duotone.svg)
-  static const arrowUUpRight = AppDuotoneIconData(
+  static const arrowUUpRight = PiconDuotoneData(
     0xe08d,
-    AppIconData(0xe08c, 'Duotone'),
+    PiconData(0xe08c, 'Duotone'),
   );
 
   /// ![arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-duotone.svg)
-  static const arrowUp = AppDuotoneIconData(
+  static const arrowUp = PiconDuotoneData(
     0xe08f,
-    AppIconData(0xe08e, 'Duotone'),
+    PiconData(0xe08e, 'Duotone'),
   );
 
   /// ![arrow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left-duotone.svg)
-  static const arrowUpLeft = AppDuotoneIconData(
+  static const arrowUpLeft = PiconDuotoneData(
     0xe091,
-    AppIconData(0xe090, 'Duotone'),
+    PiconData(0xe090, 'Duotone'),
   );
 
   /// ![arrow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right-duotone.svg)
-  static const arrowUpRight = AppDuotoneIconData(
+  static const arrowUpRight = PiconDuotoneData(
     0xe093,
-    AppIconData(0xe092, 'Duotone'),
+    PiconData(0xe092, 'Duotone'),
   );
 
   /// ![arrows-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise-duotone.svg)
-  static const arrowsClockwise = AppDuotoneIconData(
+  static const arrowsClockwise = PiconDuotoneData(
     0xe095,
-    AppIconData(0xe094, 'Duotone'),
+    PiconData(0xe094, 'Duotone'),
   );
 
   /// ![arrows-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise-duotone.svg)
-  static const arrowsCounterClockwise = AppDuotoneIconData(
+  static const arrowsCounterClockwise = PiconDuotoneData(
     0xe097,
-    AppIconData(0xe096, 'Duotone'),
+    PiconData(0xe096, 'Duotone'),
   );
 
   /// ![arrows-down-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up-duotone.svg)
-  static const arrowsDownUp = AppDuotoneIconData(
+  static const arrowsDownUp = PiconDuotoneData(
     0xe099,
-    AppIconData(0xe098, 'Duotone'),
+    PiconData(0xe098, 'Duotone'),
   );
 
   /// ![arrows-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal-duotone.svg)
-  static const arrowsHorizontal = AppDuotoneIconData(
+  static const arrowsHorizontal = PiconDuotoneData(
     0xeb07,
-    AppIconData(0xeb06, 'Duotone'),
+    PiconData(0xeb06, 'Duotone'),
   );
 
   /// ![arrows-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-duotone.svg)
-  static const arrowsIn = AppDuotoneIconData(
+  static const arrowsIn = PiconDuotoneData(
     0xe09b,
-    AppIconData(0xe09a, 'Duotone'),
+    PiconData(0xe09a, 'Duotone'),
   );
 
   /// ![arrows-in-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal-duotone.svg)
-  static const arrowsInCardinal = AppDuotoneIconData(
+  static const arrowsInCardinal = PiconDuotoneData(
     0xe09d,
-    AppIconData(0xe09c, 'Duotone'),
+    PiconData(0xe09c, 'Duotone'),
   );
 
   /// ![arrows-in-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal-duotone.svg)
-  static const arrowsInLineHorizontal = AppDuotoneIconData(
+  static const arrowsInLineHorizontal = PiconDuotoneData(
     0xe531,
-    AppIconData(0xe530, 'Duotone'),
+    PiconData(0xe530, 'Duotone'),
   );
 
   /// ![arrows-in-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical-duotone.svg)
-  static const arrowsInLineVertical = AppDuotoneIconData(
+  static const arrowsInLineVertical = PiconDuotoneData(
     0xe533,
-    AppIconData(0xe532, 'Duotone'),
+    PiconData(0xe532, 'Duotone'),
   );
 
   /// ![arrows-in-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple-duotone.svg)
-  static const arrowsInSimple = AppDuotoneIconData(
+  static const arrowsInSimple = PiconDuotoneData(
     0xe09f,
-    AppIconData(0xe09e, 'Duotone'),
+    PiconData(0xe09e, 'Duotone'),
   );
 
   /// ![arrows-left-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right-duotone.svg)
-  static const arrowsLeftRight = AppDuotoneIconData(
+  static const arrowsLeftRight = PiconDuotoneData(
     0xe0a1,
-    AppIconData(0xe0a0, 'Duotone'),
+    PiconData(0xe0a0, 'Duotone'),
   );
 
   /// ![arrows-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge-duotone.svg)
-  static const arrowsMerge = AppDuotoneIconData(
+  static const arrowsMerge = PiconDuotoneData(
     0xed3f,
-    AppIconData(0xed3e, 'Duotone'),
+    PiconData(0xed3e, 'Duotone'),
   );
 
   /// ![arrows-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-duotone.svg)
-  static const arrowsOut = AppDuotoneIconData(
+  static const arrowsOut = PiconDuotoneData(
     0xe0a3,
-    AppIconData(0xe0a2, 'Duotone'),
+    PiconData(0xe0a2, 'Duotone'),
   );
 
   /// ![arrows-out-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal-duotone.svg)
-  static const arrowsOutCardinal = AppDuotoneIconData(
+  static const arrowsOutCardinal = PiconDuotoneData(
     0xe0a5,
-    AppIconData(0xe0a4, 'Duotone'),
+    PiconData(0xe0a4, 'Duotone'),
   );
 
   /// ![arrows-out-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal-duotone.svg)
-  static const arrowsOutLineHorizontal = AppDuotoneIconData(
+  static const arrowsOutLineHorizontal = PiconDuotoneData(
     0xe535,
-    AppIconData(0xe534, 'Duotone'),
+    PiconData(0xe534, 'Duotone'),
   );
 
   /// ![arrows-out-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical-duotone.svg)
-  static const arrowsOutLineVertical = AppDuotoneIconData(
+  static const arrowsOutLineVertical = PiconDuotoneData(
     0xe537,
-    AppIconData(0xe536, 'Duotone'),
+    PiconData(0xe536, 'Duotone'),
   );
 
   /// ![arrows-out-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple-duotone.svg)
-  static const arrowsOutSimple = AppDuotoneIconData(
+  static const arrowsOutSimple = PiconDuotoneData(
     0xe0a7,
-    AppIconData(0xe0a6, 'Duotone'),
+    PiconData(0xe0a6, 'Duotone'),
   );
 
   /// ![arrows-split-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split-duotone.svg)
-  static const arrowsSplit = AppDuotoneIconData(
+  static const arrowsSplit = PiconDuotoneData(
     0xed3d,
-    AppIconData(0xed3c, 'Duotone'),
+    PiconData(0xed3c, 'Duotone'),
   );
 
   /// ![arrows-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical-duotone.svg)
-  static const arrowsVertical = AppDuotoneIconData(
+  static const arrowsVertical = PiconDuotoneData(
     0xeb05,
-    AppIconData(0xeb04, 'Duotone'),
+    PiconData(0xeb04, 'Duotone'),
   );
 
   /// ![article-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-duotone.svg)
-  static const article = AppDuotoneIconData(
+  static const article = PiconDuotoneData(
     0xe0a9,
-    AppIconData(0xe0a8, 'Duotone'),
+    PiconData(0xe0a8, 'Duotone'),
   );
 
   /// ![article-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium-duotone.svg)
-  static const articleMedium = AppDuotoneIconData(
+  static const articleMedium = PiconDuotoneData(
     0xe5e1,
-    AppIconData(0xe5e0, 'Duotone'),
+    PiconData(0xe5e0, 'Duotone'),
   );
 
   /// ![article-ny-times-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times-duotone.svg)
-  static const articleNyTimes = AppDuotoneIconData(
+  static const articleNyTimes = PiconDuotoneData(
     0xe5e3,
-    AppIconData(0xe5e2, 'Duotone'),
+    PiconData(0xe5e2, 'Duotone'),
   );
 
   /// ![asclepius-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius-duotone.svg)
-  static const asclepius = AppDuotoneIconData(
+  static const asclepius = PiconDuotoneData(
     0xee35,
-    AppIconData(0xee34, 'Duotone'),
+    PiconData(0xee34, 'Duotone'),
   );
 
   /// ![asterisk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-duotone.svg)
-  static const asterisk = AppDuotoneIconData(
+  static const asterisk = PiconDuotoneData(
     0xe0ab,
-    AppIconData(0xe0aa, 'Duotone'),
+    PiconData(0xe0aa, 'Duotone'),
   );
 
   /// ![asterisk-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple-duotone.svg)
-  static const asteriskSimple = AppDuotoneIconData(
+  static const asteriskSimple = PiconDuotoneData(
     0xe833,
-    AppIconData(0xe832, 'Duotone'),
+    PiconData(0xe832, 'Duotone'),
   );
 
   /// ![at-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at-duotone.svg)
-  static const at = AppDuotoneIconData(
+  static const at = PiconDuotoneData(
     0xe0ad,
-    AppIconData(0xe0ac, 'Duotone'),
+    PiconData(0xe0ac, 'Duotone'),
   );
 
   /// ![atom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom-duotone.svg)
-  static const atom = AppDuotoneIconData(
+  static const atom = PiconDuotoneData(
     0xe5e5,
-    AppIconData(0xe5e4, 'Duotone'),
+    PiconData(0xe5e4, 'Duotone'),
   );
 
   /// ![avocado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado-duotone.svg)
-  static const avocado = AppDuotoneIconData(
+  static const avocado = PiconDuotoneData(
     0xee05,
-    AppIconData(0xee04, 'Duotone'),
+    PiconData(0xee04, 'Duotone'),
   );
 
   /// ![axe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe-duotone.svg)
-  static const axe = AppDuotoneIconData(
+  static const axe = PiconDuotoneData(
     0xe9fd,
-    AppIconData(0xe9fc, 'Duotone'),
+    PiconData(0xe9fc, 'Duotone'),
   );
 
   /// ![baby-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-duotone.svg)
-  static const baby = AppDuotoneIconData(
+  static const baby = PiconDuotoneData(
     0xe775,
-    AppIconData(0xe774, 'Duotone'),
+    PiconData(0xe774, 'Duotone'),
   );
 
   /// ![baby-carriage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage-duotone.svg)
-  static const babyCarriage = AppDuotoneIconData(
+  static const babyCarriage = PiconDuotoneData(
     0xe819,
-    AppIconData(0xe818, 'Duotone'),
+    PiconData(0xe818, 'Duotone'),
   );
 
   /// ![backpack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack-duotone.svg)
-  static const backpack = AppDuotoneIconData(
+  static const backpack = PiconDuotoneData(
     0xe923,
-    AppIconData(0xe922, 'Duotone'),
+    PiconData(0xe922, 'Duotone'),
   );
 
   /// ![backspace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace-duotone.svg)
-  static const backspace = AppDuotoneIconData(
+  static const backspace = PiconDuotoneData(
     0xe0af,
-    AppIconData(0xe0ae, 'Duotone'),
+    PiconData(0xe0ae, 'Duotone'),
   );
 
   /// ![bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-duotone.svg)
-  static const bag = AppDuotoneIconData(
+  static const bag = PiconDuotoneData(
     0xe0b1,
-    AppIconData(0xe0b0, 'Duotone'),
+    PiconData(0xe0b0, 'Duotone'),
   );
 
   /// ![bag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple-duotone.svg)
-  static const bagSimple = AppDuotoneIconData(
+  static const bagSimple = PiconDuotoneData(
     0xe5e7,
-    AppIconData(0xe5e6, 'Duotone'),
+    PiconData(0xe5e6, 'Duotone'),
   );
 
   /// ![balloon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon-duotone.svg)
-  static const balloon = AppDuotoneIconData(
+  static const balloon = PiconDuotoneData(
     0xe76d,
-    AppIconData(0xe76c, 'Duotone'),
+    PiconData(0xe76c, 'Duotone'),
   );
 
   /// ![bandaids-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids-duotone.svg)
-  static const bandaids = AppDuotoneIconData(
+  static const bandaids = PiconDuotoneData(
     0xe0b3,
-    AppIconData(0xe0b2, 'Duotone'),
+    PiconData(0xe0b2, 'Duotone'),
   );
 
   /// ![bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank-duotone.svg)
-  static const bank = AppDuotoneIconData(
+  static const bank = PiconDuotoneData(
     0xe0b5,
-    AppIconData(0xe0b4, 'Duotone'),
+    PiconData(0xe0b4, 'Duotone'),
   );
 
   /// ![barbell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell-duotone.svg)
-  static const barbell = AppDuotoneIconData(
+  static const barbell = PiconDuotoneData(
     0xe0b7,
-    AppIconData(0xe0b6, 'Duotone'),
+    PiconData(0xe0b6, 'Duotone'),
   );
 
   /// ![barcode-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode-duotone.svg)
-  static const barcode = AppDuotoneIconData(
+  static const barcode = PiconDuotoneData(
     0xe0b9,
-    AppIconData(0xe0b8, 'Duotone'),
+    PiconData(0xe0b8, 'Duotone'),
   );
 
   /// ![barn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn-duotone.svg)
-  static const barn = AppDuotoneIconData(
+  static const barn = PiconDuotoneData(
     0xec73,
-    AppIconData(0xec72, 'Duotone'),
+    PiconData(0xec72, 'Duotone'),
   );
 
   /// ![barricade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade-duotone.svg)
-  static const barricade = AppDuotoneIconData(
+  static const barricade = PiconDuotoneData(
     0xe949,
-    AppIconData(0xe948, 'Duotone'),
+    PiconData(0xe948, 'Duotone'),
   );
 
   /// ![baseball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-duotone.svg)
-  static const baseball = AppDuotoneIconData(
+  static const baseball = PiconDuotoneData(
     0xe71b,
-    AppIconData(0xe71a, 'Duotone'),
+    PiconData(0xe71a, 'Duotone'),
   );
 
   /// ![baseball-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap-duotone.svg)
-  static const baseballCap = AppDuotoneIconData(
+  static const baseballCap = PiconDuotoneData(
     0xea29,
-    AppIconData(0xea28, 'Duotone'),
+    PiconData(0xea28, 'Duotone'),
   );
 
   /// ![baseball-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet-duotone.svg)
-  static const baseballHelmet = AppDuotoneIconData(
+  static const baseballHelmet = PiconDuotoneData(
     0xee4b,
-    AppIconData(0xee4a, 'Duotone'),
+    PiconData(0xee4a, 'Duotone'),
   );
 
   /// ![basket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket-duotone.svg)
-  static const basket = AppDuotoneIconData(
+  static const basket = PiconDuotoneData(
     0xe965,
-    AppIconData(0xe964, 'Duotone'),
+    PiconData(0xe964, 'Duotone'),
   );
 
   /// ![basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball-duotone.svg)
-  static const basketball = AppDuotoneIconData(
+  static const basketball = PiconDuotoneData(
     0xe725,
-    AppIconData(0xe724, 'Duotone'),
+    PiconData(0xe724, 'Duotone'),
   );
 
   /// ![bathtub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub-duotone.svg)
-  static const bathtub = AppDuotoneIconData(
+  static const bathtub = PiconDuotoneData(
     0xe81f,
-    AppIconData(0xe81e, 'Duotone'),
+    PiconData(0xe81e, 'Duotone'),
   );
 
   /// ![battery-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-duotone.svg)
-  static const batteryCharging = AppDuotoneIconData(
+  static const batteryCharging = PiconDuotoneData(
     0xe0bb,
-    AppIconData(0xe0ba, 'Duotone'),
+    PiconData(0xe0ba, 'Duotone'),
   );
 
   /// ![battery-charging-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical-duotone.svg)
-  static const batteryChargingVertical = AppDuotoneIconData(
+  static const batteryChargingVertical = PiconDuotoneData(
     0xe0bd,
-    AppIconData(0xe0bc, 'Duotone'),
+    PiconData(0xe0bc, 'Duotone'),
   );
 
   /// ![battery-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty-duotone.svg)
-  static const batteryEmpty = AppDuotoneIconData(
+  static const batteryEmpty = PiconDuotoneData(
     0xe0bf,
-    AppIconData(0xe0be, 'Duotone'),
+    PiconData(0xe0be, 'Duotone'),
   );
 
   /// ![battery-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full-duotone.svg)
-  static const batteryFull = AppDuotoneIconData(
+  static const batteryFull = PiconDuotoneData(
     0xe0c1,
-    AppIconData(0xe0c0, 'Duotone'),
+    PiconData(0xe0c0, 'Duotone'),
   );
 
   /// ![battery-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high-duotone.svg)
-  static const batteryHigh = AppDuotoneIconData(
+  static const batteryHigh = PiconDuotoneData(
     0xe0c3,
-    AppIconData(0xe0c2, 'Duotone'),
+    PiconData(0xe0c2, 'Duotone'),
   );
 
   /// ![battery-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low-duotone.svg)
-  static const batteryLow = AppDuotoneIconData(
+  static const batteryLow = PiconDuotoneData(
     0xe0c5,
-    AppIconData(0xe0c4, 'Duotone'),
+    PiconData(0xe0c4, 'Duotone'),
   );
 
   /// ![battery-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium-duotone.svg)
-  static const batteryMedium = AppDuotoneIconData(
+  static const batteryMedium = PiconDuotoneData(
     0xe0c7,
-    AppIconData(0xe0c6, 'Duotone'),
+    PiconData(0xe0c6, 'Duotone'),
   );
 
   /// ![battery-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-duotone.svg)
-  static const batteryPlus = AppDuotoneIconData(
+  static const batteryPlus = PiconDuotoneData(
     0xe809,
-    AppIconData(0xe808, 'Duotone'),
+    PiconData(0xe808, 'Duotone'),
   );
 
   /// ![battery-plus-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical-duotone.svg)
-  static const batteryPlusVertical = AppDuotoneIconData(
+  static const batteryPlusVertical = PiconDuotoneData(
     0xec51,
-    AppIconData(0xec50, 'Duotone'),
+    PiconData(0xec50, 'Duotone'),
   );
 
   /// ![battery-vertical-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty-duotone.svg)
-  static const batteryVerticalEmpty = AppDuotoneIconData(
+  static const batteryVerticalEmpty = PiconDuotoneData(
     0xe7c7,
-    AppIconData(0xe7c6, 'Duotone'),
+    PiconData(0xe7c6, 'Duotone'),
   );
 
   /// ![battery-vertical-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full-duotone.svg)
-  static const batteryVerticalFull = AppDuotoneIconData(
+  static const batteryVerticalFull = PiconDuotoneData(
     0xe7c5,
-    AppIconData(0xe7c4, 'Duotone'),
+    PiconData(0xe7c4, 'Duotone'),
   );
 
   /// ![battery-vertical-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high-duotone.svg)
-  static const batteryVerticalHigh = AppDuotoneIconData(
+  static const batteryVerticalHigh = PiconDuotoneData(
     0xe7c3,
-    AppIconData(0xe7c2, 'Duotone'),
+    PiconData(0xe7c2, 'Duotone'),
   );
 
   /// ![battery-vertical-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low-duotone.svg)
-  static const batteryVerticalLow = AppDuotoneIconData(
+  static const batteryVerticalLow = PiconDuotoneData(
     0xe7bf,
-    AppIconData(0xe7be, 'Duotone'),
+    PiconData(0xe7be, 'Duotone'),
   );
 
   /// ![battery-vertical-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium-duotone.svg)
-  static const batteryVerticalMedium = AppDuotoneIconData(
+  static const batteryVerticalMedium = PiconDuotoneData(
     0xe7c1,
-    AppIconData(0xe7c0, 'Duotone'),
+    PiconData(0xe7c0, 'Duotone'),
   );
 
   /// ![battery-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-duotone.svg)
-  static const batteryWarning = AppDuotoneIconData(
+  static const batteryWarning = PiconDuotoneData(
     0xe0c9,
-    AppIconData(0xe0c8, 'Duotone'),
+    PiconData(0xe0c8, 'Duotone'),
   );
 
   /// ![battery-warning-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical-duotone.svg)
-  static const batteryWarningVertical = AppDuotoneIconData(
+  static const batteryWarningVertical = PiconDuotoneData(
     0xe0cb,
-    AppIconData(0xe0ca, 'Duotone'),
+    PiconData(0xe0ca, 'Duotone'),
   );
 
   /// ![beach-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball-duotone.svg)
-  static const beachBall = AppDuotoneIconData(
+  static const beachBall = PiconDuotoneData(
     0xed25,
-    AppIconData(0xed24, 'Duotone'),
+    PiconData(0xed24, 'Duotone'),
   );
 
   /// ![beanie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie-duotone.svg)
-  static const beanie = AppDuotoneIconData(
+  static const beanie = PiconDuotoneData(
     0xea2b,
-    AppIconData(0xea2a, 'Duotone'),
+    PiconData(0xea2a, 'Duotone'),
   );
 
   /// ![bed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed-duotone.svg)
-  static const bed = AppDuotoneIconData(
+  static const bed = PiconDuotoneData(
     0xe0cd,
-    AppIconData(0xe0cc, 'Duotone'),
+    PiconData(0xe0cc, 'Duotone'),
   );
 
   /// ![beer-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle-duotone.svg)
-  static const beerBottle = AppDuotoneIconData(
+  static const beerBottle = PiconDuotoneData(
     0xe7b1,
-    AppIconData(0xe7b0, 'Duotone'),
+    PiconData(0xe7b0, 'Duotone'),
   );
 
   /// ![beer-stein-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein-duotone.svg)
-  static const beerStein = AppDuotoneIconData(
+  static const beerStein = PiconDuotoneData(
     0xeb63,
-    AppIconData(0xeb62, 'Duotone'),
+    PiconData(0xeb62, 'Duotone'),
   );
 
   /// ![behance-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo-duotone.svg)
-  static const behanceLogo = AppDuotoneIconData(
+  static const behanceLogo = PiconDuotoneData(
     0xe7f5,
-    AppIconData(0xe7f4, 'Duotone'),
+    PiconData(0xe7f4, 'Duotone'),
   );
 
   /// ![bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-duotone.svg)
-  static const bell = AppDuotoneIconData(
+  static const bell = PiconDuotoneData(
     0xe0cf,
-    AppIconData(0xe0ce, 'Duotone'),
+    PiconData(0xe0ce, 'Duotone'),
   );
 
   /// ![bell-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing-duotone.svg)
-  static const bellRinging = AppDuotoneIconData(
+  static const bellRinging = PiconDuotoneData(
     0xe5e9,
-    AppIconData(0xe5e8, 'Duotone'),
+    PiconData(0xe5e8, 'Duotone'),
   );
 
   /// ![bell-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-duotone.svg)
-  static const bellSimple = AppDuotoneIconData(
+  static const bellSimple = PiconDuotoneData(
     0xe0d1,
-    AppIconData(0xe0d0, 'Duotone'),
+    PiconData(0xe0d0, 'Duotone'),
   );
 
   /// ![bell-simple-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing-duotone.svg)
-  static const bellSimpleRinging = AppDuotoneIconData(
+  static const bellSimpleRinging = PiconDuotoneData(
     0xe5eb,
-    AppIconData(0xe5ea, 'Duotone'),
+    PiconData(0xe5ea, 'Duotone'),
   );
 
   /// ![bell-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash-duotone.svg)
-  static const bellSimpleSlash = AppDuotoneIconData(
+  static const bellSimpleSlash = PiconDuotoneData(
     0xe0d3,
-    AppIconData(0xe0d2, 'Duotone'),
+    PiconData(0xe0d2, 'Duotone'),
   );
 
   /// ![bell-simple-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z-duotone.svg)
-  static const bellSimpleZ = AppDuotoneIconData(
+  static const bellSimpleZ = PiconDuotoneData(
     0xe5ed,
-    AppIconData(0xe5ec, 'Duotone'),
+    PiconData(0xe5ec, 'Duotone'),
   );
 
   /// ![bell-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash-duotone.svg)
-  static const bellSlash = AppDuotoneIconData(
+  static const bellSlash = PiconDuotoneData(
     0xe0d5,
-    AppIconData(0xe0d4, 'Duotone'),
+    PiconData(0xe0d4, 'Duotone'),
   );
 
   /// ![bell-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z-duotone.svg)
-  static const bellZ = AppDuotoneIconData(
+  static const bellZ = PiconDuotoneData(
     0xe5ef,
-    AppIconData(0xe5ee, 'Duotone'),
+    PiconData(0xe5ee, 'Duotone'),
   );
 
   /// ![belt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt-duotone.svg)
-  static const belt = AppDuotoneIconData(
+  static const belt = PiconDuotoneData(
     0xea2d,
-    AppIconData(0xea2c, 'Duotone'),
+    PiconData(0xea2c, 'Duotone'),
   );
 
   /// ![bezier-curve-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve-duotone.svg)
-  static const bezierCurve = AppDuotoneIconData(
+  static const bezierCurve = PiconDuotoneData(
     0xeb01,
-    AppIconData(0xeb00, 'Duotone'),
+    PiconData(0xeb00, 'Duotone'),
   );
 
   /// ![bicycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle-duotone.svg)
-  static const bicycle = AppDuotoneIconData(
+  static const bicycle = PiconDuotoneData(
     0xe0d7,
-    AppIconData(0xe0d6, 'Duotone'),
+    PiconData(0xe0d6, 'Duotone'),
   );
 
   /// ![binary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary-duotone.svg)
-  static const binary = AppDuotoneIconData(
+  static const binary = PiconDuotoneData(
     0xee61,
-    AppIconData(0xee60, 'Duotone'),
+    PiconData(0xee60, 'Duotone'),
   );
 
   /// ![binoculars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars-duotone.svg)
-  static const binoculars = AppDuotoneIconData(
+  static const binoculars = PiconDuotoneData(
     0xea65,
-    AppIconData(0xea64, 'Duotone'),
+    PiconData(0xea64, 'Duotone'),
   );
 
   /// ![biohazard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard-duotone.svg)
-  static const biohazard = AppDuotoneIconData(
+  static const biohazard = PiconDuotoneData(
     0xe9e1,
-    AppIconData(0xe9e0, 'Duotone'),
+    PiconData(0xe9e0, 'Duotone'),
   );
 
   /// ![bird-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird-duotone.svg)
-  static const bird = AppDuotoneIconData(
+  static const bird = PiconDuotoneData(
     0xe72d,
-    AppIconData(0xe72c, 'Duotone'),
+    PiconData(0xe72c, 'Duotone'),
   );
 
   /// ![blueprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint-duotone.svg)
-  static const blueprint = AppDuotoneIconData(
+  static const blueprint = PiconDuotoneData(
     0xeda1,
-    AppIconData(0xeda0, 'Duotone'),
+    PiconData(0xeda0, 'Duotone'),
   );
 
   /// ![bluetooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-duotone.svg)
-  static const bluetooth = AppDuotoneIconData(
+  static const bluetooth = PiconDuotoneData(
     0xe0db,
-    AppIconData(0xe0da, 'Duotone'),
+    PiconData(0xe0da, 'Duotone'),
   );
 
   /// ![bluetooth-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected-duotone.svg)
-  static const bluetoothConnected = AppDuotoneIconData(
+  static const bluetoothConnected = PiconDuotoneData(
     0xe0dd,
-    AppIconData(0xe0dc, 'Duotone'),
+    PiconData(0xe0dc, 'Duotone'),
   );
 
   /// ![bluetooth-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash-duotone.svg)
-  static const bluetoothSlash = AppDuotoneIconData(
+  static const bluetoothSlash = PiconDuotoneData(
     0xe0df,
-    AppIconData(0xe0de, 'Duotone'),
+    PiconData(0xe0de, 'Duotone'),
   );
 
   /// ![bluetooth-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x-duotone.svg)
-  static const bluetoothX = AppDuotoneIconData(
+  static const bluetoothX = PiconDuotoneData(
     0xe0e1,
-    AppIconData(0xe0e0, 'Duotone'),
+    PiconData(0xe0e0, 'Duotone'),
   );
 
   /// ![boat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat-duotone.svg)
-  static const boat = AppDuotoneIconData(
+  static const boat = PiconDuotoneData(
     0xe787,
-    AppIconData(0xe786, 'Duotone'),
+    PiconData(0xe786, 'Duotone'),
   );
 
   /// ![bomb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb-duotone.svg)
-  static const bomb = AppDuotoneIconData(
+  static const bomb = PiconDuotoneData(
     0xee0b,
-    AppIconData(0xee0a, 'Duotone'),
+    PiconData(0xee0a, 'Duotone'),
   );
 
   /// ![bone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone-duotone.svg)
-  static const bone = AppDuotoneIconData(
+  static const bone = PiconDuotoneData(
     0xe7f3,
-    AppIconData(0xe7f2, 'Duotone'),
+    PiconData(0xe7f2, 'Duotone'),
   );
 
   /// ![book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-duotone.svg)
-  static const book = AppDuotoneIconData(
+  static const book = PiconDuotoneData(
     0xe0e3,
-    AppIconData(0xe0e2, 'Duotone'),
+    PiconData(0xe0e2, 'Duotone'),
   );
 
   /// ![book-bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark-duotone.svg)
-  static const bookBookmark = AppDuotoneIconData(
+  static const bookBookmark = PiconDuotoneData(
     0xe0e5,
-    AppIconData(0xe0e4, 'Duotone'),
+    PiconData(0xe0e4, 'Duotone'),
   );
 
   /// ![book-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-duotone.svg)
-  static const bookOpen = AppDuotoneIconData(
+  static const bookOpen = PiconDuotoneData(
     0xe0e7,
-    AppIconData(0xe0e6, 'Duotone'),
+    PiconData(0xe0e6, 'Duotone'),
   );
 
   /// ![book-open-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text-duotone.svg)
-  static const bookOpenText = AppDuotoneIconData(
+  static const bookOpenText = PiconDuotoneData(
     0xe8f3,
-    AppIconData(0xe8f2, 'Duotone'),
+    PiconData(0xe8f2, 'Duotone'),
   );
 
   /// ![book-open-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user-duotone.svg)
-  static const bookOpenUser = AppDuotoneIconData(
+  static const bookOpenUser = PiconDuotoneData(
     0xede1,
-    AppIconData(0xede0, 'Duotone'),
+    PiconData(0xede0, 'Duotone'),
   );
 
   /// ![bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-duotone.svg)
-  static const bookmark = AppDuotoneIconData(
+  static const bookmark = PiconDuotoneData(
     0xe0e9,
-    AppIconData(0xe0e8, 'Duotone'),
+    PiconData(0xe0e8, 'Duotone'),
   );
 
   /// ![bookmark-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple-duotone.svg)
-  static const bookmarkSimple = AppDuotoneIconData(
+  static const bookmarkSimple = PiconDuotoneData(
     0xe0eb,
-    AppIconData(0xe0ea, 'Duotone'),
+    PiconData(0xe0ea, 'Duotone'),
   );
 
   /// ![bookmarks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-duotone.svg)
-  static const bookmarks = AppDuotoneIconData(
+  static const bookmarks = PiconDuotoneData(
     0xe0ed,
-    AppIconData(0xe0ec, 'Duotone'),
+    PiconData(0xe0ec, 'Duotone'),
   );
 
   /// ![bookmarks-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple-duotone.svg)
-  static const bookmarksSimple = AppDuotoneIconData(
+  static const bookmarksSimple = PiconDuotoneData(
     0xe5f1,
-    AppIconData(0xe5f0, 'Duotone'),
+    PiconData(0xe5f0, 'Duotone'),
   );
 
   /// ![books-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books-duotone.svg)
-  static const books = AppDuotoneIconData(
+  static const books = PiconDuotoneData(
     0xe759,
-    AppIconData(0xe758, 'Duotone'),
+    PiconData(0xe758, 'Duotone'),
   );
 
   /// ![boot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot-duotone.svg)
-  static const boot = AppDuotoneIconData(
+  static const boot = PiconDuotoneData(
     0xeccb,
-    AppIconData(0xecca, 'Duotone'),
+    PiconData(0xecca, 'Duotone'),
   );
 
   /// ![boules-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules-duotone.svg)
-  static const boules = AppDuotoneIconData(
+  static const boules = PiconDuotoneData(
     0xe723,
-    AppIconData(0xe722, 'Duotone'),
+    PiconData(0xe722, 'Duotone'),
   );
 
   /// ![bounding-box-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box-duotone.svg)
-  static const boundingBox = AppDuotoneIconData(
+  static const boundingBox = PiconDuotoneData(
     0xe6cf,
-    AppIconData(0xe6ce, 'Duotone'),
+    PiconData(0xe6ce, 'Duotone'),
   );
 
   /// ![bowl-food-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food-duotone.svg)
-  static const bowlFood = AppDuotoneIconData(
+  static const bowlFood = PiconDuotoneData(
     0xeaa5,
-    AppIconData(0xeaa4, 'Duotone'),
+    PiconData(0xeaa4, 'Duotone'),
   );
 
   /// ![bowl-steam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam-duotone.svg)
-  static const bowlSteam = AppDuotoneIconData(
+  static const bowlSteam = PiconDuotoneData(
     0xe8e5,
-    AppIconData(0xe8e4, 'Duotone'),
+    PiconData(0xe8e4, 'Duotone'),
   );
 
   /// ![bowling-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball-duotone.svg)
-  static const bowlingBall = AppDuotoneIconData(
+  static const bowlingBall = PiconDuotoneData(
     0xea35,
-    AppIconData(0xea34, 'Duotone'),
+    PiconData(0xea34, 'Duotone'),
   );
 
   /// ![box-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down-duotone.svg)
-  static const boxArrowDown = AppDuotoneIconData(
+  static const boxArrowDown = PiconDuotoneData(
     0xe00f,
-    AppIconData(0xe00e, 'Duotone'),
+    PiconData(0xe00e, 'Duotone'),
   );
 
   /// ![box-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up-duotone.svg)
-  static const boxArrowUp = AppDuotoneIconData(
+  static const boxArrowUp = PiconDuotoneData(
     0xee55,
-    AppIconData(0xee54, 'Duotone'),
+    PiconData(0xee54, 'Duotone'),
   );
 
   /// ![boxing-glove-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove-duotone.svg)
-  static const boxingGlove = AppDuotoneIconData(
+  static const boxingGlove = PiconDuotoneData(
     0xea37,
-    AppIconData(0xea36, 'Duotone'),
+    PiconData(0xea36, 'Duotone'),
   );
 
   /// ![brackets-angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle-duotone.svg)
-  static const bracketsAngle = AppDuotoneIconData(
+  static const bracketsAngle = PiconDuotoneData(
     0xe863,
-    AppIconData(0xe862, 'Duotone'),
+    PiconData(0xe862, 'Duotone'),
   );
 
   /// ![brackets-curly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly-duotone.svg)
-  static const bracketsCurly = AppDuotoneIconData(
+  static const bracketsCurly = PiconDuotoneData(
     0xe861,
-    AppIconData(0xe860, 'Duotone'),
+    PiconData(0xe860, 'Duotone'),
   );
 
   /// ![brackets-round-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round-duotone.svg)
-  static const bracketsRound = AppDuotoneIconData(
+  static const bracketsRound = PiconDuotoneData(
     0xe865,
-    AppIconData(0xe864, 'Duotone'),
+    PiconData(0xe864, 'Duotone'),
   );
 
   /// ![brackets-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square-duotone.svg)
-  static const bracketsSquare = AppDuotoneIconData(
+  static const bracketsSquare = PiconDuotoneData(
     0xe85f,
-    AppIconData(0xe85e, 'Duotone'),
+    PiconData(0xe85e, 'Duotone'),
   );
 
   /// ![brain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain-duotone.svg)
-  static const brain = AppDuotoneIconData(
+  static const brain = PiconDuotoneData(
     0xe74f,
-    AppIconData(0xe74e, 'Duotone'),
+    PiconData(0xe74e, 'Duotone'),
   );
 
   /// ![brandy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy-duotone.svg)
-  static const brandy = AppDuotoneIconData(
+  static const brandy = PiconDuotoneData(
     0xe6b5,
-    AppIconData(0xe6b4, 'Duotone'),
+    PiconData(0xe6b4, 'Duotone'),
   );
 
   /// ![bread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread-duotone.svg)
-  static const bread = AppDuotoneIconData(
+  static const bread = PiconDuotoneData(
     0xe81d,
-    AppIconData(0xe81c, 'Duotone'),
+    PiconData(0xe81c, 'Duotone'),
   );
 
   /// ![bridge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge-duotone.svg)
-  static const bridge = AppDuotoneIconData(
+  static const bridge = PiconDuotoneData(
     0xea69,
-    AppIconData(0xea68, 'Duotone'),
+    PiconData(0xea68, 'Duotone'),
   );
 
   /// ![briefcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-duotone.svg)
-  static const briefcase = AppDuotoneIconData(
+  static const briefcase = PiconDuotoneData(
     0xe0ef,
-    AppIconData(0xe0ee, 'Duotone'),
+    PiconData(0xe0ee, 'Duotone'),
   );
 
   /// ![briefcase-metal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal-duotone.svg)
-  static const briefcaseMetal = AppDuotoneIconData(
+  static const briefcaseMetal = PiconDuotoneData(
     0xe5f3,
-    AppIconData(0xe5f2, 'Duotone'),
+    PiconData(0xe5f2, 'Duotone'),
   );
 
   /// ![broadcast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast-duotone.svg)
-  static const broadcast = AppDuotoneIconData(
+  static const broadcast = PiconDuotoneData(
     0xe0f3,
-    AppIconData(0xe0f2, 'Duotone'),
+    PiconData(0xe0f2, 'Duotone'),
   );
 
   /// ![broom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom-duotone.svg)
-  static const broom = AppDuotoneIconData(
+  static const broom = PiconDuotoneData(
     0xec55,
-    AppIconData(0xec54, 'Duotone'),
+    PiconData(0xec54, 'Duotone'),
   );
 
   /// ![browser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser-duotone.svg)
-  static const browser = AppDuotoneIconData(
+  static const browser = PiconDuotoneData(
     0xe0f5,
-    AppIconData(0xe0f4, 'Duotone'),
+    PiconData(0xe0f4, 'Duotone'),
   );
 
   /// ![browsers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers-duotone.svg)
-  static const browsers = AppDuotoneIconData(
+  static const browsers = PiconDuotoneData(
     0xe0f7,
-    AppIconData(0xe0f6, 'Duotone'),
+    PiconData(0xe0f6, 'Duotone'),
   );
 
   /// ![bug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-duotone.svg)
-  static const bug = AppDuotoneIconData(
+  static const bug = PiconDuotoneData(
     0xe5f5,
-    AppIconData(0xe5f4, 'Duotone'),
+    PiconData(0xe5f4, 'Duotone'),
   );
 
   /// ![bug-beetle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle-duotone.svg)
-  static const bugBeetle = AppDuotoneIconData(
+  static const bugBeetle = PiconDuotoneData(
     0xe5f7,
-    AppIconData(0xe5f6, 'Duotone'),
+    PiconData(0xe5f6, 'Duotone'),
   );
 
   /// ![bug-droid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid-duotone.svg)
-  static const bugDroid = AppDuotoneIconData(
+  static const bugDroid = PiconDuotoneData(
     0xe5f9,
-    AppIconData(0xe5f8, 'Duotone'),
+    PiconData(0xe5f8, 'Duotone'),
   );
 
   /// ![building-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-duotone.svg)
-  static const building = AppDuotoneIconData(
+  static const building = PiconDuotoneData(
     0xe101,
-    AppIconData(0xe100, 'Duotone'),
+    PiconData(0xe100, 'Duotone'),
   );
 
   /// ![building-apartment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment-duotone.svg)
-  static const buildingApartment = AppDuotoneIconData(
+  static const buildingApartment = PiconDuotoneData(
     0xe103,
-    AppIconData(0xe0fe, 'Duotone'),
+    PiconData(0xe0fe, 'Duotone'),
   );
 
   /// ![building-office-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office-duotone.svg)
-  static const buildingOffice = AppDuotoneIconData(
+  static const buildingOffice = PiconDuotoneData(
     0xe104,
-    AppIconData(0xe0ff, 'Duotone'),
+    PiconData(0xe0ff, 'Duotone'),
   );
 
   /// ![buildings-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings-duotone.svg)
-  static const buildings = AppDuotoneIconData(
+  static const buildings = PiconDuotoneData(
     0xe105,
-    AppIconData(0xe102, 'Duotone'),
+    PiconData(0xe102, 'Duotone'),
   );
 
   /// ![bulldozer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer-duotone.svg)
-  static const bulldozer = AppDuotoneIconData(
+  static const bulldozer = PiconDuotoneData(
     0xec6d,
-    AppIconData(0xec6c, 'Duotone'),
+    PiconData(0xec6c, 'Duotone'),
   );
 
   /// ![bus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus-duotone.svg)
-  static const bus = AppDuotoneIconData(
+  static const bus = PiconDuotoneData(
     0xe107,
-    AppIconData(0xe106, 'Duotone'),
+    PiconData(0xe106, 'Duotone'),
   );
 
   /// ![butterfly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly-duotone.svg)
-  static const butterfly = AppDuotoneIconData(
+  static const butterfly = PiconDuotoneData(
     0xea6f,
-    AppIconData(0xea6e, 'Duotone'),
+    PiconData(0xea6e, 'Duotone'),
   );
 
   /// ![cable-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car-duotone.svg)
-  static const cableCar = AppDuotoneIconData(
+  static const cableCar = PiconDuotoneData(
     0xe49d,
-    AppIconData(0xe49c, 'Duotone'),
+    PiconData(0xe49c, 'Duotone'),
   );
 
   /// ![cactus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus-duotone.svg)
-  static const cactus = AppDuotoneIconData(
+  static const cactus = PiconDuotoneData(
     0xe919,
-    AppIconData(0xe918, 'Duotone'),
+    PiconData(0xe918, 'Duotone'),
   );
 
   /// ![cake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake-duotone.svg)
-  static const cake = AppDuotoneIconData(
+  static const cake = PiconDuotoneData(
     0xe781,
-    AppIconData(0xe780, 'Duotone'),
+    PiconData(0xe780, 'Duotone'),
   );
 
   /// ![calculator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator-duotone.svg)
-  static const calculator = AppDuotoneIconData(
+  static const calculator = PiconDuotoneData(
     0xe539,
-    AppIconData(0xe538, 'Duotone'),
+    PiconData(0xe538, 'Duotone'),
   );
 
   /// ![calendar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-duotone.svg)
-  static const calendar = AppDuotoneIconData(
+  static const calendar = PiconDuotoneData(
     0xe109,
-    AppIconData(0xe108, 'Duotone'),
+    PiconData(0xe108, 'Duotone'),
   );
 
   /// ![calendar-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank-duotone.svg)
-  static const calendarBlank = AppDuotoneIconData(
+  static const calendarBlank = PiconDuotoneData(
     0xe10b,
-    AppIconData(0xe10a, 'Duotone'),
+    PiconData(0xe10a, 'Duotone'),
   );
 
   /// ![calendar-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check-duotone.svg)
-  static const calendarCheck = AppDuotoneIconData(
+  static const calendarCheck = PiconDuotoneData(
     0xe713,
-    AppIconData(0xe712, 'Duotone'),
+    PiconData(0xe712, 'Duotone'),
   );
 
   /// ![calendar-dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot-duotone.svg)
-  static const calendarDot = AppDuotoneIconData(
+  static const calendarDot = PiconDuotoneData(
     0xe7b3,
-    AppIconData(0xe7b2, 'Duotone'),
+    PiconData(0xe7b2, 'Duotone'),
   );
 
   /// ![calendar-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots-duotone.svg)
-  static const calendarDots = AppDuotoneIconData(
+  static const calendarDots = PiconDuotoneData(
     0xe7b5,
-    AppIconData(0xe7b4, 'Duotone'),
+    PiconData(0xe7b4, 'Duotone'),
   );
 
   /// ![calendar-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart-duotone.svg)
-  static const calendarHeart = AppDuotoneIconData(
+  static const calendarHeart = PiconDuotoneData(
     0xe8b1,
-    AppIconData(0xe8b0, 'Duotone'),
+    PiconData(0xe8b0, 'Duotone'),
   );
 
   /// ![calendar-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus-duotone.svg)
-  static const calendarMinus = AppDuotoneIconData(
+  static const calendarMinus = PiconDuotoneData(
     0xea15,
-    AppIconData(0xea14, 'Duotone'),
+    PiconData(0xea14, 'Duotone'),
   );
 
   /// ![calendar-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus-duotone.svg)
-  static const calendarPlus = AppDuotoneIconData(
+  static const calendarPlus = PiconDuotoneData(
     0xe715,
-    AppIconData(0xe714, 'Duotone'),
+    PiconData(0xe714, 'Duotone'),
   );
 
   /// ![calendar-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash-duotone.svg)
-  static const calendarSlash = AppDuotoneIconData(
+  static const calendarSlash = PiconDuotoneData(
     0xea13,
-    AppIconData(0xea12, 'Duotone'),
+    PiconData(0xea12, 'Duotone'),
   );
 
   /// ![calendar-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star-duotone.svg)
-  static const calendarStar = AppDuotoneIconData(
+  static const calendarStar = PiconDuotoneData(
     0xe8b3,
-    AppIconData(0xe8b2, 'Duotone'),
+    PiconData(0xe8b2, 'Duotone'),
   );
 
   /// ![calendar-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x-duotone.svg)
-  static const calendarX = AppDuotoneIconData(
+  static const calendarX = PiconDuotoneData(
     0xe10d,
-    AppIconData(0xe10c, 'Duotone'),
+    PiconData(0xe10c, 'Duotone'),
   );
 
   /// ![call-bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell-duotone.svg)
-  static const callBell = AppDuotoneIconData(
+  static const callBell = PiconDuotoneData(
     0xe7df,
-    AppIconData(0xe7de, 'Duotone'),
+    PiconData(0xe7de, 'Duotone'),
   );
 
   /// ![camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-duotone.svg)
-  static const camera = AppDuotoneIconData(
+  static const camera = PiconDuotoneData(
     0xe10f,
-    AppIconData(0xe10e, 'Duotone'),
+    PiconData(0xe10e, 'Duotone'),
   );
 
   /// ![camera-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus-duotone.svg)
-  static const cameraPlus = AppDuotoneIconData(
+  static const cameraPlus = PiconDuotoneData(
     0xec59,
-    AppIconData(0xec58, 'Duotone'),
+    PiconData(0xec58, 'Duotone'),
   );
 
   /// ![camera-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate-duotone.svg)
-  static const cameraRotate = AppDuotoneIconData(
+  static const cameraRotate = PiconDuotoneData(
     0xe7a5,
-    AppIconData(0xe7a4, 'Duotone'),
+    PiconData(0xe7a4, 'Duotone'),
   );
 
   /// ![camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash-duotone.svg)
-  static const cameraSlash = AppDuotoneIconData(
+  static const cameraSlash = PiconDuotoneData(
     0xe111,
-    AppIconData(0xe110, 'Duotone'),
+    PiconData(0xe110, 'Duotone'),
   );
 
   /// ![campfire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire-duotone.svg)
-  static const campfire = AppDuotoneIconData(
+  static const campfire = PiconDuotoneData(
     0xe9d9,
-    AppIconData(0xe9d8, 'Duotone'),
+    PiconData(0xe9d8, 'Duotone'),
   );
 
   /// ![car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-duotone.svg)
-  static const car = AppDuotoneIconData(
+  static const car = PiconDuotoneData(
     0xe113,
-    AppIconData(0xe112, 'Duotone'),
+    PiconData(0xe112, 'Duotone'),
   );
 
   /// ![car-battery-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery-duotone.svg)
-  static const carBattery = AppDuotoneIconData(
+  static const carBattery = PiconDuotoneData(
     0xee31,
-    AppIconData(0xee30, 'Duotone'),
+    PiconData(0xee30, 'Duotone'),
   );
 
   /// ![car-profile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile-duotone.svg)
-  static const carProfile = AppDuotoneIconData(
+  static const carProfile = PiconDuotoneData(
     0xe8cd,
-    AppIconData(0xe8cc, 'Duotone'),
+    PiconData(0xe8cc, 'Duotone'),
   );
 
   /// ![car-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple-duotone.svg)
-  static const carSimple = AppDuotoneIconData(
+  static const carSimple = PiconDuotoneData(
     0xe115,
-    AppIconData(0xe114, 'Duotone'),
+    PiconData(0xe114, 'Duotone'),
   );
 
   /// ![cardholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder-duotone.svg)
-  static const cardholder = AppDuotoneIconData(
+  static const cardholder = PiconDuotoneData(
     0xe5fb,
-    AppIconData(0xe5fa, 'Duotone'),
+    PiconData(0xe5fa, 'Duotone'),
   );
 
   /// ![cards-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-duotone.svg)
-  static const cards = AppDuotoneIconData(
+  static const cards = PiconDuotoneData(
     0xe0f9,
-    AppIconData(0xe0f8, 'Duotone'),
+    PiconData(0xe0f8, 'Duotone'),
   );
 
   /// ![cards-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three-duotone.svg)
-  static const cardsThree = AppDuotoneIconData(
+  static const cardsThree = PiconDuotoneData(
     0xee51,
-    AppIconData(0xee50, 'Duotone'),
+    PiconData(0xee50, 'Duotone'),
   );
 
   /// ![caret-circle-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down-duotone.svg)
-  static const caretCircleDoubleDown = AppDuotoneIconData(
+  static const caretCircleDoubleDown = PiconDuotoneData(
     0xe117,
-    AppIconData(0xe116, 'Duotone'),
+    PiconData(0xe116, 'Duotone'),
   );
 
   /// ![caret-circle-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left-duotone.svg)
-  static const caretCircleDoubleLeft = AppDuotoneIconData(
+  static const caretCircleDoubleLeft = PiconDuotoneData(
     0xe119,
-    AppIconData(0xe118, 'Duotone'),
+    PiconData(0xe118, 'Duotone'),
   );
 
   /// ![caret-circle-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right-duotone.svg)
-  static const caretCircleDoubleRight = AppDuotoneIconData(
+  static const caretCircleDoubleRight = PiconDuotoneData(
     0xe11b,
-    AppIconData(0xe11a, 'Duotone'),
+    PiconData(0xe11a, 'Duotone'),
   );
 
   /// ![caret-circle-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up-duotone.svg)
-  static const caretCircleDoubleUp = AppDuotoneIconData(
+  static const caretCircleDoubleUp = PiconDuotoneData(
     0xe11d,
-    AppIconData(0xe11c, 'Duotone'),
+    PiconData(0xe11c, 'Duotone'),
   );
 
   /// ![caret-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down-duotone.svg)
-  static const caretCircleDown = AppDuotoneIconData(
+  static const caretCircleDown = PiconDuotoneData(
     0xe11f,
-    AppIconData(0xe11e, 'Duotone'),
+    PiconData(0xe11e, 'Duotone'),
   );
 
   /// ![caret-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left-duotone.svg)
-  static const caretCircleLeft = AppDuotoneIconData(
+  static const caretCircleLeft = PiconDuotoneData(
     0xe121,
-    AppIconData(0xe120, 'Duotone'),
+    PiconData(0xe120, 'Duotone'),
   );
 
   /// ![caret-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right-duotone.svg)
-  static const caretCircleRight = AppDuotoneIconData(
+  static const caretCircleRight = PiconDuotoneData(
     0xe123,
-    AppIconData(0xe122, 'Duotone'),
+    PiconData(0xe122, 'Duotone'),
   );
 
   /// ![caret-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-duotone.svg)
-  static const caretCircleUp = AppDuotoneIconData(
+  static const caretCircleUp = PiconDuotoneData(
     0xe125,
-    AppIconData(0xe124, 'Duotone'),
+    PiconData(0xe124, 'Duotone'),
   );
 
   /// ![caret-circle-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down-duotone.svg)
-  static const caretCircleUpDown = AppDuotoneIconData(
+  static const caretCircleUpDown = PiconDuotoneData(
     0xe13f,
-    AppIconData(0xe13e, 'Duotone'),
+    PiconData(0xe13e, 'Duotone'),
   );
 
   /// ![caret-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down-duotone.svg)
-  static const caretDoubleDown = AppDuotoneIconData(
+  static const caretDoubleDown = PiconDuotoneData(
     0xe127,
-    AppIconData(0xe126, 'Duotone'),
+    PiconData(0xe126, 'Duotone'),
   );
 
   /// ![caret-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left-duotone.svg)
-  static const caretDoubleLeft = AppDuotoneIconData(
+  static const caretDoubleLeft = PiconDuotoneData(
     0xe129,
-    AppIconData(0xe128, 'Duotone'),
+    PiconData(0xe128, 'Duotone'),
   );
 
   /// ![caret-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right-duotone.svg)
-  static const caretDoubleRight = AppDuotoneIconData(
+  static const caretDoubleRight = PiconDuotoneData(
     0xe12b,
-    AppIconData(0xe12a, 'Duotone'),
+    PiconData(0xe12a, 'Duotone'),
   );
 
   /// ![caret-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up-duotone.svg)
-  static const caretDoubleUp = AppDuotoneIconData(
+  static const caretDoubleUp = PiconDuotoneData(
     0xe12d,
-    AppIconData(0xe12c, 'Duotone'),
+    PiconData(0xe12c, 'Duotone'),
   );
 
   /// ![caret-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down-duotone.svg)
-  static const caretDown = AppDuotoneIconData(
+  static const caretDown = PiconDuotoneData(
     0xe137,
-    AppIconData(0xe136, 'Duotone'),
+    PiconData(0xe136, 'Duotone'),
   );
 
   /// ![caret-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left-duotone.svg)
-  static const caretLeft = AppDuotoneIconData(
+  static const caretLeft = PiconDuotoneData(
     0xe139,
-    AppIconData(0xe138, 'Duotone'),
+    PiconData(0xe138, 'Duotone'),
   );
 
   /// ![caret-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down-duotone.svg)
-  static const caretLineDown = AppDuotoneIconData(
+  static const caretLineDown = PiconDuotoneData(
     0xe135,
-    AppIconData(0xe134, 'Duotone'),
+    PiconData(0xe134, 'Duotone'),
   );
 
   /// ![caret-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left-duotone.svg)
-  static const caretLineLeft = AppDuotoneIconData(
+  static const caretLineLeft = PiconDuotoneData(
     0xe133,
-    AppIconData(0xe132, 'Duotone'),
+    PiconData(0xe132, 'Duotone'),
   );
 
   /// ![caret-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right-duotone.svg)
-  static const caretLineRight = AppDuotoneIconData(
+  static const caretLineRight = PiconDuotoneData(
     0xe131,
-    AppIconData(0xe130, 'Duotone'),
+    PiconData(0xe130, 'Duotone'),
   );
 
   /// ![caret-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up-duotone.svg)
-  static const caretLineUp = AppDuotoneIconData(
+  static const caretLineUp = PiconDuotoneData(
     0xe12f,
-    AppIconData(0xe12e, 'Duotone'),
+    PiconData(0xe12e, 'Duotone'),
   );
 
   /// ![caret-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right-duotone.svg)
-  static const caretRight = AppDuotoneIconData(
+  static const caretRight = PiconDuotoneData(
     0xe13b,
-    AppIconData(0xe13a, 'Duotone'),
+    PiconData(0xe13a, 'Duotone'),
   );
 
   /// ![caret-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-duotone.svg)
-  static const caretUp = AppDuotoneIconData(
+  static const caretUp = PiconDuotoneData(
     0xe13d,
-    AppIconData(0xe13c, 'Duotone'),
+    PiconData(0xe13c, 'Duotone'),
   );
 
   /// ![caret-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down-duotone.svg)
-  static const caretUpDown = AppDuotoneIconData(
+  static const caretUpDown = PiconDuotoneData(
     0xe141,
-    AppIconData(0xe140, 'Duotone'),
+    PiconData(0xe140, 'Duotone'),
   );
 
   /// ![carrot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot-duotone.svg)
-  static const carrot = AppDuotoneIconData(
+  static const carrot = PiconDuotoneData(
     0xed39,
-    AppIconData(0xed38, 'Duotone'),
+    PiconData(0xed38, 'Duotone'),
   );
 
   /// ![cash-register-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register-duotone.svg)
-  static const cashRegister = AppDuotoneIconData(
+  static const cashRegister = PiconDuotoneData(
     0xed81,
-    AppIconData(0xed80, 'Duotone'),
+    PiconData(0xed80, 'Duotone'),
   );
 
   /// ![cassette-tape-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape-duotone.svg)
-  static const cassetteTape = AppDuotoneIconData(
+  static const cassetteTape = PiconDuotoneData(
     0xed2f,
-    AppIconData(0xed2e, 'Duotone'),
+    PiconData(0xed2e, 'Duotone'),
   );
 
   /// ![castle-turret-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret-duotone.svg)
-  static const castleTurret = AppDuotoneIconData(
+  static const castleTurret = PiconDuotoneData(
     0xe9d1,
-    AppIconData(0xe9d0, 'Duotone'),
+    PiconData(0xe9d0, 'Duotone'),
   );
 
   /// ![cat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat-duotone.svg)
-  static const cat = AppDuotoneIconData(
+  static const cat = PiconDuotoneData(
     0xe749,
-    AppIconData(0xe748, 'Duotone'),
+    PiconData(0xe748, 'Duotone'),
   );
 
   /// ![cell-signal-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full-duotone.svg)
-  static const cellSignalFull = AppDuotoneIconData(
+  static const cellSignalFull = PiconDuotoneData(
     0xe143,
-    AppIconData(0xe142, 'Duotone'),
+    PiconData(0xe142, 'Duotone'),
   );
 
   /// ![cell-signal-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high-duotone.svg)
-  static const cellSignalHigh = AppDuotoneIconData(
+  static const cellSignalHigh = PiconDuotoneData(
     0xe145,
-    AppIconData(0xe144, 'Duotone'),
+    PiconData(0xe144, 'Duotone'),
   );
 
   /// ![cell-signal-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low-duotone.svg)
-  static const cellSignalLow = AppDuotoneIconData(
+  static const cellSignalLow = PiconDuotoneData(
     0xe147,
-    AppIconData(0xe146, 'Duotone'),
+    PiconData(0xe146, 'Duotone'),
   );
 
   /// ![cell-signal-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium-duotone.svg)
-  static const cellSignalMedium = AppDuotoneIconData(
+  static const cellSignalMedium = PiconDuotoneData(
     0xe149,
-    AppIconData(0xe148, 'Duotone'),
+    PiconData(0xe148, 'Duotone'),
   );
 
   /// ![cell-signal-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none-duotone.svg)
-  static const cellSignalNone = AppFlatIconData(0xe14a, 'Duotone');
+  static const cellSignalNone = PiconFlatData(0xe14a, 'Duotone');
 
   /// ![cell-signal-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash-duotone.svg)
-  static const cellSignalSlash = AppDuotoneIconData(
+  static const cellSignalSlash = PiconDuotoneData(
     0xe14d,
-    AppIconData(0xe14c, 'Duotone'),
+    PiconData(0xe14c, 'Duotone'),
   );
 
   /// ![cell-signal-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x-duotone.svg)
-  static const cellSignalX = AppDuotoneIconData(
+  static const cellSignalX = PiconDuotoneData(
     0xe14f,
-    AppIconData(0xe14e, 'Duotone'),
+    PiconData(0xe14e, 'Duotone'),
   );
 
   /// ![cell-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower-duotone.svg)
-  static const cellTower = AppDuotoneIconData(
+  static const cellTower = PiconDuotoneData(
     0xebab,
-    AppIconData(0xebaa, 'Duotone'),
+    PiconData(0xebaa, 'Duotone'),
   );
 
   /// ![certificate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate-duotone.svg)
-  static const certificate = AppDuotoneIconData(
+  static const certificate = PiconDuotoneData(
     0xe767,
-    AppIconData(0xe766, 'Duotone'),
+    PiconData(0xe766, 'Duotone'),
   );
 
   /// ![chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair-duotone.svg)
-  static const chair = AppDuotoneIconData(
+  static const chair = PiconDuotoneData(
     0xe951,
-    AppIconData(0xe950, 'Duotone'),
+    PiconData(0xe950, 'Duotone'),
   );
 
   /// ![chalkboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-duotone.svg)
-  static const chalkboard = AppDuotoneIconData(
+  static const chalkboard = PiconDuotoneData(
     0xe5fd,
-    AppIconData(0xe5fc, 'Duotone'),
+    PiconData(0xe5fc, 'Duotone'),
   );
 
   /// ![chalkboard-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple-duotone.svg)
-  static const chalkboardSimple = AppDuotoneIconData(
+  static const chalkboardSimple = PiconDuotoneData(
     0xe5ff,
-    AppIconData(0xe5fe, 'Duotone'),
+    PiconData(0xe5fe, 'Duotone'),
   );
 
   /// ![chalkboard-teacher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher-duotone.svg)
-  static const chalkboardTeacher = AppDuotoneIconData(
+  static const chalkboardTeacher = PiconDuotoneData(
     0xe601,
-    AppIconData(0xe600, 'Duotone'),
+    PiconData(0xe600, 'Duotone'),
   );
 
   /// ![champagne-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne-duotone.svg)
-  static const champagne = AppDuotoneIconData(
+  static const champagne = PiconDuotoneData(
     0xeacb,
-    AppIconData(0xeaca, 'Duotone'),
+    PiconData(0xeaca, 'Duotone'),
   );
 
   /// ![charging-station-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station-duotone.svg)
-  static const chargingStation = AppDuotoneIconData(
+  static const chargingStation = PiconDuotoneData(
     0xe8d1,
-    AppIconData(0xe8d0, 'Duotone'),
+    PiconData(0xe8d0, 'Duotone'),
   );
 
   /// ![chart-bar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-duotone.svg)
-  static const chartBar = AppDuotoneIconData(
+  static const chartBar = PiconDuotoneData(
     0xe151,
-    AppIconData(0xe150, 'Duotone'),
+    PiconData(0xe150, 'Duotone'),
   );
 
   /// ![chart-bar-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal-duotone.svg)
-  static const chartBarHorizontal = AppDuotoneIconData(
+  static const chartBarHorizontal = PiconDuotoneData(
     0xe153,
-    AppIconData(0xe152, 'Duotone'),
+    PiconData(0xe152, 'Duotone'),
   );
 
   /// ![chart-donut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut-duotone.svg)
-  static const chartDonut = AppDuotoneIconData(
+  static const chartDonut = PiconDuotoneData(
     0xeaa7,
-    AppIconData(0xeaa6, 'Duotone'),
+    PiconData(0xeaa6, 'Duotone'),
   );
 
   /// ![chart-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-duotone.svg)
-  static const chartLine = AppDuotoneIconData(
+  static const chartLine = PiconDuotoneData(
     0xe155,
-    AppIconData(0xe154, 'Duotone'),
+    PiconData(0xe154, 'Duotone'),
   );
 
   /// ![chart-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down-duotone.svg)
-  static const chartLineDown = AppDuotoneIconData(
+  static const chartLineDown = PiconDuotoneData(
     0xe8b7,
-    AppIconData(0xe8b6, 'Duotone'),
+    PiconData(0xe8b6, 'Duotone'),
   );
 
   /// ![chart-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up-duotone.svg)
-  static const chartLineUp = AppDuotoneIconData(
+  static const chartLineUp = PiconDuotoneData(
     0xe157,
-    AppIconData(0xe156, 'Duotone'),
+    PiconData(0xe156, 'Duotone'),
   );
 
   /// ![chart-pie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-duotone.svg)
-  static const chartPie = AppDuotoneIconData(
+  static const chartPie = PiconDuotoneData(
     0xe159,
-    AppIconData(0xe158, 'Duotone'),
+    PiconData(0xe158, 'Duotone'),
   );
 
   /// ![chart-pie-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice-duotone.svg)
-  static const chartPieSlice = AppDuotoneIconData(
+  static const chartPieSlice = PiconDuotoneData(
     0xe15b,
-    AppIconData(0xe15a, 'Duotone'),
+    PiconData(0xe15a, 'Duotone'),
   );
 
   /// ![chart-polar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar-duotone.svg)
-  static const chartPolar = AppDuotoneIconData(
+  static const chartPolar = PiconDuotoneData(
     0xeaa9,
-    AppIconData(0xeaa8, 'Duotone'),
+    PiconData(0xeaa8, 'Duotone'),
   );
 
   /// ![chart-scatter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter-duotone.svg)
-  static const chartScatter = AppDuotoneIconData(
+  static const chartScatter = PiconDuotoneData(
     0xeaad,
-    AppIconData(0xeaac, 'Duotone'),
+    PiconData(0xeaac, 'Duotone'),
   );
 
   /// ![chat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-duotone.svg)
-  static const chat = AppDuotoneIconData(
+  static const chat = PiconDuotoneData(
     0xe15d,
-    AppIconData(0xe15c, 'Duotone'),
+    PiconData(0xe15c, 'Duotone'),
   );
 
   /// ![chat-centered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-duotone.svg)
-  static const chatCentered = AppDuotoneIconData(
+  static const chatCentered = PiconDuotoneData(
     0xe161,
-    AppIconData(0xe160, 'Duotone'),
+    PiconData(0xe160, 'Duotone'),
   );
 
   /// ![chat-centered-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots-duotone.svg)
-  static const chatCenteredDots = AppDuotoneIconData(
+  static const chatCenteredDots = PiconDuotoneData(
     0xe165,
-    AppIconData(0xe164, 'Duotone'),
+    PiconData(0xe164, 'Duotone'),
   );
 
   /// ![chat-centered-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash-duotone.svg)
-  static const chatCenteredSlash = AppDuotoneIconData(
+  static const chatCenteredSlash = PiconDuotoneData(
     0xe163,
-    AppIconData(0xe162, 'Duotone'),
+    PiconData(0xe162, 'Duotone'),
   );
 
   /// ![chat-centered-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text-duotone.svg)
-  static const chatCenteredText = AppDuotoneIconData(
+  static const chatCenteredText = PiconDuotoneData(
     0xe167,
-    AppIconData(0xe166, 'Duotone'),
+    PiconData(0xe166, 'Duotone'),
   );
 
   /// ![chat-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-duotone.svg)
-  static const chatCircle = AppDuotoneIconData(
+  static const chatCircle = PiconDuotoneData(
     0xe169,
-    AppIconData(0xe168, 'Duotone'),
+    PiconData(0xe168, 'Duotone'),
   );
 
   /// ![chat-circle-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots-duotone.svg)
-  static const chatCircleDots = AppDuotoneIconData(
+  static const chatCircleDots = PiconDuotoneData(
     0xe16d,
-    AppIconData(0xe16c, 'Duotone'),
+    PiconData(0xe16c, 'Duotone'),
   );
 
   /// ![chat-circle-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash-duotone.svg)
-  static const chatCircleSlash = AppDuotoneIconData(
+  static const chatCircleSlash = PiconDuotoneData(
     0xe16b,
-    AppIconData(0xe16a, 'Duotone'),
+    PiconData(0xe16a, 'Duotone'),
   );
 
   /// ![chat-circle-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text-duotone.svg)
-  static const chatCircleText = AppDuotoneIconData(
+  static const chatCircleText = PiconDuotoneData(
     0xe16f,
-    AppIconData(0xe16e, 'Duotone'),
+    PiconData(0xe16e, 'Duotone'),
   );
 
   /// ![chat-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots-duotone.svg)
-  static const chatDots = AppDuotoneIconData(
+  static const chatDots = PiconDuotoneData(
     0xe171,
-    AppIconData(0xe170, 'Duotone'),
+    PiconData(0xe170, 'Duotone'),
   );
 
   /// ![chat-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash-duotone.svg)
-  static const chatSlash = AppDuotoneIconData(
+  static const chatSlash = PiconDuotoneData(
     0xe15f,
-    AppIconData(0xe15e, 'Duotone'),
+    PiconData(0xe15e, 'Duotone'),
   );
 
   /// ![chat-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-duotone.svg)
-  static const chatTeardrop = AppDuotoneIconData(
+  static const chatTeardrop = PiconDuotoneData(
     0xe173,
-    AppIconData(0xe172, 'Duotone'),
+    PiconData(0xe172, 'Duotone'),
   );
 
   /// ![chat-teardrop-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots-duotone.svg)
-  static const chatTeardropDots = AppDuotoneIconData(
+  static const chatTeardropDots = PiconDuotoneData(
     0xe177,
-    AppIconData(0xe176, 'Duotone'),
+    PiconData(0xe176, 'Duotone'),
   );
 
   /// ![chat-teardrop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash-duotone.svg)
-  static const chatTeardropSlash = AppDuotoneIconData(
+  static const chatTeardropSlash = PiconDuotoneData(
     0xe175,
-    AppIconData(0xe174, 'Duotone'),
+    PiconData(0xe174, 'Duotone'),
   );
 
   /// ![chat-teardrop-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text-duotone.svg)
-  static const chatTeardropText = AppDuotoneIconData(
+  static const chatTeardropText = PiconDuotoneData(
     0xe179,
-    AppIconData(0xe178, 'Duotone'),
+    PiconData(0xe178, 'Duotone'),
   );
 
   /// ![chat-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text-duotone.svg)
-  static const chatText = AppDuotoneIconData(
+  static const chatText = PiconDuotoneData(
     0xe17b,
-    AppIconData(0xe17a, 'Duotone'),
+    PiconData(0xe17a, 'Duotone'),
   );
 
   /// ![chats-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-duotone.svg)
-  static const chats = AppDuotoneIconData(
+  static const chats = PiconDuotoneData(
     0xe17d,
-    AppIconData(0xe17c, 'Duotone'),
+    PiconData(0xe17c, 'Duotone'),
   );
 
   /// ![chats-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle-duotone.svg)
-  static const chatsCircle = AppDuotoneIconData(
+  static const chatsCircle = PiconDuotoneData(
     0xe17f,
-    AppIconData(0xe17e, 'Duotone'),
+    PiconData(0xe17e, 'Duotone'),
   );
 
   /// ![chats-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop-duotone.svg)
-  static const chatsTeardrop = AppDuotoneIconData(
+  static const chatsTeardrop = PiconDuotoneData(
     0xe181,
-    AppIconData(0xe180, 'Duotone'),
+    PiconData(0xe180, 'Duotone'),
   );
 
   /// ![check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-duotone.svg)
-  static const check = AppDuotoneIconData(
+  static const check = PiconDuotoneData(
     0xe183,
-    AppIconData(0xe182, 'Duotone'),
+    PiconData(0xe182, 'Duotone'),
   );
 
   /// ![check-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle-duotone.svg)
-  static const checkCircle = AppDuotoneIconData(
+  static const checkCircle = PiconDuotoneData(
     0xe185,
-    AppIconData(0xe184, 'Duotone'),
+    PiconData(0xe184, 'Duotone'),
   );
 
   /// ![check-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat-duotone.svg)
-  static const checkFat = AppDuotoneIconData(
+  static const checkFat = PiconDuotoneData(
     0xeba7,
-    AppIconData(0xeba6, 'Duotone'),
+    PiconData(0xeba6, 'Duotone'),
   );
 
   /// ![check-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-duotone.svg)
-  static const checkSquare = AppDuotoneIconData(
+  static const checkSquare = PiconDuotoneData(
     0xe187,
-    AppIconData(0xe186, 'Duotone'),
+    PiconData(0xe186, 'Duotone'),
   );
 
   /// ![check-square-offset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset-duotone.svg)
-  static const checkSquareOffset = AppDuotoneIconData(
+  static const checkSquareOffset = PiconDuotoneData(
     0xe189,
-    AppIconData(0xe188, 'Duotone'),
+    PiconData(0xe188, 'Duotone'),
   );
 
   /// ![checkerboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard-duotone.svg)
-  static const checkerboard = AppDuotoneIconData(
+  static const checkerboard = PiconDuotoneData(
     0xe8c5,
-    AppIconData(0xe8c4, 'Duotone'),
+    PiconData(0xe8c4, 'Duotone'),
   );
 
   /// ![checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks-duotone.svg)
-  static const checks = AppDuotoneIconData(
+  static const checks = PiconDuotoneData(
     0xe53b,
-    AppIconData(0xe53a, 'Duotone'),
+    PiconData(0xe53a, 'Duotone'),
   );
 
   /// ![cheers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers-duotone.svg)
-  static const cheers = AppDuotoneIconData(
+  static const cheers = PiconDuotoneData(
     0xea4b,
-    AppIconData(0xea4a, 'Duotone'),
+    PiconData(0xea4a, 'Duotone'),
   );
 
   /// ![cheese-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese-duotone.svg)
-  static const cheese = AppDuotoneIconData(
+  static const cheese = PiconDuotoneData(
     0xe9ff,
-    AppIconData(0xe9fe, 'Duotone'),
+    PiconData(0xe9fe, 'Duotone'),
   );
 
   /// ![chef-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat-duotone.svg)
-  static const chefHat = AppDuotoneIconData(
+  static const chefHat = PiconDuotoneData(
     0xed8f,
-    AppIconData(0xed8e, 'Duotone'),
+    PiconData(0xed8e, 'Duotone'),
   );
 
   /// ![cherries-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries-duotone.svg)
-  static const cherries = AppDuotoneIconData(
+  static const cherries = PiconDuotoneData(
     0xe831,
-    AppIconData(0xe830, 'Duotone'),
+    PiconData(0xe830, 'Duotone'),
   );
 
   /// ![church-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church-duotone.svg)
-  static const church = AppDuotoneIconData(
+  static const church = PiconDuotoneData(
     0xeceb,
-    AppIconData(0xecea, 'Duotone'),
+    PiconData(0xecea, 'Duotone'),
   );
 
   /// ![cigarette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-duotone.svg)
-  static const cigarette = AppDuotoneIconData(
+  static const cigarette = PiconDuotoneData(
     0xed91,
-    AppIconData(0xed90, 'Duotone'),
+    PiconData(0xed90, 'Duotone'),
   );
 
   /// ![cigarette-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash-duotone.svg)
-  static const cigaretteSlash = AppDuotoneIconData(
+  static const cigaretteSlash = PiconDuotoneData(
     0xed93,
-    AppIconData(0xed92, 'Duotone'),
+    PiconData(0xed92, 'Duotone'),
   );
 
   /// ![circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-duotone.svg)
-  static const circle = AppDuotoneIconData(
+  static const circle = PiconDuotoneData(
     0xe18b,
-    AppIconData(0xe18a, 'Duotone'),
+    PiconData(0xe18a, 'Duotone'),
   );
 
   /// ![circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed-duotone.svg)
-  static const circleDashed = AppDuotoneIconData(
+  static const circleDashed = PiconDuotoneData(
     0xe603,
-    AppIconData(0xe602, 'Duotone'),
+    PiconData(0xe602, 'Duotone'),
   );
 
   /// ![circle-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-duotone.svg)
-  static const circleHalf = AppDuotoneIconData(
+  static const circleHalf = PiconDuotoneData(
     0xe18d,
-    AppIconData(0xe18c, 'Duotone'),
+    PiconData(0xe18c, 'Duotone'),
   );
 
   /// ![circle-half-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt-duotone.svg)
-  static const circleHalfTilt = AppDuotoneIconData(
+  static const circleHalfTilt = PiconDuotoneData(
     0xe18f,
-    AppIconData(0xe18e, 'Duotone'),
+    PiconData(0xe18e, 'Duotone'),
   );
 
   /// ![circle-notch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch-duotone.svg)
-  static const circleNotch = AppDuotoneIconData(
+  static const circleNotch = PiconDuotoneData(
     0xeb45,
-    AppIconData(0xeb44, 'Duotone'),
+    PiconData(0xeb44, 'Duotone'),
   );
 
   /// ![circles-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four-duotone.svg)
-  static const circlesFour = AppDuotoneIconData(
+  static const circlesFour = PiconDuotoneData(
     0xe191,
-    AppIconData(0xe190, 'Duotone'),
+    PiconData(0xe190, 'Duotone'),
   );
 
   /// ![circles-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-duotone.svg)
-  static const circlesThree = AppDuotoneIconData(
+  static const circlesThree = PiconDuotoneData(
     0xe193,
-    AppIconData(0xe192, 'Duotone'),
+    PiconData(0xe192, 'Duotone'),
   );
 
   /// ![circles-three-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus-duotone.svg)
-  static const circlesThreePlus = AppDuotoneIconData(
+  static const circlesThreePlus = PiconDuotoneData(
     0xe195,
-    AppIconData(0xe194, 'Duotone'),
+    PiconData(0xe194, 'Duotone'),
   );
 
   /// ![circuitry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry-duotone.svg)
-  static const circuitry = AppDuotoneIconData(
+  static const circuitry = PiconDuotoneData(
     0xe9c3,
-    AppIconData(0xe9c2, 'Duotone'),
+    PiconData(0xe9c2, 'Duotone'),
   );
 
   /// ![city-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city-duotone.svg)
-  static const city = AppDuotoneIconData(
+  static const city = PiconDuotoneData(
     0xea6b,
-    AppIconData(0xea6a, 'Duotone'),
+    PiconData(0xea6a, 'Duotone'),
   );
 
   /// ![clipboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-duotone.svg)
-  static const clipboard = AppDuotoneIconData(
+  static const clipboard = PiconDuotoneData(
     0xe197,
-    AppIconData(0xe196, 'Duotone'),
+    PiconData(0xe196, 'Duotone'),
   );
 
   /// ![clipboard-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text-duotone.svg)
-  static const clipboardText = AppDuotoneIconData(
+  static const clipboardText = PiconDuotoneData(
     0xe199,
-    AppIconData(0xe198, 'Duotone'),
+    PiconData(0xe198, 'Duotone'),
   );
 
   /// ![clock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-duotone.svg)
-  static const clock = AppDuotoneIconData(
+  static const clock = PiconDuotoneData(
     0xe19b,
-    AppIconData(0xe19a, 'Duotone'),
+    PiconData(0xe19a, 'Duotone'),
   );
 
   /// ![clock-afternoon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon-duotone.svg)
-  static const clockAfternoon = AppDuotoneIconData(
+  static const clockAfternoon = PiconDuotoneData(
     0xe19d,
-    AppIconData(0xe19c, 'Duotone'),
+    PiconData(0xe19c, 'Duotone'),
   );
 
   /// ![clock-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise-duotone.svg)
-  static const clockClockwise = AppDuotoneIconData(
+  static const clockClockwise = PiconDuotoneData(
     0xe19f,
-    AppIconData(0xe19e, 'Duotone'),
+    PiconData(0xe19e, 'Duotone'),
   );
 
   /// ![clock-countdown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown-duotone.svg)
-  static const clockCountdown = AppDuotoneIconData(
+  static const clockCountdown = PiconDuotoneData(
     0xed2d,
-    AppIconData(0xed2c, 'Duotone'),
+    PiconData(0xed2c, 'Duotone'),
   );
 
   /// ![clock-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise-duotone.svg)
-  static const clockCounterClockwise = AppDuotoneIconData(
+  static const clockCounterClockwise = PiconDuotoneData(
     0xe1a1,
-    AppIconData(0xe1a0, 'Duotone'),
+    PiconData(0xe1a0, 'Duotone'),
   );
 
   /// ![clock-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user-duotone.svg)
-  static const clockUser = AppDuotoneIconData(
+  static const clockUser = PiconDuotoneData(
     0xeded,
-    AppIconData(0xedec, 'Duotone'),
+    PiconData(0xedec, 'Duotone'),
   );
 
   /// ![closed-captioning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning-duotone.svg)
-  static const closedCaptioning = AppDuotoneIconData(
+  static const closedCaptioning = PiconDuotoneData(
     0xe1a5,
-    AppIconData(0xe1a4, 'Duotone'),
+    PiconData(0xe1a4, 'Duotone'),
   );
 
   /// ![cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-duotone.svg)
-  static const cloud = AppDuotoneIconData(
+  static const cloud = PiconDuotoneData(
     0xe1ab,
-    AppIconData(0xe1aa, 'Duotone'),
+    PiconData(0xe1aa, 'Duotone'),
   );
 
   /// ![cloud-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down-duotone.svg)
-  static const cloudArrowDown = AppDuotoneIconData(
+  static const cloudArrowDown = PiconDuotoneData(
     0xe1ad,
-    AppIconData(0xe1ac, 'Duotone'),
+    PiconData(0xe1ac, 'Duotone'),
   );
 
   /// ![cloud-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up-duotone.svg)
-  static const cloudArrowUp = AppDuotoneIconData(
+  static const cloudArrowUp = PiconDuotoneData(
     0xe1af,
-    AppIconData(0xe1ae, 'Duotone'),
+    PiconData(0xe1ae, 'Duotone'),
   );
 
   /// ![cloud-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check-duotone.svg)
-  static const cloudCheck = AppDuotoneIconData(
+  static const cloudCheck = PiconDuotoneData(
     0xe1b1,
-    AppIconData(0xe1b0, 'Duotone'),
+    PiconData(0xe1b0, 'Duotone'),
   );
 
   /// ![cloud-fog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog-duotone.svg)
-  static const cloudFog = AppDuotoneIconData(
+  static const cloudFog = PiconDuotoneData(
     0xe53d,
-    AppIconData(0xe53c, 'Duotone'),
+    PiconData(0xe53c, 'Duotone'),
   );
 
   /// ![cloud-lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning-duotone.svg)
-  static const cloudLightning = AppDuotoneIconData(
+  static const cloudLightning = PiconDuotoneData(
     0xe1b3,
-    AppIconData(0xe1b2, 'Duotone'),
+    PiconData(0xe1b2, 'Duotone'),
   );
 
   /// ![cloud-moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon-duotone.svg)
-  static const cloudMoon = AppDuotoneIconData(
+  static const cloudMoon = PiconDuotoneData(
     0xe53f,
-    AppIconData(0xe53e, 'Duotone'),
+    PiconData(0xe53e, 'Duotone'),
   );
 
   /// ![cloud-rain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain-duotone.svg)
-  static const cloudRain = AppDuotoneIconData(
+  static const cloudRain = PiconDuotoneData(
     0xe1b5,
-    AppIconData(0xe1b4, 'Duotone'),
+    PiconData(0xe1b4, 'Duotone'),
   );
 
   /// ![cloud-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash-duotone.svg)
-  static const cloudSlash = AppDuotoneIconData(
+  static const cloudSlash = PiconDuotoneData(
     0xe1b7,
-    AppIconData(0xe1b6, 'Duotone'),
+    PiconData(0xe1b6, 'Duotone'),
   );
 
   /// ![cloud-snow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow-duotone.svg)
-  static const cloudSnow = AppDuotoneIconData(
+  static const cloudSnow = PiconDuotoneData(
     0xe1b9,
-    AppIconData(0xe1b8, 'Duotone'),
+    PiconData(0xe1b8, 'Duotone'),
   );
 
   /// ![cloud-sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun-duotone.svg)
-  static const cloudSun = AppDuotoneIconData(
+  static const cloudSun = PiconDuotoneData(
     0xe541,
-    AppIconData(0xe540, 'Duotone'),
+    PiconData(0xe540, 'Duotone'),
   );
 
   /// ![cloud-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning-duotone.svg)
-  static const cloudWarning = AppDuotoneIconData(
+  static const cloudWarning = PiconDuotoneData(
     0xea99,
-    AppIconData(0xea98, 'Duotone'),
+    PiconData(0xea98, 'Duotone'),
   );
 
   /// ![cloud-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x-duotone.svg)
-  static const cloudX = AppDuotoneIconData(
+  static const cloudX = PiconDuotoneData(
     0xea97,
-    AppIconData(0xea96, 'Duotone'),
+    PiconData(0xea96, 'Duotone'),
   );
 
   /// ![clover-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover-duotone.svg)
-  static const clover = AppDuotoneIconData(
+  static const clover = PiconDuotoneData(
     0xedc9,
-    AppIconData(0xedc8, 'Duotone'),
+    PiconData(0xedc8, 'Duotone'),
   );
 
   /// ![club-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club-duotone.svg)
-  static const club = AppDuotoneIconData(
+  static const club = PiconDuotoneData(
     0xe1bb,
-    AppIconData(0xe1ba, 'Duotone'),
+    PiconData(0xe1ba, 'Duotone'),
   );
 
   /// ![coat-hanger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger-duotone.svg)
-  static const coatHanger = AppDuotoneIconData(
+  static const coatHanger = PiconDuotoneData(
     0xe7ff,
-    AppIconData(0xe7fe, 'Duotone'),
+    PiconData(0xe7fe, 'Duotone'),
   );
 
   /// ![coda-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo-duotone.svg)
-  static const codaLogo = AppDuotoneIconData(
+  static const codaLogo = PiconDuotoneData(
     0xe7cf,
-    AppIconData(0xe7ce, 'Duotone'),
+    PiconData(0xe7ce, 'Duotone'),
   );
 
   /// ![code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-duotone.svg)
-  static const code = AppDuotoneIconData(
+  static const code = PiconDuotoneData(
     0xe1bd,
-    AppIconData(0xe1bc, 'Duotone'),
+    PiconData(0xe1bc, 'Duotone'),
   );
 
   /// ![code-block-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block-duotone.svg)
-  static const codeBlock = AppDuotoneIconData(
+  static const codeBlock = PiconDuotoneData(
     0xeaff,
-    AppIconData(0xeafe, 'Duotone'),
+    PiconData(0xeafe, 'Duotone'),
   );
 
   /// ![code-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple-duotone.svg)
-  static const codeSimple = AppDuotoneIconData(
+  static const codeSimple = PiconDuotoneData(
     0xe1bf,
-    AppIconData(0xe1be, 'Duotone'),
+    PiconData(0xe1be, 'Duotone'),
   );
 
   /// ![codepen-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo-duotone.svg)
-  static const codepenLogo = AppDuotoneIconData(
+  static const codepenLogo = PiconDuotoneData(
     0xe979,
-    AppIconData(0xe978, 'Duotone'),
+    PiconData(0xe978, 'Duotone'),
   );
 
   /// ![codesandbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo-duotone.svg)
-  static const codesandboxLogo = AppDuotoneIconData(
+  static const codesandboxLogo = PiconDuotoneData(
     0xea07,
-    AppIconData(0xea06, 'Duotone'),
+    PiconData(0xea06, 'Duotone'),
   );
 
   /// ![coffee-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-duotone.svg)
-  static const coffee = AppDuotoneIconData(
+  static const coffee = PiconDuotoneData(
     0xe1c3,
-    AppIconData(0xe1c2, 'Duotone'),
+    PiconData(0xe1c2, 'Duotone'),
   );
 
   /// ![coffee-bean-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean-duotone.svg)
-  static const coffeeBean = AppDuotoneIconData(
+  static const coffeeBean = PiconDuotoneData(
     0xe1c1,
-    AppIconData(0xe1c0, 'Duotone'),
+    PiconData(0xe1c0, 'Duotone'),
   );
 
   /// ![coin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-duotone.svg)
-  static const coin = AppDuotoneIconData(
+  static const coin = PiconDuotoneData(
     0xe60f,
-    AppIconData(0xe60e, 'Duotone'),
+    PiconData(0xe60e, 'Duotone'),
   );
 
   /// ![coin-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical-duotone.svg)
-  static const coinVertical = AppDuotoneIconData(
+  static const coinVertical = PiconDuotoneData(
     0xeb49,
-    AppIconData(0xeb48, 'Duotone'),
+    PiconData(0xeb48, 'Duotone'),
   );
 
   /// ![coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins-duotone.svg)
-  static const coins = AppDuotoneIconData(
+  static const coins = PiconDuotoneData(
     0xe78f,
-    AppIconData(0xe78e, 'Duotone'),
+    PiconData(0xe78e, 'Duotone'),
   );
 
   /// ![columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-duotone.svg)
-  static const columns = AppDuotoneIconData(
+  static const columns = PiconDuotoneData(
     0xe547,
-    AppIconData(0xe546, 'Duotone'),
+    PiconData(0xe546, 'Duotone'),
   );
 
   /// ![columns-plus-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left-duotone.svg)
-  static const columnsPlusLeft = AppDuotoneIconData(
+  static const columnsPlusLeft = PiconDuotoneData(
     0xe545,
-    AppIconData(0xe544, 'Duotone'),
+    PiconData(0xe544, 'Duotone'),
   );
 
   /// ![columns-plus-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right-duotone.svg)
-  static const columnsPlusRight = AppDuotoneIconData(
+  static const columnsPlusRight = PiconDuotoneData(
     0xe543,
-    AppIconData(0xe542, 'Duotone'),
+    PiconData(0xe542, 'Duotone'),
   );
 
   /// ![command-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command-duotone.svg)
-  static const command = AppDuotoneIconData(
+  static const command = PiconDuotoneData(
     0xe1c5,
-    AppIconData(0xe1c4, 'Duotone'),
+    PiconData(0xe1c4, 'Duotone'),
   );
 
   /// ![compass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-duotone.svg)
-  static const compass = AppDuotoneIconData(
+  static const compass = PiconDuotoneData(
     0xe1c9,
-    AppIconData(0xe1c8, 'Duotone'),
+    PiconData(0xe1c8, 'Duotone'),
   );
 
   /// ![compass-rose-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose-duotone.svg)
-  static const compassRose = AppDuotoneIconData(
+  static const compassRose = PiconDuotoneData(
     0xe1c7,
-    AppIconData(0xe1c6, 'Duotone'),
+    PiconData(0xe1c6, 'Duotone'),
   );
 
   /// ![compass-tool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool-duotone.svg)
-  static const compassTool = AppDuotoneIconData(
+  static const compassTool = PiconDuotoneData(
     0xea0f,
-    AppIconData(0xea0e, 'Duotone'),
+    PiconData(0xea0e, 'Duotone'),
   );
 
   /// ![computer-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower-duotone.svg)
-  static const computerTower = AppDuotoneIconData(
+  static const computerTower = PiconDuotoneData(
     0xe549,
-    AppIconData(0xe548, 'Duotone'),
+    PiconData(0xe548, 'Duotone'),
   );
 
   /// ![confetti-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti-duotone.svg)
-  static const confetti = AppDuotoneIconData(
+  static const confetti = PiconDuotoneData(
     0xe81b,
-    AppIconData(0xe81a, 'Duotone'),
+    PiconData(0xe81a, 'Duotone'),
   );
 
   /// ![contactless-payment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment-duotone.svg)
-  static const contactlessPayment = AppDuotoneIconData(
+  static const contactlessPayment = PiconDuotoneData(
     0xed43,
-    AppIconData(0xed42, 'Duotone'),
+    PiconData(0xed42, 'Duotone'),
   );
 
   /// ![control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control-duotone.svg)
-  static const control = AppDuotoneIconData(
+  static const control = PiconDuotoneData(
     0xeca7,
-    AppIconData(0xeca6, 'Duotone'),
+    PiconData(0xeca6, 'Duotone'),
   );
 
   /// ![cookie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie-duotone.svg)
-  static const cookie = AppDuotoneIconData(
+  static const cookie = PiconDuotoneData(
     0xe6cb,
-    AppIconData(0xe6ca, 'Duotone'),
+    PiconData(0xe6ca, 'Duotone'),
   );
 
   /// ![cooking-pot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot-duotone.svg)
-  static const cookingPot = AppDuotoneIconData(
+  static const cookingPot = PiconDuotoneData(
     0xe765,
-    AppIconData(0xe764, 'Duotone'),
+    PiconData(0xe764, 'Duotone'),
   );
 
   /// ![copy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-duotone.svg)
-  static const copy = AppDuotoneIconData(
+  static const copy = PiconDuotoneData(
     0xe1cb,
-    AppIconData(0xe1ca, 'Duotone'),
+    PiconData(0xe1ca, 'Duotone'),
   );
 
   /// ![copy-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple-duotone.svg)
-  static const copySimple = AppDuotoneIconData(
+  static const copySimple = PiconDuotoneData(
     0xe1cd,
-    AppIconData(0xe1cc, 'Duotone'),
+    PiconData(0xe1cc, 'Duotone'),
   );
 
   /// ![copyleft-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft-duotone.svg)
-  static const copyleft = AppDuotoneIconData(
+  static const copyleft = PiconDuotoneData(
     0xe86b,
-    AppIconData(0xe86a, 'Duotone'),
+    PiconData(0xe86a, 'Duotone'),
   );
 
   /// ![copyright-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright-duotone.svg)
-  static const copyright = AppDuotoneIconData(
+  static const copyright = PiconDuotoneData(
     0xe54b,
-    AppIconData(0xe54a, 'Duotone'),
+    PiconData(0xe54a, 'Duotone'),
   );
 
   /// ![corners-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in-duotone.svg)
-  static const cornersIn = AppDuotoneIconData(
+  static const cornersIn = PiconDuotoneData(
     0xe1cf,
-    AppIconData(0xe1ce, 'Duotone'),
+    PiconData(0xe1ce, 'Duotone'),
   );
 
   /// ![corners-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out-duotone.svg)
-  static const cornersOut = AppDuotoneIconData(
+  static const cornersOut = PiconDuotoneData(
     0xe1d1,
-    AppIconData(0xe1d0, 'Duotone'),
+    PiconData(0xe1d0, 'Duotone'),
   );
 
   /// ![couch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch-duotone.svg)
-  static const couch = AppDuotoneIconData(
+  static const couch = PiconDuotoneData(
     0xe7f7,
-    AppIconData(0xe7f6, 'Duotone'),
+    PiconData(0xe7f6, 'Duotone'),
   );
 
   /// ![court-basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball-duotone.svg)
-  static const courtBasketball = AppDuotoneIconData(
+  static const courtBasketball = PiconDuotoneData(
     0xee37,
-    AppIconData(0xee36, 'Duotone'),
+    PiconData(0xee36, 'Duotone'),
   );
 
   /// ![cow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow-duotone.svg)
-  static const cow = AppDuotoneIconData(
+  static const cow = PiconDuotoneData(
     0xeabf,
-    AppIconData(0xeabe, 'Duotone'),
+    PiconData(0xeabe, 'Duotone'),
   );
 
   /// ![cowboy-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat-duotone.svg)
-  static const cowboyHat = AppDuotoneIconData(
+  static const cowboyHat = PiconDuotoneData(
     0xed13,
-    AppIconData(0xed12, 'Duotone'),
+    PiconData(0xed12, 'Duotone'),
   );
 
   /// ![cpu-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu-duotone.svg)
-  static const cpu = AppDuotoneIconData(
+  static const cpu = PiconDuotoneData(
     0xe611,
-    AppIconData(0xe610, 'Duotone'),
+    PiconData(0xe610, 'Duotone'),
   );
 
   /// ![crane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-duotone.svg)
-  static const crane = AppDuotoneIconData(
+  static const crane = PiconDuotoneData(
     0xed4b,
-    AppIconData(0xed48, 'Duotone'),
+    PiconData(0xed48, 'Duotone'),
   );
 
   /// ![crane-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower-duotone.svg)
-  static const craneTower = AppDuotoneIconData(
+  static const craneTower = PiconDuotoneData(
     0xed4d,
-    AppIconData(0xed49, 'Duotone'),
+    PiconData(0xed49, 'Duotone'),
   );
 
   /// ![credit-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card-duotone.svg)
-  static const creditCard = AppDuotoneIconData(
+  static const creditCard = PiconDuotoneData(
     0xe1d3,
-    AppIconData(0xe1d2, 'Duotone'),
+    PiconData(0xe1d2, 'Duotone'),
   );
 
   /// ![cricket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket-duotone.svg)
-  static const cricket = AppDuotoneIconData(
+  static const cricket = PiconDuotoneData(
     0xee13,
-    AppIconData(0xee12, 'Duotone'),
+    PiconData(0xee12, 'Duotone'),
   );
 
   /// ![crop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop-duotone.svg)
-  static const crop = AppDuotoneIconData(
+  static const crop = PiconDuotoneData(
     0xe1d5,
-    AppIconData(0xe1d4, 'Duotone'),
+    PiconData(0xe1d4, 'Duotone'),
   );
 
   /// ![cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross-duotone.svg)
-  static const cross = AppDuotoneIconData(
+  static const cross = PiconDuotoneData(
     0xe8a1,
-    AppIconData(0xe8a0, 'Duotone'),
+    PiconData(0xe8a0, 'Duotone'),
   );
 
   /// ![crosshair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-duotone.svg)
-  static const crosshair = AppDuotoneIconData(
+  static const crosshair = PiconDuotoneData(
     0xe1d7,
-    AppIconData(0xe1d6, 'Duotone'),
+    PiconData(0xe1d6, 'Duotone'),
   );
 
   /// ![crosshair-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple-duotone.svg)
-  static const crosshairSimple = AppDuotoneIconData(
+  static const crosshairSimple = PiconDuotoneData(
     0xe1d9,
-    AppIconData(0xe1d8, 'Duotone'),
+    PiconData(0xe1d8, 'Duotone'),
   );
 
   /// ![crown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-duotone.svg)
-  static const crown = AppDuotoneIconData(
+  static const crown = PiconDuotoneData(
     0xe615,
-    AppIconData(0xe614, 'Duotone'),
+    PiconData(0xe614, 'Duotone'),
   );
 
   /// ![crown-cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross-duotone.svg)
-  static const crownCross = AppDuotoneIconData(
+  static const crownCross = PiconDuotoneData(
     0xee5f,
-    AppIconData(0xee5e, 'Duotone'),
+    PiconData(0xee5e, 'Duotone'),
   );
 
   /// ![crown-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple-duotone.svg)
-  static const crownSimple = AppDuotoneIconData(
+  static const crownSimple = PiconDuotoneData(
     0xe617,
-    AppIconData(0xe616, 'Duotone'),
+    PiconData(0xe616, 'Duotone'),
   );
 
   /// ![cube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-duotone.svg)
-  static const cube = AppDuotoneIconData(
+  static const cube = PiconDuotoneData(
     0xe1db,
-    AppIconData(0xe1da, 'Duotone'),
+    PiconData(0xe1da, 'Duotone'),
   );
 
   /// ![cube-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus-duotone.svg)
-  static const cubeFocus = AppDuotoneIconData(
+  static const cubeFocus = PiconDuotoneData(
     0xed0b,
-    AppIconData(0xed0a, 'Duotone'),
+    PiconData(0xed0a, 'Duotone'),
   );
 
   /// ![cube-transparent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent-duotone.svg)
-  static const cubeTransparent = AppDuotoneIconData(
+  static const cubeTransparent = PiconDuotoneData(
     0xec7d,
-    AppIconData(0xec7c, 'Duotone'),
+    PiconData(0xec7c, 'Duotone'),
   );
 
   /// ![currency-btc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc-duotone.svg)
-  static const currencyBtc = AppDuotoneIconData(
+  static const currencyBtc = PiconDuotoneData(
     0xe619,
-    AppIconData(0xe618, 'Duotone'),
+    PiconData(0xe618, 'Duotone'),
   );
 
   /// ![currency-circle-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar-duotone.svg)
-  static const currencyCircleDollar = AppDuotoneIconData(
+  static const currencyCircleDollar = PiconDuotoneData(
     0xe54d,
-    AppIconData(0xe54c, 'Duotone'),
+    PiconData(0xe54c, 'Duotone'),
   );
 
   /// ![currency-cny-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny-duotone.svg)
-  static const currencyCny = AppDuotoneIconData(
+  static const currencyCny = PiconDuotoneData(
     0xe54f,
-    AppIconData(0xe54e, 'Duotone'),
+    PiconData(0xe54e, 'Duotone'),
   );
 
   /// ![currency-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-duotone.svg)
-  static const currencyDollar = AppDuotoneIconData(
+  static const currencyDollar = PiconDuotoneData(
     0xe551,
-    AppIconData(0xe550, 'Duotone'),
+    PiconData(0xe550, 'Duotone'),
   );
 
   /// ![currency-dollar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple-duotone.svg)
-  static const currencyDollarSimple = AppDuotoneIconData(
+  static const currencyDollarSimple = PiconDuotoneData(
     0xe553,
-    AppIconData(0xe552, 'Duotone'),
+    PiconData(0xe552, 'Duotone'),
   );
 
   /// ![currency-eth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth-duotone.svg)
-  static const currencyEth = AppDuotoneIconData(
+  static const currencyEth = PiconDuotoneData(
     0xeadb,
-    AppIconData(0xeada, 'Duotone'),
+    PiconData(0xeada, 'Duotone'),
   );
 
   /// ![currency-eur-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur-duotone.svg)
-  static const currencyEur = AppDuotoneIconData(
+  static const currencyEur = PiconDuotoneData(
     0xe555,
-    AppIconData(0xe554, 'Duotone'),
+    PiconData(0xe554, 'Duotone'),
   );
 
   /// ![currency-gbp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp-duotone.svg)
-  static const currencyGbp = AppDuotoneIconData(
+  static const currencyGbp = PiconDuotoneData(
     0xe557,
-    AppIconData(0xe556, 'Duotone'),
+    PiconData(0xe556, 'Duotone'),
   );
 
   /// ![currency-inr-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr-duotone.svg)
-  static const currencyInr = AppDuotoneIconData(
+  static const currencyInr = PiconDuotoneData(
     0xe559,
-    AppIconData(0xe558, 'Duotone'),
+    PiconData(0xe558, 'Duotone'),
   );
 
   /// ![currency-jpy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy-duotone.svg)
-  static const currencyJpy = AppDuotoneIconData(
+  static const currencyJpy = PiconDuotoneData(
     0xe55b,
-    AppIconData(0xe55a, 'Duotone'),
+    PiconData(0xe55a, 'Duotone'),
   );
 
   /// ![currency-krw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw-duotone.svg)
-  static const currencyKrw = AppDuotoneIconData(
+  static const currencyKrw = PiconDuotoneData(
     0xe55d,
-    AppIconData(0xe55c, 'Duotone'),
+    PiconData(0xe55c, 'Duotone'),
   );
 
   /// ![currency-kzt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt-duotone.svg)
-  static const currencyKzt = AppDuotoneIconData(
+  static const currencyKzt = PiconDuotoneData(
     0xec4d,
-    AppIconData(0xec4c, 'Duotone'),
+    PiconData(0xec4c, 'Duotone'),
   );
 
   /// ![currency-ngn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn-duotone.svg)
-  static const currencyNgn = AppDuotoneIconData(
+  static const currencyNgn = PiconDuotoneData(
     0xeb53,
-    AppIconData(0xeb52, 'Duotone'),
+    PiconData(0xeb52, 'Duotone'),
   );
 
   /// ![currency-rub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub-duotone.svg)
-  static const currencyRub = AppDuotoneIconData(
+  static const currencyRub = PiconDuotoneData(
     0xe55f,
-    AppIconData(0xe55e, 'Duotone'),
+    PiconData(0xe55e, 'Duotone'),
   );
 
   /// ![cursor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-duotone.svg)
-  static const cursor = AppDuotoneIconData(
+  static const cursor = PiconDuotoneData(
     0xe1dd,
-    AppIconData(0xe1dc, 'Duotone'),
+    PiconData(0xe1dc, 'Duotone'),
   );
 
   /// ![cursor-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click-duotone.svg)
-  static const cursorClick = AppDuotoneIconData(
+  static const cursorClick = PiconDuotoneData(
     0xe7c9,
-    AppIconData(0xe7c8, 'Duotone'),
+    PiconData(0xe7c8, 'Duotone'),
   );
 
   /// ![cursor-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text-duotone.svg)
-  static const cursorText = AppDuotoneIconData(
+  static const cursorText = PiconDuotoneData(
     0xe7d9,
-    AppIconData(0xe7d8, 'Duotone'),
+    PiconData(0xe7d8, 'Duotone'),
   );
 
   /// ![cylinder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder-duotone.svg)
-  static const cylinder = AppDuotoneIconData(
+  static const cylinder = PiconDuotoneData(
     0xe8fd,
-    AppIconData(0xe8fc, 'Duotone'),
+    PiconData(0xe8fc, 'Duotone'),
   );
 
   /// ![database-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database-duotone.svg)
-  static const database = AppDuotoneIconData(
+  static const database = PiconDuotoneData(
     0xe1df,
-    AppIconData(0xe1de, 'Duotone'),
+    PiconData(0xe1de, 'Duotone'),
   );
 
   /// ![desk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk-duotone.svg)
-  static const desk = AppDuotoneIconData(
+  static const desk = PiconDuotoneData(
     0xed17,
-    AppIconData(0xed16, 'Duotone'),
+    PiconData(0xed16, 'Duotone'),
   );
 
   /// ![desktop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-duotone.svg)
-  static const desktop = AppDuotoneIconData(
+  static const desktop = PiconDuotoneData(
     0xe561,
-    AppIconData(0xe560, 'Duotone'),
+    PiconData(0xe560, 'Duotone'),
   );
 
   /// ![desktop-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower-duotone.svg)
-  static const desktopTower = AppDuotoneIconData(
+  static const desktopTower = PiconDuotoneData(
     0xe563,
-    AppIconData(0xe562, 'Duotone'),
+    PiconData(0xe562, 'Duotone'),
   );
 
   /// ![detective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective-duotone.svg)
-  static const detective = AppDuotoneIconData(
+  static const detective = PiconDuotoneData(
     0xe83f,
-    AppIconData(0xe83e, 'Duotone'),
+    PiconData(0xe83e, 'Duotone'),
   );
 
   /// ![dev-to-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo-duotone.svg)
-  static const devToLogo = AppDuotoneIconData(
+  static const devToLogo = PiconDuotoneData(
     0xed0f,
-    AppIconData(0xed0e, 'Duotone'),
+    PiconData(0xed0e, 'Duotone'),
   );
 
   /// ![device-mobile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-duotone.svg)
-  static const deviceMobile = AppDuotoneIconData(
+  static const deviceMobile = PiconDuotoneData(
     0xe1e1,
-    AppIconData(0xe1e0, 'Duotone'),
+    PiconData(0xe1e0, 'Duotone'),
   );
 
   /// ![device-mobile-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera-duotone.svg)
-  static const deviceMobileCamera = AppDuotoneIconData(
+  static const deviceMobileCamera = PiconDuotoneData(
     0xe1e3,
-    AppIconData(0xe1e2, 'Duotone'),
+    PiconData(0xe1e2, 'Duotone'),
   );
 
   /// ![device-mobile-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash-duotone.svg)
-  static const deviceMobileSlash = AppDuotoneIconData(
+  static const deviceMobileSlash = PiconDuotoneData(
     0xee47,
-    AppIconData(0xee46, 'Duotone'),
+    PiconData(0xee46, 'Duotone'),
   );
 
   /// ![device-mobile-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker-duotone.svg)
-  static const deviceMobileSpeaker = AppDuotoneIconData(
+  static const deviceMobileSpeaker = PiconDuotoneData(
     0xe1e5,
-    AppIconData(0xe1e4, 'Duotone'),
+    PiconData(0xe1e4, 'Duotone'),
   );
 
   /// ![device-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate-duotone.svg)
-  static const deviceRotate = AppDuotoneIconData(
+  static const deviceRotate = PiconDuotoneData(
     0xedf3,
-    AppIconData(0xedf2, 'Duotone'),
+    PiconData(0xedf2, 'Duotone'),
   );
 
   /// ![device-tablet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-duotone.svg)
-  static const deviceTablet = AppDuotoneIconData(
+  static const deviceTablet = PiconDuotoneData(
     0xe1e7,
-    AppIconData(0xe1e6, 'Duotone'),
+    PiconData(0xe1e6, 'Duotone'),
   );
 
   /// ![device-tablet-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera-duotone.svg)
-  static const deviceTabletCamera = AppDuotoneIconData(
+  static const deviceTabletCamera = PiconDuotoneData(
     0xe1e9,
-    AppIconData(0xe1e8, 'Duotone'),
+    PiconData(0xe1e8, 'Duotone'),
   );
 
   /// ![device-tablet-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker-duotone.svg)
-  static const deviceTabletSpeaker = AppDuotoneIconData(
+  static const deviceTabletSpeaker = PiconDuotoneData(
     0xe1eb,
-    AppIconData(0xe1ea, 'Duotone'),
+    PiconData(0xe1ea, 'Duotone'),
   );
 
   /// ![devices-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices-duotone.svg)
-  static const devices = AppDuotoneIconData(
+  static const devices = PiconDuotoneData(
     0xeba5,
-    AppIconData(0xeba4, 'Duotone'),
+    PiconData(0xeba4, 'Duotone'),
   );
 
   /// ![diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond-duotone.svg)
-  static const diamond = AppDuotoneIconData(
+  static const diamond = PiconDuotoneData(
     0xe1ed,
-    AppIconData(0xe1ec, 'Duotone'),
+    PiconData(0xe1ec, 'Duotone'),
   );
 
   /// ![diamonds-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four-duotone.svg)
-  static const diamondsFour = AppDuotoneIconData(
+  static const diamondsFour = PiconDuotoneData(
     0xe8f5,
-    AppIconData(0xe8f4, 'Duotone'),
+    PiconData(0xe8f4, 'Duotone'),
   );
 
   /// ![dice-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five-duotone.svg)
-  static const diceFive = AppDuotoneIconData(
+  static const diceFive = PiconDuotoneData(
     0xe1ef,
-    AppIconData(0xe1ee, 'Duotone'),
+    PiconData(0xe1ee, 'Duotone'),
   );
 
   /// ![dice-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four-duotone.svg)
-  static const diceFour = AppDuotoneIconData(
+  static const diceFour = PiconDuotoneData(
     0xe1f1,
-    AppIconData(0xe1f0, 'Duotone'),
+    PiconData(0xe1f0, 'Duotone'),
   );
 
   /// ![dice-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one-duotone.svg)
-  static const diceOne = AppDuotoneIconData(
+  static const diceOne = PiconDuotoneData(
     0xe1f3,
-    AppIconData(0xe1f2, 'Duotone'),
+    PiconData(0xe1f2, 'Duotone'),
   );
 
   /// ![dice-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six-duotone.svg)
-  static const diceSix = AppDuotoneIconData(
+  static const diceSix = PiconDuotoneData(
     0xe1f5,
-    AppIconData(0xe1f4, 'Duotone'),
+    PiconData(0xe1f4, 'Duotone'),
   );
 
   /// ![dice-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three-duotone.svg)
-  static const diceThree = AppDuotoneIconData(
+  static const diceThree = PiconDuotoneData(
     0xe1f7,
-    AppIconData(0xe1f6, 'Duotone'),
+    PiconData(0xe1f6, 'Duotone'),
   );
 
   /// ![dice-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two-duotone.svg)
-  static const diceTwo = AppDuotoneIconData(
+  static const diceTwo = PiconDuotoneData(
     0xe1f9,
-    AppIconData(0xe1f8, 'Duotone'),
+    PiconData(0xe1f8, 'Duotone'),
   );
 
   /// ![disc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc-duotone.svg)
-  static const disc = AppDuotoneIconData(
+  static const disc = PiconDuotoneData(
     0xe565,
-    AppIconData(0xe564, 'Duotone'),
+    PiconData(0xe564, 'Duotone'),
   );
 
   /// ![disco-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball-duotone.svg)
-  static const discoBall = AppDuotoneIconData(
+  static const discoBall = PiconDuotoneData(
     0xed99,
-    AppIconData(0xed98, 'Duotone'),
+    PiconData(0xed98, 'Duotone'),
   );
 
   /// ![discord-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo-duotone.svg)
-  static const discordLogo = AppDuotoneIconData(
+  static const discordLogo = PiconDuotoneData(
     0xe61b,
-    AppIconData(0xe61a, 'Duotone'),
+    PiconData(0xe61a, 'Duotone'),
   );
 
   /// ![divide-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide-duotone.svg)
-  static const divide = AppDuotoneIconData(
+  static const divide = PiconDuotoneData(
     0xe1fb,
-    AppIconData(0xe1fa, 'Duotone'),
+    PiconData(0xe1fa, 'Duotone'),
   );
 
   /// ![dna-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna-duotone.svg)
-  static const dna = AppDuotoneIconData(
+  static const dna = PiconDuotoneData(
     0xe925,
-    AppIconData(0xe924, 'Duotone'),
+    PiconData(0xe924, 'Duotone'),
   );
 
   /// ![dog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog-duotone.svg)
-  static const dog = AppDuotoneIconData(
+  static const dog = PiconDuotoneData(
     0xe74b,
-    AppIconData(0xe74a, 'Duotone'),
+    PiconData(0xe74a, 'Duotone'),
   );
 
   /// ![door-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-duotone.svg)
-  static const door = AppDuotoneIconData(
+  static const door = PiconDuotoneData(
     0xe61d,
-    AppIconData(0xe61c, 'Duotone'),
+    PiconData(0xe61c, 'Duotone'),
   );
 
   /// ![door-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open-duotone.svg)
-  static const doorOpen = AppDuotoneIconData(
+  static const doorOpen = PiconDuotoneData(
     0xe7e7,
-    AppIconData(0xe7e6, 'Duotone'),
+    PiconData(0xe7e6, 'Duotone'),
   );
 
   /// ![dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-duotone.svg)
-  static const dot = AppDuotoneIconData(
+  static const dot = PiconDuotoneData(
     0xecdf,
-    AppIconData(0xecde, 'Duotone'),
+    PiconData(0xecde, 'Duotone'),
   );
 
   /// ![dot-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline-duotone.svg)
-  static const dotOutline = AppDuotoneIconData(
+  static const dotOutline = PiconDuotoneData(
     0xece1,
-    AppIconData(0xece0, 'Duotone'),
+    PiconData(0xece0, 'Duotone'),
   );
 
   /// ![dots-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine-duotone.svg)
-  static const dotsNine = AppDuotoneIconData(
+  static const dotsNine = PiconDuotoneData(
     0xe1fd,
-    AppIconData(0xe1fc, 'Duotone'),
+    PiconData(0xe1fc, 'Duotone'),
   );
 
   /// ![dots-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-duotone.svg)
-  static const dotsSix = AppDuotoneIconData(
+  static const dotsSix = PiconDuotoneData(
     0xe795,
-    AppIconData(0xe794, 'Duotone'),
+    PiconData(0xe794, 'Duotone'),
   );
 
   /// ![dots-six-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical-duotone.svg)
-  static const dotsSixVertical = AppDuotoneIconData(
+  static const dotsSixVertical = PiconDuotoneData(
     0xeae3,
-    AppIconData(0xeae2, 'Duotone'),
+    PiconData(0xeae2, 'Duotone'),
   );
 
   /// ![dots-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-duotone.svg)
-  static const dotsThree = AppDuotoneIconData(
+  static const dotsThree = PiconDuotoneData(
     0xe1ff,
-    AppIconData(0xe1fe, 'Duotone'),
+    PiconData(0xe1fe, 'Duotone'),
   );
 
   /// ![dots-three-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-duotone.svg)
-  static const dotsThreeCircle = AppDuotoneIconData(
+  static const dotsThreeCircle = PiconDuotoneData(
     0xe201,
-    AppIconData(0xe200, 'Duotone'),
+    PiconData(0xe200, 'Duotone'),
   );
 
   /// ![dots-three-circle-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical-duotone.svg)
-  static const dotsThreeCircleVertical = AppDuotoneIconData(
+  static const dotsThreeCircleVertical = PiconDuotoneData(
     0xe203,
-    AppIconData(0xe202, 'Duotone'),
+    PiconData(0xe202, 'Duotone'),
   );
 
   /// ![dots-three-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-duotone.svg)
-  static const dotsThreeOutline = AppDuotoneIconData(
+  static const dotsThreeOutline = PiconDuotoneData(
     0xe205,
-    AppIconData(0xe204, 'Duotone'),
+    PiconData(0xe204, 'Duotone'),
   );
 
   /// ![dots-three-outline-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical-duotone.svg)
-  static const dotsThreeOutlineVertical = AppDuotoneIconData(
+  static const dotsThreeOutlineVertical = PiconDuotoneData(
     0xe207,
-    AppIconData(0xe206, 'Duotone'),
+    PiconData(0xe206, 'Duotone'),
   );
 
   /// ![dots-three-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical-duotone.svg)
-  static const dotsThreeVertical = AppDuotoneIconData(
+  static const dotsThreeVertical = PiconDuotoneData(
     0xe209,
-    AppIconData(0xe208, 'Duotone'),
+    PiconData(0xe208, 'Duotone'),
   );
 
   /// ![download-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-duotone.svg)
-  static const download = AppDuotoneIconData(
+  static const download = PiconDuotoneData(
     0xe20b,
-    AppIconData(0xe20a, 'Duotone'),
+    PiconData(0xe20a, 'Duotone'),
   );
 
   /// ![download-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple-duotone.svg)
-  static const downloadSimple = AppDuotoneIconData(
+  static const downloadSimple = PiconDuotoneData(
     0xe20d,
-    AppIconData(0xe20c, 'Duotone'),
+    PiconData(0xe20c, 'Duotone'),
   );
 
   /// ![dress-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress-duotone.svg)
-  static const dress = AppDuotoneIconData(
+  static const dress = PiconDuotoneData(
     0xea7f,
-    AppIconData(0xea7e, 'Duotone'),
+    PiconData(0xea7e, 'Duotone'),
   );
 
   /// ![dresser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser-duotone.svg)
-  static const dresser = AppDuotoneIconData(
+  static const dresser = PiconDuotoneData(
     0xe94f,
-    AppIconData(0xe94e, 'Duotone'),
+    PiconData(0xe94e, 'Duotone'),
   );
 
   /// ![dribbble-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo-duotone.svg)
-  static const dribbbleLogo = AppDuotoneIconData(
+  static const dribbbleLogo = PiconDuotoneData(
     0xe20f,
-    AppIconData(0xe20e, 'Duotone'),
+    PiconData(0xe20e, 'Duotone'),
   );
 
   /// ![drone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone-duotone.svg)
-  static const drone = AppDuotoneIconData(
+  static const drone = PiconDuotoneData(
     0xed75,
-    AppIconData(0xed74, 'Duotone'),
+    PiconData(0xed74, 'Duotone'),
   );
 
   /// ![drop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-duotone.svg)
-  static const drop = AppDuotoneIconData(
+  static const drop = PiconDuotoneData(
     0xe211,
-    AppIconData(0xe210, 'Duotone'),
+    PiconData(0xe210, 'Duotone'),
   );
 
   /// ![drop-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-duotone.svg)
-  static const dropHalf = AppDuotoneIconData(
+  static const dropHalf = PiconDuotoneData(
     0xe567,
-    AppIconData(0xe566, 'Duotone'),
+    PiconData(0xe566, 'Duotone'),
   );
 
   /// ![drop-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom-duotone.svg)
-  static const dropHalfBottom = AppDuotoneIconData(
+  static const dropHalfBottom = PiconDuotoneData(
     0xeb41,
-    AppIconData(0xeb40, 'Duotone'),
+    PiconData(0xeb40, 'Duotone'),
   );
 
   /// ![drop-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple-duotone.svg)
-  static const dropSimple = AppDuotoneIconData(
+  static const dropSimple = PiconDuotoneData(
     0xee33,
-    AppIconData(0xee32, 'Duotone'),
+    PiconData(0xee32, 'Duotone'),
   );
 
   /// ![drop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash-duotone.svg)
-  static const dropSlash = AppDuotoneIconData(
+  static const dropSlash = PiconDuotoneData(
     0xe955,
-    AppIconData(0xe954, 'Duotone'),
+    PiconData(0xe954, 'Duotone'),
   );
 
   /// ![dropbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo-duotone.svg)
-  static const dropboxLogo = AppDuotoneIconData(
+  static const dropboxLogo = PiconDuotoneData(
     0xe7d1,
-    AppIconData(0xe7d0, 'Duotone'),
+    PiconData(0xe7d0, 'Duotone'),
   );
 
   /// ![ear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-duotone.svg)
-  static const ear = AppDuotoneIconData(
+  static const ear = PiconDuotoneData(
     0xe70d,
-    AppIconData(0xe70c, 'Duotone'),
+    PiconData(0xe70c, 'Duotone'),
   );
 
   /// ![ear-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash-duotone.svg)
-  static const earSlash = AppDuotoneIconData(
+  static const earSlash = PiconDuotoneData(
     0xe70f,
-    AppIconData(0xe70e, 'Duotone'),
+    PiconData(0xe70e, 'Duotone'),
   );
 
   /// ![egg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-duotone.svg)
-  static const egg = AppDuotoneIconData(
+  static const egg = PiconDuotoneData(
     0xe813,
-    AppIconData(0xe812, 'Duotone'),
+    PiconData(0xe812, 'Duotone'),
   );
 
   /// ![egg-crack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack-duotone.svg)
-  static const eggCrack = AppDuotoneIconData(
+  static const eggCrack = PiconDuotoneData(
     0xeb65,
-    AppIconData(0xeb64, 'Duotone'),
+    PiconData(0xeb64, 'Duotone'),
   );
 
   /// ![eject-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-duotone.svg)
-  static const eject = AppDuotoneIconData(
+  static const eject = PiconDuotoneData(
     0xe213,
-    AppIconData(0xe212, 'Duotone'),
+    PiconData(0xe212, 'Duotone'),
   );
 
   /// ![eject-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple-duotone.svg)
-  static const ejectSimple = AppDuotoneIconData(
+  static const ejectSimple = PiconDuotoneData(
     0xe6af,
-    AppIconData(0xe6ae, 'Duotone'),
+    PiconData(0xe6ae, 'Duotone'),
   );
 
   /// ![elevator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator-duotone.svg)
-  static const elevator = AppDuotoneIconData(
+  static const elevator = PiconDuotoneData(
     0xecc1,
-    AppIconData(0xecc0, 'Duotone'),
+    PiconData(0xecc0, 'Duotone'),
   );
 
   /// ![empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty-duotone.svg)
-  static const empty = AppDuotoneIconData(
+  static const empty = PiconDuotoneData(
     0xedbd,
-    AppIconData(0xedbc, 'Duotone'),
+    PiconData(0xedbc, 'Duotone'),
   );
 
   /// ![engine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine-duotone.svg)
-  static const engine = AppDuotoneIconData(
+  static const engine = PiconDuotoneData(
     0xea81,
-    AppIconData(0xea80, 'Duotone'),
+    PiconData(0xea80, 'Duotone'),
   );
 
   /// ![envelope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-duotone.svg)
-  static const envelope = AppDuotoneIconData(
+  static const envelope = PiconDuotoneData(
     0xe215,
-    AppIconData(0xe214, 'Duotone'),
+    PiconData(0xe214, 'Duotone'),
   );
 
   /// ![envelope-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open-duotone.svg)
-  static const envelopeOpen = AppDuotoneIconData(
+  static const envelopeOpen = PiconDuotoneData(
     0xe217,
-    AppIconData(0xe216, 'Duotone'),
+    PiconData(0xe216, 'Duotone'),
   );
 
   /// ![envelope-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-duotone.svg)
-  static const envelopeSimple = AppDuotoneIconData(
+  static const envelopeSimple = PiconDuotoneData(
     0xe219,
-    AppIconData(0xe218, 'Duotone'),
+    PiconData(0xe218, 'Duotone'),
   );
 
   /// ![envelope-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open-duotone.svg)
-  static const envelopeSimpleOpen = AppDuotoneIconData(
+  static const envelopeSimpleOpen = PiconDuotoneData(
     0xe21b,
-    AppIconData(0xe21a, 'Duotone'),
+    PiconData(0xe21a, 'Duotone'),
   );
 
   /// ![equalizer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer-duotone.svg)
-  static const equalizer = AppDuotoneIconData(
+  static const equalizer = PiconDuotoneData(
     0xebbd,
-    AppIconData(0xebbc, 'Duotone'),
+    PiconData(0xebbc, 'Duotone'),
   );
 
   /// ![equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals-duotone.svg)
-  static const equals = AppDuotoneIconData(
+  static const equals = PiconDuotoneData(
     0xe21d,
-    AppIconData(0xe21c, 'Duotone'),
+    PiconData(0xe21c, 'Duotone'),
   );
 
   /// ![eraser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser-duotone.svg)
-  static const eraser = AppDuotoneIconData(
+  static const eraser = PiconDuotoneData(
     0xe21f,
-    AppIconData(0xe21e, 'Duotone'),
+    PiconData(0xe21e, 'Duotone'),
   );
 
   /// ![escalator-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down-duotone.svg)
-  static const escalatorDown = AppDuotoneIconData(
+  static const escalatorDown = PiconDuotoneData(
     0xecbb,
-    AppIconData(0xecba, 'Duotone'),
+    PiconData(0xecba, 'Duotone'),
   );
 
   /// ![escalator-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up-duotone.svg)
-  static const escalatorUp = AppDuotoneIconData(
+  static const escalatorUp = PiconDuotoneData(
     0xecbd,
-    AppIconData(0xecbc, 'Duotone'),
+    PiconData(0xecbc, 'Duotone'),
   );
 
   /// ![exam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam-duotone.svg)
-  static const exam = AppDuotoneIconData(
+  static const exam = PiconDuotoneData(
     0xe743,
-    AppIconData(0xe742, 'Duotone'),
+    PiconData(0xe742, 'Duotone'),
   );
 
   /// ![exclamation-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark-duotone.svg)
-  static const exclamationMark = AppDuotoneIconData(
+  static const exclamationMark = PiconDuotoneData(
     0xee45,
-    AppIconData(0xee44, 'Duotone'),
+    PiconData(0xee44, 'Duotone'),
   );
 
   /// ![exclude-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-duotone.svg)
-  static const exclude = AppDuotoneIconData(
+  static const exclude = PiconDuotoneData(
     0xe883,
-    AppIconData(0xe882, 'Duotone'),
+    PiconData(0xe882, 'Duotone'),
   );
 
   /// ![exclude-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square-duotone.svg)
-  static const excludeSquare = AppDuotoneIconData(
+  static const excludeSquare = PiconDuotoneData(
     0xe881,
-    AppIconData(0xe880, 'Duotone'),
+    PiconData(0xe880, 'Duotone'),
   );
 
   /// ![export-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export-duotone.svg)
-  static const export = AppDuotoneIconData(
+  static const export = PiconDuotoneData(
     0xeaf1,
-    AppIconData(0xeaf0, 'Duotone'),
+    PiconData(0xeaf0, 'Duotone'),
   );
 
   /// ![eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-duotone.svg)
-  static const eye = AppDuotoneIconData(
+  static const eye = PiconDuotoneData(
     0xe221,
-    AppIconData(0xe220, 'Duotone'),
+    PiconData(0xe220, 'Duotone'),
   );
 
   /// ![eye-closed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed-duotone.svg)
-  static const eyeClosed = AppDuotoneIconData(
+  static const eyeClosed = PiconDuotoneData(
     0xe223,
-    AppIconData(0xe222, 'Duotone'),
+    PiconData(0xe222, 'Duotone'),
   );
 
   /// ![eye-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash-duotone.svg)
-  static const eyeSlash = AppDuotoneIconData(
+  static const eyeSlash = PiconDuotoneData(
     0xe225,
-    AppIconData(0xe224, 'Duotone'),
+    PiconData(0xe224, 'Duotone'),
   );
 
   /// ![eyedropper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-duotone.svg)
-  static const eyedropper = AppDuotoneIconData(
+  static const eyedropper = PiconDuotoneData(
     0xe569,
-    AppIconData(0xe568, 'Duotone'),
+    PiconData(0xe568, 'Duotone'),
   );
 
   /// ![eyedropper-sample-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample-duotone.svg)
-  static const eyedropperSample = AppDuotoneIconData(
+  static const eyedropperSample = PiconDuotoneData(
     0xeac5,
-    AppIconData(0xeac4, 'Duotone'),
+    PiconData(0xeac4, 'Duotone'),
   );
 
   /// ![eyeglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses-duotone.svg)
-  static const eyeglasses = AppDuotoneIconData(
+  static const eyeglasses = PiconDuotoneData(
     0xe7bb,
-    AppIconData(0xe7ba, 'Duotone'),
+    PiconData(0xe7ba, 'Duotone'),
   );
 
   /// ![eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes-duotone.svg)
-  static const eyes = AppDuotoneIconData(
+  static const eyes = PiconDuotoneData(
     0xee5d,
-    AppIconData(0xee5c, 'Duotone'),
+    PiconData(0xee5c, 'Duotone'),
   );
 
   /// ![face-mask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask-duotone.svg)
-  static const faceMask = AppDuotoneIconData(
+  static const faceMask = PiconDuotoneData(
     0xe56b,
-    AppIconData(0xe56a, 'Duotone'),
+    PiconData(0xe56a, 'Duotone'),
   );
 
   /// ![facebook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo-duotone.svg)
-  static const facebookLogo = AppDuotoneIconData(
+  static const facebookLogo = PiconDuotoneData(
     0xe227,
-    AppIconData(0xe226, 'Duotone'),
+    PiconData(0xe226, 'Duotone'),
   );
 
   /// ![factory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory-duotone.svg)
-  static const factory = AppDuotoneIconData(
+  static const factory = PiconDuotoneData(
     0xe761,
-    AppIconData(0xe760, 'Duotone'),
+    PiconData(0xe760, 'Duotone'),
   );
 
   /// ![faders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-duotone.svg)
-  static const faders = AppDuotoneIconData(
+  static const faders = PiconDuotoneData(
     0xe229,
-    AppIconData(0xe228, 'Duotone'),
+    PiconData(0xe228, 'Duotone'),
   );
 
   /// ![faders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal-duotone.svg)
-  static const fadersHorizontal = AppDuotoneIconData(
+  static const fadersHorizontal = PiconDuotoneData(
     0xe22b,
-    AppIconData(0xe22a, 'Duotone'),
+    PiconData(0xe22a, 'Duotone'),
   );
 
   /// ![fallout-shelter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter-duotone.svg)
-  static const falloutShelter = AppDuotoneIconData(
+  static const falloutShelter = PiconDuotoneData(
     0xe9df,
-    AppIconData(0xe9de, 'Duotone'),
+    PiconData(0xe9de, 'Duotone'),
   );
 
   /// ![fan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan-duotone.svg)
-  static const fan = AppDuotoneIconData(
+  static const fan = PiconDuotoneData(
     0xe9f3,
-    AppIconData(0xe9f2, 'Duotone'),
+    PiconData(0xe9f2, 'Duotone'),
   );
 
   /// ![farm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm-duotone.svg)
-  static const farm = AppDuotoneIconData(
+  static const farm = PiconDuotoneData(
     0xec71,
-    AppIconData(0xec70, 'Duotone'),
+    PiconData(0xec70, 'Duotone'),
   );
 
   /// ![fast-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-duotone.svg)
-  static const fastForward = AppDuotoneIconData(
+  static const fastForward = PiconDuotoneData(
     0xe6a7,
-    AppIconData(0xe6a6, 'Duotone'),
+    PiconData(0xe6a6, 'Duotone'),
   );
 
   /// ![fast-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle-duotone.svg)
-  static const fastForwardCircle = AppDuotoneIconData(
+  static const fastForwardCircle = PiconDuotoneData(
     0xe22d,
-    AppIconData(0xe22c, 'Duotone'),
+    PiconData(0xe22c, 'Duotone'),
   );
 
   /// ![feather-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather-duotone.svg)
-  static const feather = AppDuotoneIconData(
+  static const feather = PiconDuotoneData(
     0xe9c1,
-    AppIconData(0xe9c0, 'Duotone'),
+    PiconData(0xe9c0, 'Duotone'),
   );
 
   /// ![fediverse-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo-duotone.svg)
-  static const fediverseLogo = AppDuotoneIconData(
+  static const fediverseLogo = PiconDuotoneData(
     0xed67,
-    AppIconData(0xed66, 'Duotone'),
+    PiconData(0xed66, 'Duotone'),
   );
 
   /// ![figma-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo-duotone.svg)
-  static const figmaLogo = AppDuotoneIconData(
+  static const figmaLogo = PiconDuotoneData(
     0xe22f,
-    AppIconData(0xe22e, 'Duotone'),
+    PiconData(0xe22e, 'Duotone'),
   );
 
   /// ![file-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-duotone.svg)
-  static const file = AppDuotoneIconData(
+  static const file = PiconDuotoneData(
     0xe231,
-    AppIconData(0xe230, 'Duotone'),
+    PiconData(0xe230, 'Duotone'),
   );
 
   /// ![file-archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive-duotone.svg)
-  static const fileArchive = AppDuotoneIconData(
+  static const fileArchive = PiconDuotoneData(
     0xeb2b,
-    AppIconData(0xeb2a, 'Duotone'),
+    PiconData(0xeb2a, 'Duotone'),
   );
 
   /// ![file-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down-duotone.svg)
-  static const fileArrowDown = AppDuotoneIconData(
+  static const fileArrowDown = PiconDuotoneData(
     0xe233,
-    AppIconData(0xe232, 'Duotone'),
+    PiconData(0xe232, 'Duotone'),
   );
 
   /// ![file-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up-duotone.svg)
-  static const fileArrowUp = AppDuotoneIconData(
+  static const fileArrowUp = PiconDuotoneData(
     0xe61f,
-    AppIconData(0xe61e, 'Duotone'),
+    PiconData(0xe61e, 'Duotone'),
   );
 
   /// ![file-audio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio-duotone.svg)
-  static const fileAudio = AppDuotoneIconData(
+  static const fileAudio = PiconDuotoneData(
     0xea21,
-    AppIconData(0xea20, 'Duotone'),
+    PiconData(0xea20, 'Duotone'),
   );
 
   /// ![file-c-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-duotone.svg)
-  static const fileC = AppDuotoneIconData(
+  static const fileC = PiconDuotoneData(
     0xeb36,
-    AppIconData(0xeb32, 'Duotone'),
+    PiconData(0xeb32, 'Duotone'),
   );
 
   /// ![file-c-sharp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp-duotone.svg)
-  static const fileCSharp = AppDuotoneIconData(
+  static const fileCSharp = PiconDuotoneData(
     0xeb31,
-    AppIconData(0xeb30, 'Duotone'),
+    PiconData(0xeb30, 'Duotone'),
   );
 
   /// ![file-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud-duotone.svg)
-  static const fileCloud = AppDuotoneIconData(
+  static const fileCloud = PiconDuotoneData(
     0xe95f,
-    AppIconData(0xe95e, 'Duotone'),
+    PiconData(0xe95e, 'Duotone'),
   );
 
   /// ![file-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code-duotone.svg)
-  static const fileCode = AppDuotoneIconData(
+  static const fileCode = PiconDuotoneData(
     0xe915,
-    AppIconData(0xe914, 'Duotone'),
+    PiconData(0xe914, 'Duotone'),
   );
 
   /// ![file-cpp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp-duotone.svg)
-  static const fileCpp = AppDuotoneIconData(
+  static const fileCpp = PiconDuotoneData(
     0xeb2f,
-    AppIconData(0xeb2e, 'Duotone'),
+    PiconData(0xeb2e, 'Duotone'),
   );
 
   /// ![file-css-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css-duotone.svg)
-  static const fileCss = AppDuotoneIconData(
+  static const fileCss = PiconDuotoneData(
     0xeb37,
-    AppIconData(0xeb34, 'Duotone'),
+    PiconData(0xeb34, 'Duotone'),
   );
 
   /// ![file-csv-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv-duotone.svg)
-  static const fileCsv = AppDuotoneIconData(
+  static const fileCsv = PiconDuotoneData(
     0xeb1d,
-    AppIconData(0xeb1c, 'Duotone'),
+    PiconData(0xeb1c, 'Duotone'),
   );
 
   /// ![file-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed-duotone.svg)
-  static const fileDashed = AppDuotoneIconData(
+  static const fileDashed = PiconDuotoneData(
     0xe705,
-    AppIconData(0xe704, 'Duotone'),
+    PiconData(0xe704, 'Duotone'),
   );
 
   /// ![file-doc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc-duotone.svg)
-  static const fileDoc = AppDuotoneIconData(
+  static const fileDoc = PiconDuotoneData(
     0xeb1f,
-    AppIconData(0xeb1e, 'Duotone'),
+    PiconData(0xeb1e, 'Duotone'),
   );
 
   /// ![file-html-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html-duotone.svg)
-  static const fileHtml = AppDuotoneIconData(
+  static const fileHtml = PiconDuotoneData(
     0xeb39,
-    AppIconData(0xeb38, 'Duotone'),
+    PiconData(0xeb38, 'Duotone'),
   );
 
   /// ![file-image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image-duotone.svg)
-  static const fileImage = AppDuotoneIconData(
+  static const fileImage = PiconDuotoneData(
     0xea25,
-    AppIconData(0xea24, 'Duotone'),
+    PiconData(0xea24, 'Duotone'),
   );
 
   /// ![file-ini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini-duotone.svg)
-  static const fileIni = AppDuotoneIconData(
+  static const fileIni = PiconDuotoneData(
     0xeb3b,
-    AppIconData(0xeb33, 'Duotone'),
+    PiconData(0xeb33, 'Duotone'),
   );
 
   /// ![file-jpg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg-duotone.svg)
-  static const fileJpg = AppDuotoneIconData(
+  static const fileJpg = PiconDuotoneData(
     0xeb1b,
-    AppIconData(0xeb1a, 'Duotone'),
+    PiconData(0xeb1a, 'Duotone'),
   );
 
   /// ![file-js-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js-duotone.svg)
-  static const fileJs = AppDuotoneIconData(
+  static const fileJs = PiconDuotoneData(
     0xeb25,
-    AppIconData(0xeb24, 'Duotone'),
+    PiconData(0xeb24, 'Duotone'),
   );
 
   /// ![file-jsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx-duotone.svg)
-  static const fileJsx = AppDuotoneIconData(
+  static const fileJsx = PiconDuotoneData(
     0xeb3d,
-    AppIconData(0xeb3a, 'Duotone'),
+    PiconData(0xeb3a, 'Duotone'),
   );
 
   /// ![file-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock-duotone.svg)
-  static const fileLock = AppDuotoneIconData(
+  static const fileLock = PiconDuotoneData(
     0xe95d,
-    AppIconData(0xe95c, 'Duotone'),
+    PiconData(0xe95c, 'Duotone'),
   );
 
   /// ![file-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass-duotone.svg)
-  static const fileMagnifyingGlass = AppDuotoneIconData(
+  static const fileMagnifyingGlass = PiconDuotoneData(
     0xe239,
-    AppIconData(0xe238, 'Duotone'),
+    PiconData(0xe238, 'Duotone'),
   );
 
   /// ![file-md-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md-duotone.svg)
-  static const fileMd = AppDuotoneIconData(
+  static const fileMd = PiconDuotoneData(
     0xed51,
-    AppIconData(0xed50, 'Duotone'),
+    PiconData(0xed50, 'Duotone'),
   );
 
   /// ![file-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus-duotone.svg)
-  static const fileMinus = AppDuotoneIconData(
+  static const fileMinus = PiconDuotoneData(
     0xe235,
-    AppIconData(0xe234, 'Duotone'),
+    PiconData(0xe234, 'Duotone'),
   );
 
   /// ![file-pdf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf-duotone.svg)
-  static const filePdf = AppDuotoneIconData(
+  static const filePdf = PiconDuotoneData(
     0xe703,
-    AppIconData(0xe702, 'Duotone'),
+    PiconData(0xe702, 'Duotone'),
   );
 
   /// ![file-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus-duotone.svg)
-  static const filePlus = AppDuotoneIconData(
+  static const filePlus = PiconDuotoneData(
     0xe237,
-    AppIconData(0xe236, 'Duotone'),
+    PiconData(0xe236, 'Duotone'),
   );
 
   /// ![file-png-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png-duotone.svg)
-  static const filePng = AppDuotoneIconData(
+  static const filePng = PiconDuotoneData(
     0xeb19,
-    AppIconData(0xeb18, 'Duotone'),
+    PiconData(0xeb18, 'Duotone'),
   );
 
   /// ![file-ppt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt-duotone.svg)
-  static const filePpt = AppDuotoneIconData(
+  static const filePpt = PiconDuotoneData(
     0xeb21,
-    AppIconData(0xeb20, 'Duotone'),
+    PiconData(0xeb20, 'Duotone'),
   );
 
   /// ![file-py-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py-duotone.svg)
-  static const filePy = AppDuotoneIconData(
+  static const filePy = PiconDuotoneData(
     0xeb2d,
-    AppIconData(0xeb2c, 'Duotone'),
+    PiconData(0xeb2c, 'Duotone'),
   );
 
   /// ![file-rs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs-duotone.svg)
-  static const fileRs = AppDuotoneIconData(
+  static const fileRs = PiconDuotoneData(
     0xeb29,
-    AppIconData(0xeb28, 'Duotone'),
+    PiconData(0xeb28, 'Duotone'),
   );
 
   /// ![file-sql-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql-duotone.svg)
-  static const fileSql = AppDuotoneIconData(
+  static const fileSql = PiconDuotoneData(
     0xed4f,
-    AppIconData(0xed4e, 'Duotone'),
+    PiconData(0xed4e, 'Duotone'),
   );
 
   /// ![file-svg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg-duotone.svg)
-  static const fileSvg = AppDuotoneIconData(
+  static const fileSvg = PiconDuotoneData(
     0xed09,
-    AppIconData(0xed08, 'Duotone'),
+    PiconData(0xed08, 'Duotone'),
   );
 
   /// ![file-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text-duotone.svg)
-  static const fileText = AppDuotoneIconData(
+  static const fileText = PiconDuotoneData(
     0xe23b,
-    AppIconData(0xe23a, 'Duotone'),
+    PiconData(0xe23a, 'Duotone'),
   );
 
   /// ![file-ts-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts-duotone.svg)
-  static const fileTs = AppDuotoneIconData(
+  static const fileTs = PiconDuotoneData(
     0xeb27,
-    AppIconData(0xeb26, 'Duotone'),
+    PiconData(0xeb26, 'Duotone'),
   );
 
   /// ![file-tsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx-duotone.svg)
-  static const fileTsx = AppDuotoneIconData(
+  static const fileTsx = PiconDuotoneData(
     0xeb3f,
-    AppIconData(0xeb3c, 'Duotone'),
+    PiconData(0xeb3c, 'Duotone'),
   );
 
   /// ![file-txt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt-duotone.svg)
-  static const fileTxt = AppDuotoneIconData(
+  static const fileTxt = PiconDuotoneData(
     0xeb43,
-    AppIconData(0xeb35, 'Duotone'),
+    PiconData(0xeb35, 'Duotone'),
   );
 
   /// ![file-video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video-duotone.svg)
-  static const fileVideo = AppDuotoneIconData(
+  static const fileVideo = PiconDuotoneData(
     0xea23,
-    AppIconData(0xea22, 'Duotone'),
+    PiconData(0xea22, 'Duotone'),
   );
 
   /// ![file-vue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue-duotone.svg)
-  static const fileVue = AppDuotoneIconData(
+  static const fileVue = PiconDuotoneData(
     0xeb47,
-    AppIconData(0xeb3e, 'Duotone'),
+    PiconData(0xeb3e, 'Duotone'),
   );
 
   /// ![file-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x-duotone.svg)
-  static const fileX = AppDuotoneIconData(
+  static const fileX = PiconDuotoneData(
     0xe23d,
-    AppIconData(0xe23c, 'Duotone'),
+    PiconData(0xe23c, 'Duotone'),
   );
 
   /// ![file-xls-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls-duotone.svg)
-  static const fileXls = AppDuotoneIconData(
+  static const fileXls = PiconDuotoneData(
     0xeb23,
-    AppIconData(0xeb22, 'Duotone'),
+    PiconData(0xeb22, 'Duotone'),
   );
 
   /// ![file-zip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip-duotone.svg)
-  static const fileZip = AppDuotoneIconData(
+  static const fileZip = PiconDuotoneData(
     0xe959,
-    AppIconData(0xe958, 'Duotone'),
+    PiconData(0xe958, 'Duotone'),
   );
 
   /// ![files-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files-duotone.svg)
-  static const files = AppDuotoneIconData(
+  static const files = PiconDuotoneData(
     0xe711,
-    AppIconData(0xe710, 'Duotone'),
+    PiconData(0xe710, 'Duotone'),
   );
 
   /// ![film-reel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel-duotone.svg)
-  static const filmReel = AppDuotoneIconData(
+  static const filmReel = PiconDuotoneData(
     0xe8c1,
-    AppIconData(0xe8c0, 'Duotone'),
+    PiconData(0xe8c0, 'Duotone'),
   );
 
   /// ![film-script-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script-duotone.svg)
-  static const filmScript = AppDuotoneIconData(
+  static const filmScript = PiconDuotoneData(
     0xeb51,
-    AppIconData(0xeb50, 'Duotone'),
+    PiconData(0xeb50, 'Duotone'),
   );
 
   /// ![film-slate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate-duotone.svg)
-  static const filmSlate = AppDuotoneIconData(
+  static const filmSlate = PiconDuotoneData(
     0xe8c3,
-    AppIconData(0xe8c2, 'Duotone'),
+    PiconData(0xe8c2, 'Duotone'),
   );
 
   /// ![film-strip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip-duotone.svg)
-  static const filmStrip = AppDuotoneIconData(
+  static const filmStrip = PiconDuotoneData(
     0xe793,
-    AppIconData(0xe792, 'Duotone'),
+    PiconData(0xe792, 'Duotone'),
   );
 
   /// ![fingerprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-duotone.svg)
-  static const fingerprint = AppDuotoneIconData(
+  static const fingerprint = PiconDuotoneData(
     0xe23f,
-    AppIconData(0xe23e, 'Duotone'),
+    PiconData(0xe23e, 'Duotone'),
   );
 
   /// ![fingerprint-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple-duotone.svg)
-  static const fingerprintSimple = AppDuotoneIconData(
+  static const fingerprintSimple = PiconDuotoneData(
     0xe241,
-    AppIconData(0xe240, 'Duotone'),
+    PiconData(0xe240, 'Duotone'),
   );
 
   /// ![finn-the-human-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human-duotone.svg)
-  static const finnTheHuman = AppDuotoneIconData(
+  static const finnTheHuman = PiconDuotoneData(
     0xe56d,
-    AppIconData(0xe56c, 'Duotone'),
+    PiconData(0xe56c, 'Duotone'),
   );
 
   /// ![fire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-duotone.svg)
-  static const fire = AppDuotoneIconData(
+  static const fire = PiconDuotoneData(
     0xe243,
-    AppIconData(0xe242, 'Duotone'),
+    PiconData(0xe242, 'Duotone'),
   );
 
   /// ![fire-extinguisher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher-duotone.svg)
-  static const fireExtinguisher = AppDuotoneIconData(
+  static const fireExtinguisher = PiconDuotoneData(
     0xe9e9,
-    AppIconData(0xe9e8, 'Duotone'),
+    PiconData(0xe9e8, 'Duotone'),
   );
 
   /// ![fire-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple-duotone.svg)
-  static const fireSimple = AppDuotoneIconData(
+  static const fireSimple = PiconDuotoneData(
     0xe621,
-    AppIconData(0xe620, 'Duotone'),
+    PiconData(0xe620, 'Duotone'),
   );
 
   /// ![fire-truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck-duotone.svg)
-  static const fireTruck = AppDuotoneIconData(
+  static const fireTruck = PiconDuotoneData(
     0xe575,
-    AppIconData(0xe574, 'Duotone'),
+    PiconData(0xe574, 'Duotone'),
   );
 
   /// ![first-aid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-duotone.svg)
-  static const firstAid = AppDuotoneIconData(
+  static const firstAid = PiconDuotoneData(
     0xe56f,
-    AppIconData(0xe56e, 'Duotone'),
+    PiconData(0xe56e, 'Duotone'),
   );
 
   /// ![first-aid-kit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit-duotone.svg)
-  static const firstAidKit = AppDuotoneIconData(
+  static const firstAidKit = PiconDuotoneData(
     0xe571,
-    AppIconData(0xe570, 'Duotone'),
+    PiconData(0xe570, 'Duotone'),
   );
 
   /// ![fish-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-duotone.svg)
-  static const fish = AppDuotoneIconData(
+  static const fish = PiconDuotoneData(
     0xe729,
-    AppIconData(0xe728, 'Duotone'),
+    PiconData(0xe728, 'Duotone'),
   );
 
   /// ![fish-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple-duotone.svg)
-  static const fishSimple = AppDuotoneIconData(
+  static const fishSimple = PiconDuotoneData(
     0xe72b,
-    AppIconData(0xe72a, 'Duotone'),
+    PiconData(0xe72a, 'Duotone'),
   );
 
   /// ![flag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-duotone.svg)
-  static const flag = AppDuotoneIconData(
+  static const flag = PiconDuotoneData(
     0xe245,
-    AppIconData(0xe244, 'Duotone'),
+    PiconData(0xe244, 'Duotone'),
   );
 
   /// ![flag-banner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-duotone.svg)
-  static const flagBanner = AppDuotoneIconData(
+  static const flagBanner = PiconDuotoneData(
     0xe623,
-    AppIconData(0xe622, 'Duotone'),
+    PiconData(0xe622, 'Duotone'),
   );
 
   /// ![flag-banner-fold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold-duotone.svg)
-  static const flagBannerFold = AppDuotoneIconData(
+  static const flagBannerFold = PiconDuotoneData(
     0xecf3,
-    AppIconData(0xecf2, 'Duotone'),
+    PiconData(0xecf2, 'Duotone'),
   );
 
   /// ![flag-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered-duotone.svg)
-  static const flagCheckered = AppDuotoneIconData(
+  static const flagCheckered = PiconDuotoneData(
     0xea39,
-    AppIconData(0xea38, 'Duotone'),
+    PiconData(0xea38, 'Duotone'),
   );
 
   /// ![flag-pennant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant-duotone.svg)
-  static const flagPennant = AppDuotoneIconData(
+  static const flagPennant = PiconDuotoneData(
     0xecf1,
-    AppIconData(0xecf0, 'Duotone'),
+    PiconData(0xecf0, 'Duotone'),
   );
 
   /// ![flame-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame-duotone.svg)
-  static const flame = AppDuotoneIconData(
+  static const flame = PiconDuotoneData(
     0xe625,
-    AppIconData(0xe624, 'Duotone'),
+    PiconData(0xe624, 'Duotone'),
   );
 
   /// ![flashlight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight-duotone.svg)
-  static const flashlight = AppDuotoneIconData(
+  static const flashlight = PiconDuotoneData(
     0xe247,
-    AppIconData(0xe246, 'Duotone'),
+    PiconData(0xe246, 'Duotone'),
   );
 
   /// ![flask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask-duotone.svg)
-  static const flask = AppDuotoneIconData(
+  static const flask = PiconDuotoneData(
     0xe79f,
-    AppIconData(0xe79e, 'Duotone'),
+    PiconData(0xe79e, 'Duotone'),
   );
 
   /// ![flip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal-duotone.svg)
-  static const flipHorizontal = AppDuotoneIconData(
+  static const flipHorizontal = PiconDuotoneData(
     0xed6b,
-    AppIconData(0xed6a, 'Duotone'),
+    PiconData(0xed6a, 'Duotone'),
   );
 
   /// ![flip-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical-duotone.svg)
-  static const flipVertical = AppDuotoneIconData(
+  static const flipVertical = PiconDuotoneData(
     0xed6d,
-    AppIconData(0xed6c, 'Duotone'),
+    PiconData(0xed6c, 'Duotone'),
   );
 
   /// ![floppy-disk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-duotone.svg)
-  static const floppyDisk = AppDuotoneIconData(
+  static const floppyDisk = PiconDuotoneData(
     0xe249,
-    AppIconData(0xe248, 'Duotone'),
+    PiconData(0xe248, 'Duotone'),
   );
 
   /// ![floppy-disk-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back-duotone.svg)
-  static const floppyDiskBack = AppDuotoneIconData(
+  static const floppyDiskBack = PiconDuotoneData(
     0xeaf5,
-    AppIconData(0xeaf4, 'Duotone'),
+    PiconData(0xeaf4, 'Duotone'),
   );
 
   /// ![flow-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow-duotone.svg)
-  static const flowArrow = AppDuotoneIconData(
+  static const flowArrow = PiconDuotoneData(
     0xe6ed,
-    AppIconData(0xe6ec, 'Duotone'),
+    PiconData(0xe6ec, 'Duotone'),
   );
 
   /// ![flower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-duotone.svg)
-  static const flower = AppDuotoneIconData(
+  static const flower = PiconDuotoneData(
     0xe75f,
-    AppIconData(0xe75e, 'Duotone'),
+    PiconData(0xe75e, 'Duotone'),
   );
 
   /// ![flower-lotus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus-duotone.svg)
-  static const flowerLotus = AppDuotoneIconData(
+  static const flowerLotus = PiconDuotoneData(
     0xe6cd,
-    AppIconData(0xe6cc, 'Duotone'),
+    PiconData(0xe6cc, 'Duotone'),
   );
 
   /// ![flower-tulip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip-duotone.svg)
-  static const flowerTulip = AppDuotoneIconData(
+  static const flowerTulip = PiconDuotoneData(
     0xeacd,
-    AppIconData(0xeacc, 'Duotone'),
+    PiconData(0xeacc, 'Duotone'),
   );
 
   /// ![flying-saucer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer-duotone.svg)
-  static const flyingSaucer = AppDuotoneIconData(
+  static const flyingSaucer = PiconDuotoneData(
     0xeb4b,
-    AppIconData(0xeb4a, 'Duotone'),
+    PiconData(0xeb4a, 'Duotone'),
   );
 
   /// ![folder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-duotone.svg)
-  static const folder = AppDuotoneIconData(
+  static const folder = PiconDuotoneData(
     0xe24b,
-    AppIconData(0xe24a, 'Duotone'),
+    PiconData(0xe24a, 'Duotone'),
   );
 
   /// ![folder-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed-duotone.svg)
-  static const folderDashed = AppDuotoneIconData(
+  static const folderDashed = PiconDuotoneData(
     0xe8f9,
-    AppIconData(0xe8f8, 'Duotone'),
+    PiconData(0xe8f8, 'Duotone'),
   );
 
   /// ![folder-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock-duotone.svg)
-  static const folderLock = AppDuotoneIconData(
+  static const folderLock = PiconDuotoneData(
     0xea3d,
-    AppIconData(0xea3c, 'Duotone'),
+    PiconData(0xea3c, 'Duotone'),
   );
 
   /// ![folder-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus-duotone.svg)
-  static const folderMinus = AppDuotoneIconData(
+  static const folderMinus = PiconDuotoneData(
     0xe255,
-    AppIconData(0xe254, 'Duotone'),
+    PiconData(0xe254, 'Duotone'),
   );
 
   /// ![folder-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open-duotone.svg)
-  static const folderOpen = AppDuotoneIconData(
+  static const folderOpen = PiconDuotoneData(
     0xe257,
-    AppIconData(0xe256, 'Duotone'),
+    PiconData(0xe256, 'Duotone'),
   );
 
   /// ![folder-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus-duotone.svg)
-  static const folderPlus = AppDuotoneIconData(
+  static const folderPlus = PiconDuotoneData(
     0xe259,
-    AppIconData(0xe258, 'Duotone'),
+    PiconData(0xe258, 'Duotone'),
   );
 
   /// ![folder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-duotone.svg)
-  static const folderSimple = AppDuotoneIconData(
+  static const folderSimple = PiconDuotoneData(
     0xe25b,
-    AppIconData(0xe25a, 'Duotone'),
+    PiconData(0xe25a, 'Duotone'),
   );
 
   /// ![folder-simple-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed-duotone.svg)
-  static const folderSimpleDashed = AppDuotoneIconData(
+  static const folderSimpleDashed = PiconDuotoneData(
     0xec2b,
-    AppIconData(0xec2a, 'Duotone'),
+    PiconData(0xec2a, 'Duotone'),
   );
 
   /// ![folder-simple-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock-duotone.svg)
-  static const folderSimpleLock = AppDuotoneIconData(
+  static const folderSimpleLock = PiconDuotoneData(
     0xeb5f,
-    AppIconData(0xeb5e, 'Duotone'),
+    PiconData(0xeb5e, 'Duotone'),
   );
 
   /// ![folder-simple-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus-duotone.svg)
-  static const folderSimpleMinus = AppDuotoneIconData(
+  static const folderSimpleMinus = PiconDuotoneData(
     0xe25d,
-    AppIconData(0xe25c, 'Duotone'),
+    PiconData(0xe25c, 'Duotone'),
   );
 
   /// ![folder-simple-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus-duotone.svg)
-  static const folderSimplePlus = AppDuotoneIconData(
+  static const folderSimplePlus = PiconDuotoneData(
     0xe25f,
-    AppIconData(0xe25e, 'Duotone'),
+    PiconData(0xe25e, 'Duotone'),
   );
 
   /// ![folder-simple-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star-duotone.svg)
-  static const folderSimpleStar = AppDuotoneIconData(
+  static const folderSimpleStar = PiconDuotoneData(
     0xec2f,
-    AppIconData(0xec2e, 'Duotone'),
+    PiconData(0xec2e, 'Duotone'),
   );
 
   /// ![folder-simple-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user-duotone.svg)
-  static const folderSimpleUser = AppDuotoneIconData(
+  static const folderSimpleUser = PiconDuotoneData(
     0xeb61,
-    AppIconData(0xeb60, 'Duotone'),
+    PiconData(0xeb60, 'Duotone'),
   );
 
   /// ![folder-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star-duotone.svg)
-  static const folderStar = AppDuotoneIconData(
+  static const folderStar = PiconDuotoneData(
     0xea87,
-    AppIconData(0xea86, 'Duotone'),
+    PiconData(0xea86, 'Duotone'),
   );
 
   /// ![folder-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user-duotone.svg)
-  static const folderUser = AppDuotoneIconData(
+  static const folderUser = PiconDuotoneData(
     0xeb4c,
-    AppIconData(0xeb46, 'Duotone'),
+    PiconData(0xeb46, 'Duotone'),
   );
 
   /// ![folders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders-duotone.svg)
-  static const folders = AppDuotoneIconData(
+  static const folders = PiconDuotoneData(
     0xe261,
-    AppIconData(0xe260, 'Duotone'),
+    PiconData(0xe260, 'Duotone'),
   );
 
   /// ![football-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-duotone.svg)
-  static const football = AppDuotoneIconData(
+  static const football = PiconDuotoneData(
     0xe719,
-    AppIconData(0xe718, 'Duotone'),
+    PiconData(0xe718, 'Duotone'),
   );
 
   /// ![football-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet-duotone.svg)
-  static const footballHelmet = AppDuotoneIconData(
+  static const footballHelmet = PiconDuotoneData(
     0xee4d,
-    AppIconData(0xee4c, 'Duotone'),
+    PiconData(0xee4c, 'Duotone'),
   );
 
   /// ![footprints-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints-duotone.svg)
-  static const footprints = AppDuotoneIconData(
+  static const footprints = PiconDuotoneData(
     0xea89,
-    AppIconData(0xea88, 'Duotone'),
+    PiconData(0xea88, 'Duotone'),
   );
 
   /// ![fork-knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife-duotone.svg)
-  static const forkKnife = AppDuotoneIconData(
+  static const forkKnife = PiconDuotoneData(
     0xe263,
-    AppIconData(0xe262, 'Duotone'),
+    PiconData(0xe262, 'Duotone'),
   );
 
   /// ![four-k-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k-duotone.svg)
-  static const fourK = AppDuotoneIconData(
+  static const fourK = PiconDuotoneData(
     0xea5d,
-    AppIconData(0xea5c, 'Duotone'),
+    PiconData(0xea5c, 'Duotone'),
   );
 
   /// ![frame-corners-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners-duotone.svg)
-  static const frameCorners = AppDuotoneIconData(
+  static const frameCorners = PiconDuotoneData(
     0xe627,
-    AppIconData(0xe626, 'Duotone'),
+    PiconData(0xe626, 'Duotone'),
   );
 
   /// ![framer-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo-duotone.svg)
-  static const framerLogo = AppDuotoneIconData(
+  static const framerLogo = PiconDuotoneData(
     0xe265,
-    AppIconData(0xe264, 'Duotone'),
+    PiconData(0xe264, 'Duotone'),
   );
 
   /// ![function-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function-duotone.svg)
-  static const function = AppDuotoneIconData(
+  static const function = PiconDuotoneData(
     0xebe5,
-    AppIconData(0xebe4, 'Duotone'),
+    PiconData(0xebe4, 'Duotone'),
   );
 
   /// ![funnel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-duotone.svg)
-  static const funnel = AppDuotoneIconData(
+  static const funnel = PiconDuotoneData(
     0xe267,
-    AppIconData(0xe266, 'Duotone'),
+    PiconData(0xe266, 'Duotone'),
   );
 
   /// ![funnel-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-duotone.svg)
-  static const funnelSimple = AppDuotoneIconData(
+  static const funnelSimple = PiconDuotoneData(
     0xe269,
-    AppIconData(0xe268, 'Duotone'),
+    PiconData(0xe268, 'Duotone'),
   );
 
   /// ![funnel-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x-duotone.svg)
-  static const funnelSimpleX = AppDuotoneIconData(
+  static const funnelSimpleX = PiconDuotoneData(
     0xe26b,
-    AppIconData(0xe26a, 'Duotone'),
+    PiconData(0xe26a, 'Duotone'),
   );
 
   /// ![funnel-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x-duotone.svg)
-  static const funnelX = AppDuotoneIconData(
+  static const funnelX = PiconDuotoneData(
     0xe26d,
-    AppIconData(0xe26c, 'Duotone'),
+    PiconData(0xe26c, 'Duotone'),
   );
 
   /// ![game-controller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller-duotone.svg)
-  static const gameController = AppDuotoneIconData(
+  static const gameController = PiconDuotoneData(
     0xe26f,
-    AppIconData(0xe26e, 'Duotone'),
+    PiconData(0xe26e, 'Duotone'),
   );
 
   /// ![garage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage-duotone.svg)
-  static const garage = AppDuotoneIconData(
+  static const garage = PiconDuotoneData(
     0xecd7,
-    AppIconData(0xecd6, 'Duotone'),
+    PiconData(0xecd6, 'Duotone'),
   );
 
   /// ![gas-can-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can-duotone.svg)
-  static const gasCan = AppDuotoneIconData(
+  static const gasCan = PiconDuotoneData(
     0xe8cf,
-    AppIconData(0xe8ce, 'Duotone'),
+    PiconData(0xe8ce, 'Duotone'),
   );
 
   /// ![gas-pump-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump-duotone.svg)
-  static const gasPump = AppDuotoneIconData(
+  static const gasPump = PiconDuotoneData(
     0xe769,
-    AppIconData(0xe768, 'Duotone'),
+    PiconData(0xe768, 'Duotone'),
   );
 
   /// ![gauge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge-duotone.svg)
-  static const gauge = AppDuotoneIconData(
+  static const gauge = PiconDuotoneData(
     0xe629,
-    AppIconData(0xe628, 'Duotone'),
+    PiconData(0xe628, 'Duotone'),
   );
 
   /// ![gavel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel-duotone.svg)
-  static const gavel = AppDuotoneIconData(
+  static const gavel = PiconDuotoneData(
     0xea33,
-    AppIconData(0xea32, 'Duotone'),
+    PiconData(0xea32, 'Duotone'),
   );
 
   /// ![gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-duotone.svg)
-  static const gear = AppDuotoneIconData(
+  static const gear = PiconDuotoneData(
     0xe271,
-    AppIconData(0xe270, 'Duotone'),
+    PiconData(0xe270, 'Duotone'),
   );
 
   /// ![gear-fine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine-duotone.svg)
-  static const gearFine = AppDuotoneIconData(
+  static const gearFine = PiconDuotoneData(
     0xe87d,
-    AppIconData(0xe87c, 'Duotone'),
+    PiconData(0xe87c, 'Duotone'),
   );
 
   /// ![gear-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six-duotone.svg)
-  static const gearSix = AppDuotoneIconData(
+  static const gearSix = PiconDuotoneData(
     0xe273,
-    AppIconData(0xe272, 'Duotone'),
+    PiconData(0xe272, 'Duotone'),
   );
 
   /// ![gender-female-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female-duotone.svg)
-  static const genderFemale = AppDuotoneIconData(
+  static const genderFemale = PiconDuotoneData(
     0xe6e1,
-    AppIconData(0xe6e0, 'Duotone'),
+    PiconData(0xe6e0, 'Duotone'),
   );
 
   /// ![gender-intersex-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex-duotone.svg)
-  static const genderIntersex = AppDuotoneIconData(
+  static const genderIntersex = PiconDuotoneData(
     0xe6e7,
-    AppIconData(0xe6e6, 'Duotone'),
+    PiconData(0xe6e6, 'Duotone'),
   );
 
   /// ![gender-male-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male-duotone.svg)
-  static const genderMale = AppDuotoneIconData(
+  static const genderMale = PiconDuotoneData(
     0xe6e3,
-    AppIconData(0xe6e2, 'Duotone'),
+    PiconData(0xe6e2, 'Duotone'),
   );
 
   /// ![gender-neuter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter-duotone.svg)
-  static const genderNeuter = AppDuotoneIconData(
+  static const genderNeuter = PiconDuotoneData(
     0xe6eb,
-    AppIconData(0xe6ea, 'Duotone'),
+    PiconData(0xe6ea, 'Duotone'),
   );
 
   /// ![gender-nonbinary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary-duotone.svg)
-  static const genderNonbinary = AppDuotoneIconData(
+  static const genderNonbinary = PiconDuotoneData(
     0xe6e5,
-    AppIconData(0xe6e4, 'Duotone'),
+    PiconData(0xe6e4, 'Duotone'),
   );
 
   /// ![gender-transgender-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender-duotone.svg)
-  static const genderTransgender = AppDuotoneIconData(
+  static const genderTransgender = PiconDuotoneData(
     0xe6e9,
-    AppIconData(0xe6e8, 'Duotone'),
+    PiconData(0xe6e8, 'Duotone'),
   );
 
   /// ![ghost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost-duotone.svg)
-  static const ghost = AppDuotoneIconData(
+  static const ghost = PiconDuotoneData(
     0xe62b,
-    AppIconData(0xe62a, 'Duotone'),
+    PiconData(0xe62a, 'Duotone'),
   );
 
   /// ![gif-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif-duotone.svg)
-  static const gif = AppDuotoneIconData(
+  static const gif = PiconDuotoneData(
     0xe275,
-    AppIconData(0xe274, 'Duotone'),
+    PiconData(0xe274, 'Duotone'),
   );
 
   /// ![gift-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift-duotone.svg)
-  static const gift = AppDuotoneIconData(
+  static const gift = PiconDuotoneData(
     0xe277,
-    AppIconData(0xe276, 'Duotone'),
+    PiconData(0xe276, 'Duotone'),
   );
 
   /// ![git-branch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch-duotone.svg)
-  static const gitBranch = AppDuotoneIconData(
+  static const gitBranch = PiconDuotoneData(
     0xe279,
-    AppIconData(0xe278, 'Duotone'),
+    PiconData(0xe278, 'Duotone'),
   );
 
   /// ![git-commit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit-duotone.svg)
-  static const gitCommit = AppDuotoneIconData(
+  static const gitCommit = PiconDuotoneData(
     0xe27b,
-    AppIconData(0xe27a, 'Duotone'),
+    PiconData(0xe27a, 'Duotone'),
   );
 
   /// ![git-diff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff-duotone.svg)
-  static const gitDiff = AppDuotoneIconData(
+  static const gitDiff = PiconDuotoneData(
     0xe27d,
-    AppIconData(0xe27c, 'Duotone'),
+    PiconData(0xe27c, 'Duotone'),
   );
 
   /// ![git-fork-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork-duotone.svg)
-  static const gitFork = AppDuotoneIconData(
+  static const gitFork = PiconDuotoneData(
     0xe27f,
-    AppIconData(0xe27e, 'Duotone'),
+    PiconData(0xe27e, 'Duotone'),
   );
 
   /// ![git-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge-duotone.svg)
-  static const gitMerge = AppDuotoneIconData(
+  static const gitMerge = PiconDuotoneData(
     0xe281,
-    AppIconData(0xe280, 'Duotone'),
+    PiconData(0xe280, 'Duotone'),
   );
 
   /// ![git-pull-request-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request-duotone.svg)
-  static const gitPullRequest = AppDuotoneIconData(
+  static const gitPullRequest = PiconDuotoneData(
     0xe283,
-    AppIconData(0xe282, 'Duotone'),
+    PiconData(0xe282, 'Duotone'),
   );
 
   /// ![github-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo-duotone.svg)
-  static const githubLogo = AppDuotoneIconData(
+  static const githubLogo = PiconDuotoneData(
     0xe577,
-    AppIconData(0xe576, 'Duotone'),
+    PiconData(0xe576, 'Duotone'),
   );
 
   /// ![gitlab-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-duotone.svg)
-  static const gitlabLogo = AppDuotoneIconData(
+  static const gitlabLogo = PiconDuotoneData(
     0xe695,
-    AppIconData(0xe694, 'Duotone'),
+    PiconData(0xe694, 'Duotone'),
   );
 
   /// ![gitlab-logo-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple-duotone.svg)
-  static const gitlabLogoSimple = AppDuotoneIconData(
+  static const gitlabLogoSimple = PiconDuotoneData(
     0xe697,
-    AppIconData(0xe696, 'Duotone'),
+    PiconData(0xe696, 'Duotone'),
   );
 
   /// ![globe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-duotone.svg)
-  static const globe = AppDuotoneIconData(
+  static const globe = PiconDuotoneData(
     0xe289,
-    AppIconData(0xe288, 'Duotone'),
+    PiconData(0xe288, 'Duotone'),
   );
 
   /// ![globe-hemisphere-east-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east-duotone.svg)
-  static const globeHemisphereEast = AppDuotoneIconData(
+  static const globeHemisphereEast = PiconDuotoneData(
     0xe28b,
-    AppIconData(0xe28a, 'Duotone'),
+    PiconData(0xe28a, 'Duotone'),
   );
 
   /// ![globe-hemisphere-west-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west-duotone.svg)
-  static const globeHemisphereWest = AppDuotoneIconData(
+  static const globeHemisphereWest = PiconDuotoneData(
     0xe28d,
-    AppIconData(0xe28c, 'Duotone'),
+    PiconData(0xe28c, 'Duotone'),
   );
 
   /// ![globe-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-duotone.svg)
-  static const globeSimple = AppDuotoneIconData(
+  static const globeSimple = PiconDuotoneData(
     0xe28f,
-    AppIconData(0xe28e, 'Duotone'),
+    PiconData(0xe28e, 'Duotone'),
   );
 
   /// ![globe-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x-duotone.svg)
-  static const globeSimpleX = AppDuotoneIconData(
+  static const globeSimpleX = PiconDuotoneData(
     0xe285,
-    AppIconData(0xe284, 'Duotone'),
+    PiconData(0xe284, 'Duotone'),
   );
 
   /// ![globe-stand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand-duotone.svg)
-  static const globeStand = AppDuotoneIconData(
+  static const globeStand = PiconDuotoneData(
     0xe291,
-    AppIconData(0xe290, 'Duotone'),
+    PiconData(0xe290, 'Duotone'),
   );
 
   /// ![globe-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x-duotone.svg)
-  static const globeX = AppDuotoneIconData(
+  static const globeX = PiconDuotoneData(
     0xe287,
-    AppIconData(0xe286, 'Duotone'),
+    PiconData(0xe286, 'Duotone'),
   );
 
   /// ![goggles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles-duotone.svg)
-  static const goggles = AppDuotoneIconData(
+  static const goggles = PiconDuotoneData(
     0xecb5,
-    AppIconData(0xecb4, 'Duotone'),
+    PiconData(0xecb4, 'Duotone'),
   );
 
   /// ![golf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf-duotone.svg)
-  static const golf = AppDuotoneIconData(
+  static const golf = PiconDuotoneData(
     0xea3f,
-    AppIconData(0xea3e, 'Duotone'),
+    PiconData(0xea3e, 'Duotone'),
   );
 
   /// ![goodreads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo-duotone.svg)
-  static const goodreadsLogo = AppDuotoneIconData(
+  static const goodreadsLogo = PiconDuotoneData(
     0xed11,
-    AppIconData(0xed10, 'Duotone'),
+    PiconData(0xed10, 'Duotone'),
   );
 
   /// ![google-cardboard-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo-duotone.svg)
-  static const googleCardboardLogo = AppDuotoneIconData(
+  static const googleCardboardLogo = PiconDuotoneData(
     0xe7b7,
-    AppIconData(0xe7b6, 'Duotone'),
+    PiconData(0xe7b6, 'Duotone'),
   );
 
   /// ![google-chrome-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo-duotone.svg)
-  static const googleChromeLogo = AppDuotoneIconData(
+  static const googleChromeLogo = PiconDuotoneData(
     0xe977,
-    AppIconData(0xe976, 'Duotone'),
+    PiconData(0xe976, 'Duotone'),
   );
 
   /// ![google-drive-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo-duotone.svg)
-  static const googleDriveLogo = AppDuotoneIconData(
+  static const googleDriveLogo = PiconDuotoneData(
     0xe8f7,
-    AppIconData(0xe8f6, 'Duotone'),
+    PiconData(0xe8f6, 'Duotone'),
   );
 
   /// ![google-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo-duotone.svg)
-  static const googleLogo = AppDuotoneIconData(
+  static const googleLogo = PiconDuotoneData(
     0xe293,
-    AppIconData(0xe292, 'Duotone'),
+    PiconData(0xe292, 'Duotone'),
   );
 
   /// ![google-photos-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo-duotone.svg)
-  static const googlePhotosLogo = AppDuotoneIconData(
+  static const googlePhotosLogo = PiconDuotoneData(
     0xeb93,
-    AppIconData(0xeb92, 'Duotone'),
+    PiconData(0xeb92, 'Duotone'),
   );
 
   /// ![google-play-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo-duotone.svg)
-  static const googlePlayLogo = AppDuotoneIconData(
+  static const googlePlayLogo = PiconDuotoneData(
     0xe295,
-    AppIconData(0xe294, 'Duotone'),
+    PiconData(0xe294, 'Duotone'),
   );
 
   /// ![google-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo-duotone.svg)
-  static const googlePodcastsLogo = AppDuotoneIconData(
+  static const googlePodcastsLogo = PiconDuotoneData(
     0xeb95,
-    AppIconData(0xeb94, 'Duotone'),
+    PiconData(0xeb94, 'Duotone'),
   );
 
   /// ![gps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-duotone.svg)
-  static const gps = AppDuotoneIconData(
+  static const gps = PiconDuotoneData(
     0xedd9,
-    AppIconData(0xedd8, 'Duotone'),
+    PiconData(0xedd8, 'Duotone'),
   );
 
   /// ![gps-fix-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix-duotone.svg)
-  static const gpsFix = AppDuotoneIconData(
+  static const gpsFix = PiconDuotoneData(
     0xedd7,
-    AppIconData(0xedd6, 'Duotone'),
+    PiconData(0xedd6, 'Duotone'),
   );
 
   /// ![gps-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash-duotone.svg)
-  static const gpsSlash = AppDuotoneIconData(
+  static const gpsSlash = PiconDuotoneData(
     0xedd5,
-    AppIconData(0xedd4, 'Duotone'),
+    PiconData(0xedd4, 'Duotone'),
   );
 
   /// ![gradient-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient-duotone.svg)
-  static const gradient = AppDuotoneIconData(
+  static const gradient = PiconDuotoneData(
     0xeb4d,
-    AppIconData(0xeb42, 'Duotone'),
+    PiconData(0xeb42, 'Duotone'),
   );
 
   /// ![graduation-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap-duotone.svg)
-  static const graduationCap = AppDuotoneIconData(
+  static const graduationCap = PiconDuotoneData(
     0xe62d,
-    AppIconData(0xe62c, 'Duotone'),
+    PiconData(0xe62c, 'Duotone'),
   );
 
   /// ![grains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-duotone.svg)
-  static const grains = AppDuotoneIconData(
+  static const grains = PiconDuotoneData(
     0xec69,
-    AppIconData(0xec68, 'Duotone'),
+    PiconData(0xec68, 'Duotone'),
   );
 
   /// ![grains-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash-duotone.svg)
-  static const grainsSlash = AppDuotoneIconData(
+  static const grainsSlash = PiconDuotoneData(
     0xec6b,
-    AppIconData(0xec6a, 'Duotone'),
+    PiconData(0xec6a, 'Duotone'),
   );
 
   /// ![graph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph-duotone.svg)
-  static const graph = AppDuotoneIconData(
+  static const graph = PiconDuotoneData(
     0xeb59,
-    AppIconData(0xeb58, 'Duotone'),
+    PiconData(0xeb58, 'Duotone'),
   );
 
   /// ![graphics-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card-duotone.svg)
-  static const graphicsCard = AppDuotoneIconData(
+  static const graphicsCard = PiconDuotoneData(
     0xe613,
-    AppIconData(0xe612, 'Duotone'),
+    PiconData(0xe612, 'Duotone'),
   );
 
   /// ![greater-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-duotone.svg)
-  static const greaterThan = AppDuotoneIconData(
+  static const greaterThan = PiconDuotoneData(
     0xedc5,
-    AppIconData(0xedc4, 'Duotone'),
+    PiconData(0xedc4, 'Duotone'),
   );
 
   /// ![greater-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal-duotone.svg)
-  static const greaterThanOrEqual = AppDuotoneIconData(
+  static const greaterThanOrEqual = PiconDuotoneData(
     0xeda3,
-    AppIconData(0xeda2, 'Duotone'),
+    PiconData(0xeda2, 'Duotone'),
   );
 
   /// ![grid-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four-duotone.svg)
-  static const gridFour = AppDuotoneIconData(
+  static const gridFour = PiconDuotoneData(
     0xe297,
-    AppIconData(0xe296, 'Duotone'),
+    PiconData(0xe296, 'Duotone'),
   );
 
   /// ![grid-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine-duotone.svg)
-  static const gridNine = AppDuotoneIconData(
+  static const gridNine = PiconDuotoneData(
     0xec8d,
-    AppIconData(0xec8c, 'Duotone'),
+    PiconData(0xec8c, 'Duotone'),
   );
 
   /// ![guitar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar-duotone.svg)
-  static const guitar = AppDuotoneIconData(
+  static const guitar = PiconDuotoneData(
     0xea8b,
-    AppIconData(0xea8a, 'Duotone'),
+    PiconData(0xea8a, 'Duotone'),
   );
 
   /// ![hair-dryer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer-duotone.svg)
-  static const hairDryer = AppDuotoneIconData(
+  static const hairDryer = PiconDuotoneData(
     0xea67,
-    AppIconData(0xea66, 'Duotone'),
+    PiconData(0xea66, 'Duotone'),
   );
 
   /// ![hamburger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger-duotone.svg)
-  static const hamburger = AppDuotoneIconData(
+  static const hamburger = PiconDuotoneData(
     0xe791,
-    AppIconData(0xe790, 'Duotone'),
+    PiconData(0xe790, 'Duotone'),
   );
 
   /// ![hammer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer-duotone.svg)
-  static const hammer = AppDuotoneIconData(
+  static const hammer = PiconDuotoneData(
     0xe80f,
-    AppIconData(0xe80e, 'Duotone'),
+    PiconData(0xe80e, 'Duotone'),
   );
 
   /// ![hand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-duotone.svg)
-  static const hand = AppDuotoneIconData(
+  static const hand = PiconDuotoneData(
     0xe299,
-    AppIconData(0xe298, 'Duotone'),
+    PiconData(0xe298, 'Duotone'),
   );
 
   /// ![hand-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down-duotone.svg)
-  static const handArrowDown = AppDuotoneIconData(
+  static const handArrowDown = PiconDuotoneData(
     0xea4f,
-    AppIconData(0xea4e, 'Duotone'),
+    PiconData(0xea4e, 'Duotone'),
   );
 
   /// ![hand-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up-duotone.svg)
-  static const handArrowUp = AppDuotoneIconData(
+  static const handArrowUp = PiconDuotoneData(
     0xee5b,
-    AppIconData(0xee5a, 'Duotone'),
+    PiconData(0xee5a, 'Duotone'),
   );
 
   /// ![hand-coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins-duotone.svg)
-  static const handCoins = AppDuotoneIconData(
+  static const handCoins = PiconDuotoneData(
     0xea8d,
-    AppIconData(0xea8c, 'Duotone'),
+    PiconData(0xea8c, 'Duotone'),
   );
 
   /// ![hand-deposit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit-duotone.svg)
-  static const handDeposit = AppDuotoneIconData(
+  static const handDeposit = PiconDuotoneData(
     0xee83,
-    AppIconData(0xee82, 'Duotone'),
+    PiconData(0xee82, 'Duotone'),
   );
 
   /// ![hand-eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye-duotone.svg)
-  static const handEye = AppDuotoneIconData(
+  static const handEye = PiconDuotoneData(
     0xea4d,
-    AppIconData(0xea4c, 'Duotone'),
+    PiconData(0xea4c, 'Duotone'),
   );
 
   /// ![hand-fist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist-duotone.svg)
-  static const handFist = AppDuotoneIconData(
+  static const handFist = PiconDuotoneData(
     0xe57b,
-    AppIconData(0xe57a, 'Duotone'),
+    PiconData(0xe57a, 'Duotone'),
   );
 
   /// ![hand-grabbing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing-duotone.svg)
-  static const handGrabbing = AppDuotoneIconData(
+  static const handGrabbing = PiconDuotoneData(
     0xe57d,
-    AppIconData(0xe57c, 'Duotone'),
+    PiconData(0xe57c, 'Duotone'),
   );
 
   /// ![hand-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart-duotone.svg)
-  static const handHeart = AppDuotoneIconData(
+  static const handHeart = PiconDuotoneData(
     0xe811,
-    AppIconData(0xe810, 'Duotone'),
+    PiconData(0xe810, 'Duotone'),
   );
 
   /// ![hand-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm-duotone.svg)
-  static const handPalm = AppDuotoneIconData(
+  static const handPalm = PiconDuotoneData(
     0xe57f,
-    AppIconData(0xe57e, 'Duotone'),
+    PiconData(0xe57e, 'Duotone'),
   );
 
   /// ![hand-peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace-duotone.svg)
-  static const handPeace = AppDuotoneIconData(
+  static const handPeace = PiconDuotoneData(
     0xe7cd,
-    AppIconData(0xe7cc, 'Duotone'),
+    PiconData(0xe7cc, 'Duotone'),
   );
 
   /// ![hand-pointing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing-duotone.svg)
-  static const handPointing = AppDuotoneIconData(
+  static const handPointing = PiconDuotoneData(
     0xe29b,
-    AppIconData(0xe29a, 'Duotone'),
+    PiconData(0xe29a, 'Duotone'),
   );
 
   /// ![hand-soap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap-duotone.svg)
-  static const handSoap = AppDuotoneIconData(
+  static const handSoap = PiconDuotoneData(
     0xe631,
-    AppIconData(0xe630, 'Duotone'),
+    PiconData(0xe630, 'Duotone'),
   );
 
   /// ![hand-swipe-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left-duotone.svg)
-  static const handSwipeLeft = AppDuotoneIconData(
+  static const handSwipeLeft = PiconDuotoneData(
     0xec95,
-    AppIconData(0xec94, 'Duotone'),
+    PiconData(0xec94, 'Duotone'),
   );
 
   /// ![hand-swipe-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right-duotone.svg)
-  static const handSwipeRight = AppDuotoneIconData(
+  static const handSwipeRight = PiconDuotoneData(
     0xec93,
-    AppIconData(0xec92, 'Duotone'),
+    PiconData(0xec92, 'Duotone'),
   );
 
   /// ![hand-tap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap-duotone.svg)
-  static const handTap = AppDuotoneIconData(
+  static const handTap = PiconDuotoneData(
     0xec91,
-    AppIconData(0xec90, 'Duotone'),
+    PiconData(0xec90, 'Duotone'),
   );
 
   /// ![hand-waving-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving-duotone.svg)
-  static const handWaving = AppDuotoneIconData(
+  static const handWaving = PiconDuotoneData(
     0xe581,
-    AppIconData(0xe580, 'Duotone'),
+    PiconData(0xe580, 'Duotone'),
   );
 
   /// ![hand-withdraw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw-duotone.svg)
-  static const handWithdraw = AppDuotoneIconData(
+  static const handWithdraw = PiconDuotoneData(
     0xee81,
-    AppIconData(0xee80, 'Duotone'),
+    PiconData(0xee80, 'Duotone'),
   );
 
   /// ![handbag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-duotone.svg)
-  static const handbag = AppDuotoneIconData(
+  static const handbag = PiconDuotoneData(
     0xe29d,
-    AppIconData(0xe29c, 'Duotone'),
+    PiconData(0xe29c, 'Duotone'),
   );
 
   /// ![handbag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple-duotone.svg)
-  static const handbagSimple = AppDuotoneIconData(
+  static const handbagSimple = PiconDuotoneData(
     0xe62f,
-    AppIconData(0xe62e, 'Duotone'),
+    PiconData(0xe62e, 'Duotone'),
   );
 
   /// ![hands-clapping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping-duotone.svg)
-  static const handsClapping = AppDuotoneIconData(
+  static const handsClapping = PiconDuotoneData(
     0xe6a1,
-    AppIconData(0xe6a0, 'Duotone'),
+    PiconData(0xe6a0, 'Duotone'),
   );
 
   /// ![hands-praying-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying-duotone.svg)
-  static const handsPraying = AppDuotoneIconData(
+  static const handsPraying = PiconDuotoneData(
     0xecc9,
-    AppIconData(0xecc8, 'Duotone'),
+    PiconData(0xecc8, 'Duotone'),
   );
 
   /// ![handshake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake-duotone.svg)
-  static const handshake = AppDuotoneIconData(
+  static const handshake = PiconDuotoneData(
     0xe583,
-    AppIconData(0xe582, 'Duotone'),
+    PiconData(0xe582, 'Duotone'),
   );
 
   /// ![hard-drive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive-duotone.svg)
-  static const hardDrive = AppDuotoneIconData(
+  static const hardDrive = PiconDuotoneData(
     0xe29f,
-    AppIconData(0xe29e, 'Duotone'),
+    PiconData(0xe29e, 'Duotone'),
   );
 
   /// ![hard-drives-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives-duotone.svg)
-  static const hardDrives = AppDuotoneIconData(
+  static const hardDrives = PiconDuotoneData(
     0xe2a1,
-    AppIconData(0xe2a0, 'Duotone'),
+    PiconData(0xe2a0, 'Duotone'),
   );
 
   /// ![hard-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat-duotone.svg)
-  static const hardHat = AppDuotoneIconData(
+  static const hardHat = PiconDuotoneData(
     0xed47,
-    AppIconData(0xed46, 'Duotone'),
+    PiconData(0xed46, 'Duotone'),
   );
 
   /// ![hash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-duotone.svg)
-  static const hash = AppDuotoneIconData(
+  static const hash = PiconDuotoneData(
     0xe2a3,
-    AppIconData(0xe2a2, 'Duotone'),
+    PiconData(0xe2a2, 'Duotone'),
   );
 
   /// ![hash-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight-duotone.svg)
-  static const hashStraight = AppDuotoneIconData(
+  static const hashStraight = PiconDuotoneData(
     0xe2a5,
-    AppIconData(0xe2a4, 'Duotone'),
+    PiconData(0xe2a4, 'Duotone'),
   );
 
   /// ![head-circuit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit-duotone.svg)
-  static const headCircuit = AppDuotoneIconData(
+  static const headCircuit = PiconDuotoneData(
     0xe7d5,
-    AppIconData(0xe7d4, 'Duotone'),
+    PiconData(0xe7d4, 'Duotone'),
   );
 
   /// ![headlights-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights-duotone.svg)
-  static const headlights = AppDuotoneIconData(
+  static const headlights = PiconDuotoneData(
     0xe6ff,
-    AppIconData(0xe6fe, 'Duotone'),
+    PiconData(0xe6fe, 'Duotone'),
   );
 
   /// ![headphones-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones-duotone.svg)
-  static const headphones = AppDuotoneIconData(
+  static const headphones = PiconDuotoneData(
     0xe2a7,
-    AppIconData(0xe2a6, 'Duotone'),
+    PiconData(0xe2a6, 'Duotone'),
   );
 
   /// ![headset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset-duotone.svg)
-  static const headset = AppDuotoneIconData(
+  static const headset = PiconDuotoneData(
     0xe585,
-    AppIconData(0xe584, 'Duotone'),
+    PiconData(0xe584, 'Duotone'),
   );
 
   /// ![heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-duotone.svg)
-  static const heart = AppDuotoneIconData(
+  static const heart = PiconDuotoneData(
     0xe2a9,
-    AppIconData(0xe2a8, 'Duotone'),
+    PiconData(0xe2a8, 'Duotone'),
   );
 
   /// ![heart-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break-duotone.svg)
-  static const heartBreak = AppDuotoneIconData(
+  static const heartBreak = PiconDuotoneData(
     0xebe9,
-    AppIconData(0xebe8, 'Duotone'),
+    PiconData(0xebe8, 'Duotone'),
   );
 
   /// ![heart-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half-duotone.svg)
-  static const heartHalf = AppDuotoneIconData(
+  static const heartHalf = PiconDuotoneData(
     0xec49,
-    AppIconData(0xec48, 'Duotone'),
+    PiconData(0xec48, 'Duotone'),
   );
 
   /// ![heart-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-duotone.svg)
-  static const heartStraight = AppDuotoneIconData(
+  static const heartStraight = PiconDuotoneData(
     0xe2ab,
-    AppIconData(0xe2aa, 'Duotone'),
+    PiconData(0xe2aa, 'Duotone'),
   );
 
   /// ![heart-straight-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break-duotone.svg)
-  static const heartStraightBreak = AppDuotoneIconData(
+  static const heartStraightBreak = PiconDuotoneData(
     0xeb99,
-    AppIconData(0xeb98, 'Duotone'),
+    PiconData(0xeb98, 'Duotone'),
   );
 
   /// ![heartbeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat-duotone.svg)
-  static const heartbeat = AppDuotoneIconData(
+  static const heartbeat = PiconDuotoneData(
     0xe2ad,
-    AppIconData(0xe2ac, 'Duotone'),
+    PiconData(0xe2ac, 'Duotone'),
   );
 
   /// ![hexagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon-duotone.svg)
-  static const hexagon = AppDuotoneIconData(
+  static const hexagon = PiconDuotoneData(
     0xe2af,
-    AppIconData(0xe2ae, 'Duotone'),
+    PiconData(0xe2ae, 'Duotone'),
   );
 
   /// ![high-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition-duotone.svg)
-  static const highDefinition = AppDuotoneIconData(
+  static const highDefinition = PiconDuotoneData(
     0xea8f,
-    AppIconData(0xea8e, 'Duotone'),
+    PiconData(0xea8e, 'Duotone'),
   );
 
   /// ![high-heel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel-duotone.svg)
-  static const highHeel = AppDuotoneIconData(
+  static const highHeel = PiconDuotoneData(
     0xe8e9,
-    AppIconData(0xe8e8, 'Duotone'),
+    PiconData(0xe8e8, 'Duotone'),
   );
 
   /// ![highlighter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-duotone.svg)
-  static const highlighter = AppDuotoneIconData(
+  static const highlighter = PiconDuotoneData(
     0xec77,
-    AppIconData(0xec76, 'Duotone'),
+    PiconData(0xec76, 'Duotone'),
   );
 
   /// ![highlighter-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle-duotone.svg)
-  static const highlighterCircle = AppDuotoneIconData(
+  static const highlighterCircle = PiconDuotoneData(
     0xe633,
-    AppIconData(0xe632, 'Duotone'),
+    PiconData(0xe632, 'Duotone'),
   );
 
   /// ![hockey-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey-duotone.svg)
-  static const hockey = AppDuotoneIconData(
+  static const hockey = PiconDuotoneData(
     0xec87,
-    AppIconData(0xec86, 'Duotone'),
+    PiconData(0xec86, 'Duotone'),
   );
 
   /// ![hoodie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie-duotone.svg)
-  static const hoodie = AppDuotoneIconData(
+  static const hoodie = PiconDuotoneData(
     0xecd1,
-    AppIconData(0xecd0, 'Duotone'),
+    PiconData(0xecd0, 'Duotone'),
   );
 
   /// ![horse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse-duotone.svg)
-  static const horse = AppDuotoneIconData(
+  static const horse = PiconDuotoneData(
     0xe2b1,
-    AppIconData(0xe2b0, 'Duotone'),
+    PiconData(0xe2b0, 'Duotone'),
   );
 
   /// ![hospital-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital-duotone.svg)
-  static const hospital = AppDuotoneIconData(
+  static const hospital = PiconDuotoneData(
     0xe845,
-    AppIconData(0xe844, 'Duotone'),
+    PiconData(0xe844, 'Duotone'),
   );
 
   /// ![hourglass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-duotone.svg)
-  static const hourglass = AppDuotoneIconData(
+  static const hourglass = PiconDuotoneData(
     0xe2b3,
-    AppIconData(0xe2b2, 'Duotone'),
+    PiconData(0xe2b2, 'Duotone'),
   );
 
   /// ![hourglass-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high-duotone.svg)
-  static const hourglassHigh = AppDuotoneIconData(
+  static const hourglassHigh = PiconDuotoneData(
     0xe2b5,
-    AppIconData(0xe2b4, 'Duotone'),
+    PiconData(0xe2b4, 'Duotone'),
   );
 
   /// ![hourglass-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low-duotone.svg)
-  static const hourglassLow = AppDuotoneIconData(
+  static const hourglassLow = PiconDuotoneData(
     0xe2b7,
-    AppIconData(0xe2b6, 'Duotone'),
+    PiconData(0xe2b6, 'Duotone'),
   );
 
   /// ![hourglass-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium-duotone.svg)
-  static const hourglassMedium = AppDuotoneIconData(
+  static const hourglassMedium = PiconDuotoneData(
     0xe2b9,
-    AppIconData(0xe2b8, 'Duotone'),
+    PiconData(0xe2b8, 'Duotone'),
   );
 
   /// ![hourglass-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-duotone.svg)
-  static const hourglassSimple = AppDuotoneIconData(
+  static const hourglassSimple = PiconDuotoneData(
     0xe2bb,
-    AppIconData(0xe2ba, 'Duotone'),
+    PiconData(0xe2ba, 'Duotone'),
   );
 
   /// ![hourglass-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high-duotone.svg)
-  static const hourglassSimpleHigh = AppDuotoneIconData(
+  static const hourglassSimpleHigh = PiconDuotoneData(
     0xe2bd,
-    AppIconData(0xe2bc, 'Duotone'),
+    PiconData(0xe2bc, 'Duotone'),
   );
 
   /// ![hourglass-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low-duotone.svg)
-  static const hourglassSimpleLow = AppDuotoneIconData(
+  static const hourglassSimpleLow = PiconDuotoneData(
     0xe2bf,
-    AppIconData(0xe2be, 'Duotone'),
+    PiconData(0xe2be, 'Duotone'),
   );
 
   /// ![hourglass-simple-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium-duotone.svg)
-  static const hourglassSimpleMedium = AppDuotoneIconData(
+  static const hourglassSimpleMedium = PiconDuotoneData(
     0xe2c1,
-    AppIconData(0xe2c0, 'Duotone'),
+    PiconData(0xe2c0, 'Duotone'),
   );
 
   /// ![house-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-duotone.svg)
-  static const house = AppDuotoneIconData(
+  static const house = PiconDuotoneData(
     0xe2c3,
-    AppIconData(0xe2c2, 'Duotone'),
+    PiconData(0xe2c2, 'Duotone'),
   );
 
   /// ![house-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line-duotone.svg)
-  static const houseLine = AppDuotoneIconData(
+  static const houseLine = PiconDuotoneData(
     0xe2c5,
-    AppIconData(0xe2c4, 'Duotone'),
+    PiconData(0xe2c4, 'Duotone'),
   );
 
   /// ![house-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple-duotone.svg)
-  static const houseSimple = AppDuotoneIconData(
+  static const houseSimple = PiconDuotoneData(
     0xe2c7,
-    AppIconData(0xe2c6, 'Duotone'),
+    PiconData(0xe2c6, 'Duotone'),
   );
 
   /// ![hurricane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane-duotone.svg)
-  static const hurricane = AppDuotoneIconData(
+  static const hurricane = PiconDuotoneData(
     0xe88f,
-    AppIconData(0xe88e, 'Duotone'),
+    PiconData(0xe88e, 'Duotone'),
   );
 
   /// ![ice-cream-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream-duotone.svg)
-  static const iceCream = AppDuotoneIconData(
+  static const iceCream = PiconDuotoneData(
     0xe805,
-    AppIconData(0xe804, 'Duotone'),
+    PiconData(0xe804, 'Duotone'),
   );
 
   /// ![identification-badge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge-duotone.svg)
-  static const identificationBadge = AppDuotoneIconData(
+  static const identificationBadge = PiconDuotoneData(
     0xe6f7,
-    AppIconData(0xe6f6, 'Duotone'),
+    PiconData(0xe6f6, 'Duotone'),
   );
 
   /// ![identification-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card-duotone.svg)
-  static const identificationCard = AppDuotoneIconData(
+  static const identificationCard = PiconDuotoneData(
     0xe2c9,
-    AppIconData(0xe2c8, 'Duotone'),
+    PiconData(0xe2c8, 'Duotone'),
   );
 
   /// ![image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-duotone.svg)
-  static const image = AppDuotoneIconData(
+  static const image = PiconDuotoneData(
     0xe2cb,
-    AppIconData(0xe2ca, 'Duotone'),
+    PiconData(0xe2ca, 'Duotone'),
   );
 
   /// ![image-broken-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken-duotone.svg)
-  static const imageBroken = AppDuotoneIconData(
+  static const imageBroken = PiconDuotoneData(
     0xe7a9,
-    AppIconData(0xe7a8, 'Duotone'),
+    PiconData(0xe7a8, 'Duotone'),
   );
 
   /// ![image-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square-duotone.svg)
-  static const imageSquare = AppDuotoneIconData(
+  static const imageSquare = PiconDuotoneData(
     0xe2cd,
-    AppIconData(0xe2cc, 'Duotone'),
+    PiconData(0xe2cc, 'Duotone'),
   );
 
   /// ![images-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-duotone.svg)
-  static const images = AppDuotoneIconData(
+  static const images = PiconDuotoneData(
     0xe837,
-    AppIconData(0xe836, 'Duotone'),
+    PiconData(0xe836, 'Duotone'),
   );
 
   /// ![images-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square-duotone.svg)
-  static const imagesSquare = AppDuotoneIconData(
+  static const imagesSquare = PiconDuotoneData(
     0xe835,
-    AppIconData(0xe834, 'Duotone'),
+    PiconData(0xe834, 'Duotone'),
   );
 
   /// ![infinity-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity-duotone.svg)
-  static const infinity = AppDuotoneIconData(
+  static const infinity = PiconDuotoneData(
     0xe635,
-    AppIconData(0xe634, 'Duotone'),
+    PiconData(0xe634, 'Duotone'),
   );
 
   /// ![info-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info-duotone.svg)
-  static const info = AppDuotoneIconData(
+  static const info = PiconDuotoneData(
     0xe2cf,
-    AppIconData(0xe2ce, 'Duotone'),
+    PiconData(0xe2ce, 'Duotone'),
   );
 
   /// ![instagram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo-duotone.svg)
-  static const instagramLogo = AppDuotoneIconData(
+  static const instagramLogo = PiconDuotoneData(
     0xe2d1,
-    AppIconData(0xe2d0, 'Duotone'),
+    PiconData(0xe2d0, 'Duotone'),
   );
 
   /// ![intersect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-duotone.svg)
-  static const intersect = AppDuotoneIconData(
+  static const intersect = PiconDuotoneData(
     0xe2d3,
-    AppIconData(0xe2d2, 'Duotone'),
+    PiconData(0xe2d2, 'Duotone'),
   );
 
   /// ![intersect-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square-duotone.svg)
-  static const intersectSquare = AppDuotoneIconData(
+  static const intersectSquare = PiconDuotoneData(
     0xe87b,
-    AppIconData(0xe87a, 'Duotone'),
+    PiconData(0xe87a, 'Duotone'),
   );
 
   /// ![intersect-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three-duotone.svg)
-  static const intersectThree = AppDuotoneIconData(
+  static const intersectThree = PiconDuotoneData(
     0xecc5,
-    AppIconData(0xecc4, 'Duotone'),
+    PiconData(0xecc4, 'Duotone'),
   );
 
   /// ![intersection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection-duotone.svg)
-  static const intersection = AppDuotoneIconData(
+  static const intersection = PiconDuotoneData(
     0xedbb,
-    AppIconData(0xedba, 'Duotone'),
+    PiconData(0xedba, 'Duotone'),
   );
 
   /// ![invoice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice-duotone.svg)
-  static const invoice = AppDuotoneIconData(
+  static const invoice = PiconDuotoneData(
     0xee43,
-    AppIconData(0xee42, 'Duotone'),
+    PiconData(0xee42, 'Duotone'),
   );
 
   /// ![island-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island-duotone.svg)
-  static const island = AppDuotoneIconData(
+  static const island = PiconDuotoneData(
     0xee07,
-    AppIconData(0xee06, 'Duotone'),
+    PiconData(0xee06, 'Duotone'),
   );
 
   /// ![jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-duotone.svg)
-  static const jar = AppDuotoneIconData(
+  static const jar = PiconDuotoneData(
     0xe7e3,
-    AppIconData(0xe7e0, 'Duotone'),
+    PiconData(0xe7e0, 'Duotone'),
   );
 
   /// ![jar-label-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label-duotone.svg)
-  static const jarLabel = AppDuotoneIconData(
+  static const jarLabel = PiconDuotoneData(
     0xe7e5,
-    AppIconData(0xe7e1, 'Duotone'),
+    PiconData(0xe7e1, 'Duotone'),
   );
 
   /// ![jeep-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep-duotone.svg)
-  static const jeep = AppDuotoneIconData(
+  static const jeep = PiconDuotoneData(
     0xe2d5,
-    AppIconData(0xe2d4, 'Duotone'),
+    PiconData(0xe2d4, 'Duotone'),
   );
 
   /// ![joystick-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick-duotone.svg)
-  static const joystick = AppDuotoneIconData(
+  static const joystick = PiconDuotoneData(
     0xea5f,
-    AppIconData(0xea5e, 'Duotone'),
+    PiconData(0xea5e, 'Duotone'),
   );
 
   /// ![kanban-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban-duotone.svg)
-  static const kanban = AppDuotoneIconData(
+  static const kanban = PiconDuotoneData(
     0xeb55,
-    AppIconData(0xeb54, 'Duotone'),
+    PiconData(0xeb54, 'Duotone'),
   );
 
   /// ![key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-duotone.svg)
-  static const key = AppDuotoneIconData(
+  static const key = PiconDuotoneData(
     0xe2d7,
-    AppIconData(0xe2d6, 'Duotone'),
+    PiconData(0xe2d6, 'Duotone'),
   );
 
   /// ![key-return-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return-duotone.svg)
-  static const keyReturn = AppDuotoneIconData(
+  static const keyReturn = PiconDuotoneData(
     0xe783,
-    AppIconData(0xe782, 'Duotone'),
+    PiconData(0xe782, 'Duotone'),
   );
 
   /// ![keyboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard-duotone.svg)
-  static const keyboard = AppDuotoneIconData(
+  static const keyboard = PiconDuotoneData(
     0xe2d9,
-    AppIconData(0xe2d8, 'Duotone'),
+    PiconData(0xe2d8, 'Duotone'),
   );
 
   /// ![keyhole-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole-duotone.svg)
-  static const keyhole = AppDuotoneIconData(
+  static const keyhole = PiconDuotoneData(
     0xea79,
-    AppIconData(0xea78, 'Duotone'),
+    PiconData(0xea78, 'Duotone'),
   );
 
   /// ![knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife-duotone.svg)
-  static const knife = AppDuotoneIconData(
+  static const knife = PiconDuotoneData(
     0xe637,
-    AppIconData(0xe636, 'Duotone'),
+    PiconData(0xe636, 'Duotone'),
   );
 
   /// ![ladder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-duotone.svg)
-  static const ladder = AppDuotoneIconData(
+  static const ladder = PiconDuotoneData(
     0xe9e5,
-    AppIconData(0xe9e4, 'Duotone'),
+    PiconData(0xe9e4, 'Duotone'),
   );
 
   /// ![ladder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple-duotone.svg)
-  static const ladderSimple = AppDuotoneIconData(
+  static const ladderSimple = PiconDuotoneData(
     0xec27,
-    AppIconData(0xec26, 'Duotone'),
+    PiconData(0xec26, 'Duotone'),
   );
 
   /// ![lamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-duotone.svg)
-  static const lamp = AppDuotoneIconData(
+  static const lamp = PiconDuotoneData(
     0xe639,
-    AppIconData(0xe638, 'Duotone'),
+    PiconData(0xe638, 'Duotone'),
   );
 
   /// ![lamp-pendant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant-duotone.svg)
-  static const lampPendant = AppDuotoneIconData(
+  static const lampPendant = PiconDuotoneData(
     0xee2f,
-    AppIconData(0xee2e, 'Duotone'),
+    PiconData(0xee2e, 'Duotone'),
   );
 
   /// ![laptop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop-duotone.svg)
-  static const laptop = AppDuotoneIconData(
+  static const laptop = PiconDuotoneData(
     0xe587,
-    AppIconData(0xe586, 'Duotone'),
+    PiconData(0xe586, 'Duotone'),
   );
 
   /// ![lasso-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso-duotone.svg)
-  static const lasso = AppDuotoneIconData(
+  static const lasso = PiconDuotoneData(
     0xedc7,
-    AppIconData(0xedc6, 'Duotone'),
+    PiconData(0xedc6, 'Duotone'),
   );
 
   /// ![lastfm-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo-duotone.svg)
-  static const lastfmLogo = AppDuotoneIconData(
+  static const lastfmLogo = PiconDuotoneData(
     0xe843,
-    AppIconData(0xe842, 'Duotone'),
+    PiconData(0xe842, 'Duotone'),
   );
 
   /// ![layout-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout-duotone.svg)
-  static const layout = AppDuotoneIconData(
+  static const layout = PiconDuotoneData(
     0xe6d7,
-    AppIconData(0xe6d6, 'Duotone'),
+    PiconData(0xe6d6, 'Duotone'),
   );
 
   /// ![leaf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf-duotone.svg)
-  static const leaf = AppDuotoneIconData(
+  static const leaf = PiconDuotoneData(
     0xe2db,
-    AppIconData(0xe2da, 'Duotone'),
+    PiconData(0xe2da, 'Duotone'),
   );
 
   /// ![lectern-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern-duotone.svg)
-  static const lectern = AppDuotoneIconData(
+  static const lectern = PiconDuotoneData(
     0xe95b,
-    AppIconData(0xe95a, 'Duotone'),
+    PiconData(0xe95a, 'Duotone'),
   );
 
   /// ![lego-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-duotone.svg)
-  static const lego = AppDuotoneIconData(
+  static const lego = PiconDuotoneData(
     0xe8c8,
-    AppIconData(0xe8c6, 'Duotone'),
+    PiconData(0xe8c6, 'Duotone'),
   );
 
   /// ![lego-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley-duotone.svg)
-  static const legoSmiley = AppDuotoneIconData(
+  static const legoSmiley = PiconDuotoneData(
     0xe8c9,
-    AppIconData(0xe8c7, 'Duotone'),
+    PiconData(0xe8c7, 'Duotone'),
   );
 
   /// ![less-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-duotone.svg)
-  static const lessThan = AppDuotoneIconData(
+  static const lessThan = PiconDuotoneData(
     0xedad,
-    AppIconData(0xedac, 'Duotone'),
+    PiconData(0xedac, 'Duotone'),
   );
 
   /// ![less-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal-duotone.svg)
-  static const lessThanOrEqual = AppDuotoneIconData(
+  static const lessThanOrEqual = PiconDuotoneData(
     0xeda5,
-    AppIconData(0xeda4, 'Duotone'),
+    PiconData(0xeda4, 'Duotone'),
   );
 
   /// ![letter-circle-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h-duotone.svg)
-  static const letterCircleH = AppDuotoneIconData(
+  static const letterCircleH = PiconDuotoneData(
     0xebf9,
-    AppIconData(0xebf8, 'Duotone'),
+    PiconData(0xebf8, 'Duotone'),
   );
 
   /// ![letter-circle-p-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p-duotone.svg)
-  static const letterCircleP = AppDuotoneIconData(
+  static const letterCircleP = PiconDuotoneData(
     0xec09,
-    AppIconData(0xec08, 'Duotone'),
+    PiconData(0xec08, 'Duotone'),
   );
 
   /// ![letter-circle-v-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v-duotone.svg)
-  static const letterCircleV = AppDuotoneIconData(
+  static const letterCircleV = PiconDuotoneData(
     0xec15,
-    AppIconData(0xec14, 'Duotone'),
+    PiconData(0xec14, 'Duotone'),
   );
 
   /// ![lifebuoy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy-duotone.svg)
-  static const lifebuoy = AppDuotoneIconData(
+  static const lifebuoy = PiconDuotoneData(
     0xe63b,
-    AppIconData(0xe63a, 'Duotone'),
+    PiconData(0xe63a, 'Duotone'),
   );
 
   /// ![lightbulb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-duotone.svg)
-  static const lightbulb = AppDuotoneIconData(
+  static const lightbulb = PiconDuotoneData(
     0xe2dd,
-    AppIconData(0xe2dc, 'Duotone'),
+    PiconData(0xe2dc, 'Duotone'),
   );
 
   /// ![lightbulb-filament-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament-duotone.svg)
-  static const lightbulbFilament = AppDuotoneIconData(
+  static const lightbulbFilament = PiconDuotoneData(
     0xe63d,
-    AppIconData(0xe63c, 'Duotone'),
+    PiconData(0xe63c, 'Duotone'),
   );
 
   /// ![lighthouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse-duotone.svg)
-  static const lighthouse = AppDuotoneIconData(
+  static const lighthouse = PiconDuotoneData(
     0xe9f7,
-    AppIconData(0xe9f6, 'Duotone'),
+    PiconData(0xe9f6, 'Duotone'),
   );
 
   /// ![lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-duotone.svg)
-  static const lightning = AppDuotoneIconData(
+  static const lightning = PiconDuotoneData(
     0xe2df,
-    AppIconData(0xe2de, 'Duotone'),
+    PiconData(0xe2de, 'Duotone'),
   );
 
   /// ![lightning-a-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a-duotone.svg)
-  static const lightningA = AppDuotoneIconData(
+  static const lightningA = PiconDuotoneData(
     0xea85,
-    AppIconData(0xea84, 'Duotone'),
+    PiconData(0xea84, 'Duotone'),
   );
 
   /// ![lightning-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash-duotone.svg)
-  static const lightningSlash = AppDuotoneIconData(
+  static const lightningSlash = PiconDuotoneData(
     0xe2e1,
-    AppIconData(0xe2e0, 'Duotone'),
+    PiconData(0xe2e0, 'Duotone'),
   );
 
   /// ![line-segment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment-duotone.svg)
-  static const lineSegment = AppDuotoneIconData(
+  static const lineSegment = PiconDuotoneData(
     0xe6d3,
-    AppIconData(0xe6d2, 'Duotone'),
+    PiconData(0xe6d2, 'Duotone'),
   );
 
   /// ![line-segments-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments-duotone.svg)
-  static const lineSegments = AppDuotoneIconData(
+  static const lineSegments = PiconDuotoneData(
     0xe6d5,
-    AppIconData(0xe6d4, 'Duotone'),
+    PiconData(0xe6d4, 'Duotone'),
   );
 
   /// ![line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical-duotone.svg)
-  static const lineVertical = AppDuotoneIconData(
+  static const lineVertical = PiconDuotoneData(
     0xed71,
-    AppIconData(0xed70, 'Duotone'),
+    PiconData(0xed70, 'Duotone'),
   );
 
   /// ![link-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-duotone.svg)
-  static const link = AppDuotoneIconData(
+  static const link = PiconDuotoneData(
     0xe2e3,
-    AppIconData(0xe2e2, 'Duotone'),
+    PiconData(0xe2e2, 'Duotone'),
   );
 
   /// ![link-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break-duotone.svg)
-  static const linkBreak = AppDuotoneIconData(
+  static const linkBreak = PiconDuotoneData(
     0xe2e5,
-    AppIconData(0xe2e4, 'Duotone'),
+    PiconData(0xe2e4, 'Duotone'),
   );
 
   /// ![link-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-duotone.svg)
-  static const linkSimple = AppDuotoneIconData(
+  static const linkSimple = PiconDuotoneData(
     0xe2e7,
-    AppIconData(0xe2e6, 'Duotone'),
+    PiconData(0xe2e6, 'Duotone'),
   );
 
   /// ![link-simple-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break-duotone.svg)
-  static const linkSimpleBreak = AppDuotoneIconData(
+  static const linkSimpleBreak = PiconDuotoneData(
     0xe2e9,
-    AppIconData(0xe2e8, 'Duotone'),
+    PiconData(0xe2e8, 'Duotone'),
   );
 
   /// ![link-simple-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-duotone.svg)
-  static const linkSimpleHorizontal = AppDuotoneIconData(
+  static const linkSimpleHorizontal = PiconDuotoneData(
     0xe2eb,
-    AppIconData(0xe2ea, 'Duotone'),
+    PiconData(0xe2ea, 'Duotone'),
   );
 
   /// ![link-simple-horizontal-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break-duotone.svg)
-  static const linkSimpleHorizontalBreak = AppDuotoneIconData(
+  static const linkSimpleHorizontalBreak = PiconDuotoneData(
     0xe2ed,
-    AppIconData(0xe2ec, 'Duotone'),
+    PiconData(0xe2ec, 'Duotone'),
   );
 
   /// ![linkedin-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo-duotone.svg)
-  static const linkedinLogo = AppDuotoneIconData(
+  static const linkedinLogo = PiconDuotoneData(
     0xe2ef,
-    AppIconData(0xe2ee, 'Duotone'),
+    PiconData(0xe2ee, 'Duotone'),
   );
 
   /// ![linktree-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo-duotone.svg)
-  static const linktreeLogo = AppDuotoneIconData(
+  static const linktreeLogo = PiconDuotoneData(
     0xedef,
-    AppIconData(0xedee, 'Duotone'),
+    PiconData(0xedee, 'Duotone'),
   );
 
   /// ![linux-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo-duotone.svg)
-  static const linuxLogo = AppDuotoneIconData(
+  static const linuxLogo = PiconDuotoneData(
     0xeb03,
-    AppIconData(0xeb02, 'Duotone'),
+    PiconData(0xeb02, 'Duotone'),
   );
 
   /// ![list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-duotone.svg)
-  static const list = AppDuotoneIconData(
+  static const list = PiconDuotoneData(
     0xe2f1,
-    AppIconData(0xe2f0, 'Duotone'),
+    PiconData(0xe2f0, 'Duotone'),
   );
 
   /// ![list-bullets-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets-duotone.svg)
-  static const listBullets = AppDuotoneIconData(
+  static const listBullets = PiconDuotoneData(
     0xe2f3,
-    AppIconData(0xe2f2, 'Duotone'),
+    PiconData(0xe2f2, 'Duotone'),
   );
 
   /// ![list-checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks-duotone.svg)
-  static const listChecks = AppDuotoneIconData(
+  static const listChecks = PiconDuotoneData(
     0xeadd,
-    AppIconData(0xeadc, 'Duotone'),
+    PiconData(0xeadc, 'Duotone'),
   );
 
   /// ![list-dashes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes-duotone.svg)
-  static const listDashes = AppDuotoneIconData(
+  static const listDashes = PiconDuotoneData(
     0xe2f5,
-    AppIconData(0xe2f4, 'Duotone'),
+    PiconData(0xe2f4, 'Duotone'),
   );
 
   /// ![list-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart-duotone.svg)
-  static const listHeart = AppDuotoneIconData(
+  static const listHeart = PiconDuotoneData(
     0xebdf,
-    AppIconData(0xebde, 'Duotone'),
+    PiconData(0xebde, 'Duotone'),
   );
 
   /// ![list-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass-duotone.svg)
-  static const listMagnifyingGlass = AppDuotoneIconData(
+  static const listMagnifyingGlass = PiconDuotoneData(
     0xebe1,
-    AppIconData(0xebe0, 'Duotone'),
+    PiconData(0xebe0, 'Duotone'),
   );
 
   /// ![list-numbers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers-duotone.svg)
-  static const listNumbers = AppDuotoneIconData(
+  static const listNumbers = PiconDuotoneData(
     0xe2f7,
-    AppIconData(0xe2f6, 'Duotone'),
+    PiconData(0xe2f6, 'Duotone'),
   );
 
   /// ![list-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus-duotone.svg)
-  static const listPlus = AppDuotoneIconData(
+  static const listPlus = PiconDuotoneData(
     0xe2f9,
-    AppIconData(0xe2f8, 'Duotone'),
+    PiconData(0xe2f8, 'Duotone'),
   );
 
   /// ![list-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star-duotone.svg)
-  static const listStar = AppDuotoneIconData(
+  static const listStar = PiconDuotoneData(
     0xebdd,
-    AppIconData(0xebdc, 'Duotone'),
+    PiconData(0xebdc, 'Duotone'),
   );
 
   /// ![lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-duotone.svg)
-  static const lock = AppDuotoneIconData(
+  static const lock = PiconDuotoneData(
     0xe2fb,
-    AppIconData(0xe2fa, 'Duotone'),
+    PiconData(0xe2fa, 'Duotone'),
   );
 
   /// ![lock-key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-duotone.svg)
-  static const lockKey = AppDuotoneIconData(
+  static const lockKey = PiconDuotoneData(
     0xe2ff,
-    AppIconData(0xe2fe, 'Duotone'),
+    PiconData(0xe2fe, 'Duotone'),
   );
 
   /// ![lock-key-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open-duotone.svg)
-  static const lockKeyOpen = AppDuotoneIconData(
+  static const lockKeyOpen = PiconDuotoneData(
     0xe301,
-    AppIconData(0xe300, 'Duotone'),
+    PiconData(0xe300, 'Duotone'),
   );
 
   /// ![lock-laminated-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-duotone.svg)
-  static const lockLaminated = AppDuotoneIconData(
+  static const lockLaminated = PiconDuotoneData(
     0xe303,
-    AppIconData(0xe302, 'Duotone'),
+    PiconData(0xe302, 'Duotone'),
   );
 
   /// ![lock-laminated-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open-duotone.svg)
-  static const lockLaminatedOpen = AppDuotoneIconData(
+  static const lockLaminatedOpen = PiconDuotoneData(
     0xe305,
-    AppIconData(0xe304, 'Duotone'),
+    PiconData(0xe304, 'Duotone'),
   );
 
   /// ![lock-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open-duotone.svg)
-  static const lockOpen = AppDuotoneIconData(
+  static const lockOpen = PiconDuotoneData(
     0xe307,
-    AppIconData(0xe306, 'Duotone'),
+    PiconData(0xe306, 'Duotone'),
   );
 
   /// ![lock-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-duotone.svg)
-  static const lockSimple = AppDuotoneIconData(
+  static const lockSimple = PiconDuotoneData(
     0xe309,
-    AppIconData(0xe308, 'Duotone'),
+    PiconData(0xe308, 'Duotone'),
   );
 
   /// ![lock-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open-duotone.svg)
-  static const lockSimpleOpen = AppDuotoneIconData(
+  static const lockSimpleOpen = PiconDuotoneData(
     0xe30b,
-    AppIconData(0xe30a, 'Duotone'),
+    PiconData(0xe30a, 'Duotone'),
   );
 
   /// ![lockers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers-duotone.svg)
-  static const lockers = AppDuotoneIconData(
+  static const lockers = PiconDuotoneData(
     0xecb9,
-    AppIconData(0xecb8, 'Duotone'),
+    PiconData(0xecb8, 'Duotone'),
   );
 
   /// ![log-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log-duotone.svg)
-  static const log = AppDuotoneIconData(
+  static const log = PiconDuotoneData(
     0xed83,
-    AppIconData(0xed82, 'Duotone'),
+    PiconData(0xed82, 'Duotone'),
   );
 
   /// ![magic-wand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand-duotone.svg)
-  static const magicWand = AppDuotoneIconData(
+  static const magicWand = PiconDuotoneData(
     0xe6b7,
-    AppIconData(0xe6b6, 'Duotone'),
+    PiconData(0xe6b6, 'Duotone'),
   );
 
   /// ![magnet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-duotone.svg)
-  static const magnet = AppDuotoneIconData(
+  static const magnet = PiconDuotoneData(
     0xe681,
-    AppIconData(0xe680, 'Duotone'),
+    PiconData(0xe680, 'Duotone'),
   );
 
   /// ![magnet-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight-duotone.svg)
-  static const magnetStraight = AppDuotoneIconData(
+  static const magnetStraight = PiconDuotoneData(
     0xe683,
-    AppIconData(0xe682, 'Duotone'),
+    PiconData(0xe682, 'Duotone'),
   );
 
   /// ![magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-duotone.svg)
-  static const magnifyingGlass = AppDuotoneIconData(
+  static const magnifyingGlass = PiconDuotoneData(
     0xe30d,
-    AppIconData(0xe30c, 'Duotone'),
+    PiconData(0xe30c, 'Duotone'),
   );
 
   /// ![magnifying-glass-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus-duotone.svg)
-  static const magnifyingGlassMinus = AppDuotoneIconData(
+  static const magnifyingGlassMinus = PiconDuotoneData(
     0xe30f,
-    AppIconData(0xe30e, 'Duotone'),
+    PiconData(0xe30e, 'Duotone'),
   );
 
   /// ![magnifying-glass-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus-duotone.svg)
-  static const magnifyingGlassPlus = AppDuotoneIconData(
+  static const magnifyingGlassPlus = PiconDuotoneData(
     0xe311,
-    AppIconData(0xe310, 'Duotone'),
+    PiconData(0xe310, 'Duotone'),
   );
 
   /// ![mailbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox-duotone.svg)
-  static const mailbox = AppDuotoneIconData(
+  static const mailbox = PiconDuotoneData(
     0xec1f,
-    AppIconData(0xec1e, 'Duotone'),
+    PiconData(0xec1e, 'Duotone'),
   );
 
   /// ![map-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-duotone.svg)
-  static const mapPin = AppDuotoneIconData(
+  static const mapPin = PiconDuotoneData(
     0xe317,
-    AppIconData(0xe316, 'Duotone'),
+    PiconData(0xe316, 'Duotone'),
   );
 
   /// ![map-pin-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area-duotone.svg)
-  static const mapPinArea = AppDuotoneIconData(
+  static const mapPinArea = PiconDuotoneData(
     0xee3b,
-    AppIconData(0xee3a, 'Duotone'),
+    PiconData(0xee3a, 'Duotone'),
   );
 
   /// ![map-pin-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line-duotone.svg)
-  static const mapPinLine = AppDuotoneIconData(
+  static const mapPinLine = PiconDuotoneData(
     0xe319,
-    AppIconData(0xe318, 'Duotone'),
+    PiconData(0xe318, 'Duotone'),
   );
 
   /// ![map-pin-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus-duotone.svg)
-  static const mapPinPlus = AppDuotoneIconData(
+  static const mapPinPlus = PiconDuotoneData(
     0xe315,
-    AppIconData(0xe314, 'Duotone'),
+    PiconData(0xe314, 'Duotone'),
   );
 
   /// ![map-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-duotone.svg)
-  static const mapPinSimple = AppDuotoneIconData(
+  static const mapPinSimple = PiconDuotoneData(
     0xee3f,
-    AppIconData(0xee3e, 'Duotone'),
+    PiconData(0xee3e, 'Duotone'),
   );
 
   /// ![map-pin-simple-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area-duotone.svg)
-  static const mapPinSimpleArea = AppDuotoneIconData(
+  static const mapPinSimpleArea = PiconDuotoneData(
     0xee3d,
-    AppIconData(0xee3c, 'Duotone'),
+    PiconData(0xee3c, 'Duotone'),
   );
 
   /// ![map-pin-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line-duotone.svg)
-  static const mapPinSimpleLine = AppDuotoneIconData(
+  static const mapPinSimpleLine = PiconDuotoneData(
     0xee39,
-    AppIconData(0xee38, 'Duotone'),
+    PiconData(0xee38, 'Duotone'),
   );
 
   /// ![map-trifold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold-duotone.svg)
-  static const mapTrifold = AppDuotoneIconData(
+  static const mapTrifold = PiconDuotoneData(
     0xe31b,
-    AppIconData(0xe31a, 'Duotone'),
+    PiconData(0xe31a, 'Duotone'),
   );
 
   /// ![markdown-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo-duotone.svg)
-  static const markdownLogo = AppDuotoneIconData(
+  static const markdownLogo = PiconDuotoneData(
     0xe509,
-    AppIconData(0xe508, 'Duotone'),
+    PiconData(0xe508, 'Duotone'),
   );
 
   /// ![marker-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle-duotone.svg)
-  static const markerCircle = AppDuotoneIconData(
+  static const markerCircle = PiconDuotoneData(
     0xe641,
-    AppIconData(0xe640, 'Duotone'),
+    PiconData(0xe640, 'Duotone'),
   );
 
   /// ![martini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini-duotone.svg)
-  static const martini = AppDuotoneIconData(
+  static const martini = PiconDuotoneData(
     0xe31d,
-    AppIconData(0xe31c, 'Duotone'),
+    PiconData(0xe31c, 'Duotone'),
   );
 
   /// ![mask-happy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy-duotone.svg)
-  static const maskHappy = AppDuotoneIconData(
+  static const maskHappy = PiconDuotoneData(
     0xe9f5,
-    AppIconData(0xe9f4, 'Duotone'),
+    PiconData(0xe9f4, 'Duotone'),
   );
 
   /// ![mask-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad-duotone.svg)
-  static const maskSad = AppDuotoneIconData(
+  static const maskSad = PiconDuotoneData(
     0xeb9f,
-    AppIconData(0xeb9e, 'Duotone'),
+    PiconData(0xeb9e, 'Duotone'),
   );
 
   /// ![mastodon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo-duotone.svg)
-  static const mastodonLogo = AppDuotoneIconData(
+  static const mastodonLogo = PiconDuotoneData(
     0xed69,
-    AppIconData(0xed68, 'Duotone'),
+    PiconData(0xed68, 'Duotone'),
   );
 
   /// ![math-operations-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations-duotone.svg)
-  static const mathOperations = AppDuotoneIconData(
+  static const mathOperations = PiconDuotoneData(
     0xe31f,
-    AppIconData(0xe31e, 'Duotone'),
+    PiconData(0xe31e, 'Duotone'),
   );
 
   /// ![matrix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo-duotone.svg)
-  static const matrixLogo = AppDuotoneIconData(
+  static const matrixLogo = PiconDuotoneData(
     0xed65,
-    AppIconData(0xed64, 'Duotone'),
+    PiconData(0xed64, 'Duotone'),
   );
 
   /// ![medal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-duotone.svg)
-  static const medal = AppDuotoneIconData(
+  static const medal = PiconDuotoneData(
     0xe321,
-    AppIconData(0xe320, 'Duotone'),
+    PiconData(0xe320, 'Duotone'),
   );
 
   /// ![medal-military-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military-duotone.svg)
-  static const medalMilitary = AppDuotoneIconData(
+  static const medalMilitary = PiconDuotoneData(
     0xecfd,
-    AppIconData(0xecfc, 'Duotone'),
+    PiconData(0xecfc, 'Duotone'),
   );
 
   /// ![medium-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo-duotone.svg)
-  static const mediumLogo = AppDuotoneIconData(
+  static const mediumLogo = PiconDuotoneData(
     0xe323,
-    AppIconData(0xe322, 'Duotone'),
+    PiconData(0xe322, 'Duotone'),
   );
 
   /// ![megaphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-duotone.svg)
-  static const megaphone = AppDuotoneIconData(
+  static const megaphone = PiconDuotoneData(
     0xe325,
-    AppIconData(0xe324, 'Duotone'),
+    PiconData(0xe324, 'Duotone'),
   );
 
   /// ![megaphone-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple-duotone.svg)
-  static const megaphoneSimple = AppDuotoneIconData(
+  static const megaphoneSimple = PiconDuotoneData(
     0xe643,
-    AppIconData(0xe642, 'Duotone'),
+    PiconData(0xe642, 'Duotone'),
   );
 
   /// ![member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of-duotone.svg)
-  static const memberOf = AppDuotoneIconData(
+  static const memberOf = PiconDuotoneData(
     0xedc3,
-    AppIconData(0xedc2, 'Duotone'),
+    PiconData(0xedc2, 'Duotone'),
   );
 
   /// ![memory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory-duotone.svg)
-  static const memory = AppDuotoneIconData(
+  static const memory = PiconDuotoneData(
     0xe9c5,
-    AppIconData(0xe9c4, 'Duotone'),
+    PiconData(0xe9c4, 'Duotone'),
   );
 
   /// ![messenger-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo-duotone.svg)
-  static const messengerLogo = AppDuotoneIconData(
+  static const messengerLogo = PiconDuotoneData(
     0xe6d9,
-    AppIconData(0xe6d8, 'Duotone'),
+    PiconData(0xe6d8, 'Duotone'),
   );
 
   /// ![meta-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo-duotone.svg)
-  static const metaLogo = AppDuotoneIconData(
+  static const metaLogo = PiconDuotoneData(
     0xed03,
-    AppIconData(0xed02, 'Duotone'),
+    PiconData(0xed02, 'Duotone'),
   );
 
   /// ![meteor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor-duotone.svg)
-  static const meteor = AppDuotoneIconData(
+  static const meteor = PiconDuotoneData(
     0xe9bb,
-    AppIconData(0xe9ba, 'Duotone'),
+    PiconData(0xe9ba, 'Duotone'),
   );
 
   /// ![metronome-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome-duotone.svg)
-  static const metronome = AppDuotoneIconData(
+  static const metronome = PiconDuotoneData(
     0xec8f,
-    AppIconData(0xec8e, 'Duotone'),
+    PiconData(0xec8e, 'Duotone'),
   );
 
   /// ![microphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-duotone.svg)
-  static const microphone = AppDuotoneIconData(
+  static const microphone = PiconDuotoneData(
     0xe327,
-    AppIconData(0xe326, 'Duotone'),
+    PiconData(0xe326, 'Duotone'),
   );
 
   /// ![microphone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash-duotone.svg)
-  static const microphoneSlash = AppDuotoneIconData(
+  static const microphoneSlash = PiconDuotoneData(
     0xe329,
-    AppIconData(0xe328, 'Duotone'),
+    PiconData(0xe328, 'Duotone'),
   );
 
   /// ![microphone-stage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage-duotone.svg)
-  static const microphoneStage = AppDuotoneIconData(
+  static const microphoneStage = PiconDuotoneData(
     0xe75d,
-    AppIconData(0xe75c, 'Duotone'),
+    PiconData(0xe75c, 'Duotone'),
   );
 
   /// ![microscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope-duotone.svg)
-  static const microscope = AppDuotoneIconData(
+  static const microscope = PiconDuotoneData(
     0xec7b,
-    AppIconData(0xec7a, 'Duotone'),
+    PiconData(0xec7a, 'Duotone'),
   );
 
   /// ![microsoft-excel-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo-duotone.svg)
-  static const microsoftExcelLogo = AppDuotoneIconData(
+  static const microsoftExcelLogo = PiconDuotoneData(
     0xeb6d,
-    AppIconData(0xeb6c, 'Duotone'),
+    PiconData(0xeb6c, 'Duotone'),
   );
 
   /// ![microsoft-outlook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo-duotone.svg)
-  static const microsoftOutlookLogo = AppDuotoneIconData(
+  static const microsoftOutlookLogo = PiconDuotoneData(
     0xeb71,
-    AppIconData(0xeb70, 'Duotone'),
+    PiconData(0xeb70, 'Duotone'),
   );
 
   /// ![microsoft-powerpoint-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo-duotone.svg)
-  static const microsoftPowerpointLogo = AppDuotoneIconData(
+  static const microsoftPowerpointLogo = PiconDuotoneData(
     0xeacf,
-    AppIconData(0xeace, 'Duotone'),
+    PiconData(0xeace, 'Duotone'),
   );
 
   /// ![microsoft-teams-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo-duotone.svg)
-  static const microsoftTeamsLogo = AppDuotoneIconData(
+  static const microsoftTeamsLogo = PiconDuotoneData(
     0xeb67,
-    AppIconData(0xeb66, 'Duotone'),
+    PiconData(0xeb66, 'Duotone'),
   );
 
   /// ![microsoft-word-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo-duotone.svg)
-  static const microsoftWordLogo = AppDuotoneIconData(
+  static const microsoftWordLogo = PiconDuotoneData(
     0xeb6b,
-    AppIconData(0xeb6a, 'Duotone'),
+    PiconData(0xeb6a, 'Duotone'),
   );
 
   /// ![minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-duotone.svg)
-  static const minus = AppDuotoneIconData(
+  static const minus = PiconDuotoneData(
     0xe32b,
-    AppIconData(0xe32a, 'Duotone'),
+    PiconData(0xe32a, 'Duotone'),
   );
 
   /// ![minus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle-duotone.svg)
-  static const minusCircle = AppDuotoneIconData(
+  static const minusCircle = PiconDuotoneData(
     0xe32d,
-    AppIconData(0xe32c, 'Duotone'),
+    PiconData(0xe32c, 'Duotone'),
   );
 
   /// ![minus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square-duotone.svg)
-  static const minusSquare = AppDuotoneIconData(
+  static const minusSquare = PiconDuotoneData(
     0xed53,
-    AppIconData(0xed4c, 'Duotone'),
+    PiconData(0xed4c, 'Duotone'),
   );
 
   /// ![money-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-duotone.svg)
-  static const money = AppDuotoneIconData(
+  static const money = PiconDuotoneData(
     0xe589,
-    AppIconData(0xe588, 'Duotone'),
+    PiconData(0xe588, 'Duotone'),
   );
 
   /// ![money-wavy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy-duotone.svg)
-  static const moneyWavy = AppDuotoneIconData(
+  static const moneyWavy = PiconDuotoneData(
     0xee69,
-    AppIconData(0xee68, 'Duotone'),
+    PiconData(0xee68, 'Duotone'),
   );
 
   /// ![monitor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-duotone.svg)
-  static const monitor = AppDuotoneIconData(
+  static const monitor = PiconDuotoneData(
     0xe32f,
-    AppIconData(0xe32e, 'Duotone'),
+    PiconData(0xe32e, 'Duotone'),
   );
 
   /// ![monitor-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up-duotone.svg)
-  static const monitorArrowUp = AppDuotoneIconData(
+  static const monitorArrowUp = PiconDuotoneData(
     0xe58b,
-    AppIconData(0xe58a, 'Duotone'),
+    PiconData(0xe58a, 'Duotone'),
   );
 
   /// ![monitor-play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play-duotone.svg)
-  static const monitorPlay = AppDuotoneIconData(
+  static const monitorPlay = PiconDuotoneData(
     0xe58d,
-    AppIconData(0xe58c, 'Duotone'),
+    PiconData(0xe58c, 'Duotone'),
   );
 
   /// ![moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-duotone.svg)
-  static const moon = AppDuotoneIconData(
+  static const moon = PiconDuotoneData(
     0xe331,
-    AppIconData(0xe330, 'Duotone'),
+    PiconData(0xe330, 'Duotone'),
   );
 
   /// ![moon-stars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars-duotone.svg)
-  static const moonStars = AppDuotoneIconData(
+  static const moonStars = PiconDuotoneData(
     0xe58f,
-    AppIconData(0xe58e, 'Duotone'),
+    PiconData(0xe58e, 'Duotone'),
   );
 
   /// ![moped-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-duotone.svg)
-  static const moped = AppDuotoneIconData(
+  static const moped = PiconDuotoneData(
     0xe825,
-    AppIconData(0xe824, 'Duotone'),
+    PiconData(0xe824, 'Duotone'),
   );
 
   /// ![moped-front-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front-duotone.svg)
-  static const mopedFront = AppDuotoneIconData(
+  static const mopedFront = PiconDuotoneData(
     0xe823,
-    AppIconData(0xe822, 'Duotone'),
+    PiconData(0xe822, 'Duotone'),
   );
 
   /// ![mosque-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque-duotone.svg)
-  static const mosque = AppDuotoneIconData(
+  static const mosque = PiconDuotoneData(
     0xecef,
-    AppIconData(0xecee, 'Duotone'),
+    PiconData(0xecee, 'Duotone'),
   );
 
   /// ![motorcycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle-duotone.svg)
-  static const motorcycle = AppDuotoneIconData(
+  static const motorcycle = PiconDuotoneData(
     0xe80b,
-    AppIconData(0xe80a, 'Duotone'),
+    PiconData(0xe80a, 'Duotone'),
   );
 
   /// ![mountains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains-duotone.svg)
-  static const mountains = AppDuotoneIconData(
+  static const mountains = PiconDuotoneData(
     0xe7af,
-    AppIconData(0xe7ae, 'Duotone'),
+    PiconData(0xe7ae, 'Duotone'),
   );
 
   /// ![mouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-duotone.svg)
-  static const mouse = AppDuotoneIconData(
+  static const mouse = PiconDuotoneData(
     0xe33b,
-    AppIconData(0xe33a, 'Duotone'),
+    PiconData(0xe33a, 'Duotone'),
   );
 
   /// ![mouse-left-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click-duotone.svg)
-  static const mouseLeftClick = AppDuotoneIconData(
+  static const mouseLeftClick = PiconDuotoneData(
     0xe335,
-    AppIconData(0xe334, 'Duotone'),
+    PiconData(0xe334, 'Duotone'),
   );
 
   /// ![mouse-middle-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click-duotone.svg)
-  static const mouseMiddleClick = AppDuotoneIconData(
+  static const mouseMiddleClick = PiconDuotoneData(
     0xe339,
-    AppIconData(0xe338, 'Duotone'),
+    PiconData(0xe338, 'Duotone'),
   );
 
   /// ![mouse-right-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click-duotone.svg)
-  static const mouseRightClick = AppDuotoneIconData(
+  static const mouseRightClick = PiconDuotoneData(
     0xe337,
-    AppIconData(0xe336, 'Duotone'),
+    PiconData(0xe336, 'Duotone'),
   );
 
   /// ![mouse-scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll-duotone.svg)
-  static const mouseScroll = AppDuotoneIconData(
+  static const mouseScroll = PiconDuotoneData(
     0xe333,
-    AppIconData(0xe332, 'Duotone'),
+    PiconData(0xe332, 'Duotone'),
   );
 
   /// ![mouse-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple-duotone.svg)
-  static const mouseSimple = AppDuotoneIconData(
+  static const mouseSimple = PiconDuotoneData(
     0xe645,
-    AppIconData(0xe644, 'Duotone'),
+    PiconData(0xe644, 'Duotone'),
   );
 
   /// ![music-note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-duotone.svg)
-  static const musicNote = AppDuotoneIconData(
+  static const musicNote = PiconDuotoneData(
     0xe33d,
-    AppIconData(0xe33c, 'Duotone'),
+    PiconData(0xe33c, 'Duotone'),
   );
 
   /// ![music-note-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple-duotone.svg)
-  static const musicNoteSimple = AppDuotoneIconData(
+  static const musicNoteSimple = PiconDuotoneData(
     0xe33f,
-    AppIconData(0xe33e, 'Duotone'),
+    PiconData(0xe33e, 'Duotone'),
   );
 
   /// ![music-notes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-duotone.svg)
-  static const musicNotes = AppDuotoneIconData(
+  static const musicNotes = PiconDuotoneData(
     0xe341,
-    AppIconData(0xe340, 'Duotone'),
+    PiconData(0xe340, 'Duotone'),
   );
 
   /// ![music-notes-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus-duotone.svg)
-  static const musicNotesMinus = AppDuotoneIconData(
+  static const musicNotesMinus = PiconDuotoneData(
     0xee0d,
-    AppIconData(0xee0c, 'Duotone'),
+    PiconData(0xee0c, 'Duotone'),
   );
 
   /// ![music-notes-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus-duotone.svg)
-  static const musicNotesPlus = AppDuotoneIconData(
+  static const musicNotesPlus = PiconDuotoneData(
     0xeb7d,
-    AppIconData(0xeb7c, 'Duotone'),
+    PiconData(0xeb7c, 'Duotone'),
   );
 
   /// ![music-notes-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple-duotone.svg)
-  static const musicNotesSimple = AppDuotoneIconData(
+  static const musicNotesSimple = PiconDuotoneData(
     0xe343,
-    AppIconData(0xe342, 'Duotone'),
+    PiconData(0xe342, 'Duotone'),
   );
 
   /// ![navigation-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow-duotone.svg)
-  static const navigationArrow = AppDuotoneIconData(
+  static const navigationArrow = PiconDuotoneData(
     0xeadf,
-    AppIconData(0xeade, 'Duotone'),
+    PiconData(0xeade, 'Duotone'),
   );
 
   /// ![needle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle-duotone.svg)
-  static const needle = AppDuotoneIconData(
+  static const needle = PiconDuotoneData(
     0xe82f,
-    AppIconData(0xe82e, 'Duotone'),
+    PiconData(0xe82e, 'Duotone'),
   );
 
   /// ![network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-duotone.svg)
-  static const network = AppDuotoneIconData(
+  static const network = PiconDuotoneData(
     0xeddf,
-    AppIconData(0xedde, 'Duotone'),
+    PiconData(0xedde, 'Duotone'),
   );
 
   /// ![network-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash-duotone.svg)
-  static const networkSlash = AppDuotoneIconData(
+  static const networkSlash = PiconDuotoneData(
     0xeddd,
-    AppIconData(0xeddc, 'Duotone'),
+    PiconData(0xeddc, 'Duotone'),
   );
 
   /// ![network-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x-duotone.svg)
-  static const networkX = AppDuotoneIconData(
+  static const networkX = PiconDuotoneData(
     0xeddb,
-    AppIconData(0xedda, 'Duotone'),
+    PiconData(0xedda, 'Duotone'),
   );
 
   /// ![newspaper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-duotone.svg)
-  static const newspaper = AppDuotoneIconData(
+  static const newspaper = PiconDuotoneData(
     0xe345,
-    AppIconData(0xe344, 'Duotone'),
+    PiconData(0xe344, 'Duotone'),
   );
 
   /// ![newspaper-clipping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping-duotone.svg)
-  static const newspaperClipping = AppDuotoneIconData(
+  static const newspaperClipping = PiconDuotoneData(
     0xe347,
-    AppIconData(0xe346, 'Duotone'),
+    PiconData(0xe346, 'Duotone'),
   );
 
   /// ![not-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals-duotone.svg)
-  static const notEquals = AppDuotoneIconData(
+  static const notEquals = PiconDuotoneData(
     0xeda7,
-    AppIconData(0xeda6, 'Duotone'),
+    PiconData(0xeda6, 'Duotone'),
   );
 
   /// ![not-member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of-duotone.svg)
-  static const notMemberOf = AppDuotoneIconData(
+  static const notMemberOf = PiconDuotoneData(
     0xedaf,
-    AppIconData(0xedae, 'Duotone'),
+    PiconData(0xedae, 'Duotone'),
   );
 
   /// ![not-subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of-duotone.svg)
-  static const notSubsetOf = AppDuotoneIconData(
+  static const notSubsetOf = PiconDuotoneData(
     0xedb1,
-    AppIconData(0xedb0, 'Duotone'),
+    PiconData(0xedb0, 'Duotone'),
   );
 
   /// ![not-superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of-duotone.svg)
-  static const notSupersetOf = AppDuotoneIconData(
+  static const notSupersetOf = PiconDuotoneData(
     0xedb3,
-    AppIconData(0xedb2, 'Duotone'),
+    PiconData(0xedb2, 'Duotone'),
   );
 
   /// ![notches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches-duotone.svg)
-  static const notches = AppDuotoneIconData(
+  static const notches = PiconDuotoneData(
     0xed3b,
-    AppIconData(0xed3a, 'Duotone'),
+    PiconData(0xed3a, 'Duotone'),
   );
 
   /// ![note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-duotone.svg)
-  static const note = AppDuotoneIconData(
+  static const note = PiconDuotoneData(
     0xe349,
-    AppIconData(0xe348, 'Duotone'),
+    PiconData(0xe348, 'Duotone'),
   );
 
   /// ![note-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank-duotone.svg)
-  static const noteBlank = AppDuotoneIconData(
+  static const noteBlank = PiconDuotoneData(
     0xe34b,
-    AppIconData(0xe34a, 'Duotone'),
+    PiconData(0xe34a, 'Duotone'),
   );
 
   /// ![note-pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil-duotone.svg)
-  static const notePencil = AppDuotoneIconData(
+  static const notePencil = PiconDuotoneData(
     0xe34d,
-    AppIconData(0xe34c, 'Duotone'),
+    PiconData(0xe34c, 'Duotone'),
   );
 
   /// ![notebook-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook-duotone.svg)
-  static const notebook = AppDuotoneIconData(
+  static const notebook = PiconDuotoneData(
     0xe34f,
-    AppIconData(0xe34e, 'Duotone'),
+    PiconData(0xe34e, 'Duotone'),
   );
 
   /// ![notepad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad-duotone.svg)
-  static const notepad = AppDuotoneIconData(
+  static const notepad = PiconDuotoneData(
     0xe63f,
-    AppIconData(0xe63e, 'Duotone'),
+    PiconData(0xe63e, 'Duotone'),
   );
 
   /// ![notification-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification-duotone.svg)
-  static const notification = AppDuotoneIconData(
+  static const notification = PiconDuotoneData(
     0xe6fb,
-    AppIconData(0xe6fa, 'Duotone'),
+    PiconData(0xe6fa, 'Duotone'),
   );
 
   /// ![notion-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo-duotone.svg)
-  static const notionLogo = AppDuotoneIconData(
+  static const notionLogo = PiconDuotoneData(
     0xe9a1,
-    AppIconData(0xe9a0, 'Duotone'),
+    PiconData(0xe9a0, 'Duotone'),
   );
 
   /// ![nuclear-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant-duotone.svg)
-  static const nuclearPlant = AppDuotoneIconData(
+  static const nuclearPlant = PiconDuotoneData(
     0xed7d,
-    AppIconData(0xed7c, 'Duotone'),
+    PiconData(0xed7c, 'Duotone'),
   );
 
   /// ![number-circle-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight-duotone.svg)
-  static const numberCircleEight = AppDuotoneIconData(
+  static const numberCircleEight = PiconDuotoneData(
     0xe353,
-    AppIconData(0xe352, 'Duotone'),
+    PiconData(0xe352, 'Duotone'),
   );
 
   /// ![number-circle-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five-duotone.svg)
-  static const numberCircleFive = AppDuotoneIconData(
+  static const numberCircleFive = PiconDuotoneData(
     0xe359,
-    AppIconData(0xe358, 'Duotone'),
+    PiconData(0xe358, 'Duotone'),
   );
 
   /// ![number-circle-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four-duotone.svg)
-  static const numberCircleFour = AppDuotoneIconData(
+  static const numberCircleFour = PiconDuotoneData(
     0xe35f,
-    AppIconData(0xe35e, 'Duotone'),
+    PiconData(0xe35e, 'Duotone'),
   );
 
   /// ![number-circle-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine-duotone.svg)
-  static const numberCircleNine = AppDuotoneIconData(
+  static const numberCircleNine = PiconDuotoneData(
     0xe365,
-    AppIconData(0xe364, 'Duotone'),
+    PiconData(0xe364, 'Duotone'),
   );
 
   /// ![number-circle-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one-duotone.svg)
-  static const numberCircleOne = AppDuotoneIconData(
+  static const numberCircleOne = PiconDuotoneData(
     0xe36b,
-    AppIconData(0xe36a, 'Duotone'),
+    PiconData(0xe36a, 'Duotone'),
   );
 
   /// ![number-circle-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven-duotone.svg)
-  static const numberCircleSeven = AppDuotoneIconData(
+  static const numberCircleSeven = PiconDuotoneData(
     0xe371,
-    AppIconData(0xe370, 'Duotone'),
+    PiconData(0xe370, 'Duotone'),
   );
 
   /// ![number-circle-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six-duotone.svg)
-  static const numberCircleSix = AppDuotoneIconData(
+  static const numberCircleSix = PiconDuotoneData(
     0xe377,
-    AppIconData(0xe376, 'Duotone'),
+    PiconData(0xe376, 'Duotone'),
   );
 
   /// ![number-circle-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three-duotone.svg)
-  static const numberCircleThree = AppDuotoneIconData(
+  static const numberCircleThree = PiconDuotoneData(
     0xe37d,
-    AppIconData(0xe37c, 'Duotone'),
+    PiconData(0xe37c, 'Duotone'),
   );
 
   /// ![number-circle-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two-duotone.svg)
-  static const numberCircleTwo = AppDuotoneIconData(
+  static const numberCircleTwo = PiconDuotoneData(
     0xe383,
-    AppIconData(0xe382, 'Duotone'),
+    PiconData(0xe382, 'Duotone'),
   );
 
   /// ![number-circle-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero-duotone.svg)
-  static const numberCircleZero = AppDuotoneIconData(
+  static const numberCircleZero = PiconDuotoneData(
     0xe389,
-    AppIconData(0xe388, 'Duotone'),
+    PiconData(0xe388, 'Duotone'),
   );
 
   /// ![number-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight-duotone.svg)
-  static const numberEight = AppDuotoneIconData(
+  static const numberEight = PiconDuotoneData(
     0xe351,
-    AppIconData(0xe350, 'Duotone'),
+    PiconData(0xe350, 'Duotone'),
   );
 
   /// ![number-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five-duotone.svg)
-  static const numberFive = AppDuotoneIconData(
+  static const numberFive = PiconDuotoneData(
     0xe357,
-    AppIconData(0xe356, 'Duotone'),
+    PiconData(0xe356, 'Duotone'),
   );
 
   /// ![number-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four-duotone.svg)
-  static const numberFour = AppDuotoneIconData(
+  static const numberFour = PiconDuotoneData(
     0xe35d,
-    AppIconData(0xe35c, 'Duotone'),
+    PiconData(0xe35c, 'Duotone'),
   );
 
   /// ![number-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine-duotone.svg)
-  static const numberNine = AppDuotoneIconData(
+  static const numberNine = PiconDuotoneData(
     0xe363,
-    AppIconData(0xe362, 'Duotone'),
+    PiconData(0xe362, 'Duotone'),
   );
 
   /// ![number-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one-duotone.svg)
-  static const numberOne = AppDuotoneIconData(
+  static const numberOne = PiconDuotoneData(
     0xe369,
-    AppIconData(0xe368, 'Duotone'),
+    PiconData(0xe368, 'Duotone'),
   );
 
   /// ![number-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven-duotone.svg)
-  static const numberSeven = AppDuotoneIconData(
+  static const numberSeven = PiconDuotoneData(
     0xe36f,
-    AppIconData(0xe36e, 'Duotone'),
+    PiconData(0xe36e, 'Duotone'),
   );
 
   /// ![number-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six-duotone.svg)
-  static const numberSix = AppDuotoneIconData(
+  static const numberSix = PiconDuotoneData(
     0xe375,
-    AppIconData(0xe374, 'Duotone'),
+    PiconData(0xe374, 'Duotone'),
   );
 
   /// ![number-square-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight-duotone.svg)
-  static const numberSquareEight = AppDuotoneIconData(
+  static const numberSquareEight = PiconDuotoneData(
     0xe355,
-    AppIconData(0xe354, 'Duotone'),
+    PiconData(0xe354, 'Duotone'),
   );
 
   /// ![number-square-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five-duotone.svg)
-  static const numberSquareFive = AppDuotoneIconData(
+  static const numberSquareFive = PiconDuotoneData(
     0xe35b,
-    AppIconData(0xe35a, 'Duotone'),
+    PiconData(0xe35a, 'Duotone'),
   );
 
   /// ![number-square-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four-duotone.svg)
-  static const numberSquareFour = AppDuotoneIconData(
+  static const numberSquareFour = PiconDuotoneData(
     0xe361,
-    AppIconData(0xe360, 'Duotone'),
+    PiconData(0xe360, 'Duotone'),
   );
 
   /// ![number-square-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine-duotone.svg)
-  static const numberSquareNine = AppDuotoneIconData(
+  static const numberSquareNine = PiconDuotoneData(
     0xe367,
-    AppIconData(0xe366, 'Duotone'),
+    PiconData(0xe366, 'Duotone'),
   );
 
   /// ![number-square-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one-duotone.svg)
-  static const numberSquareOne = AppDuotoneIconData(
+  static const numberSquareOne = PiconDuotoneData(
     0xe36d,
-    AppIconData(0xe36c, 'Duotone'),
+    PiconData(0xe36c, 'Duotone'),
   );
 
   /// ![number-square-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven-duotone.svg)
-  static const numberSquareSeven = AppDuotoneIconData(
+  static const numberSquareSeven = PiconDuotoneData(
     0xe373,
-    AppIconData(0xe372, 'Duotone'),
+    PiconData(0xe372, 'Duotone'),
   );
 
   /// ![number-square-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six-duotone.svg)
-  static const numberSquareSix = AppDuotoneIconData(
+  static const numberSquareSix = PiconDuotoneData(
     0xe379,
-    AppIconData(0xe378, 'Duotone'),
+    PiconData(0xe378, 'Duotone'),
   );
 
   /// ![number-square-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three-duotone.svg)
-  static const numberSquareThree = AppDuotoneIconData(
+  static const numberSquareThree = PiconDuotoneData(
     0xe37f,
-    AppIconData(0xe37e, 'Duotone'),
+    PiconData(0xe37e, 'Duotone'),
   );
 
   /// ![number-square-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two-duotone.svg)
-  static const numberSquareTwo = AppDuotoneIconData(
+  static const numberSquareTwo = PiconDuotoneData(
     0xe385,
-    AppIconData(0xe384, 'Duotone'),
+    PiconData(0xe384, 'Duotone'),
   );
 
   /// ![number-square-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero-duotone.svg)
-  static const numberSquareZero = AppDuotoneIconData(
+  static const numberSquareZero = PiconDuotoneData(
     0xe38b,
-    AppIconData(0xe38a, 'Duotone'),
+    PiconData(0xe38a, 'Duotone'),
   );
 
   /// ![number-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three-duotone.svg)
-  static const numberThree = AppDuotoneIconData(
+  static const numberThree = PiconDuotoneData(
     0xe37b,
-    AppIconData(0xe37a, 'Duotone'),
+    PiconData(0xe37a, 'Duotone'),
   );
 
   /// ![number-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two-duotone.svg)
-  static const numberTwo = AppDuotoneIconData(
+  static const numberTwo = PiconDuotoneData(
     0xe381,
-    AppIconData(0xe380, 'Duotone'),
+    PiconData(0xe380, 'Duotone'),
   );
 
   /// ![number-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero-duotone.svg)
-  static const numberZero = AppDuotoneIconData(
+  static const numberZero = PiconDuotoneData(
     0xe387,
-    AppIconData(0xe386, 'Duotone'),
+    PiconData(0xe386, 'Duotone'),
   );
 
   /// ![numpad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad-duotone.svg)
-  static const numpad = AppDuotoneIconData(
+  static const numpad = PiconDuotoneData(
     0xe3c9,
-    AppIconData(0xe3c8, 'Duotone'),
+    PiconData(0xe3c8, 'Duotone'),
   );
 
   /// ![nut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut-duotone.svg)
-  static const nut = AppDuotoneIconData(
+  static const nut = PiconDuotoneData(
     0xe38d,
-    AppIconData(0xe38c, 'Duotone'),
+    PiconData(0xe38c, 'Duotone'),
   );
 
   /// ![ny-times-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo-duotone.svg)
-  static const nyTimesLogo = AppDuotoneIconData(
+  static const nyTimesLogo = PiconDuotoneData(
     0xe647,
-    AppIconData(0xe646, 'Duotone'),
+    PiconData(0xe646, 'Duotone'),
   );
 
   /// ![octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon-duotone.svg)
-  static const octagon = AppDuotoneIconData(
+  static const octagon = PiconDuotoneData(
     0xe38f,
-    AppIconData(0xe38e, 'Duotone'),
+    PiconData(0xe38e, 'Duotone'),
   );
 
   /// ![office-chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair-duotone.svg)
-  static const officeChair = AppDuotoneIconData(
+  static const officeChair = PiconDuotoneData(
     0xea47,
-    AppIconData(0xea46, 'Duotone'),
+    PiconData(0xea46, 'Duotone'),
   );
 
   /// ![onigiri-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri-duotone.svg)
-  static const onigiri = AppDuotoneIconData(
+  static const onigiri = PiconDuotoneData(
     0xee2d,
-    AppIconData(0xee2c, 'Duotone'),
+    PiconData(0xee2c, 'Duotone'),
   );
 
   /// ![open-ai-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo-duotone.svg)
-  static const openAiLogo = AppDuotoneIconData(
+  static const openAiLogo = PiconDuotoneData(
     0xe7d3,
-    AppIconData(0xe7d2, 'Duotone'),
+    PiconData(0xe7d2, 'Duotone'),
   );
 
   /// ![option-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option-duotone.svg)
-  static const option = AppDuotoneIconData(
+  static const option = PiconDuotoneData(
     0xe8a9,
-    AppIconData(0xe8a8, 'Duotone'),
+    PiconData(0xe8a8, 'Duotone'),
   );
 
   /// ![orange-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-duotone.svg)
-  static const orange = AppDuotoneIconData(
+  static const orange = PiconDuotoneData(
     0xee41,
-    AppIconData(0xee40, 'Duotone'),
+    PiconData(0xee40, 'Duotone'),
   );
 
   /// ![orange-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice-duotone.svg)
-  static const orangeSlice = AppDuotoneIconData(
+  static const orangeSlice = PiconDuotoneData(
     0xed37,
-    AppIconData(0xed36, 'Duotone'),
+    PiconData(0xed36, 'Duotone'),
   );
 
   /// ![oven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven-duotone.svg)
-  static const oven = AppDuotoneIconData(
+  static const oven = PiconDuotoneData(
     0xed8d,
-    AppIconData(0xed8c, 'Duotone'),
+    PiconData(0xed8c, 'Duotone'),
   );
 
   /// ![package-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package-duotone.svg)
-  static const package = AppDuotoneIconData(
+  static const package = PiconDuotoneData(
     0xe391,
-    AppIconData(0xe390, 'Duotone'),
+    PiconData(0xe390, 'Duotone'),
   );
 
   /// ![paint-brush-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-duotone.svg)
-  static const paintBrush = AppDuotoneIconData(
+  static const paintBrush = PiconDuotoneData(
     0xe6f1,
-    AppIconData(0xe6f0, 'Duotone'),
+    PiconData(0xe6f0, 'Duotone'),
   );
 
   /// ![paint-brush-broad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad-duotone.svg)
-  static const paintBrushBroad = AppDuotoneIconData(
+  static const paintBrushBroad = PiconDuotoneData(
     0xe591,
-    AppIconData(0xe590, 'Duotone'),
+    PiconData(0xe590, 'Duotone'),
   );
 
   /// ![paint-brush-household-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household-duotone.svg)
-  static const paintBrushHousehold = AppDuotoneIconData(
+  static const paintBrushHousehold = PiconDuotoneData(
     0xe6f3,
-    AppIconData(0xe6f2, 'Duotone'),
+    PiconData(0xe6f2, 'Duotone'),
   );
 
   /// ![paint-bucket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket-duotone.svg)
-  static const paintBucket = AppDuotoneIconData(
+  static const paintBucket = PiconDuotoneData(
     0xe393,
-    AppIconData(0xe392, 'Duotone'),
+    PiconData(0xe392, 'Duotone'),
   );
 
   /// ![paint-roller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller-duotone.svg)
-  static const paintRoller = AppDuotoneIconData(
+  static const paintRoller = PiconDuotoneData(
     0xe6f5,
-    AppIconData(0xe6f4, 'Duotone'),
+    PiconData(0xe6f4, 'Duotone'),
   );
 
   /// ![palette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette-duotone.svg)
-  static const palette = AppDuotoneIconData(
+  static const palette = PiconDuotoneData(
     0xe6c9,
-    AppIconData(0xe6c8, 'Duotone'),
+    PiconData(0xe6c8, 'Duotone'),
   );
 
   /// ![panorama-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama-duotone.svg)
-  static const panorama = AppDuotoneIconData(
+  static const panorama = PiconDuotoneData(
     0xeaa3,
-    AppIconData(0xeaa2, 'Duotone'),
+    PiconData(0xeaa2, 'Duotone'),
   );
 
   /// ![pants-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants-duotone.svg)
-  static const pants = AppDuotoneIconData(
+  static const pants = PiconDuotoneData(
     0xec89,
-    AppIconData(0xec88, 'Duotone'),
+    PiconData(0xec88, 'Duotone'),
   );
 
   /// ![paper-plane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-duotone.svg)
-  static const paperPlane = AppDuotoneIconData(
+  static const paperPlane = PiconDuotoneData(
     0xe395,
-    AppIconData(0xe394, 'Duotone'),
+    PiconData(0xe394, 'Duotone'),
   );
 
   /// ![paper-plane-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right-duotone.svg)
-  static const paperPlaneRight = AppDuotoneIconData(
+  static const paperPlaneRight = PiconDuotoneData(
     0xe397,
-    AppIconData(0xe396, 'Duotone'),
+    PiconData(0xe396, 'Duotone'),
   );
 
   /// ![paper-plane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt-duotone.svg)
-  static const paperPlaneTilt = AppDuotoneIconData(
+  static const paperPlaneTilt = PiconDuotoneData(
     0xe399,
-    AppIconData(0xe398, 'Duotone'),
+    PiconData(0xe398, 'Duotone'),
   );
 
   /// ![paperclip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-duotone.svg)
-  static const paperclip = AppDuotoneIconData(
+  static const paperclip = PiconDuotoneData(
     0xe39b,
-    AppIconData(0xe39a, 'Duotone'),
+    PiconData(0xe39a, 'Duotone'),
   );
 
   /// ![paperclip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal-duotone.svg)
-  static const paperclipHorizontal = AppDuotoneIconData(
+  static const paperclipHorizontal = PiconDuotoneData(
     0xe593,
-    AppIconData(0xe592, 'Duotone'),
+    PiconData(0xe592, 'Duotone'),
   );
 
   /// ![parachute-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute-duotone.svg)
-  static const parachute = AppDuotoneIconData(
+  static const parachute = PiconDuotoneData(
     0xea7d,
-    AppIconData(0xea7c, 'Duotone'),
+    PiconData(0xea7c, 'Duotone'),
   );
 
   /// ![paragraph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph-duotone.svg)
-  static const paragraph = AppDuotoneIconData(
+  static const paragraph = PiconDuotoneData(
     0xe961,
-    AppIconData(0xe960, 'Duotone'),
+    PiconData(0xe960, 'Duotone'),
   );
 
   /// ![parallelogram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram-duotone.svg)
-  static const parallelogram = AppDuotoneIconData(
+  static const parallelogram = PiconDuotoneData(
     0xecc7,
-    AppIconData(0xecc6, 'Duotone'),
+    PiconData(0xecc6, 'Duotone'),
   );
 
   /// ![park-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park-duotone.svg)
-  static const park = AppDuotoneIconData(
+  static const park = PiconDuotoneData(
     0xecb3,
-    AppIconData(0xecb2, 'Duotone'),
+    PiconData(0xecb2, 'Duotone'),
   );
 
   /// ![password-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password-duotone.svg)
-  static const password = AppDuotoneIconData(
+  static const password = PiconDuotoneData(
     0xe753,
-    AppIconData(0xe752, 'Duotone'),
+    PiconData(0xe752, 'Duotone'),
   );
 
   /// ![path-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path-duotone.svg)
-  static const path = AppDuotoneIconData(
+  static const path = PiconDuotoneData(
     0xe39d,
-    AppIconData(0xe39c, 'Duotone'),
+    PiconData(0xe39c, 'Duotone'),
   );
 
   /// ![patreon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo-duotone.svg)
-  static const patreonLogo = AppDuotoneIconData(
+  static const patreonLogo = PiconDuotoneData(
     0xe98b,
-    AppIconData(0xe98a, 'Duotone'),
+    PiconData(0xe98a, 'Duotone'),
   );
 
   /// ![pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-duotone.svg)
-  static const pause = AppDuotoneIconData(
+  static const pause = PiconDuotoneData(
     0xe39f,
-    AppIconData(0xe39e, 'Duotone'),
+    PiconData(0xe39e, 'Duotone'),
   );
 
   /// ![pause-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle-duotone.svg)
-  static const pauseCircle = AppDuotoneIconData(
+  static const pauseCircle = PiconDuotoneData(
     0xe3a1,
-    AppIconData(0xe3a0, 'Duotone'),
+    PiconData(0xe3a0, 'Duotone'),
   );
 
   /// ![paw-print-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print-duotone.svg)
-  static const pawPrint = AppDuotoneIconData(
+  static const pawPrint = PiconDuotoneData(
     0xe649,
-    AppIconData(0xe648, 'Duotone'),
+    PiconData(0xe648, 'Duotone'),
   );
 
   /// ![paypal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo-duotone.svg)
-  static const paypalLogo = AppDuotoneIconData(
+  static const paypalLogo = PiconDuotoneData(
     0xe98d,
-    AppIconData(0xe98c, 'Duotone'),
+    PiconData(0xe98c, 'Duotone'),
   );
 
   /// ![peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace-duotone.svg)
-  static const peace = AppDuotoneIconData(
+  static const peace = PiconDuotoneData(
     0xe3a3,
-    AppIconData(0xe3a2, 'Duotone'),
+    PiconData(0xe3a2, 'Duotone'),
   );
 
   /// ![pen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-duotone.svg)
-  static const pen = AppDuotoneIconData(
+  static const pen = PiconDuotoneData(
     0xe3ab,
-    AppIconData(0xe3aa, 'Duotone'),
+    PiconData(0xe3aa, 'Duotone'),
   );
 
   /// ![pen-nib-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-duotone.svg)
-  static const penNib = AppDuotoneIconData(
+  static const penNib = PiconDuotoneData(
     0xe3ad,
-    AppIconData(0xe3ac, 'Duotone'),
+    PiconData(0xe3ac, 'Duotone'),
   );
 
   /// ![pen-nib-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight-duotone.svg)
-  static const penNibStraight = AppDuotoneIconData(
+  static const penNibStraight = PiconDuotoneData(
     0xe64b,
-    AppIconData(0xe64a, 'Duotone'),
+    PiconData(0xe64a, 'Duotone'),
   );
 
   /// ![pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-duotone.svg)
-  static const pencil = AppDuotoneIconData(
+  static const pencil = PiconDuotoneData(
     0xe3af,
-    AppIconData(0xe3ae, 'Duotone'),
+    PiconData(0xe3ae, 'Duotone'),
   );
 
   /// ![pencil-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle-duotone.svg)
-  static const pencilCircle = AppDuotoneIconData(
+  static const pencilCircle = PiconDuotoneData(
     0xe3b1,
-    AppIconData(0xe3b0, 'Duotone'),
+    PiconData(0xe3b0, 'Duotone'),
   );
 
   /// ![pencil-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line-duotone.svg)
-  static const pencilLine = AppDuotoneIconData(
+  static const pencilLine = PiconDuotoneData(
     0xe3b3,
-    AppIconData(0xe3b2, 'Duotone'),
+    PiconData(0xe3b2, 'Duotone'),
   );
 
   /// ![pencil-ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler-duotone.svg)
-  static const pencilRuler = AppDuotoneIconData(
+  static const pencilRuler = PiconDuotoneData(
     0xe907,
-    AppIconData(0xe906, 'Duotone'),
+    PiconData(0xe906, 'Duotone'),
   );
 
   /// ![pencil-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-duotone.svg)
-  static const pencilSimple = AppDuotoneIconData(
+  static const pencilSimple = PiconDuotoneData(
     0xe3b5,
-    AppIconData(0xe3b4, 'Duotone'),
+    PiconData(0xe3b4, 'Duotone'),
   );
 
   /// ![pencil-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line-duotone.svg)
-  static const pencilSimpleLine = AppDuotoneIconData(
+  static const pencilSimpleLine = PiconDuotoneData(
     0xebc7,
-    AppIconData(0xebc6, 'Duotone'),
+    PiconData(0xebc6, 'Duotone'),
   );
 
   /// ![pencil-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash-duotone.svg)
-  static const pencilSimpleSlash = AppDuotoneIconData(
+  static const pencilSimpleSlash = PiconDuotoneData(
     0xecf7,
-    AppIconData(0xecf6, 'Duotone'),
+    PiconData(0xecf6, 'Duotone'),
   );
 
   /// ![pencil-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash-duotone.svg)
-  static const pencilSlash = AppDuotoneIconData(
+  static const pencilSlash = PiconDuotoneData(
     0xecf9,
-    AppIconData(0xecf8, 'Duotone'),
+    PiconData(0xecf8, 'Duotone'),
   );
 
   /// ![pentagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon-duotone.svg)
-  static const pentagon = AppDuotoneIconData(
+  static const pentagon = PiconDuotoneData(
     0xec7f,
-    AppIconData(0xec7e, 'Duotone'),
+    PiconData(0xec7e, 'Duotone'),
   );
 
   /// ![pentagram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram-duotone.svg)
-  static const pentagram = AppDuotoneIconData(
+  static const pentagram = PiconDuotoneData(
     0xec5d,
-    AppIconData(0xec5c, 'Duotone'),
+    PiconData(0xec5c, 'Duotone'),
   );
 
   /// ![pepper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper-duotone.svg)
-  static const pepper = AppDuotoneIconData(
+  static const pepper = PiconDuotoneData(
     0xe94b,
-    AppIconData(0xe94a, 'Duotone'),
+    PiconData(0xe94a, 'Duotone'),
   );
 
   /// ![percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent-duotone.svg)
-  static const percent = AppDuotoneIconData(
+  static const percent = PiconDuotoneData(
     0xe3b7,
-    AppIconData(0xe3b6, 'Duotone'),
+    PiconData(0xe3b6, 'Duotone'),
   );
 
   /// ![person-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-duotone.svg)
-  static const person = AppDuotoneIconData(
+  static const person = PiconDuotoneData(
     0xe3a9,
-    AppIconData(0xe3a8, 'Duotone'),
+    PiconData(0xe3a8, 'Duotone'),
   );
 
   /// ![person-arms-spread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread-duotone.svg)
-  static const personArmsSpread = AppDuotoneIconData(
+  static const personArmsSpread = PiconDuotoneData(
     0xecff,
-    AppIconData(0xecfe, 'Duotone'),
+    PiconData(0xecfe, 'Duotone'),
   );
 
   /// ![person-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-duotone.svg)
-  static const personSimple = AppDuotoneIconData(
+  static const personSimple = PiconDuotoneData(
     0xe72f,
-    AppIconData(0xe72e, 'Duotone'),
+    PiconData(0xe72e, 'Duotone'),
   );
 
   /// ![person-simple-bike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike-duotone.svg)
-  static const personSimpleBike = AppDuotoneIconData(
+  static const personSimpleBike = PiconDuotoneData(
     0xe735,
-    AppIconData(0xe734, 'Duotone'),
+    PiconData(0xe734, 'Duotone'),
   );
 
   /// ![person-simple-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle-duotone.svg)
-  static const personSimpleCircle = AppDuotoneIconData(
+  static const personSimpleCircle = PiconDuotoneData(
     0xee59,
-    AppIconData(0xee58, 'Duotone'),
+    PiconData(0xee58, 'Duotone'),
   );
 
   /// ![person-simple-hike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike-duotone.svg)
-  static const personSimpleHike = AppDuotoneIconData(
+  static const personSimpleHike = PiconDuotoneData(
     0xed55,
-    AppIconData(0xed54, 'Duotone'),
+    PiconData(0xed54, 'Duotone'),
   );
 
   /// ![person-simple-run-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run-duotone.svg)
-  static const personSimpleRun = AppDuotoneIconData(
+  static const personSimpleRun = PiconDuotoneData(
     0xe731,
-    AppIconData(0xe730, 'Duotone'),
+    PiconData(0xe730, 'Duotone'),
   );
 
   /// ![person-simple-ski-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski-duotone.svg)
-  static const personSimpleSki = AppDuotoneIconData(
+  static const personSimpleSki = PiconDuotoneData(
     0xe71d,
-    AppIconData(0xe71c, 'Duotone'),
+    PiconData(0xe71c, 'Duotone'),
   );
 
   /// ![person-simple-snowboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard-duotone.svg)
-  static const personSimpleSnowboard = AppDuotoneIconData(
+  static const personSimpleSnowboard = PiconDuotoneData(
     0xe71f,
-    AppIconData(0xe71e, 'Duotone'),
+    PiconData(0xe71e, 'Duotone'),
   );
 
   /// ![person-simple-swim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim-duotone.svg)
-  static const personSimpleSwim = AppDuotoneIconData(
+  static const personSimpleSwim = PiconDuotoneData(
     0xe737,
-    AppIconData(0xe736, 'Duotone'),
+    PiconData(0xe736, 'Duotone'),
   );
 
   /// ![person-simple-tai-chi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi-duotone.svg)
-  static const personSimpleTaiChi = AppDuotoneIconData(
+  static const personSimpleTaiChi = PiconDuotoneData(
     0xed5d,
-    AppIconData(0xed5c, 'Duotone'),
+    PiconData(0xed5c, 'Duotone'),
   );
 
   /// ![person-simple-throw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw-duotone.svg)
-  static const personSimpleThrow = AppDuotoneIconData(
+  static const personSimpleThrow = PiconDuotoneData(
     0xe733,
-    AppIconData(0xe732, 'Duotone'),
+    PiconData(0xe732, 'Duotone'),
   );
 
   /// ![person-simple-walk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk-duotone.svg)
-  static const personSimpleWalk = AppDuotoneIconData(
+  static const personSimpleWalk = PiconDuotoneData(
     0xe73b,
-    AppIconData(0xe73a, 'Duotone'),
+    PiconData(0xe73a, 'Duotone'),
   );
 
   /// ![perspective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective-duotone.svg)
-  static const perspective = AppDuotoneIconData(
+  static const perspective = PiconDuotoneData(
     0xebe7,
-    AppIconData(0xebe6, 'Duotone'),
+    PiconData(0xebe6, 'Duotone'),
   );
 
   /// ![phone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-duotone.svg)
-  static const phone = AppDuotoneIconData(
+  static const phone = PiconDuotoneData(
     0xe3b9,
-    AppIconData(0xe3b8, 'Duotone'),
+    PiconData(0xe3b8, 'Duotone'),
   );
 
   /// ![phone-call-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call-duotone.svg)
-  static const phoneCall = AppDuotoneIconData(
+  static const phoneCall = PiconDuotoneData(
     0xe3bb,
-    AppIconData(0xe3ba, 'Duotone'),
+    PiconData(0xe3ba, 'Duotone'),
   );
 
   /// ![phone-disconnect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect-duotone.svg)
-  static const phoneDisconnect = AppDuotoneIconData(
+  static const phoneDisconnect = PiconDuotoneData(
     0xe3bd,
-    AppIconData(0xe3bc, 'Duotone'),
+    PiconData(0xe3bc, 'Duotone'),
   );
 
   /// ![phone-incoming-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming-duotone.svg)
-  static const phoneIncoming = AppDuotoneIconData(
+  static const phoneIncoming = PiconDuotoneData(
     0xe3bf,
-    AppIconData(0xe3be, 'Duotone'),
+    PiconData(0xe3be, 'Duotone'),
   );
 
   /// ![phone-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list-duotone.svg)
-  static const phoneList = AppDuotoneIconData(
+  static const phoneList = PiconDuotoneData(
     0xe3cd,
-    AppIconData(0xe3cc, 'Duotone'),
+    PiconData(0xe3cc, 'Duotone'),
   );
 
   /// ![phone-outgoing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing-duotone.svg)
-  static const phoneOutgoing = AppDuotoneIconData(
+  static const phoneOutgoing = PiconDuotoneData(
     0xe3c1,
-    AppIconData(0xe3c0, 'Duotone'),
+    PiconData(0xe3c0, 'Duotone'),
   );
 
   /// ![phone-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause-duotone.svg)
-  static const phonePause = AppDuotoneIconData(
+  static const phonePause = PiconDuotoneData(
     0xe3cb,
-    AppIconData(0xe3ca, 'Duotone'),
+    PiconData(0xe3ca, 'Duotone'),
   );
 
   /// ![phone-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus-duotone.svg)
-  static const phonePlus = AppDuotoneIconData(
+  static const phonePlus = PiconDuotoneData(
     0xec57,
-    AppIconData(0xec56, 'Duotone'),
+    PiconData(0xec56, 'Duotone'),
   );
 
   /// ![phone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash-duotone.svg)
-  static const phoneSlash = AppDuotoneIconData(
+  static const phoneSlash = PiconDuotoneData(
     0xe3c3,
-    AppIconData(0xe3c2, 'Duotone'),
+    PiconData(0xe3c2, 'Duotone'),
   );
 
   /// ![phone-transfer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer-duotone.svg)
-  static const phoneTransfer = AppDuotoneIconData(
+  static const phoneTransfer = PiconDuotoneData(
     0xe3c7,
-    AppIconData(0xe3c6, 'Duotone'),
+    PiconData(0xe3c6, 'Duotone'),
   );
 
   /// ![phone-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x-duotone.svg)
-  static const phoneX = AppDuotoneIconData(
+  static const phoneX = PiconDuotoneData(
     0xe3c5,
-    AppIconData(0xe3c4, 'Duotone'),
+    PiconData(0xe3c4, 'Duotone'),
   );
 
   /// ![phosphor-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo-duotone.svg)
-  static const phosphorLogo = AppDuotoneIconData(
+  static const phosphorLogo = PiconDuotoneData(
     0xe3cf,
-    AppIconData(0xe3ce, 'Duotone'),
+    PiconData(0xe3ce, 'Duotone'),
   );
 
   /// ![pi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi-duotone.svg)
-  static const pi = AppDuotoneIconData(
+  static const pi = PiconDuotoneData(
     0xec81,
-    AppIconData(0xec80, 'Duotone'),
+    PiconData(0xec80, 'Duotone'),
   );
 
   /// ![piano-keys-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys-duotone.svg)
-  static const pianoKeys = AppDuotoneIconData(
+  static const pianoKeys = PiconDuotoneData(
     0xe9c9,
-    AppIconData(0xe9c8, 'Duotone'),
+    PiconData(0xe9c8, 'Duotone'),
   );
 
   /// ![picnic-table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table-duotone.svg)
-  static const picnicTable = AppDuotoneIconData(
+  static const picnicTable = PiconDuotoneData(
     0xee27,
-    AppIconData(0xee26, 'Duotone'),
+    PiconData(0xee26, 'Duotone'),
   );
 
   /// ![picture-in-picture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture-duotone.svg)
-  static const pictureInpicture = AppDuotoneIconData(
+  static const pictureInpicture = PiconDuotoneData(
     0xe64d,
-    AppIconData(0xe64c, 'Duotone'),
+    PiconData(0xe64c, 'Duotone'),
   );
 
   /// ![piggy-bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank-duotone.svg)
-  static const piggyBank = AppDuotoneIconData(
+  static const piggyBank = PiconDuotoneData(
     0xea05,
-    AppIconData(0xea04, 'Duotone'),
+    PiconData(0xea04, 'Duotone'),
   );
 
   /// ![pill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill-duotone.svg)
-  static const pill = AppDuotoneIconData(
+  static const pill = PiconDuotoneData(
     0xe701,
-    AppIconData(0xe700, 'Duotone'),
+    PiconData(0xe700, 'Duotone'),
   );
 
   /// ![ping-pong-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong-duotone.svg)
-  static const pingPong = AppDuotoneIconData(
+  static const pingPong = PiconDuotoneData(
     0xea43,
-    AppIconData(0xea42, 'Duotone'),
+    PiconData(0xea42, 'Duotone'),
   );
 
   /// ![pint-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass-duotone.svg)
-  static const pintGlass = AppDuotoneIconData(
+  static const pintGlass = PiconDuotoneData(
     0xedd1,
-    AppIconData(0xedd0, 'Duotone'),
+    PiconData(0xedd0, 'Duotone'),
   );
 
   /// ![pinterest-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo-duotone.svg)
-  static const pinterestLogo = AppDuotoneIconData(
+  static const pinterestLogo = PiconDuotoneData(
     0xe64f,
-    AppIconData(0xe64e, 'Duotone'),
+    PiconData(0xe64e, 'Duotone'),
   );
 
   /// ![pinwheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel-duotone.svg)
-  static const pinwheel = AppDuotoneIconData(
+  static const pinwheel = PiconDuotoneData(
     0xeb9d,
-    AppIconData(0xeb9c, 'Duotone'),
+    PiconData(0xeb9c, 'Duotone'),
   );
 
   /// ![pipe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-duotone.svg)
-  static const pipe = AppDuotoneIconData(
+  static const pipe = PiconDuotoneData(
     0xed87,
-    AppIconData(0xed86, 'Duotone'),
+    PiconData(0xed86, 'Duotone'),
   );
 
   /// ![pipe-wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench-duotone.svg)
-  static const pipeWrench = AppDuotoneIconData(
+  static const pipeWrench = PiconDuotoneData(
     0xed89,
-    AppIconData(0xed88, 'Duotone'),
+    PiconData(0xed88, 'Duotone'),
   );
 
   /// ![pix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo-duotone.svg)
-  static const pixLogo = AppDuotoneIconData(
+  static const pixLogo = PiconDuotoneData(
     0xecc3,
-    AppIconData(0xecc2, 'Duotone'),
+    PiconData(0xecc2, 'Duotone'),
   );
 
   /// ![pizza-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza-duotone.svg)
-  static const pizza = AppDuotoneIconData(
+  static const pizza = PiconDuotoneData(
     0xe797,
-    AppIconData(0xe796, 'Duotone'),
+    PiconData(0xe796, 'Duotone'),
   );
 
   /// ![placeholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder-duotone.svg)
-  static const placeholder = AppDuotoneIconData(
+  static const placeholder = PiconDuotoneData(
     0xe651,
-    AppIconData(0xe650, 'Duotone'),
+    PiconData(0xe650, 'Duotone'),
   );
 
   /// ![planet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet-duotone.svg)
-  static const planet = AppDuotoneIconData(
+  static const planet = PiconDuotoneData(
     0xe653,
-    AppIconData(0xe652, 'Duotone'),
+    PiconData(0xe652, 'Duotone'),
   );
 
   /// ![plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant-duotone.svg)
-  static const plant = AppDuotoneIconData(
+  static const plant = PiconDuotoneData(
     0xebaf,
-    AppIconData(0xebae, 'Duotone'),
+    PiconData(0xebae, 'Duotone'),
   );
 
   /// ![play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-duotone.svg)
-  static const play = AppDuotoneIconData(
+  static const play = PiconDuotoneData(
     0xe3d1,
-    AppIconData(0xe3d0, 'Duotone'),
+    PiconData(0xe3d0, 'Duotone'),
   );
 
   /// ![play-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle-duotone.svg)
-  static const playCircle = AppDuotoneIconData(
+  static const playCircle = PiconDuotoneData(
     0xe3d3,
-    AppIconData(0xe3d2, 'Duotone'),
+    PiconData(0xe3d2, 'Duotone'),
   );
 
   /// ![play-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause-duotone.svg)
-  static const playPause = AppDuotoneIconData(
+  static const playPause = PiconDuotoneData(
     0xe8bf,
-    AppIconData(0xe8be, 'Duotone'),
+    PiconData(0xe8be, 'Duotone'),
   );
 
   /// ![playlist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist-duotone.svg)
-  static const playlist = AppDuotoneIconData(
+  static const playlist = PiconDuotoneData(
     0xe6ab,
-    AppIconData(0xe6aa, 'Duotone'),
+    PiconData(0xe6aa, 'Duotone'),
   );
 
   /// ![plug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-duotone.svg)
-  static const plug = AppDuotoneIconData(
+  static const plug = PiconDuotoneData(
     0xe947,
-    AppIconData(0xe946, 'Duotone'),
+    PiconData(0xe946, 'Duotone'),
   );
 
   /// ![plug-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging-duotone.svg)
-  static const plugCharging = AppDuotoneIconData(
+  static const plugCharging = PiconDuotoneData(
     0xeb5d,
-    AppIconData(0xeb5c, 'Duotone'),
+    PiconData(0xeb5c, 'Duotone'),
   );
 
   /// ![plugs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-duotone.svg)
-  static const plugs = AppDuotoneIconData(
+  static const plugs = PiconDuotoneData(
     0xeb57,
-    AppIconData(0xeb56, 'Duotone'),
+    PiconData(0xeb56, 'Duotone'),
   );
 
   /// ![plugs-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected-duotone.svg)
-  static const plugsConnected = AppDuotoneIconData(
+  static const plugsConnected = PiconDuotoneData(
     0xeb5b,
-    AppIconData(0xeb5a, 'Duotone'),
+    PiconData(0xeb5a, 'Duotone'),
   );
 
   /// ![plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-duotone.svg)
-  static const plus = AppDuotoneIconData(
+  static const plus = PiconDuotoneData(
     0xe3d5,
-    AppIconData(0xe3d4, 'Duotone'),
+    PiconData(0xe3d4, 'Duotone'),
   );
 
   /// ![plus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle-duotone.svg)
-  static const plusCircle = AppDuotoneIconData(
+  static const plusCircle = PiconDuotoneData(
     0xe3d7,
-    AppIconData(0xe3d6, 'Duotone'),
+    PiconData(0xe3d6, 'Duotone'),
   );
 
   /// ![plus-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus-duotone.svg)
-  static const plusMinus = AppDuotoneIconData(
+  static const plusMinus = PiconDuotoneData(
     0xe3d9,
-    AppIconData(0xe3d8, 'Duotone'),
+    PiconData(0xe3d8, 'Duotone'),
   );
 
   /// ![plus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square-duotone.svg)
-  static const plusSquare = AppDuotoneIconData(
+  static const plusSquare = PiconDuotoneData(
     0xed56,
-    AppIconData(0xed4a, 'Duotone'),
+    PiconData(0xed4a, 'Duotone'),
   );
 
   /// ![poker-chip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip-duotone.svg)
-  static const pokerChip = AppDuotoneIconData(
+  static const pokerChip = PiconDuotoneData(
     0xe595,
-    AppIconData(0xe594, 'Duotone'),
+    PiconData(0xe594, 'Duotone'),
   );
 
   /// ![police-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car-duotone.svg)
-  static const policeCar = AppDuotoneIconData(
+  static const policeCar = PiconDuotoneData(
     0xec4b,
-    AppIconData(0xec4a, 'Duotone'),
+    PiconData(0xec4a, 'Duotone'),
   );
 
   /// ![polygon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon-duotone.svg)
-  static const polygon = AppDuotoneIconData(
+  static const polygon = PiconDuotoneData(
     0xe6d1,
-    AppIconData(0xe6d0, 'Duotone'),
+    PiconData(0xe6d0, 'Duotone'),
   );
 
   /// ![popcorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn-duotone.svg)
-  static const popcorn = AppDuotoneIconData(
+  static const popcorn = PiconDuotoneData(
     0xeb4f,
-    AppIconData(0xeb4e, 'Duotone'),
+    PiconData(0xeb4e, 'Duotone'),
   );
 
   /// ![popsicle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle-duotone.svg)
-  static const popsicle = AppDuotoneIconData(
+  static const popsicle = PiconDuotoneData(
     0xebbf,
-    AppIconData(0xebbe, 'Duotone'),
+    PiconData(0xebbe, 'Duotone'),
   );
 
   /// ![potted-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant-duotone.svg)
-  static const pottedPlant = AppDuotoneIconData(
+  static const pottedPlant = PiconDuotoneData(
     0xec23,
-    AppIconData(0xec22, 'Duotone'),
+    PiconData(0xec22, 'Duotone'),
   );
 
   /// ![power-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power-duotone.svg)
-  static const power = AppDuotoneIconData(
+  static const power = PiconDuotoneData(
     0xe3db,
-    AppIconData(0xe3da, 'Duotone'),
+    PiconData(0xe3da, 'Duotone'),
   );
 
   /// ![prescription-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription-duotone.svg)
-  static const prescription = AppDuotoneIconData(
+  static const prescription = PiconDuotoneData(
     0xe7a3,
-    AppIconData(0xe7a2, 'Duotone'),
+    PiconData(0xe7a2, 'Duotone'),
   );
 
   /// ![presentation-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-duotone.svg)
-  static const presentation = AppDuotoneIconData(
+  static const presentation = PiconDuotoneData(
     0xe655,
-    AppIconData(0xe654, 'Duotone'),
+    PiconData(0xe654, 'Duotone'),
   );
 
   /// ![presentation-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart-duotone.svg)
-  static const presentationChart = AppDuotoneIconData(
+  static const presentationChart = PiconDuotoneData(
     0xe657,
-    AppIconData(0xe656, 'Duotone'),
+    PiconData(0xe656, 'Duotone'),
   );
 
   /// ![printer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer-duotone.svg)
-  static const printer = AppDuotoneIconData(
+  static const printer = PiconDuotoneData(
     0xe3dd,
-    AppIconData(0xe3dc, 'Duotone'),
+    PiconData(0xe3dc, 'Duotone'),
   );
 
   /// ![prohibit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-duotone.svg)
-  static const prohibit = AppDuotoneIconData(
+  static const prohibit = PiconDuotoneData(
     0xe3df,
-    AppIconData(0xe3de, 'Duotone'),
+    PiconData(0xe3de, 'Duotone'),
   );
 
   /// ![prohibit-inset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset-duotone.svg)
-  static const prohibitInset = AppDuotoneIconData(
+  static const prohibitInset = PiconDuotoneData(
     0xe3e1,
-    AppIconData(0xe3e0, 'Duotone'),
+    PiconData(0xe3e0, 'Duotone'),
   );
 
   /// ![projector-screen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-duotone.svg)
-  static const projectorScreen = AppDuotoneIconData(
+  static const projectorScreen = PiconDuotoneData(
     0xe659,
-    AppIconData(0xe658, 'Duotone'),
+    PiconData(0xe658, 'Duotone'),
   );
 
   /// ![projector-screen-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart-duotone.svg)
-  static const projectorScreenChart = AppDuotoneIconData(
+  static const projectorScreenChart = PiconDuotoneData(
     0xe65b,
-    AppIconData(0xe65a, 'Duotone'),
+    PiconData(0xe65a, 'Duotone'),
   );
 
   /// ![pulse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse-duotone.svg)
-  static const pulse = AppDuotoneIconData(
+  static const pulse = PiconDuotoneData(
     0xe001,
-    AppIconData(0xe000, 'Duotone'),
+    PiconData(0xe000, 'Duotone'),
   );
 
   /// ![push-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-duotone.svg)
-  static const pushPin = AppDuotoneIconData(
+  static const pushPin = PiconDuotoneData(
     0xe3e3,
-    AppIconData(0xe3e2, 'Duotone'),
+    PiconData(0xe3e2, 'Duotone'),
   );
 
   /// ![push-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-duotone.svg)
-  static const pushPinSimple = AppDuotoneIconData(
+  static const pushPinSimple = PiconDuotoneData(
     0xe65d,
-    AppIconData(0xe65c, 'Duotone'),
+    PiconData(0xe65c, 'Duotone'),
   );
 
   /// ![push-pin-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash-duotone.svg)
-  static const pushPinSimpleSlash = AppDuotoneIconData(
+  static const pushPinSimpleSlash = PiconDuotoneData(
     0xe65f,
-    AppIconData(0xe65e, 'Duotone'),
+    PiconData(0xe65e, 'Duotone'),
   );
 
   /// ![push-pin-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash-duotone.svg)
-  static const pushPinSlash = AppDuotoneIconData(
+  static const pushPinSlash = PiconDuotoneData(
     0xe3e5,
-    AppIconData(0xe3e4, 'Duotone'),
+    PiconData(0xe3e4, 'Duotone'),
   );
 
   /// ![puzzle-piece-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece-duotone.svg)
-  static const puzzlePiece = AppDuotoneIconData(
+  static const puzzlePiece = PiconDuotoneData(
     0xe597,
-    AppIconData(0xe596, 'Duotone'),
+    PiconData(0xe596, 'Duotone'),
   );
 
   /// ![qr-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code-duotone.svg)
-  static const qrCode = AppDuotoneIconData(
+  static const qrCode = PiconDuotoneData(
     0xe3e7,
-    AppIconData(0xe3e6, 'Duotone'),
+    PiconData(0xe3e6, 'Duotone'),
   );
 
   /// ![question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-duotone.svg)
-  static const question = AppDuotoneIconData(
+  static const question = PiconDuotoneData(
     0xe3eb,
-    AppIconData(0xe3e8, 'Duotone'),
+    PiconData(0xe3e8, 'Duotone'),
   );
 
   /// ![question-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark-duotone.svg)
-  static const questionMark = AppDuotoneIconData(
+  static const questionMark = PiconDuotoneData(
     0xe3ed,
-    AppIconData(0xe3e9, 'Duotone'),
+    PiconData(0xe3e9, 'Duotone'),
   );
 
   /// ![queue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue-duotone.svg)
-  static const queue = AppDuotoneIconData(
+  static const queue = PiconDuotoneData(
     0xe6ad,
-    AppIconData(0xe6ac, 'Duotone'),
+    PiconData(0xe6ac, 'Duotone'),
   );
 
   /// ![quotes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes-duotone.svg)
-  static const quotes = AppDuotoneIconData(
+  static const quotes = PiconDuotoneData(
     0xe661,
-    AppIconData(0xe660, 'Duotone'),
+    PiconData(0xe660, 'Duotone'),
   );
 
   /// ![rabbit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit-duotone.svg)
-  static const rabbit = AppDuotoneIconData(
+  static const rabbit = PiconDuotoneData(
     0xeac3,
-    AppIconData(0xeac2, 'Duotone'),
+    PiconData(0xeac2, 'Duotone'),
   );
 
   /// ![racquet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet-duotone.svg)
-  static const racquet = AppDuotoneIconData(
+  static const racquet = PiconDuotoneData(
     0xee03,
-    AppIconData(0xee02, 'Duotone'),
+    PiconData(0xee02, 'Duotone'),
   );
 
   /// ![radical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical-duotone.svg)
-  static const radical = AppDuotoneIconData(
+  static const radical = PiconDuotoneData(
     0xe3ef,
-    AppIconData(0xe3ea, 'Duotone'),
+    PiconData(0xe3ea, 'Duotone'),
   );
 
   /// ![radio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-duotone.svg)
-  static const radio = AppDuotoneIconData(
+  static const radio = PiconDuotoneData(
     0xe77f,
-    AppIconData(0xe77e, 'Duotone'),
+    PiconData(0xe77e, 'Duotone'),
   );
 
   /// ![radio-button-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button-duotone.svg)
-  static const radioButton = AppDuotoneIconData(
+  static const radioButton = PiconDuotoneData(
     0xeb09,
-    AppIconData(0xeb08, 'Duotone'),
+    PiconData(0xeb08, 'Duotone'),
   );
 
   /// ![radioactive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive-duotone.svg)
-  static const radioactive = AppDuotoneIconData(
+  static const radioactive = PiconDuotoneData(
     0xe9dd,
-    AppIconData(0xe9dc, 'Duotone'),
+    PiconData(0xe9dc, 'Duotone'),
   );
 
   /// ![rainbow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-duotone.svg)
-  static const rainbow = AppDuotoneIconData(
+  static const rainbow = PiconDuotoneData(
     0xe599,
-    AppIconData(0xe598, 'Duotone'),
+    PiconData(0xe598, 'Duotone'),
   );
 
   /// ![rainbow-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud-duotone.svg)
-  static const rainbowCloud = AppDuotoneIconData(
+  static const rainbowCloud = PiconDuotoneData(
     0xe59b,
-    AppIconData(0xe59a, 'Duotone'),
+    PiconData(0xe59a, 'Duotone'),
   );
 
   /// ![ranking-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking-duotone.svg)
-  static const ranking = AppDuotoneIconData(
+  static const ranking = PiconDuotoneData(
     0xed63,
-    AppIconData(0xed62, 'Duotone'),
+    PiconData(0xed62, 'Duotone'),
   );
 
   /// ![read-cv-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo-duotone.svg)
-  static const readCvLogo = AppDuotoneIconData(
+  static const readCvLogo = PiconDuotoneData(
     0xed0d,
-    AppIconData(0xed0c, 'Duotone'),
+    PiconData(0xed0c, 'Duotone'),
   );
 
   /// ![receipt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-duotone.svg)
-  static const receipt = AppDuotoneIconData(
+  static const receipt = PiconDuotoneData(
     0xe3f1,
-    AppIconData(0xe3ec, 'Duotone'),
+    PiconData(0xe3ec, 'Duotone'),
   );
 
   /// ![receipt-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x-duotone.svg)
-  static const receiptX = AppDuotoneIconData(
+  static const receiptX = PiconDuotoneData(
     0xed41,
-    AppIconData(0xed40, 'Duotone'),
+    PiconData(0xed40, 'Duotone'),
   );
 
   /// ![record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record-duotone.svg)
-  static const record = AppDuotoneIconData(
+  static const record = PiconDuotoneData(
     0xe3f3,
-    AppIconData(0xe3ee, 'Duotone'),
+    PiconData(0xe3ee, 'Duotone'),
   );
 
   /// ![rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-duotone.svg)
-  static const rectangle = AppDuotoneIconData(
+  static const rectangle = PiconDuotoneData(
     0xe3f5,
-    AppIconData(0xe3f0, 'Duotone'),
+    PiconData(0xe3f0, 'Duotone'),
   );
 
   /// ![rectangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed-duotone.svg)
-  static const rectangleDashed = AppDuotoneIconData(
+  static const rectangleDashed = PiconDuotoneData(
     0xe3f7,
-    AppIconData(0xe3f2, 'Duotone'),
+    PiconData(0xe3f2, 'Duotone'),
   );
 
   /// ![recycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle-duotone.svg)
-  static const recycle = AppDuotoneIconData(
+  static const recycle = PiconDuotoneData(
     0xe75b,
-    AppIconData(0xe75a, 'Duotone'),
+    PiconData(0xe75a, 'Duotone'),
   );
 
   /// ![reddit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo-duotone.svg)
-  static const redditLogo = AppDuotoneIconData(
+  static const redditLogo = PiconDuotoneData(
     0xe59d,
-    AppIconData(0xe59c, 'Duotone'),
+    PiconData(0xe59c, 'Duotone'),
   );
 
   /// ![repeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-duotone.svg)
-  static const repeat = AppDuotoneIconData(
+  static const repeat = PiconDuotoneData(
     0xe3f9,
-    AppIconData(0xe3f6, 'Duotone'),
+    PiconData(0xe3f6, 'Duotone'),
   );
 
   /// ![repeat-once-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once-duotone.svg)
-  static const repeatOnce = AppDuotoneIconData(
+  static const repeatOnce = PiconDuotoneData(
     0xe3fb,
-    AppIconData(0xe3f8, 'Duotone'),
+    PiconData(0xe3f8, 'Duotone'),
   );
 
   /// ![replit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo-duotone.svg)
-  static const replitLogo = AppDuotoneIconData(
+  static const replitLogo = PiconDuotoneData(
     0xeb8b,
-    AppIconData(0xeb8a, 'Duotone'),
+    PiconData(0xeb8a, 'Duotone'),
   );
 
   /// ![resize-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize-duotone.svg)
-  static const resize = AppDuotoneIconData(
+  static const resize = PiconDuotoneData(
     0xed6f,
-    AppIconData(0xed6e, 'Duotone'),
+    PiconData(0xed6e, 'Duotone'),
   );
 
   /// ![rewind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-duotone.svg)
-  static const rewind = AppDuotoneIconData(
+  static const rewind = PiconDuotoneData(
     0xe6a9,
-    AppIconData(0xe6a8, 'Duotone'),
+    PiconData(0xe6a8, 'Duotone'),
   );
 
   /// ![rewind-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle-duotone.svg)
-  static const rewindCircle = AppDuotoneIconData(
+  static const rewindCircle = PiconDuotoneData(
     0xe3fd,
-    AppIconData(0xe3fa, 'Duotone'),
+    PiconData(0xe3fa, 'Duotone'),
   );
 
   /// ![road-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon-duotone.svg)
-  static const roadHorizon = AppDuotoneIconData(
+  static const roadHorizon = PiconDuotoneData(
     0xe839,
-    AppIconData(0xe838, 'Duotone'),
+    PiconData(0xe838, 'Duotone'),
   );
 
   /// ![robot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot-duotone.svg)
-  static const robot = AppDuotoneIconData(
+  static const robot = PiconDuotoneData(
     0xe763,
-    AppIconData(0xe762, 'Duotone'),
+    PiconData(0xe762, 'Duotone'),
   );
 
   /// ![rocket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-duotone.svg)
-  static const rocket = AppDuotoneIconData(
+  static const rocket = PiconDuotoneData(
     0xe3ff,
-    AppIconData(0xe3fc, 'Duotone'),
+    PiconData(0xe3fc, 'Duotone'),
   );
 
   /// ![rocket-launch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch-duotone.svg)
-  static const rocketLaunch = AppDuotoneIconData(
+  static const rocketLaunch = PiconDuotoneData(
     0xe401,
-    AppIconData(0xe3fe, 'Duotone'),
+    PiconData(0xe3fe, 'Duotone'),
   );
 
   /// ![rows-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-duotone.svg)
-  static const rows = AppDuotoneIconData(
+  static const rows = PiconDuotoneData(
     0xe5a3,
-    AppIconData(0xe5a2, 'Duotone'),
+    PiconData(0xe5a2, 'Duotone'),
   );
 
   /// ![rows-plus-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom-duotone.svg)
-  static const rowsPlusBottom = AppDuotoneIconData(
+  static const rowsPlusBottom = PiconDuotoneData(
     0xe59f,
-    AppIconData(0xe59e, 'Duotone'),
+    PiconData(0xe59e, 'Duotone'),
   );
 
   /// ![rows-plus-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top-duotone.svg)
-  static const rowsPlusTop = AppDuotoneIconData(
+  static const rowsPlusTop = PiconDuotoneData(
     0xe5a1,
-    AppIconData(0xe5a0, 'Duotone'),
+    PiconData(0xe5a0, 'Duotone'),
   );
 
   /// ![rss-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-duotone.svg)
-  static const rss = AppDuotoneIconData(
+  static const rss = PiconDuotoneData(
     0xe403,
-    AppIconData(0xe400, 'Duotone'),
+    PiconData(0xe400, 'Duotone'),
   );
 
   /// ![rss-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple-duotone.svg)
-  static const rssSimple = AppDuotoneIconData(
+  static const rssSimple = PiconDuotoneData(
     0xe405,
-    AppIconData(0xe402, 'Duotone'),
+    PiconData(0xe402, 'Duotone'),
   );
 
   /// ![rug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug-duotone.svg)
-  static const rug = AppDuotoneIconData(
+  static const rug = PiconDuotoneData(
     0xea1b,
-    AppIconData(0xea1a, 'Duotone'),
+    PiconData(0xea1a, 'Duotone'),
   );
 
   /// ![ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler-duotone.svg)
-  static const ruler = AppDuotoneIconData(
+  static const ruler = PiconDuotoneData(
     0xe6b9,
-    AppIconData(0xe6b8, 'Duotone'),
+    PiconData(0xe6b8, 'Duotone'),
   );
 
   /// ![sailboat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat-duotone.svg)
-  static const sailboat = AppDuotoneIconData(
+  static const sailboat = PiconDuotoneData(
     0xe78b,
-    AppIconData(0xe78a, 'Duotone'),
+    PiconData(0xe78a, 'Duotone'),
   );
 
   /// ![scales-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales-duotone.svg)
-  static const scales = AppDuotoneIconData(
+  static const scales = PiconDuotoneData(
     0xe751,
-    AppIconData(0xe750, 'Duotone'),
+    PiconData(0xe750, 'Duotone'),
   );
 
   /// ![scan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-duotone.svg)
-  static const scan = AppDuotoneIconData(
+  static const scan = PiconDuotoneData(
     0xebb7,
-    AppIconData(0xebb6, 'Duotone'),
+    PiconData(0xebb6, 'Duotone'),
   );
 
   /// ![scan-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley-duotone.svg)
-  static const scanSmiley = AppDuotoneIconData(
+  static const scanSmiley = PiconDuotoneData(
     0xebb5,
-    AppIconData(0xebb4, 'Duotone'),
+    PiconData(0xebb4, 'Duotone'),
   );
 
   /// ![scissors-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors-duotone.svg)
-  static const scissors = AppDuotoneIconData(
+  static const scissors = PiconDuotoneData(
     0xeae1,
-    AppIconData(0xeae0, 'Duotone'),
+    PiconData(0xeae0, 'Duotone'),
   );
 
   /// ![scooter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter-duotone.svg)
-  static const scooter = AppDuotoneIconData(
+  static const scooter = PiconDuotoneData(
     0xe821,
-    AppIconData(0xe820, 'Duotone'),
+    PiconData(0xe820, 'Duotone'),
   );
 
   /// ![screencast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast-duotone.svg)
-  static const screencast = AppDuotoneIconData(
+  static const screencast = PiconDuotoneData(
     0xe407,
-    AppIconData(0xe404, 'Duotone'),
+    PiconData(0xe404, 'Duotone'),
   );
 
   /// ![screwdriver-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver-duotone.svg)
-  static const screwdriver = AppDuotoneIconData(
+  static const screwdriver = PiconDuotoneData(
     0xe86f,
-    AppIconData(0xe86e, 'Duotone'),
+    PiconData(0xe86e, 'Duotone'),
   );
 
   /// ![scribble-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-duotone.svg)
-  static const scribble = AppDuotoneIconData(
+  static const scribble = PiconDuotoneData(
     0xe807,
-    AppIconData(0xe806, 'Duotone'),
+    PiconData(0xe806, 'Duotone'),
   );
 
   /// ![scribble-loop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop-duotone.svg)
-  static const scribbleLoop = AppDuotoneIconData(
+  static const scribbleLoop = PiconDuotoneData(
     0xe663,
-    AppIconData(0xe662, 'Duotone'),
+    PiconData(0xe662, 'Duotone'),
   );
 
   /// ![scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll-duotone.svg)
-  static const scroll = AppDuotoneIconData(
+  static const scroll = PiconDuotoneData(
     0xeb7b,
-    AppIconData(0xeb7a, 'Duotone'),
+    PiconData(0xeb7a, 'Duotone'),
   );
 
   /// ![seal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-duotone.svg)
-  static const seal = AppDuotoneIconData(
+  static const seal = PiconDuotoneData(
     0xe605,
-    AppIconData(0xe604, 'Duotone'),
+    PiconData(0xe604, 'Duotone'),
   );
 
   /// ![seal-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check-duotone.svg)
-  static const sealCheck = AppDuotoneIconData(
+  static const sealCheck = PiconDuotoneData(
     0xe607,
-    AppIconData(0xe606, 'Duotone'),
+    PiconData(0xe606, 'Duotone'),
   );
 
   /// ![seal-percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent-duotone.svg)
-  static const sealPercent = AppDuotoneIconData(
+  static const sealPercent = PiconDuotoneData(
     0xe60b,
-    AppIconData(0xe60a, 'Duotone'),
+    PiconData(0xe60a, 'Duotone'),
   );
 
   /// ![seal-question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question-duotone.svg)
-  static const sealQuestion = AppDuotoneIconData(
+  static const sealQuestion = PiconDuotoneData(
     0xe609,
-    AppIconData(0xe608, 'Duotone'),
+    PiconData(0xe608, 'Duotone'),
   );
 
   /// ![seal-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning-duotone.svg)
-  static const sealWarning = AppDuotoneIconData(
+  static const sealWarning = PiconDuotoneData(
     0xe60d,
-    AppIconData(0xe60c, 'Duotone'),
+    PiconData(0xe60c, 'Duotone'),
   );
 
   /// ![seat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat-duotone.svg)
-  static const seat = AppDuotoneIconData(
+  static const seat = PiconDuotoneData(
     0xeb8f,
-    AppIconData(0xeb8e, 'Duotone'),
+    PiconData(0xeb8e, 'Duotone'),
   );
 
   /// ![seatbelt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt-duotone.svg)
-  static const seatbelt = AppDuotoneIconData(
+  static const seatbelt = PiconDuotoneData(
     0xedff,
-    AppIconData(0xedfe, 'Duotone'),
+    PiconData(0xedfe, 'Duotone'),
   );
 
   /// ![security-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera-duotone.svg)
-  static const securityCamera = AppDuotoneIconData(
+  static const securityCamera = PiconDuotoneData(
     0xeca5,
-    AppIconData(0xeca4, 'Duotone'),
+    PiconData(0xeca4, 'Duotone'),
   );
 
   /// ![selection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-duotone.svg)
-  static const selection = AppDuotoneIconData(
+  static const selection = PiconDuotoneData(
     0xe69b,
-    AppIconData(0xe69a, 'Duotone'),
+    PiconData(0xe69a, 'Duotone'),
   );
 
   /// ![selection-all-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all-duotone.svg)
-  static const selectionAll = AppDuotoneIconData(
+  static const selectionAll = PiconDuotoneData(
     0xe747,
-    AppIconData(0xe746, 'Duotone'),
+    PiconData(0xe746, 'Duotone'),
   );
 
   /// ![selection-background-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background-duotone.svg)
-  static const selectionBackground = AppDuotoneIconData(
+  static const selectionBackground = PiconDuotoneData(
     0xeaf9,
-    AppIconData(0xeaf8, 'Duotone'),
+    PiconData(0xeaf8, 'Duotone'),
   );
 
   /// ![selection-foreground-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground-duotone.svg)
-  static const selectionForeground = AppDuotoneIconData(
+  static const selectionForeground = PiconDuotoneData(
     0xeaf7,
-    AppIconData(0xeaf6, 'Duotone'),
+    PiconData(0xeaf6, 'Duotone'),
   );
 
   /// ![selection-inverse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse-duotone.svg)
-  static const selectionInverse = AppDuotoneIconData(
+  static const selectionInverse = PiconDuotoneData(
     0xe745,
-    AppIconData(0xe744, 'Duotone'),
+    PiconData(0xe744, 'Duotone'),
   );
 
   /// ![selection-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus-duotone.svg)
-  static const selectionPlus = AppDuotoneIconData(
+  static const selectionPlus = PiconDuotoneData(
     0xe69d,
-    AppIconData(0xe69c, 'Duotone'),
+    PiconData(0xe69c, 'Duotone'),
   );
 
   /// ![selection-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash-duotone.svg)
-  static const selectionSlash = AppDuotoneIconData(
+  static const selectionSlash = PiconDuotoneData(
     0xe69f,
-    AppIconData(0xe69e, 'Duotone'),
+    PiconData(0xe69e, 'Duotone'),
   );
 
   /// ![shapes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes-duotone.svg)
-  static const shapes = AppDuotoneIconData(
+  static const shapes = PiconDuotoneData(
     0xec5f,
-    AppIconData(0xec5e, 'Duotone'),
+    PiconData(0xec5e, 'Duotone'),
   );
 
   /// ![share-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-duotone.svg)
-  static const share = AppDuotoneIconData(
+  static const share = PiconDuotoneData(
     0xe409,
-    AppIconData(0xe406, 'Duotone'),
+    PiconData(0xe406, 'Duotone'),
   );
 
   /// ![share-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat-duotone.svg)
-  static const shareFat = AppDuotoneIconData(
+  static const shareFat = PiconDuotoneData(
     0xed57,
-    AppIconData(0xed52, 'Duotone'),
+    PiconData(0xed52, 'Duotone'),
   );
 
   /// ![share-network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network-duotone.svg)
-  static const shareNetwork = AppDuotoneIconData(
+  static const shareNetwork = PiconDuotoneData(
     0xe40b,
-    AppIconData(0xe408, 'Duotone'),
+    PiconData(0xe408, 'Duotone'),
   );
 
   /// ![shield-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-duotone.svg)
-  static const shield = AppDuotoneIconData(
+  static const shield = PiconDuotoneData(
     0xe40d,
-    AppIconData(0xe40a, 'Duotone'),
+    PiconData(0xe40a, 'Duotone'),
   );
 
   /// ![shield-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check-duotone.svg)
-  static const shieldCheck = AppDuotoneIconData(
+  static const shieldCheck = PiconDuotoneData(
     0xe40f,
-    AppIconData(0xe40c, 'Duotone'),
+    PiconData(0xe40c, 'Duotone'),
   );
 
   /// ![shield-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered-duotone.svg)
-  static const shieldCheckered = AppDuotoneIconData(
+  static const shieldCheckered = PiconDuotoneData(
     0xe709,
-    AppIconData(0xe708, 'Duotone'),
+    PiconData(0xe708, 'Duotone'),
   );
 
   /// ![shield-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron-duotone.svg)
-  static const shieldChevron = AppDuotoneIconData(
+  static const shieldChevron = PiconDuotoneData(
     0xe411,
-    AppIconData(0xe40e, 'Duotone'),
+    PiconData(0xe40e, 'Duotone'),
   );
 
   /// ![shield-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus-duotone.svg)
-  static const shieldPlus = AppDuotoneIconData(
+  static const shieldPlus = PiconDuotoneData(
     0xe707,
-    AppIconData(0xe706, 'Duotone'),
+    PiconData(0xe706, 'Duotone'),
   );
 
   /// ![shield-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash-duotone.svg)
-  static const shieldSlash = AppDuotoneIconData(
+  static const shieldSlash = PiconDuotoneData(
     0xe413,
-    AppIconData(0xe410, 'Duotone'),
+    PiconData(0xe410, 'Duotone'),
   );
 
   /// ![shield-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star-duotone.svg)
-  static const shieldStar = AppDuotoneIconData(
+  static const shieldStar = PiconDuotoneData(
     0xec35,
-    AppIconData(0xec34, 'Duotone'),
+    PiconData(0xec34, 'Duotone'),
   );
 
   /// ![shield-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning-duotone.svg)
-  static const shieldWarning = AppDuotoneIconData(
+  static const shieldWarning = PiconDuotoneData(
     0xe414,
-    AppIconData(0xe412, 'Duotone'),
+    PiconData(0xe412, 'Duotone'),
   );
 
   /// ![shipping-container-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container-duotone.svg)
-  static const shippingContainer = AppDuotoneIconData(
+  static const shippingContainer = PiconDuotoneData(
     0xe78d,
-    AppIconData(0xe78c, 'Duotone'),
+    PiconData(0xe78c, 'Duotone'),
   );
 
   /// ![shirt-folded-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded-duotone.svg)
-  static const shirtFolded = AppDuotoneIconData(
+  static const shirtFolded = PiconDuotoneData(
     0xea93,
-    AppIconData(0xea92, 'Duotone'),
+    PiconData(0xea92, 'Duotone'),
   );
 
   /// ![shooting-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star-duotone.svg)
-  static const shootingStar = AppDuotoneIconData(
+  static const shootingStar = PiconDuotoneData(
     0xecfb,
-    AppIconData(0xecfa, 'Duotone'),
+    PiconData(0xecfa, 'Duotone'),
   );
 
   /// ![shopping-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-duotone.svg)
-  static const shoppingBag = AppDuotoneIconData(
+  static const shoppingBag = PiconDuotoneData(
     0xe417,
-    AppIconData(0xe416, 'Duotone'),
+    PiconData(0xe416, 'Duotone'),
   );
 
   /// ![shopping-bag-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open-duotone.svg)
-  static const shoppingBagOpen = AppDuotoneIconData(
+  static const shoppingBagOpen = PiconDuotoneData(
     0xe419,
-    AppIconData(0xe418, 'Duotone'),
+    PiconData(0xe418, 'Duotone'),
   );
 
   /// ![shopping-cart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-duotone.svg)
-  static const shoppingCart = AppDuotoneIconData(
+  static const shoppingCart = PiconDuotoneData(
     0xe41f,
-    AppIconData(0xe41e, 'Duotone'),
+    PiconData(0xe41e, 'Duotone'),
   );
 
   /// ![shopping-cart-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple-duotone.svg)
-  static const shoppingCartSimple = AppDuotoneIconData(
+  static const shoppingCartSimple = PiconDuotoneData(
     0xe421,
-    AppIconData(0xe420, 'Duotone'),
+    PiconData(0xe420, 'Duotone'),
   );
 
   /// ![shovel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel-duotone.svg)
-  static const shovel = AppDuotoneIconData(
+  static const shovel = PiconDuotoneData(
     0xe9e7,
-    AppIconData(0xe9e6, 'Duotone'),
+    PiconData(0xe9e6, 'Duotone'),
   );
 
   /// ![shower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower-duotone.svg)
-  static const shower = AppDuotoneIconData(
+  static const shower = PiconDuotoneData(
     0xe777,
-    AppIconData(0xe776, 'Duotone'),
+    PiconData(0xe776, 'Duotone'),
   );
 
   /// ![shrimp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp-duotone.svg)
-  static const shrimp = AppDuotoneIconData(
+  static const shrimp = PiconDuotoneData(
     0xeab5,
-    AppIconData(0xeab4, 'Duotone'),
+    PiconData(0xeab4, 'Duotone'),
   );
 
   /// ![shuffle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-duotone.svg)
-  static const shuffle = AppDuotoneIconData(
+  static const shuffle = PiconDuotoneData(
     0xe423,
-    AppIconData(0xe422, 'Duotone'),
+    PiconData(0xe422, 'Duotone'),
   );
 
   /// ![shuffle-angular-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular-duotone.svg)
-  static const shuffleAngular = AppDuotoneIconData(
+  static const shuffleAngular = PiconDuotoneData(
     0xe425,
-    AppIconData(0xe424, 'Duotone'),
+    PiconData(0xe424, 'Duotone'),
   );
 
   /// ![shuffle-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple-duotone.svg)
-  static const shuffleSimple = AppDuotoneIconData(
+  static const shuffleSimple = PiconDuotoneData(
     0xe427,
-    AppIconData(0xe426, 'Duotone'),
+    PiconData(0xe426, 'Duotone'),
   );
 
   /// ![sidebar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-duotone.svg)
-  static const sidebar = AppDuotoneIconData(
+  static const sidebar = PiconDuotoneData(
     0xeab7,
-    AppIconData(0xeab6, 'Duotone'),
+    PiconData(0xeab6, 'Duotone'),
   );
 
   /// ![sidebar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple-duotone.svg)
-  static const sidebarSimple = AppDuotoneIconData(
+  static const sidebarSimple = PiconDuotoneData(
     0xec25,
-    AppIconData(0xec24, 'Duotone'),
+    PiconData(0xec24, 'Duotone'),
   );
 
   /// ![sigma-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma-duotone.svg)
-  static const sigma = AppDuotoneIconData(
+  static const sigma = PiconDuotoneData(
     0xeab9,
-    AppIconData(0xeab8, 'Duotone'),
+    PiconData(0xeab8, 'Duotone'),
   );
 
   /// ![sign-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in-duotone.svg)
-  static const signIn = AppDuotoneIconData(
+  static const signIn = PiconDuotoneData(
     0xe429,
-    AppIconData(0xe428, 'Duotone'),
+    PiconData(0xe428, 'Duotone'),
   );
 
   /// ![sign-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out-duotone.svg)
-  static const signOut = AppDuotoneIconData(
+  static const signOut = PiconDuotoneData(
     0xe42b,
-    AppIconData(0xe42a, 'Duotone'),
+    PiconData(0xe42a, 'Duotone'),
   );
 
   /// ![signature-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature-duotone.svg)
-  static const signature = AppDuotoneIconData(
+  static const signature = PiconDuotoneData(
     0xebad,
-    AppIconData(0xebac, 'Duotone'),
+    PiconData(0xebac, 'Duotone'),
   );
 
   /// ![signpost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost-duotone.svg)
-  static const signpost = AppDuotoneIconData(
+  static const signpost = PiconDuotoneData(
     0xe89d,
-    AppIconData(0xe89c, 'Duotone'),
+    PiconData(0xe89c, 'Duotone'),
   );
 
   /// ![sim-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card-duotone.svg)
-  static const simCard = AppDuotoneIconData(
+  static const simCard = PiconDuotoneData(
     0xe665,
-    AppIconData(0xe664, 'Duotone'),
+    PiconData(0xe664, 'Duotone'),
   );
 
   /// ![siren-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren-duotone.svg)
-  static const siren = AppDuotoneIconData(
+  static const siren = PiconDuotoneData(
     0xe9b9,
-    AppIconData(0xe9b8, 'Duotone'),
+    PiconData(0xe9b8, 'Duotone'),
   );
 
   /// ![sketch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo-duotone.svg)
-  static const sketchLogo = AppDuotoneIconData(
+  static const sketchLogo = PiconDuotoneData(
     0xe42d,
-    AppIconData(0xe42c, 'Duotone'),
+    PiconData(0xe42c, 'Duotone'),
   );
 
   /// ![skip-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-duotone.svg)
-  static const skipBack = AppDuotoneIconData(
+  static const skipBack = PiconDuotoneData(
     0xe5a5,
-    AppIconData(0xe5a4, 'Duotone'),
+    PiconData(0xe5a4, 'Duotone'),
   );
 
   /// ![skip-back-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle-duotone.svg)
-  static const skipBackCircle = AppDuotoneIconData(
+  static const skipBackCircle = PiconDuotoneData(
     0xe42f,
-    AppIconData(0xe42e, 'Duotone'),
+    PiconData(0xe42e, 'Duotone'),
   );
 
   /// ![skip-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-duotone.svg)
-  static const skipForward = AppDuotoneIconData(
+  static const skipForward = PiconDuotoneData(
     0xe5a7,
-    AppIconData(0xe5a6, 'Duotone'),
+    PiconData(0xe5a6, 'Duotone'),
   );
 
   /// ![skip-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle-duotone.svg)
-  static const skipForwardCircle = AppDuotoneIconData(
+  static const skipForwardCircle = PiconDuotoneData(
     0xe431,
-    AppIconData(0xe430, 'Duotone'),
+    PiconData(0xe430, 'Duotone'),
   );
 
   /// ![skull-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull-duotone.svg)
-  static const skull = AppDuotoneIconData(
+  static const skull = PiconDuotoneData(
     0xe917,
-    AppIconData(0xe916, 'Duotone'),
+    PiconData(0xe916, 'Duotone'),
   );
 
   /// ![skype-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo-duotone.svg)
-  static const skypeLogo = AppDuotoneIconData(
+  static const skypeLogo = PiconDuotoneData(
     0xe8dd,
-    AppIconData(0xe8dc, 'Duotone'),
+    PiconData(0xe8dc, 'Duotone'),
   );
 
   /// ![slack-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo-duotone.svg)
-  static const slackLogo = AppDuotoneIconData(
+  static const slackLogo = PiconDuotoneData(
     0xe5a9,
-    AppIconData(0xe5a8, 'Duotone'),
+    PiconData(0xe5a8, 'Duotone'),
   );
 
   /// ![sliders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-duotone.svg)
-  static const sliders = AppDuotoneIconData(
+  static const sliders = PiconDuotoneData(
     0xe433,
-    AppIconData(0xe432, 'Duotone'),
+    PiconData(0xe432, 'Duotone'),
   );
 
   /// ![sliders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal-duotone.svg)
-  static const slidersHorizontal = AppDuotoneIconData(
+  static const slidersHorizontal = PiconDuotoneData(
     0xe435,
-    AppIconData(0xe434, 'Duotone'),
+    PiconData(0xe434, 'Duotone'),
   );
 
   /// ![slideshow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow-duotone.svg)
-  static const slideshow = AppDuotoneIconData(
+  static const slideshow = PiconDuotoneData(
     0xed33,
-    AppIconData(0xed32, 'Duotone'),
+    PiconData(0xed32, 'Duotone'),
   );
 
   /// ![smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-duotone.svg)
-  static const smiley = AppDuotoneIconData(
+  static const smiley = PiconDuotoneData(
     0xe437,
-    AppIconData(0xe436, 'Duotone'),
+    PiconData(0xe436, 'Duotone'),
   );
 
   /// ![smiley-angry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry-duotone.svg)
-  static const smileyAngry = AppDuotoneIconData(
+  static const smileyAngry = PiconDuotoneData(
     0xec63,
-    AppIconData(0xec62, 'Duotone'),
+    PiconData(0xec62, 'Duotone'),
   );
 
   /// ![smiley-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank-duotone.svg)
-  static const smileyBlank = AppDuotoneIconData(
+  static const smileyBlank = PiconDuotoneData(
     0xe439,
-    AppIconData(0xe438, 'Duotone'),
+    PiconData(0xe438, 'Duotone'),
   );
 
   /// ![smiley-meh-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh-duotone.svg)
-  static const smileyMeh = AppDuotoneIconData(
+  static const smileyMeh = PiconDuotoneData(
     0xe43b,
-    AppIconData(0xe43a, 'Duotone'),
+    PiconData(0xe43a, 'Duotone'),
   );
 
   /// ![smiley-melting-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting-duotone.svg)
-  static const smileyMelting = AppDuotoneIconData(
+  static const smileyMelting = PiconDuotoneData(
     0xee57,
-    AppIconData(0xee56, 'Duotone'),
+    PiconData(0xee56, 'Duotone'),
   );
 
   /// ![smiley-nervous-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous-duotone.svg)
-  static const smileyNervous = AppDuotoneIconData(
+  static const smileyNervous = PiconDuotoneData(
     0xe43d,
-    AppIconData(0xe43c, 'Duotone'),
+    PiconData(0xe43c, 'Duotone'),
   );
 
   /// ![smiley-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad-duotone.svg)
-  static const smileySad = AppDuotoneIconData(
+  static const smileySad = PiconDuotoneData(
     0xe43f,
-    AppIconData(0xe43e, 'Duotone'),
+    PiconData(0xe43e, 'Duotone'),
   );
 
   /// ![smiley-sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker-duotone.svg)
-  static const smileySticker = AppDuotoneIconData(
+  static const smileySticker = PiconDuotoneData(
     0xe441,
-    AppIconData(0xe440, 'Duotone'),
+    PiconData(0xe440, 'Duotone'),
   );
 
   /// ![smiley-wink-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink-duotone.svg)
-  static const smileyWink = AppDuotoneIconData(
+  static const smileyWink = PiconDuotoneData(
     0xe667,
-    AppIconData(0xe666, 'Duotone'),
+    PiconData(0xe666, 'Duotone'),
   );
 
   /// ![smiley-x-eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes-duotone.svg)
-  static const smileyXEyes = AppDuotoneIconData(
+  static const smileyXEyes = PiconDuotoneData(
     0xe443,
-    AppIconData(0xe442, 'Duotone'),
+    PiconData(0xe442, 'Duotone'),
   );
 
   /// ![snapchat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo-duotone.svg)
-  static const snapchatLogo = AppDuotoneIconData(
+  static const snapchatLogo = PiconDuotoneData(
     0xe669,
-    AppIconData(0xe668, 'Duotone'),
+    PiconData(0xe668, 'Duotone'),
   );
 
   /// ![sneaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-duotone.svg)
-  static const sneaker = AppDuotoneIconData(
+  static const sneaker = PiconDuotoneData(
     0xe80d,
-    AppIconData(0xe80c, 'Duotone'),
+    PiconData(0xe80c, 'Duotone'),
   );
 
   /// ![sneaker-move-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move-duotone.svg)
-  static const sneakerMove = AppDuotoneIconData(
+  static const sneakerMove = PiconDuotoneData(
     0xed61,
-    AppIconData(0xed60, 'Duotone'),
+    PiconData(0xed60, 'Duotone'),
   );
 
   /// ![snowflake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake-duotone.svg)
-  static const snowflake = AppDuotoneIconData(
+  static const snowflake = PiconDuotoneData(
     0xe5ab,
-    AppIconData(0xe5aa, 'Duotone'),
+    PiconData(0xe5aa, 'Duotone'),
   );
 
   /// ![soccer-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball-duotone.svg)
-  static const soccerBall = AppDuotoneIconData(
+  static const soccerBall = PiconDuotoneData(
     0xe717,
-    AppIconData(0xe716, 'Duotone'),
+    PiconData(0xe716, 'Duotone'),
   );
 
   /// ![sock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock-duotone.svg)
-  static const sock = AppDuotoneIconData(
+  static const sock = PiconDuotoneData(
     0xeccf,
-    AppIconData(0xecce, 'Duotone'),
+    PiconData(0xecce, 'Duotone'),
   );
 
   /// ![solar-panel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel-duotone.svg)
-  static const solarPanel = AppDuotoneIconData(
+  static const solarPanel = PiconDuotoneData(
     0xed7e,
-    AppIconData(0xed7a, 'Duotone'),
+    PiconData(0xed7a, 'Duotone'),
   );
 
   /// ![solar-roof-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof-duotone.svg)
-  static const solarRoof = AppDuotoneIconData(
+  static const solarRoof = PiconDuotoneData(
     0xed7f,
-    AppIconData(0xed7b, 'Duotone'),
+    PiconData(0xed7b, 'Duotone'),
   );
 
   /// ![sort-ascending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending-duotone.svg)
-  static const sortAscending = AppDuotoneIconData(
+  static const sortAscending = PiconDuotoneData(
     0xe445,
-    AppIconData(0xe444, 'Duotone'),
+    PiconData(0xe444, 'Duotone'),
   );
 
   /// ![sort-descending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending-duotone.svg)
-  static const sortDescending = AppDuotoneIconData(
+  static const sortDescending = PiconDuotoneData(
     0xe447,
-    AppIconData(0xe446, 'Duotone'),
+    PiconData(0xe446, 'Duotone'),
   );
 
   /// ![soundcloud-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo-duotone.svg)
-  static const soundcloudLogo = AppDuotoneIconData(
+  static const soundcloudLogo = PiconDuotoneData(
     0xe8df,
-    AppIconData(0xe8de, 'Duotone'),
+    PiconData(0xe8de, 'Duotone'),
   );
 
   /// ![spade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade-duotone.svg)
-  static const spade = AppDuotoneIconData(
+  static const spade = PiconDuotoneData(
     0xe449,
-    AppIconData(0xe448, 'Duotone'),
+    PiconData(0xe448, 'Duotone'),
   );
 
   /// ![sparkle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle-duotone.svg)
-  static const sparkle = AppDuotoneIconData(
+  static const sparkle = PiconDuotoneData(
     0xe6a3,
-    AppIconData(0xe6a2, 'Duotone'),
+    PiconData(0xe6a2, 'Duotone'),
   );
 
   /// ![speaker-hifi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi-duotone.svg)
-  static const speakerHifi = AppDuotoneIconData(
+  static const speakerHifi = PiconDuotoneData(
     0xea09,
-    AppIconData(0xea08, 'Duotone'),
+    PiconData(0xea08, 'Duotone'),
   );
 
   /// ![speaker-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high-duotone.svg)
-  static const speakerHigh = AppDuotoneIconData(
+  static const speakerHigh = PiconDuotoneData(
     0xe44b,
-    AppIconData(0xe44a, 'Duotone'),
+    PiconData(0xe44a, 'Duotone'),
   );
 
   /// ![speaker-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low-duotone.svg)
-  static const speakerLow = AppDuotoneIconData(
+  static const speakerLow = PiconDuotoneData(
     0xe44d,
-    AppIconData(0xe44c, 'Duotone'),
+    PiconData(0xe44c, 'Duotone'),
   );
 
   /// ![speaker-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none-duotone.svg)
-  static const speakerNone = AppDuotoneIconData(
+  static const speakerNone = PiconDuotoneData(
     0xe44f,
-    AppIconData(0xe44e, 'Duotone'),
+    PiconData(0xe44e, 'Duotone'),
   );
 
   /// ![speaker-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high-duotone.svg)
-  static const speakerSimpleHigh = AppDuotoneIconData(
+  static const speakerSimpleHigh = PiconDuotoneData(
     0xe451,
-    AppIconData(0xe450, 'Duotone'),
+    PiconData(0xe450, 'Duotone'),
   );
 
   /// ![speaker-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low-duotone.svg)
-  static const speakerSimpleLow = AppDuotoneIconData(
+  static const speakerSimpleLow = PiconDuotoneData(
     0xe453,
-    AppIconData(0xe452, 'Duotone'),
+    PiconData(0xe452, 'Duotone'),
   );
 
   /// ![speaker-simple-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none-duotone.svg)
-  static const speakerSimpleNone = AppDuotoneIconData(
+  static const speakerSimpleNone = PiconDuotoneData(
     0xe455,
-    AppIconData(0xe454, 'Duotone'),
+    PiconData(0xe454, 'Duotone'),
   );
 
   /// ![speaker-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash-duotone.svg)
-  static const speakerSimpleSlash = AppDuotoneIconData(
+  static const speakerSimpleSlash = PiconDuotoneData(
     0xe457,
-    AppIconData(0xe456, 'Duotone'),
+    PiconData(0xe456, 'Duotone'),
   );
 
   /// ![speaker-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x-duotone.svg)
-  static const speakerSimpleX = AppDuotoneIconData(
+  static const speakerSimpleX = PiconDuotoneData(
     0xe459,
-    AppIconData(0xe458, 'Duotone'),
+    PiconData(0xe458, 'Duotone'),
   );
 
   /// ![speaker-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash-duotone.svg)
-  static const speakerSlash = AppDuotoneIconData(
+  static const speakerSlash = PiconDuotoneData(
     0xe45b,
-    AppIconData(0xe45a, 'Duotone'),
+    PiconData(0xe45a, 'Duotone'),
   );
 
   /// ![speaker-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x-duotone.svg)
-  static const speakerX = AppDuotoneIconData(
+  static const speakerX = PiconDuotoneData(
     0xe45d,
-    AppIconData(0xe45c, 'Duotone'),
+    PiconData(0xe45c, 'Duotone'),
   );
 
   /// ![speedometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer-duotone.svg)
-  static const speedometer = AppDuotoneIconData(
+  static const speedometer = PiconDuotoneData(
     0xee75,
-    AppIconData(0xee74, 'Duotone'),
+    PiconData(0xee74, 'Duotone'),
   );
 
   /// ![sphere-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere-duotone.svg)
-  static const sphere = AppDuotoneIconData(
+  static const sphere = PiconDuotoneData(
     0xee67,
-    AppIconData(0xee66, 'Duotone'),
+    PiconData(0xee66, 'Duotone'),
   );
 
   /// ![spinner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-duotone.svg)
-  static const spinner = AppDuotoneIconData(
+  static const spinner = PiconDuotoneData(
     0xe66b,
-    AppIconData(0xe66a, 'Duotone'),
+    PiconData(0xe66a, 'Duotone'),
   );
 
   /// ![spinner-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball-duotone.svg)
-  static const spinnerBall = AppDuotoneIconData(
+  static const spinnerBall = PiconDuotoneData(
     0xee29,
-    AppIconData(0xee28, 'Duotone'),
+    PiconData(0xee28, 'Duotone'),
   );
 
   /// ![spinner-gap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap-duotone.svg)
-  static const spinnerGap = AppDuotoneIconData(
+  static const spinnerGap = PiconDuotoneData(
     0xe66d,
-    AppIconData(0xe66c, 'Duotone'),
+    PiconData(0xe66c, 'Duotone'),
   );
 
   /// ![spiral-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral-duotone.svg)
-  static const spiral = AppDuotoneIconData(
+  static const spiral = PiconDuotoneData(
     0xe9fb,
-    AppIconData(0xe9fa, 'Duotone'),
+    PiconData(0xe9fa, 'Duotone'),
   );
 
   /// ![split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal-duotone.svg)
-  static const splitHorizontal = AppDuotoneIconData(
+  static const splitHorizontal = PiconDuotoneData(
     0xe873,
-    AppIconData(0xe872, 'Duotone'),
+    PiconData(0xe872, 'Duotone'),
   );
 
   /// ![split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical-duotone.svg)
-  static const splitVertical = AppDuotoneIconData(
+  static const splitVertical = PiconDuotoneData(
     0xe877,
-    AppIconData(0xe876, 'Duotone'),
+    PiconData(0xe876, 'Duotone'),
   );
 
   /// ![spotify-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo-duotone.svg)
-  static const spotifyLogo = AppDuotoneIconData(
+  static const spotifyLogo = PiconDuotoneData(
     0xe66f,
-    AppIconData(0xe66e, 'Duotone'),
+    PiconData(0xe66e, 'Duotone'),
   );
 
   /// ![spray-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle-duotone.svg)
-  static const sprayBottle = AppDuotoneIconData(
+  static const sprayBottle = PiconDuotoneData(
     0xe7e8,
-    AppIconData(0xe7e4, 'Duotone'),
+    PiconData(0xe7e4, 'Duotone'),
   );
 
   /// ![square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-duotone.svg)
-  static const square = AppDuotoneIconData(
+  static const square = PiconDuotoneData(
     0xe45f,
-    AppIconData(0xe45e, 'Duotone'),
+    PiconData(0xe45e, 'Duotone'),
   );
 
   /// ![square-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-duotone.svg)
-  static const squareHalf = AppDuotoneIconData(
+  static const squareHalf = PiconDuotoneData(
     0xe463,
-    AppIconData(0xe462, 'Duotone'),
+    PiconData(0xe462, 'Duotone'),
   );
 
   /// ![square-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom-duotone.svg)
-  static const squareHalfBottom = AppDuotoneIconData(
+  static const squareHalfBottom = PiconDuotoneData(
     0xeb17,
-    AppIconData(0xeb16, 'Duotone'),
+    PiconData(0xeb16, 'Duotone'),
   );
 
   /// ![square-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo-duotone.svg)
-  static const squareLogo = AppDuotoneIconData(
+  static const squareLogo = PiconDuotoneData(
     0xe691,
-    AppIconData(0xe690, 'Duotone'),
+    PiconData(0xe690, 'Duotone'),
   );
 
   /// ![square-split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal-duotone.svg)
-  static const squareSplitHorizontal = AppDuotoneIconData(
+  static const squareSplitHorizontal = PiconDuotoneData(
     0xe871,
-    AppIconData(0xe870, 'Duotone'),
+    PiconData(0xe870, 'Duotone'),
   );
 
   /// ![square-split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical-duotone.svg)
-  static const squareSplitVertical = AppDuotoneIconData(
+  static const squareSplitVertical = PiconDuotoneData(
     0xe875,
-    AppIconData(0xe874, 'Duotone'),
+    PiconData(0xe874, 'Duotone'),
   );
 
   /// ![squares-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four-duotone.svg)
-  static const squaresFour = AppDuotoneIconData(
+  static const squaresFour = PiconDuotoneData(
     0xe465,
-    AppIconData(0xe464, 'Duotone'),
+    PiconData(0xe464, 'Duotone'),
   );
 
   /// ![stack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-duotone.svg)
-  static const stack = AppDuotoneIconData(
+  static const stack = PiconDuotoneData(
     0xe467,
-    AppIconData(0xe466, 'Duotone'),
+    PiconData(0xe466, 'Duotone'),
   );
 
   /// ![stack-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus-duotone.svg)
-  static const stackMinus = AppDuotoneIconData(
+  static const stackMinus = PiconDuotoneData(
     0xedf5,
-    AppIconData(0xedf4, 'Duotone'),
+    PiconData(0xedf4, 'Duotone'),
   );
 
   /// ![stack-overflow-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo-duotone.svg)
-  static const stackOverflowLogo = AppDuotoneIconData(
+  static const stackOverflowLogo = PiconDuotoneData(
     0xeb79,
-    AppIconData(0xeb78, 'Duotone'),
+    PiconData(0xeb78, 'Duotone'),
   );
 
   /// ![stack-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus-duotone.svg)
-  static const stackPlus = AppDuotoneIconData(
+  static const stackPlus = PiconDuotoneData(
     0xedf7,
-    AppIconData(0xedf6, 'Duotone'),
+    PiconData(0xedf6, 'Duotone'),
   );
 
   /// ![stack-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple-duotone.svg)
-  static const stackSimple = AppDuotoneIconData(
+  static const stackSimple = PiconDuotoneData(
     0xe469,
-    AppIconData(0xe468, 'Duotone'),
+    PiconData(0xe468, 'Duotone'),
   );
 
   /// ![stairs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs-duotone.svg)
-  static const stairs = AppDuotoneIconData(
+  static const stairs = PiconDuotoneData(
     0xe8ed,
-    AppIconData(0xe8ec, 'Duotone'),
+    PiconData(0xe8ec, 'Duotone'),
   );
 
   /// ![stamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp-duotone.svg)
-  static const stamp = AppDuotoneIconData(
+  static const stamp = PiconDuotoneData(
     0xea49,
-    AppIconData(0xea48, 'Duotone'),
+    PiconData(0xea48, 'Duotone'),
   );
 
   /// ![standard-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition-duotone.svg)
-  static const standardDefinition = AppDuotoneIconData(
+  static const standardDefinition = PiconDuotoneData(
     0xea91,
-    AppIconData(0xea90, 'Duotone'),
+    PiconData(0xea90, 'Duotone'),
   );
 
   /// ![star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-duotone.svg)
-  static const star = AppDuotoneIconData(
+  static const star = PiconDuotoneData(
     0xe46b,
-    AppIconData(0xe46a, 'Duotone'),
+    PiconData(0xe46a, 'Duotone'),
   );
 
   /// ![star-and-crescent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent-duotone.svg)
-  static const starAndCrescent = AppDuotoneIconData(
+  static const starAndCrescent = PiconDuotoneData(
     0xecf5,
-    AppIconData(0xecf4, 'Duotone'),
+    PiconData(0xecf4, 'Duotone'),
   );
 
   /// ![star-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four-duotone.svg)
-  static const starFour = AppDuotoneIconData(
+  static const starFour = PiconDuotoneData(
     0xe6a5,
-    AppIconData(0xe6a4, 'Duotone'),
+    PiconData(0xe6a4, 'Duotone'),
   );
 
   /// ![star-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half-duotone.svg)
-  static const starHalf = AppDuotoneIconData(
+  static const starHalf = PiconDuotoneData(
     0xe70b,
-    AppIconData(0xe70a, 'Duotone'),
+    PiconData(0xe70a, 'Duotone'),
   );
 
   /// ![star-of-david-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david-duotone.svg)
-  static const starOfDavid = AppDuotoneIconData(
+  static const starOfDavid = PiconDuotoneData(
     0xe89f,
-    AppIconData(0xe89e, 'Duotone'),
+    PiconData(0xe89e, 'Duotone'),
   );
 
   /// ![steam-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo-duotone.svg)
-  static const steamLogo = AppDuotoneIconData(
+  static const steamLogo = PiconDuotoneData(
     0xead5,
-    AppIconData(0xead4, 'Duotone'),
+    PiconData(0xead4, 'Duotone'),
   );
 
   /// ![steering-wheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel-duotone.svg)
-  static const steeringWheel = AppDuotoneIconData(
+  static const steeringWheel = PiconDuotoneData(
     0xe9ad,
-    AppIconData(0xe9ac, 'Duotone'),
+    PiconData(0xe9ac, 'Duotone'),
   );
 
   /// ![steps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps-duotone.svg)
-  static const steps = AppDuotoneIconData(
+  static const steps = PiconDuotoneData(
     0xecbf,
-    AppIconData(0xecbe, 'Duotone'),
+    PiconData(0xecbe, 'Duotone'),
   );
 
   /// ![stethoscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope-duotone.svg)
-  static const stethoscope = AppDuotoneIconData(
+  static const stethoscope = PiconDuotoneData(
     0xe7eb,
-    AppIconData(0xe7ea, 'Duotone'),
+    PiconData(0xe7ea, 'Duotone'),
   );
 
   /// ![sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker-duotone.svg)
-  static const sticker = AppDuotoneIconData(
+  static const sticker = PiconDuotoneData(
     0xe5ad,
-    AppIconData(0xe5ac, 'Duotone'),
+    PiconData(0xe5ac, 'Duotone'),
   );
 
   /// ![stool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool-duotone.svg)
-  static const stool = AppDuotoneIconData(
+  static const stool = PiconDuotoneData(
     0xea45,
-    AppIconData(0xea44, 'Duotone'),
+    PiconData(0xea44, 'Duotone'),
   );
 
   /// ![stop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-duotone.svg)
-  static const stop = AppDuotoneIconData(
+  static const stop = PiconDuotoneData(
     0xe46d,
-    AppIconData(0xe46c, 'Duotone'),
+    PiconData(0xe46c, 'Duotone'),
   );
 
   /// ![stop-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle-duotone.svg)
-  static const stopCircle = AppDuotoneIconData(
+  static const stopCircle = PiconDuotoneData(
     0xe46f,
-    AppIconData(0xe46e, 'Duotone'),
+    PiconData(0xe46e, 'Duotone'),
   );
 
   /// ![storefront-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront-duotone.svg)
-  static const storefront = AppDuotoneIconData(
+  static const storefront = PiconDuotoneData(
     0xe471,
-    AppIconData(0xe470, 'Duotone'),
+    PiconData(0xe470, 'Duotone'),
   );
 
   /// ![strategy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy-duotone.svg)
-  static const strategy = AppDuotoneIconData(
+  static const strategy = PiconDuotoneData(
     0xea3b,
-    AppIconData(0xea3a, 'Duotone'),
+    PiconData(0xea3a, 'Duotone'),
   );
 
   /// ![stripe-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo-duotone.svg)
-  static const stripeLogo = AppDuotoneIconData(
+  static const stripeLogo = PiconDuotoneData(
     0xe699,
-    AppIconData(0xe698, 'Duotone'),
+    PiconData(0xe698, 'Duotone'),
   );
 
   /// ![student-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student-duotone.svg)
-  static const student = AppDuotoneIconData(
+  static const student = PiconDuotoneData(
     0xe73f,
-    AppIconData(0xe73e, 'Duotone'),
+    PiconData(0xe73e, 'Duotone'),
   );
 
   /// ![subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of-duotone.svg)
-  static const subsetOf = AppDuotoneIconData(
+  static const subsetOf = PiconDuotoneData(
     0xedc1,
-    AppIconData(0xedc0, 'Duotone'),
+    PiconData(0xedc0, 'Duotone'),
   );
 
   /// ![subset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of-duotone.svg)
-  static const subsetProperOf = AppDuotoneIconData(
+  static const subsetProperOf = PiconDuotoneData(
     0xedb7,
-    AppIconData(0xedb6, 'Duotone'),
+    PiconData(0xedb6, 'Duotone'),
   );
 
   /// ![subtitles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-duotone.svg)
-  static const subtitles = AppDuotoneIconData(
+  static const subtitles = PiconDuotoneData(
     0xe1a9,
-    AppIconData(0xe1a8, 'Duotone'),
+    PiconData(0xe1a8, 'Duotone'),
   );
 
   /// ![subtitles-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash-duotone.svg)
-  static const subtitlesSlash = AppDuotoneIconData(
+  static const subtitlesSlash = PiconDuotoneData(
     0xe1a7,
-    AppIconData(0xe1a6, 'Duotone'),
+    PiconData(0xe1a6, 'Duotone'),
   );
 
   /// ![subtract-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-duotone.svg)
-  static const subtract = AppDuotoneIconData(
+  static const subtract = PiconDuotoneData(
     0xebd7,
-    AppIconData(0xebd6, 'Duotone'),
+    PiconData(0xebd6, 'Duotone'),
   );
 
   /// ![subtract-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square-duotone.svg)
-  static const subtractSquare = AppDuotoneIconData(
+  static const subtractSquare = PiconDuotoneData(
     0xebd5,
-    AppIconData(0xebd4, 'Duotone'),
+    PiconData(0xebd4, 'Duotone'),
   );
 
   /// ![subway-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway-duotone.svg)
-  static const subway = AppDuotoneIconData(
+  static const subway = PiconDuotoneData(
     0xe499,
-    AppIconData(0xe498, 'Duotone'),
+    PiconData(0xe498, 'Duotone'),
   );
 
   /// ![suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-duotone.svg)
-  static const suitcase = AppDuotoneIconData(
+  static const suitcase = PiconDuotoneData(
     0xe5af,
-    AppIconData(0xe5ae, 'Duotone'),
+    PiconData(0xe5ae, 'Duotone'),
   );
 
   /// ![suitcase-rolling-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling-duotone.svg)
-  static const suitcaseRolling = AppDuotoneIconData(
+  static const suitcaseRolling = PiconDuotoneData(
     0xe9b1,
-    AppIconData(0xe9b0, 'Duotone'),
+    PiconData(0xe9b0, 'Duotone'),
   );
 
   /// ![suitcase-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple-duotone.svg)
-  static const suitcaseSimple = AppDuotoneIconData(
+  static const suitcaseSimple = PiconDuotoneData(
     0xe5b1,
-    AppIconData(0xe5b0, 'Duotone'),
+    PiconData(0xe5b0, 'Duotone'),
   );
 
   /// ![sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-duotone.svg)
-  static const sun = AppDuotoneIconData(
+  static const sun = PiconDuotoneData(
     0xe473,
-    AppIconData(0xe472, 'Duotone'),
+    PiconData(0xe472, 'Duotone'),
   );
 
   /// ![sun-dim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim-duotone.svg)
-  static const sunDim = AppDuotoneIconData(
+  static const sunDim = PiconDuotoneData(
     0xe475,
-    AppIconData(0xe474, 'Duotone'),
+    PiconData(0xe474, 'Duotone'),
   );
 
   /// ![sun-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon-duotone.svg)
-  static const sunHorizon = AppDuotoneIconData(
+  static const sunHorizon = PiconDuotoneData(
     0xe5b7,
-    AppIconData(0xe5b6, 'Duotone'),
+    PiconData(0xe5b6, 'Duotone'),
   );
 
   /// ![sunglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses-duotone.svg)
-  static const sunglasses = AppDuotoneIconData(
+  static const sunglasses = PiconDuotoneData(
     0xe817,
-    AppIconData(0xe816, 'Duotone'),
+    PiconData(0xe816, 'Duotone'),
   );
 
   /// ![superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of-duotone.svg)
-  static const supersetOf = AppDuotoneIconData(
+  static const supersetOf = PiconDuotoneData(
     0xedb9,
-    AppIconData(0xedb8, 'Duotone'),
+    PiconData(0xedb8, 'Duotone'),
   );
 
   /// ![superset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of-duotone.svg)
-  static const supersetProperOf = AppDuotoneIconData(
+  static const supersetProperOf = PiconDuotoneData(
     0xedb5,
-    AppIconData(0xedb4, 'Duotone'),
+    PiconData(0xedb4, 'Duotone'),
   );
 
   /// ![swap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap-duotone.svg)
-  static const swap = AppDuotoneIconData(
+  static const swap = PiconDuotoneData(
     0xe83d,
-    AppIconData(0xe83c, 'Duotone'),
+    PiconData(0xe83c, 'Duotone'),
   );
 
   /// ![swatches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches-duotone.svg)
-  static const swatches = AppDuotoneIconData(
+  static const swatches = PiconDuotoneData(
     0xe5b9,
-    AppIconData(0xe5b8, 'Duotone'),
+    PiconData(0xe5b8, 'Duotone'),
   );
 
   /// ![swimming-pool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool-duotone.svg)
-  static const swimmingPool = AppDuotoneIconData(
+  static const swimmingPool = PiconDuotoneData(
     0xecb7,
-    AppIconData(0xecb6, 'Duotone'),
+    PiconData(0xecb6, 'Duotone'),
   );
 
   /// ![sword-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword-duotone.svg)
-  static const sword = AppDuotoneIconData(
+  static const sword = PiconDuotoneData(
     0xe5bb,
-    AppIconData(0xe5ba, 'Duotone'),
+    PiconData(0xe5ba, 'Duotone'),
   );
 
   /// ![synagogue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue-duotone.svg)
-  static const synagogue = AppDuotoneIconData(
+  static const synagogue = PiconDuotoneData(
     0xeced,
-    AppIconData(0xecec, 'Duotone'),
+    PiconData(0xecec, 'Duotone'),
   );
 
   /// ![syringe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe-duotone.svg)
-  static const syringe = AppDuotoneIconData(
+  static const syringe = PiconDuotoneData(
     0xe969,
-    AppIconData(0xe968, 'Duotone'),
+    PiconData(0xe968, 'Duotone'),
   );
 
   /// ![t-shirt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt-duotone.svg)
-  static const tShirt = AppDuotoneIconData(
+  static const tShirt = PiconDuotoneData(
     0xe671,
-    AppIconData(0xe670, 'Duotone'),
+    PiconData(0xe670, 'Duotone'),
   );
 
   /// ![table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table-duotone.svg)
-  static const table = AppDuotoneIconData(
+  static const table = PiconDuotoneData(
     0xe477,
-    AppIconData(0xe476, 'Duotone'),
+    PiconData(0xe476, 'Duotone'),
   );
 
   /// ![tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs-duotone.svg)
-  static const tabs = AppDuotoneIconData(
+  static const tabs = PiconDuotoneData(
     0xe779,
-    AppIconData(0xe778, 'Duotone'),
+    PiconData(0xe778, 'Duotone'),
   );
 
   /// ![tag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-duotone.svg)
-  static const tag = AppDuotoneIconData(
+  static const tag = PiconDuotoneData(
     0xe479,
-    AppIconData(0xe478, 'Duotone'),
+    PiconData(0xe478, 'Duotone'),
   );
 
   /// ![tag-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron-duotone.svg)
-  static const tagChevron = AppDuotoneIconData(
+  static const tagChevron = PiconDuotoneData(
     0xe673,
-    AppIconData(0xe672, 'Duotone'),
+    PiconData(0xe672, 'Duotone'),
   );
 
   /// ![tag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple-duotone.svg)
-  static const tagSimple = AppDuotoneIconData(
+  static const tagSimple = PiconDuotoneData(
     0xe47b,
-    AppIconData(0xe47a, 'Duotone'),
+    PiconData(0xe47a, 'Duotone'),
   );
 
   /// ![target-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target-duotone.svg)
-  static const target = AppDuotoneIconData(
+  static const target = PiconDuotoneData(
     0xe47d,
-    AppIconData(0xe47c, 'Duotone'),
+    PiconData(0xe47c, 'Duotone'),
   );
 
   /// ![taxi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi-duotone.svg)
-  static const taxi = AppDuotoneIconData(
+  static const taxi = PiconDuotoneData(
     0xe903,
-    AppIconData(0xe902, 'Duotone'),
+    PiconData(0xe902, 'Duotone'),
   );
 
   /// ![tea-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag-duotone.svg)
-  static const teaBag = AppDuotoneIconData(
+  static const teaBag = PiconDuotoneData(
     0xe8e7,
-    AppIconData(0xe8e6, 'Duotone'),
+    PiconData(0xe8e6, 'Duotone'),
   );
 
   /// ![telegram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo-duotone.svg)
-  static const telegramLogo = AppDuotoneIconData(
+  static const telegramLogo = PiconDuotoneData(
     0xe5bd,
-    AppIconData(0xe5bc, 'Duotone'),
+    PiconData(0xe5bc, 'Duotone'),
   );
 
   /// ![television-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-duotone.svg)
-  static const television = AppDuotoneIconData(
+  static const television = PiconDuotoneData(
     0xe755,
-    AppIconData(0xe754, 'Duotone'),
+    PiconData(0xe754, 'Duotone'),
   );
 
   /// ![television-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple-duotone.svg)
-  static const televisionSimple = AppDuotoneIconData(
+  static const televisionSimple = PiconDuotoneData(
     0xeae7,
-    AppIconData(0xeae6, 'Duotone'),
+    PiconData(0xeae6, 'Duotone'),
   );
 
   /// ![tennis-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball-duotone.svg)
-  static const tennisBall = AppDuotoneIconData(
+  static const tennisBall = PiconDuotoneData(
     0xe721,
-    AppIconData(0xe720, 'Duotone'),
+    PiconData(0xe720, 'Duotone'),
   );
 
   /// ![tent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent-duotone.svg)
-  static const tent = AppDuotoneIconData(
+  static const tent = PiconDuotoneData(
     0xe8bb,
-    AppIconData(0xe8ba, 'Duotone'),
+    PiconData(0xe8ba, 'Duotone'),
   );
 
   /// ![terminal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-duotone.svg)
-  static const terminal = AppDuotoneIconData(
+  static const terminal = PiconDuotoneData(
     0xe47f,
-    AppIconData(0xe47e, 'Duotone'),
+    PiconData(0xe47e, 'Duotone'),
   );
 
   /// ![terminal-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window-duotone.svg)
-  static const terminalWindow = AppDuotoneIconData(
+  static const terminalWindow = PiconDuotoneData(
     0xeae9,
-    AppIconData(0xeae8, 'Duotone'),
+    PiconData(0xeae8, 'Duotone'),
   );
 
   /// ![test-tube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube-duotone.svg)
-  static const testTube = AppDuotoneIconData(
+  static const testTube = PiconDuotoneData(
     0xe7a1,
-    AppIconData(0xe7a0, 'Duotone'),
+    PiconData(0xe7a0, 'Duotone'),
   );
 
   /// ![text-a-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline-duotone.svg)
-  static const textAUnderline = AppDuotoneIconData(
+  static const textAUnderline = PiconDuotoneData(
     0xed35,
-    AppIconData(0xed34, 'Duotone'),
+    PiconData(0xed34, 'Duotone'),
   );
 
   /// ![text-aa-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa-duotone.svg)
-  static const textAa = AppDuotoneIconData(
+  static const textAa = PiconDuotoneData(
     0xe6ef,
-    AppIconData(0xe6ee, 'Duotone'),
+    PiconData(0xe6ee, 'Duotone'),
   );
 
   /// ![text-align-center-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center-duotone.svg)
-  static const textAlignCenter = AppDuotoneIconData(
+  static const textAlignCenter = PiconDuotoneData(
     0xe481,
-    AppIconData(0xe480, 'Duotone'),
+    PiconData(0xe480, 'Duotone'),
   );
 
   /// ![text-align-justify-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify-duotone.svg)
-  static const textAlignJustify = AppDuotoneIconData(
+  static const textAlignJustify = PiconDuotoneData(
     0xe483,
-    AppIconData(0xe482, 'Duotone'),
+    PiconData(0xe482, 'Duotone'),
   );
 
   /// ![text-align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left-duotone.svg)
-  static const textAlignLeft = AppDuotoneIconData(
+  static const textAlignLeft = PiconDuotoneData(
     0xe485,
-    AppIconData(0xe484, 'Duotone'),
+    PiconData(0xe484, 'Duotone'),
   );
 
   /// ![text-align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right-duotone.svg)
-  static const textAlignRight = AppDuotoneIconData(
+  static const textAlignRight = PiconDuotoneData(
     0xe487,
-    AppIconData(0xe486, 'Duotone'),
+    PiconData(0xe486, 'Duotone'),
   );
 
   /// ![text-b-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b-duotone.svg)
-  static const textB = AppDuotoneIconData(
+  static const textB = PiconDuotoneData(
     0xe5bf,
-    AppIconData(0xe5be, 'Duotone'),
+    PiconData(0xe5be, 'Duotone'),
   );
 
   /// ![text-columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns-duotone.svg)
-  static const textColumns = AppDuotoneIconData(
+  static const textColumns = PiconDuotoneData(
     0xec97,
-    AppIconData(0xec96, 'Duotone'),
+    PiconData(0xec96, 'Duotone'),
   );
 
   /// ![text-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-duotone.svg)
-  static const textH = AppDuotoneIconData(
+  static const textH = PiconDuotoneData(
     0xe6bb,
-    AppIconData(0xe6ba, 'Duotone'),
+    PiconData(0xe6ba, 'Duotone'),
   );
 
   /// ![text-h-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five-duotone.svg)
-  static const textHFive = AppDuotoneIconData(
+  static const textHFive = PiconDuotoneData(
     0xe6c5,
-    AppIconData(0xe6c4, 'Duotone'),
+    PiconData(0xe6c4, 'Duotone'),
   );
 
   /// ![text-h-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four-duotone.svg)
-  static const textHFour = AppDuotoneIconData(
+  static const textHFour = PiconDuotoneData(
     0xe6c3,
-    AppIconData(0xe6c2, 'Duotone'),
+    PiconData(0xe6c2, 'Duotone'),
   );
 
   /// ![text-h-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one-duotone.svg)
-  static const textHOne = AppDuotoneIconData(
+  static const textHOne = PiconDuotoneData(
     0xe6bd,
-    AppIconData(0xe6bc, 'Duotone'),
+    PiconData(0xe6bc, 'Duotone'),
   );
 
   /// ![text-h-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six-duotone.svg)
-  static const textHSix = AppDuotoneIconData(
+  static const textHSix = PiconDuotoneData(
     0xe6c7,
-    AppIconData(0xe6c6, 'Duotone'),
+    PiconData(0xe6c6, 'Duotone'),
   );
 
   /// ![text-h-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three-duotone.svg)
-  static const textHThree = AppDuotoneIconData(
+  static const textHThree = PiconDuotoneData(
     0xe6c1,
-    AppIconData(0xe6c0, 'Duotone'),
+    PiconData(0xe6c0, 'Duotone'),
   );
 
   /// ![text-h-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two-duotone.svg)
-  static const textHTwo = AppDuotoneIconData(
+  static const textHTwo = PiconDuotoneData(
     0xe6bf,
-    AppIconData(0xe6be, 'Duotone'),
+    PiconData(0xe6be, 'Duotone'),
   );
 
   /// ![text-indent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent-duotone.svg)
-  static const textIndent = AppDuotoneIconData(
+  static const textIndent = PiconDuotoneData(
     0xea1f,
-    AppIconData(0xea1e, 'Duotone'),
+    PiconData(0xea1e, 'Duotone'),
   );
 
   /// ![text-italic-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic-duotone.svg)
-  static const textItalic = AppDuotoneIconData(
+  static const textItalic = PiconDuotoneData(
     0xe5c1,
-    AppIconData(0xe5c0, 'Duotone'),
+    PiconData(0xe5c0, 'Duotone'),
   );
 
   /// ![text-outdent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent-duotone.svg)
-  static const textOutdent = AppDuotoneIconData(
+  static const textOutdent = PiconDuotoneData(
     0xea1d,
-    AppIconData(0xea1c, 'Duotone'),
+    PiconData(0xea1c, 'Duotone'),
   );
 
   /// ![text-strikethrough-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough-duotone.svg)
-  static const textStrikethrough = AppDuotoneIconData(
+  static const textStrikethrough = PiconDuotoneData(
     0xe5c3,
-    AppIconData(0xe5c2, 'Duotone'),
+    PiconData(0xe5c2, 'Duotone'),
   );
 
   /// ![text-subscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript-duotone.svg)
-  static const textSubscript = AppDuotoneIconData(
+  static const textSubscript = PiconDuotoneData(
     0xec99,
-    AppIconData(0xec98, 'Duotone'),
+    PiconData(0xec98, 'Duotone'),
   );
 
   /// ![text-superscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript-duotone.svg)
-  static const textSuperscript = AppDuotoneIconData(
+  static const textSuperscript = PiconDuotoneData(
     0xec9b,
-    AppIconData(0xec9a, 'Duotone'),
+    PiconData(0xec9a, 'Duotone'),
   );
 
   /// ![text-t-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-duotone.svg)
-  static const textT = AppDuotoneIconData(
+  static const textT = PiconDuotoneData(
     0xe48b,
-    AppIconData(0xe48a, 'Duotone'),
+    PiconData(0xe48a, 'Duotone'),
   );
 
   /// ![text-t-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash-duotone.svg)
-  static const textTSlash = AppDuotoneIconData(
+  static const textTSlash = PiconDuotoneData(
     0xe489,
-    AppIconData(0xe488, 'Duotone'),
+    PiconData(0xe488, 'Duotone'),
   );
 
   /// ![text-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline-duotone.svg)
-  static const textUnderline = AppDuotoneIconData(
+  static const textUnderline = PiconDuotoneData(
     0xe5c5,
-    AppIconData(0xe5c4, 'Duotone'),
+    PiconData(0xe5c4, 'Duotone'),
   );
 
   /// ![textbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox-duotone.svg)
-  static const textbox = AppDuotoneIconData(
+  static const textbox = PiconDuotoneData(
     0xeb0b,
-    AppIconData(0xeb0a, 'Duotone'),
+    PiconData(0xeb0a, 'Duotone'),
   );
 
   /// ![thermometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-duotone.svg)
-  static const thermometer = AppDuotoneIconData(
+  static const thermometer = PiconDuotoneData(
     0xe5c7,
-    AppIconData(0xe5c6, 'Duotone'),
+    PiconData(0xe5c6, 'Duotone'),
   );
 
   /// ![thermometer-cold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold-duotone.svg)
-  static const thermometerCold = AppDuotoneIconData(
+  static const thermometerCold = PiconDuotoneData(
     0xe5c9,
-    AppIconData(0xe5c8, 'Duotone'),
+    PiconData(0xe5c8, 'Duotone'),
   );
 
   /// ![thermometer-hot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot-duotone.svg)
-  static const thermometerHot = AppDuotoneIconData(
+  static const thermometerHot = PiconDuotoneData(
     0xe5cb,
-    AppIconData(0xe5ca, 'Duotone'),
+    PiconData(0xe5ca, 'Duotone'),
   );
 
   /// ![thermometer-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple-duotone.svg)
-  static const thermometerSimple = AppDuotoneIconData(
+  static const thermometerSimple = PiconDuotoneData(
     0xe5cd,
-    AppIconData(0xe5cc, 'Duotone'),
+    PiconData(0xe5cc, 'Duotone'),
   );
 
   /// ![threads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo-duotone.svg)
-  static const threadsLogo = AppDuotoneIconData(
+  static const threadsLogo = PiconDuotoneData(
     0xed9f,
-    AppIconData(0xed9e, 'Duotone'),
+    PiconData(0xed9e, 'Duotone'),
   );
 
   /// ![three-d-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d-duotone.svg)
-  static const threeD = AppDuotoneIconData(
+  static const threeD = PiconDuotoneData(
     0xea5b,
-    AppIconData(0xea5a, 'Duotone'),
+    PiconData(0xea5a, 'Duotone'),
   );
 
   /// ![thumbs-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down-duotone.svg)
-  static const thumbsDown = AppDuotoneIconData(
+  static const thumbsDown = PiconDuotoneData(
     0xe48d,
-    AppIconData(0xe48c, 'Duotone'),
+    PiconData(0xe48c, 'Duotone'),
   );
 
   /// ![thumbs-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up-duotone.svg)
-  static const thumbsUp = AppDuotoneIconData(
+  static const thumbsUp = PiconDuotoneData(
     0xe48f,
-    AppIconData(0xe48e, 'Duotone'),
+    PiconData(0xe48e, 'Duotone'),
   );
 
   /// ![ticket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket-duotone.svg)
-  static const ticket = AppDuotoneIconData(
+  static const ticket = PiconDuotoneData(
     0xe491,
-    AppIconData(0xe490, 'Duotone'),
+    PiconData(0xe490, 'Duotone'),
   );
 
   /// ![tidal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo-duotone.svg)
-  static const tidalLogo = AppDuotoneIconData(
+  static const tidalLogo = PiconDuotoneData(
     0xed1d,
-    AppIconData(0xed1c, 'Duotone'),
+    PiconData(0xed1c, 'Duotone'),
   );
 
   /// ![tiktok-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo-duotone.svg)
-  static const tiktokLogo = AppDuotoneIconData(
+  static const tiktokLogo = PiconDuotoneData(
     0xeaf3,
-    AppIconData(0xeaf2, 'Duotone'),
+    PiconData(0xeaf2, 'Duotone'),
   );
 
   /// ![tilde-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde-duotone.svg)
-  static const tilde = AppDuotoneIconData(
+  static const tilde = PiconDuotoneData(
     0xeda9,
-    AppIconData(0xeda8, 'Duotone'),
+    PiconData(0xeda8, 'Duotone'),
   );
 
   /// ![timer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer-duotone.svg)
-  static const timer = AppDuotoneIconData(
+  static const timer = PiconDuotoneData(
     0xe493,
-    AppIconData(0xe492, 'Duotone'),
+    PiconData(0xe492, 'Duotone'),
   );
 
   /// ![tip-jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar-duotone.svg)
-  static const tipJar = AppDuotoneIconData(
+  static const tipJar = PiconDuotoneData(
     0xe7e9,
-    AppIconData(0xe7e2, 'Duotone'),
+    PiconData(0xe7e2, 'Duotone'),
   );
 
   /// ![tipi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi-duotone.svg)
-  static const tipi = AppDuotoneIconData(
+  static const tipi = PiconDuotoneData(
     0xed31,
-    AppIconData(0xed30, 'Duotone'),
+    PiconData(0xed30, 'Duotone'),
   );
 
   /// ![tire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire-duotone.svg)
-  static const tire = AppDuotoneIconData(
+  static const tire = PiconDuotoneData(
     0xedd3,
-    AppIconData(0xedd2, 'Duotone'),
+    PiconData(0xedd2, 'Duotone'),
   );
 
   /// ![toggle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left-duotone.svg)
-  static const toggleLeft = AppDuotoneIconData(
+  static const toggleLeft = PiconDuotoneData(
     0xe675,
-    AppIconData(0xe674, 'Duotone'),
+    PiconData(0xe674, 'Duotone'),
   );
 
   /// ![toggle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right-duotone.svg)
-  static const toggleRight = AppDuotoneIconData(
+  static const toggleRight = PiconDuotoneData(
     0xe677,
-    AppIconData(0xe676, 'Duotone'),
+    PiconData(0xe676, 'Duotone'),
   );
 
   /// ![toilet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-duotone.svg)
-  static const toilet = AppDuotoneIconData(
+  static const toilet = PiconDuotoneData(
     0xe79b,
-    AppIconData(0xe79a, 'Duotone'),
+    PiconData(0xe79a, 'Duotone'),
   );
 
   /// ![toilet-paper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper-duotone.svg)
-  static const toiletPaper = AppDuotoneIconData(
+  static const toiletPaper = PiconDuotoneData(
     0xe79d,
-    AppIconData(0xe79c, 'Duotone'),
+    PiconData(0xe79c, 'Duotone'),
   );
 
   /// ![toolbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox-duotone.svg)
-  static const toolbox = AppDuotoneIconData(
+  static const toolbox = PiconDuotoneData(
     0xeca1,
-    AppIconData(0xeca0, 'Duotone'),
+    PiconData(0xeca0, 'Duotone'),
   );
 
   /// ![tooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth-duotone.svg)
-  static const tooth = AppDuotoneIconData(
+  static const tooth = PiconDuotoneData(
     0xe9cd,
-    AppIconData(0xe9cc, 'Duotone'),
+    PiconData(0xe9cc, 'Duotone'),
   );
 
   /// ![tornado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado-duotone.svg)
-  static const tornado = AppDuotoneIconData(
+  static const tornado = PiconDuotoneData(
     0xe88d,
-    AppIconData(0xe88c, 'Duotone'),
+    PiconData(0xe88c, 'Duotone'),
   );
 
   /// ![tote-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-duotone.svg)
-  static const tote = AppDuotoneIconData(
+  static const tote = PiconDuotoneData(
     0xe495,
-    AppIconData(0xe494, 'Duotone'),
+    PiconData(0xe494, 'Duotone'),
   );
 
   /// ![tote-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple-duotone.svg)
-  static const toteSimple = AppDuotoneIconData(
+  static const toteSimple = PiconDuotoneData(
     0xe679,
-    AppIconData(0xe678, 'Duotone'),
+    PiconData(0xe678, 'Duotone'),
   );
 
   /// ![towel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel-duotone.svg)
-  static const towel = AppDuotoneIconData(
+  static const towel = PiconDuotoneData(
     0xede7,
-    AppIconData(0xede6, 'Duotone'),
+    PiconData(0xede6, 'Duotone'),
   );
 
   /// ![tractor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor-duotone.svg)
-  static const tractor = AppDuotoneIconData(
+  static const tractor = PiconDuotoneData(
     0xec6f,
-    AppIconData(0xec6e, 'Duotone'),
+    PiconData(0xec6e, 'Duotone'),
   );
 
   /// ![trademark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-duotone.svg)
-  static const trademark = AppDuotoneIconData(
+  static const trademark = PiconDuotoneData(
     0xe9f1,
-    AppIconData(0xe9f0, 'Duotone'),
+    PiconData(0xe9f0, 'Duotone'),
   );
 
   /// ![trademark-registered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered-duotone.svg)
-  static const trademarkRegistered = AppDuotoneIconData(
+  static const trademarkRegistered = PiconDuotoneData(
     0xe415,
-    AppIconData(0xe3f4, 'Duotone'),
+    PiconData(0xe3f4, 'Duotone'),
   );
 
   /// ![traffic-cone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone-duotone.svg)
-  static const trafficCone = AppDuotoneIconData(
+  static const trafficCone = PiconDuotoneData(
     0xe9a9,
-    AppIconData(0xe9a8, 'Duotone'),
+    PiconData(0xe9a8, 'Duotone'),
   );
 
   /// ![traffic-sign-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign-duotone.svg)
-  static const trafficSign = AppDuotoneIconData(
+  static const trafficSign = PiconDuotoneData(
     0xe67b,
-    AppIconData(0xe67a, 'Duotone'),
+    PiconData(0xe67a, 'Duotone'),
   );
 
   /// ![traffic-signal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal-duotone.svg)
-  static const trafficSignal = AppDuotoneIconData(
+  static const trafficSignal = PiconDuotoneData(
     0xe9ab,
-    AppIconData(0xe9aa, 'Duotone'),
+    PiconData(0xe9aa, 'Duotone'),
   );
 
   /// ![train-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-duotone.svg)
-  static const train = AppDuotoneIconData(
+  static const train = PiconDuotoneData(
     0xe497,
-    AppIconData(0xe496, 'Duotone'),
+    PiconData(0xe496, 'Duotone'),
   );
 
   /// ![train-regional-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional-duotone.svg)
-  static const trainRegional = AppDuotoneIconData(
+  static const trainRegional = PiconDuotoneData(
     0xe49f,
-    AppIconData(0xe49e, 'Duotone'),
+    PiconData(0xe49e, 'Duotone'),
   );
 
   /// ![train-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple-duotone.svg)
-  static const trainSimple = AppDuotoneIconData(
+  static const trainSimple = PiconDuotoneData(
     0xe4a1,
-    AppIconData(0xe4a0, 'Duotone'),
+    PiconData(0xe4a0, 'Duotone'),
   );
 
   /// ![tram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram-duotone.svg)
-  static const tram = AppDuotoneIconData(
+  static const tram = PiconDuotoneData(
     0xe9ed,
-    AppIconData(0xe9ec, 'Duotone'),
+    PiconData(0xe9ec, 'Duotone'),
   );
 
   /// ![translate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate-duotone.svg)
-  static const translate = AppDuotoneIconData(
+  static const translate = PiconDuotoneData(
     0xe4a3,
-    AppIconData(0xe4a2, 'Duotone'),
+    PiconData(0xe4a2, 'Duotone'),
   );
 
   /// ![trash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-duotone.svg)
-  static const trash = AppDuotoneIconData(
+  static const trash = PiconDuotoneData(
     0xe4a7,
-    AppIconData(0xe4a6, 'Duotone'),
+    PiconData(0xe4a6, 'Duotone'),
   );
 
   /// ![trash-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple-duotone.svg)
-  static const trashSimple = AppDuotoneIconData(
+  static const trashSimple = PiconDuotoneData(
     0xe4a9,
-    AppIconData(0xe4a8, 'Duotone'),
+    PiconData(0xe4a8, 'Duotone'),
   );
 
   /// ![tray-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-duotone.svg)
-  static const tray = AppDuotoneIconData(
+  static const tray = PiconDuotoneData(
     0xe4ab,
-    AppIconData(0xe4aa, 'Duotone'),
+    PiconData(0xe4aa, 'Duotone'),
   );
 
   /// ![tray-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down-duotone.svg)
-  static const trayArrowDown = AppDuotoneIconData(
+  static const trayArrowDown = PiconDuotoneData(
     0xe011,
-    AppIconData(0xe010, 'Duotone'),
+    PiconData(0xe010, 'Duotone'),
   );
 
   /// ![tray-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up-duotone.svg)
-  static const trayArrowUp = AppDuotoneIconData(
+  static const trayArrowUp = PiconDuotoneData(
     0xee53,
-    AppIconData(0xee52, 'Duotone'),
+    PiconData(0xee52, 'Duotone'),
   );
 
   /// ![treasure-chest-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest-duotone.svg)
-  static const treasureChest = AppDuotoneIconData(
+  static const treasureChest = PiconDuotoneData(
     0xede3,
-    AppIconData(0xede2, 'Duotone'),
+    PiconData(0xede2, 'Duotone'),
   );
 
   /// ![tree-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-duotone.svg)
-  static const tree = AppDuotoneIconData(
+  static const tree = PiconDuotoneData(
     0xe6db,
-    AppIconData(0xe6da, 'Duotone'),
+    PiconData(0xe6da, 'Duotone'),
   );
 
   /// ![tree-evergreen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen-duotone.svg)
-  static const treeEvergreen = AppDuotoneIconData(
+  static const treeEvergreen = PiconDuotoneData(
     0xe6dd,
-    AppIconData(0xe6dc, 'Duotone'),
+    PiconData(0xe6dc, 'Duotone'),
   );
 
   /// ![tree-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm-duotone.svg)
-  static const treePalm = AppDuotoneIconData(
+  static const treePalm = PiconDuotoneData(
     0xe91b,
-    AppIconData(0xe91a, 'Duotone'),
+    PiconData(0xe91a, 'Duotone'),
   );
 
   /// ![tree-structure-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure-duotone.svg)
-  static const treeStructure = AppDuotoneIconData(
+  static const treeStructure = PiconDuotoneData(
     0xe67d,
-    AppIconData(0xe67c, 'Duotone'),
+    PiconData(0xe67c, 'Duotone'),
   );
 
   /// ![tree-view-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view-duotone.svg)
-  static const treeView = AppDuotoneIconData(
+  static const treeView = PiconDuotoneData(
     0xee49,
-    AppIconData(0xee48, 'Duotone'),
+    PiconData(0xee48, 'Duotone'),
   );
 
   /// ![trend-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down-duotone.svg)
-  static const trendDown = AppDuotoneIconData(
+  static const trendDown = PiconDuotoneData(
     0xe4ad,
-    AppIconData(0xe4ac, 'Duotone'),
+    PiconData(0xe4ac, 'Duotone'),
   );
 
   /// ![trend-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up-duotone.svg)
-  static const trendUp = AppDuotoneIconData(
+  static const trendUp = PiconDuotoneData(
     0xe4af,
-    AppIconData(0xe4ae, 'Duotone'),
+    PiconData(0xe4ae, 'Duotone'),
   );
 
   /// ![triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-duotone.svg)
-  static const triangle = AppDuotoneIconData(
+  static const triangle = PiconDuotoneData(
     0xe4b1,
-    AppIconData(0xe4b0, 'Duotone'),
+    PiconData(0xe4b0, 'Duotone'),
   );
 
   /// ![triangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed-duotone.svg)
-  static const triangleDashed = AppDuotoneIconData(
+  static const triangleDashed = PiconDuotoneData(
     0xe4b3,
-    AppIconData(0xe4b2, 'Duotone'),
+    PiconData(0xe4b2, 'Duotone'),
   );
 
   /// ![trolley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-duotone.svg)
-  static const trolley = AppDuotoneIconData(
+  static const trolley = PiconDuotoneData(
     0xe5b3,
-    AppIconData(0xe5b2, 'Duotone'),
+    PiconData(0xe5b2, 'Duotone'),
   );
 
   /// ![trolley-suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase-duotone.svg)
-  static const trolleySuitcase = AppDuotoneIconData(
+  static const trolleySuitcase = PiconDuotoneData(
     0xe5b5,
-    AppIconData(0xe5b4, 'Duotone'),
+    PiconData(0xe5b4, 'Duotone'),
   );
 
   /// ![trophy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy-duotone.svg)
-  static const trophy = AppDuotoneIconData(
+  static const trophy = PiconDuotoneData(
     0xe67f,
-    AppIconData(0xe67e, 'Duotone'),
+    PiconData(0xe67e, 'Duotone'),
   );
 
   /// ![truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-duotone.svg)
-  static const truck = AppDuotoneIconData(
+  static const truck = PiconDuotoneData(
     0xe4b5,
-    AppIconData(0xe4b4, 'Duotone'),
+    PiconData(0xe4b4, 'Duotone'),
   );
 
   /// ![truck-trailer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer-duotone.svg)
-  static const truckTrailer = AppDuotoneIconData(
+  static const truckTrailer = PiconDuotoneData(
     0xe4b7,
-    AppIconData(0xe4b6, 'Duotone'),
+    PiconData(0xe4b6, 'Duotone'),
   );
 
   /// ![tumblr-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo-duotone.svg)
-  static const tumblrLogo = AppDuotoneIconData(
+  static const tumblrLogo = PiconDuotoneData(
     0xe8d5,
-    AppIconData(0xe8d4, 'Duotone'),
+    PiconData(0xe8d4, 'Duotone'),
   );
 
   /// ![twitch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo-duotone.svg)
-  static const twitchLogo = AppDuotoneIconData(
+  static const twitchLogo = PiconDuotoneData(
     0xe5cf,
-    AppIconData(0xe5ce, 'Duotone'),
+    PiconData(0xe5ce, 'Duotone'),
   );
 
   /// ![twitter-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo-duotone.svg)
-  static const twitterLogo = AppDuotoneIconData(
+  static const twitterLogo = PiconDuotoneData(
     0xe4bb,
-    AppIconData(0xe4ba, 'Duotone'),
+    PiconData(0xe4ba, 'Duotone'),
   );
 
   /// ![umbrella-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-duotone.svg)
-  static const umbrella = AppDuotoneIconData(
+  static const umbrella = PiconDuotoneData(
     0xe685,
-    AppIconData(0xe684, 'Duotone'),
+    PiconData(0xe684, 'Duotone'),
   );
 
   /// ![umbrella-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple-duotone.svg)
-  static const umbrellaSimple = AppDuotoneIconData(
+  static const umbrellaSimple = PiconDuotoneData(
     0xe687,
-    AppIconData(0xe686, 'Duotone'),
+    PiconData(0xe686, 'Duotone'),
   );
 
   /// ![union-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union-duotone.svg)
-  static const union = AppDuotoneIconData(
+  static const union = PiconDuotoneData(
     0xedbf,
-    AppIconData(0xedbe, 'Duotone'),
+    PiconData(0xedbe, 'Duotone'),
   );
 
   /// ![unite-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-duotone.svg)
-  static const unite = AppDuotoneIconData(
+  static const unite = PiconDuotoneData(
     0xe87f,
-    AppIconData(0xe87e, 'Duotone'),
+    PiconData(0xe87e, 'Duotone'),
   );
 
   /// ![unite-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square-duotone.svg)
-  static const uniteSquare = AppDuotoneIconData(
+  static const uniteSquare = PiconDuotoneData(
     0xe879,
-    AppIconData(0xe878, 'Duotone'),
+    PiconData(0xe878, 'Duotone'),
   );
 
   /// ![upload-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-duotone.svg)
-  static const upload = AppDuotoneIconData(
+  static const upload = PiconDuotoneData(
     0xe4bf,
-    AppIconData(0xe4be, 'Duotone'),
+    PiconData(0xe4be, 'Duotone'),
   );
 
   /// ![upload-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple-duotone.svg)
-  static const uploadSimple = AppDuotoneIconData(
+  static const uploadSimple = PiconDuotoneData(
     0xe4c1,
-    AppIconData(0xe4c0, 'Duotone'),
+    PiconData(0xe4c0, 'Duotone'),
   );
 
   /// ![usb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb-duotone.svg)
-  static const usb = AppDuotoneIconData(
+  static const usb = PiconDuotoneData(
     0xe957,
-    AppIconData(0xe956, 'Duotone'),
+    PiconData(0xe956, 'Duotone'),
   );
 
   /// ![user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-duotone.svg)
-  static const user = AppDuotoneIconData(
+  static const user = PiconDuotoneData(
     0xe4c3,
-    AppIconData(0xe4c2, 'Duotone'),
+    PiconData(0xe4c2, 'Duotone'),
   );
 
   /// ![user-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check-duotone.svg)
-  static const userCheck = AppDuotoneIconData(
+  static const userCheck = PiconDuotoneData(
     0xeafb,
-    AppIconData(0xeafa, 'Duotone'),
+    PiconData(0xeafa, 'Duotone'),
   );
 
   /// ![user-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-duotone.svg)
-  static const userCircle = AppDuotoneIconData(
+  static const userCircle = PiconDuotoneData(
     0xe4c5,
-    AppIconData(0xe4c4, 'Duotone'),
+    PiconData(0xe4c4, 'Duotone'),
   );
 
   /// ![user-circle-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check-duotone.svg)
-  static const userCircleCheck = AppDuotoneIconData(
+  static const userCircleCheck = PiconDuotoneData(
     0xec39,
-    AppIconData(0xec38, 'Duotone'),
+    PiconData(0xec38, 'Duotone'),
   );
 
   /// ![user-circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed-duotone.svg)
-  static const userCircleDashed = AppDuotoneIconData(
+  static const userCircleDashed = PiconDuotoneData(
     0xec37,
-    AppIconData(0xec36, 'Duotone'),
+    PiconData(0xec36, 'Duotone'),
   );
 
   /// ![user-circle-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear-duotone.svg)
-  static const userCircleGear = AppDuotoneIconData(
+  static const userCircleGear = PiconDuotoneData(
     0xe4c7,
-    AppIconData(0xe4c6, 'Duotone'),
+    PiconData(0xe4c6, 'Duotone'),
   );
 
   /// ![user-circle-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus-duotone.svg)
-  static const userCircleMinus = AppDuotoneIconData(
+  static const userCircleMinus = PiconDuotoneData(
     0xe4c9,
-    AppIconData(0xe4c8, 'Duotone'),
+    PiconData(0xe4c8, 'Duotone'),
   );
 
   /// ![user-circle-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus-duotone.svg)
-  static const userCirclePlus = AppDuotoneIconData(
+  static const userCirclePlus = PiconDuotoneData(
     0xe4cb,
-    AppIconData(0xe4ca, 'Duotone'),
+    PiconData(0xe4ca, 'Duotone'),
   );
 
   /// ![user-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus-duotone.svg)
-  static const userFocus = AppDuotoneIconData(
+  static const userFocus = PiconDuotoneData(
     0xe6fd,
-    AppIconData(0xe6fc, 'Duotone'),
+    PiconData(0xe6fc, 'Duotone'),
   );
 
   /// ![user-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear-duotone.svg)
-  static const userGear = AppDuotoneIconData(
+  static const userGear = PiconDuotoneData(
     0xe4cd,
-    AppIconData(0xe4cc, 'Duotone'),
+    PiconData(0xe4cc, 'Duotone'),
   );
 
   /// ![user-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list-duotone.svg)
-  static const userList = AppDuotoneIconData(
+  static const userList = PiconDuotoneData(
     0xe73d,
-    AppIconData(0xe73c, 'Duotone'),
+    PiconData(0xe73c, 'Duotone'),
   );
 
   /// ![user-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus-duotone.svg)
-  static const userMinus = AppDuotoneIconData(
+  static const userMinus = PiconDuotoneData(
     0xe4cf,
-    AppIconData(0xe4ce, 'Duotone'),
+    PiconData(0xe4ce, 'Duotone'),
   );
 
   /// ![user-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus-duotone.svg)
-  static const userPlus = AppDuotoneIconData(
+  static const userPlus = PiconDuotoneData(
     0xe4d1,
-    AppIconData(0xe4d0, 'Duotone'),
+    PiconData(0xe4d0, 'Duotone'),
   );
 
   /// ![user-rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle-duotone.svg)
-  static const userRectangle = AppDuotoneIconData(
+  static const userRectangle = PiconDuotoneData(
     0xe4d3,
-    AppIconData(0xe4d2, 'Duotone'),
+    PiconData(0xe4d2, 'Duotone'),
   );
 
   /// ![user-sound-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound-duotone.svg)
-  static const userSound = AppDuotoneIconData(
+  static const userSound = PiconDuotoneData(
     0xeca9,
-    AppIconData(0xeca8, 'Duotone'),
+    PiconData(0xeca8, 'Duotone'),
   );
 
   /// ![user-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square-duotone.svg)
-  static const userSquare = AppDuotoneIconData(
+  static const userSquare = PiconDuotoneData(
     0xe4d5,
-    AppIconData(0xe4d4, 'Duotone'),
+    PiconData(0xe4d4, 'Duotone'),
   );
 
   /// ![user-switch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch-duotone.svg)
-  static const userSwitch = AppDuotoneIconData(
+  static const userSwitch = PiconDuotoneData(
     0xe757,
-    AppIconData(0xe756, 'Duotone'),
+    PiconData(0xe756, 'Duotone'),
   );
 
   /// ![users-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-duotone.svg)
-  static const users = AppDuotoneIconData(
+  static const users = PiconDuotoneData(
     0xe4d7,
-    AppIconData(0xe4d6, 'Duotone'),
+    PiconData(0xe4d6, 'Duotone'),
   );
 
   /// ![users-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four-duotone.svg)
-  static const usersFour = AppDuotoneIconData(
+  static const usersFour = PiconDuotoneData(
     0xe68d,
-    AppIconData(0xe68c, 'Duotone'),
+    PiconData(0xe68c, 'Duotone'),
   );
 
   /// ![users-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three-duotone.svg)
-  static const usersThree = AppDuotoneIconData(
+  static const usersThree = PiconDuotoneData(
     0xe68f,
-    AppIconData(0xe68e, 'Duotone'),
+    PiconData(0xe68e, 'Duotone'),
   );
 
   /// ![van-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van-duotone.svg)
-  static const van = AppDuotoneIconData(
+  static const van = PiconDuotoneData(
     0xe827,
-    AppIconData(0xe826, 'Duotone'),
+    PiconData(0xe826, 'Duotone'),
   );
 
   /// ![vault-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault-duotone.svg)
-  static const vault = AppDuotoneIconData(
+  static const vault = PiconDuotoneData(
     0xe76f,
-    AppIconData(0xe76e, 'Duotone'),
+    PiconData(0xe76e, 'Duotone'),
   );
 
   /// ![vector-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three-duotone.svg)
-  static const vectorThree = AppDuotoneIconData(
+  static const vectorThree = PiconDuotoneData(
     0xee63,
-    AppIconData(0xee62, 'Duotone'),
+    PiconData(0xee62, 'Duotone'),
   );
 
   /// ![vector-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two-duotone.svg)
-  static const vectorTwo = AppDuotoneIconData(
+  static const vectorTwo = PiconDuotoneData(
     0xee65,
-    AppIconData(0xee64, 'Duotone'),
+    PiconData(0xee64, 'Duotone'),
   );
 
   /// ![vibrate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate-duotone.svg)
-  static const vibrate = AppDuotoneIconData(
+  static const vibrate = PiconDuotoneData(
     0xe4d9,
-    AppIconData(0xe4d8, 'Duotone'),
+    PiconData(0xe4d8, 'Duotone'),
   );
 
   /// ![video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-duotone.svg)
-  static const video = AppDuotoneIconData(
+  static const video = PiconDuotoneData(
     0xe741,
-    AppIconData(0xe740, 'Duotone'),
+    PiconData(0xe740, 'Duotone'),
   );
 
   /// ![video-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-duotone.svg)
-  static const videoCamera = AppDuotoneIconData(
+  static const videoCamera = PiconDuotoneData(
     0xe4db,
-    AppIconData(0xe4da, 'Duotone'),
+    PiconData(0xe4da, 'Duotone'),
   );
 
   /// ![video-camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash-duotone.svg)
-  static const videoCameraSlash = AppDuotoneIconData(
+  static const videoCameraSlash = PiconDuotoneData(
     0xe4dd,
-    AppIconData(0xe4dc, 'Duotone'),
+    PiconData(0xe4dc, 'Duotone'),
   );
 
   /// ![video-conference-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference-duotone.svg)
-  static const videoConference = AppDuotoneIconData(
+  static const videoConference = PiconDuotoneData(
     0xedcf,
-    AppIconData(0xedce, 'Duotone'),
+    PiconData(0xedce, 'Duotone'),
   );
 
   /// ![vignette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette-duotone.svg)
-  static const vignette = AppDuotoneIconData(
+  static const vignette = PiconDuotoneData(
     0xeba3,
-    AppIconData(0xeba2, 'Duotone'),
+    PiconData(0xeba2, 'Duotone'),
   );
 
   /// ![vinyl-record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record-duotone.svg)
-  static const vinylRecord = AppDuotoneIconData(
+  static const vinylRecord = PiconDuotoneData(
     0xecad,
-    AppIconData(0xecac, 'Duotone'),
+    PiconData(0xecac, 'Duotone'),
   );
 
   /// ![virtual-reality-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality-duotone.svg)
-  static const virtualReality = AppDuotoneIconData(
+  static const virtualReality = PiconDuotoneData(
     0xe7b9,
-    AppIconData(0xe7b8, 'Duotone'),
+    PiconData(0xe7b8, 'Duotone'),
   );
 
   /// ![virus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus-duotone.svg)
-  static const virus = AppDuotoneIconData(
+  static const virus = PiconDuotoneData(
     0xe7d7,
-    AppIconData(0xe7d6, 'Duotone'),
+    PiconData(0xe7d6, 'Duotone'),
   );
 
   /// ![visor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor-duotone.svg)
-  static const visor = AppDuotoneIconData(
+  static const visor = PiconDuotoneData(
     0xee2b,
-    AppIconData(0xee2a, 'Duotone'),
+    PiconData(0xee2a, 'Duotone'),
   );
 
   /// ![voicemail-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail-duotone.svg)
-  static const voicemail = AppDuotoneIconData(
+  static const voicemail = PiconDuotoneData(
     0xe4df,
-    AppIconData(0xe4de, 'Duotone'),
+    PiconData(0xe4de, 'Duotone'),
   );
 
   /// ![volleyball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball-duotone.svg)
-  static const volleyball = AppDuotoneIconData(
+  static const volleyball = PiconDuotoneData(
     0xe727,
-    AppIconData(0xe726, 'Duotone'),
+    PiconData(0xe726, 'Duotone'),
   );
 
   /// ![wall-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall-duotone.svg)
-  static const wall = AppDuotoneIconData(
+  static const wall = PiconDuotoneData(
     0xe689,
-    AppIconData(0xe688, 'Duotone'),
+    PiconData(0xe688, 'Duotone'),
   );
 
   /// ![wallet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet-duotone.svg)
-  static const wallet = AppDuotoneIconData(
+  static const wallet = PiconDuotoneData(
     0xe68b,
-    AppIconData(0xe68a, 'Duotone'),
+    PiconData(0xe68a, 'Duotone'),
   );
 
   /// ![warehouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse-duotone.svg)
-  static const warehouse = AppDuotoneIconData(
+  static const warehouse = PiconDuotoneData(
     0xecd5,
-    AppIconData(0xecd4, 'Duotone'),
+    PiconData(0xecd4, 'Duotone'),
   );
 
   /// ![warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-duotone.svg)
-  static const warning = AppDuotoneIconData(
+  static const warning = PiconDuotoneData(
     0xe4e1,
-    AppIconData(0xe4e0, 'Duotone'),
+    PiconData(0xe4e0, 'Duotone'),
   );
 
   /// ![warning-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle-duotone.svg)
-  static const warningCircle = AppDuotoneIconData(
+  static const warningCircle = PiconDuotoneData(
     0xe4e3,
-    AppIconData(0xe4e2, 'Duotone'),
+    PiconData(0xe4e2, 'Duotone'),
   );
 
   /// ![warning-diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond-duotone.svg)
-  static const warningDiamond = AppDuotoneIconData(
+  static const warningDiamond = PiconDuotoneData(
     0xe7fd,
-    AppIconData(0xe7fc, 'Duotone'),
+    PiconData(0xe7fc, 'Duotone'),
   );
 
   /// ![warning-octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon-duotone.svg)
-  static const warningOctagon = AppDuotoneIconData(
+  static const warningOctagon = PiconDuotoneData(
     0xe4e5,
-    AppIconData(0xe4e4, 'Duotone'),
+    PiconData(0xe4e4, 'Duotone'),
   );
 
   /// ![washing-machine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine-duotone.svg)
-  static const washingMachine = AppDuotoneIconData(
+  static const washingMachine = PiconDuotoneData(
     0xede9,
-    AppIconData(0xede8, 'Duotone'),
+    PiconData(0xede8, 'Duotone'),
   );
 
   /// ![watch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch-duotone.svg)
-  static const watch = AppDuotoneIconData(
+  static const watch = PiconDuotoneData(
     0xe4e7,
-    AppIconData(0xe4e6, 'Duotone'),
+    PiconData(0xe4e6, 'Duotone'),
   );
 
   /// ![wave-sawtooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth-duotone.svg)
-  static const waveSawtooth = AppDuotoneIconData(
+  static const waveSawtooth = PiconDuotoneData(
     0xea9d,
-    AppIconData(0xea9c, 'Duotone'),
+    PiconData(0xea9c, 'Duotone'),
   );
 
   /// ![wave-sine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine-duotone.svg)
-  static const waveSine = AppDuotoneIconData(
+  static const waveSine = PiconDuotoneData(
     0xea9b,
-    AppIconData(0xea9a, 'Duotone'),
+    PiconData(0xea9a, 'Duotone'),
   );
 
   /// ![wave-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square-duotone.svg)
-  static const waveSquare = AppDuotoneIconData(
+  static const waveSquare = PiconDuotoneData(
     0xea9f,
-    AppIconData(0xea9e, 'Duotone'),
+    PiconData(0xea9e, 'Duotone'),
   );
 
   /// ![wave-triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle-duotone.svg)
-  static const waveTriangle = AppDuotoneIconData(
+  static const waveTriangle = PiconDuotoneData(
     0xeaa1,
-    AppIconData(0xeaa0, 'Duotone'),
+    PiconData(0xeaa0, 'Duotone'),
   );
 
   /// ![waveform-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-duotone.svg)
-  static const waveform = AppDuotoneIconData(
+  static const waveform = PiconDuotoneData(
     0xe803,
-    AppIconData(0xe802, 'Duotone'),
+    PiconData(0xe802, 'Duotone'),
   );
 
   /// ![waveform-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash-duotone.svg)
-  static const waveformSlash = AppDuotoneIconData(
+  static const waveformSlash = PiconDuotoneData(
     0xe801,
-    AppIconData(0xe800, 'Duotone'),
+    PiconData(0xe800, 'Duotone'),
   );
 
   /// ![waves-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves-duotone.svg)
-  static const waves = AppDuotoneIconData(
+  static const waves = PiconDuotoneData(
     0xe6df,
-    AppIconData(0xe6de, 'Duotone'),
+    PiconData(0xe6de, 'Duotone'),
   );
 
   /// ![webcam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-duotone.svg)
-  static const webcam = AppDuotoneIconData(
+  static const webcam = PiconDuotoneData(
     0xe9b3,
-    AppIconData(0xe9b2, 'Duotone'),
+    PiconData(0xe9b2, 'Duotone'),
   );
 
   /// ![webcam-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash-duotone.svg)
-  static const webcamSlash = AppDuotoneIconData(
+  static const webcamSlash = PiconDuotoneData(
     0xecdd,
-    AppIconData(0xecdc, 'Duotone'),
+    PiconData(0xecdc, 'Duotone'),
   );
 
   /// ![webhooks-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo-duotone.svg)
-  static const webhooksLogo = AppDuotoneIconData(
+  static const webhooksLogo = PiconDuotoneData(
     0xecaf,
-    AppIconData(0xecae, 'Duotone'),
+    PiconData(0xecae, 'Duotone'),
   );
 
   /// ![wechat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo-duotone.svg)
-  static const wechatLogo = AppDuotoneIconData(
+  static const wechatLogo = PiconDuotoneData(
     0xe8d3,
-    AppIconData(0xe8d2, 'Duotone'),
+    PiconData(0xe8d2, 'Duotone'),
   );
 
   /// ![whatsapp-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo-duotone.svg)
-  static const whatsappLogo = AppDuotoneIconData(
+  static const whatsappLogo = PiconDuotoneData(
     0xe5d1,
-    AppIconData(0xe5d0, 'Duotone'),
+    PiconData(0xe5d0, 'Duotone'),
   );
 
   /// ![wheelchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-duotone.svg)
-  static const wheelchair = AppDuotoneIconData(
+  static const wheelchair = PiconDuotoneData(
     0xe4e9,
-    AppIconData(0xe4e8, 'Duotone'),
+    PiconData(0xe4e8, 'Duotone'),
   );
 
   /// ![wheelchair-motion-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion-duotone.svg)
-  static const wheelchairMotion = AppDuotoneIconData(
+  static const wheelchairMotion = PiconDuotoneData(
     0xe89b,
-    AppIconData(0xe89a, 'Duotone'),
+    PiconData(0xe89a, 'Duotone'),
   );
 
   /// ![wifi-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high-duotone.svg)
-  static const wifiHigh = AppDuotoneIconData(
+  static const wifiHigh = PiconDuotoneData(
     0xe4eb,
-    AppIconData(0xe4ea, 'Duotone'),
+    PiconData(0xe4ea, 'Duotone'),
   );
 
   /// ![wifi-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low-duotone.svg)
-  static const wifiLow = AppDuotoneIconData(
+  static const wifiLow = PiconDuotoneData(
     0xe4ed,
-    AppIconData(0xe4ec, 'Duotone'),
+    PiconData(0xe4ec, 'Duotone'),
   );
 
   /// ![wifi-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium-duotone.svg)
-  static const wifiMedium = AppDuotoneIconData(
+  static const wifiMedium = PiconDuotoneData(
     0xe4ef,
-    AppIconData(0xe4ee, 'Duotone'),
+    PiconData(0xe4ee, 'Duotone'),
   );
 
   /// ![wifi-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none-duotone.svg)
-  static const wifiNone = AppFlatIconData(0xe4f0, 'Duotone');
+  static const wifiNone = PiconFlatData(0xe4f0, 'Duotone');
 
   /// ![wifi-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash-duotone.svg)
-  static const wifiSlash = AppDuotoneIconData(
+  static const wifiSlash = PiconDuotoneData(
     0xe4f3,
-    AppIconData(0xe4f2, 'Duotone'),
+    PiconData(0xe4f2, 'Duotone'),
   );
 
   /// ![wifi-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x-duotone.svg)
-  static const wifiX = AppDuotoneIconData(
+  static const wifiX = PiconDuotoneData(
     0xe4f5,
-    AppIconData(0xe4f4, 'Duotone'),
+    PiconData(0xe4f4, 'Duotone'),
   );
 
   /// ![wind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind-duotone.svg)
-  static const wind = AppDuotoneIconData(
+  static const wind = PiconDuotoneData(
     0xe5d3,
-    AppIconData(0xe5d2, 'Duotone'),
+    PiconData(0xe5d2, 'Duotone'),
   );
 
   /// ![windmill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill-duotone.svg)
-  static const windmill = AppDuotoneIconData(
+  static const windmill = PiconDuotoneData(
     0xe9f9,
-    AppIconData(0xe9f8, 'Duotone'),
+    PiconData(0xe9f8, 'Duotone'),
   );
 
   /// ![windows-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo-duotone.svg)
-  static const windowsLogo = AppDuotoneIconData(
+  static const windowsLogo = PiconDuotoneData(
     0xe693,
-    AppIconData(0xe692, 'Duotone'),
+    PiconData(0xe692, 'Duotone'),
   );
 
   /// ![wine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine-duotone.svg)
-  static const wine = AppDuotoneIconData(
+  static const wine = PiconDuotoneData(
     0xe6b3,
-    AppIconData(0xe6b2, 'Duotone'),
+    PiconData(0xe6b2, 'Duotone'),
   );
 
   /// ![wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench-duotone.svg)
-  static const wrench = AppDuotoneIconData(
+  static const wrench = PiconDuotoneData(
     0xe5d5,
-    AppIconData(0xe5d4, 'Duotone'),
+    PiconData(0xe5d4, 'Duotone'),
   );
 
   /// ![x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-duotone.svg)
-  static const x = AppDuotoneIconData(
+  static const x = PiconDuotoneData(
     0xe4f7,
-    AppIconData(0xe4f6, 'Duotone'),
+    PiconData(0xe4f6, 'Duotone'),
   );
 
   /// ![x-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle-duotone.svg)
-  static const xCircle = AppDuotoneIconData(
+  static const xCircle = PiconDuotoneData(
     0xe4f9,
-    AppIconData(0xe4f8, 'Duotone'),
+    PiconData(0xe4f8, 'Duotone'),
   );
 
   /// ![x-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo-duotone.svg)
-  static const xLogo = AppDuotoneIconData(
+  static const xLogo = PiconDuotoneData(
     0xe4bd,
-    AppIconData(0xe4bc, 'Duotone'),
+    PiconData(0xe4bc, 'Duotone'),
   );
 
   /// ![x-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square-duotone.svg)
-  static const xSquare = AppDuotoneIconData(
+  static const xSquare = PiconDuotoneData(
     0xe4fb,
-    AppIconData(0xe4fa, 'Duotone'),
+    PiconData(0xe4fa, 'Duotone'),
   );
 
   /// ![yarn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn-duotone.svg)
-  static const yarn = AppDuotoneIconData(
+  static const yarn = PiconDuotoneData(
     0xed9b,
-    AppIconData(0xed9a, 'Duotone'),
+    PiconData(0xed9a, 'Duotone'),
   );
 
   /// ![yin-yang-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang-duotone.svg)
-  static const yinYang = AppDuotoneIconData(
+  static const yinYang = PiconDuotoneData(
     0xe92b,
-    AppIconData(0xe92a, 'Duotone'),
+    PiconData(0xe92a, 'Duotone'),
   );
 
   /// ![youtube-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo-duotone.svg)
-  static const youtubeLogo = AppDuotoneIconData(
+  static const youtubeLogo = PiconDuotoneData(
     0xe4fd,
-    AppIconData(0xe4fc, 'Duotone'),
+    PiconData(0xe4fc, 'Duotone'),
   );
 }

@@ -1,10 +1,10 @@
-library app_icons;
+library picons;
 
 import 'package:flutter/material.dart';
-import 'package:app_icons/app_icons.dart';
+import 'package:picons/picons.dart';
 
-class AppIcon extends Icon {
-  const AppIcon(
+class Picon extends Icon {
+  const Picon(
     IconData icon, {
     Key? key,
     double? size,
@@ -37,8 +37,8 @@ class AppIcon extends Icon {
 
   @override
   Widget build(BuildContext context) {
-    if (icon is AppDuotoneIconData) {
-      final duotoneIcon = icon as AppDuotoneIconData;
+    if (icon is PiconDuotoneData) {
+      final duotoneIcon = icon as PiconDuotoneData;
       return Stack(
         alignment: Alignment.center,
         children: [

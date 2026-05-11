@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:app_icons/app_icons.dart';
+import 'package:picons/picons.dart';
 
 import 'constants/all_icons.dart';
 
@@ -35,27 +35,27 @@ class IconsCatalog extends StatefulWidget {
 }
 
 class _IconsCatalogState extends State<IconsCatalog> {
-  AppIconsStyle _style = AppIconsStyle.regular;
+  PiconsStyle _style = PiconsStyle.regular;
   String _query = '';
   final _searchController = TextEditingController();
 
-  Map<String, AppIconData> get _currentIcons => switch (_style) {
-        AppIconsStyle.regular => AllIcons.regularIcons,
-        AppIconsStyle.thin => AllIcons.thinIcons,
-        AppIconsStyle.light => AllIcons.lightIcons,
-        AppIconsStyle.bold => AllIcons.boldIcons,
-        AppIconsStyle.fill => AllIcons.fillIcons,
-        AppIconsStyle.duotone => AllIcons.duotoneIcons,
+  Map<String, PiconData> get _currentIcons => switch (_style) {
+        PiconsStyle.regular => AllIcons.regularIcons,
+        PiconsStyle.thin => AllIcons.thinIcons,
+        PiconsStyle.light => AllIcons.lightIcons,
+        PiconsStyle.bold => AllIcons.boldIcons,
+        PiconsStyle.fill => AllIcons.fillIcons,
+        PiconsStyle.duotone => AllIcons.duotoneIcons,
       };
 
-  Map<String, AppIconData> get _filtered {
+  Map<String, PiconData> get _filtered {
     if (_query.isEmpty) return _currentIcons;
     return Map.fromEntries(
       _currentIcons.entries.where((e) => e.key.contains(_query)),
     );
   }
 
-  void _selectStyle(AppIconsStyle style) {
+  void _selectStyle(PiconsStyle style) {
     _searchController.clear();
     setState(() {
       _style = style;
@@ -109,10 +109,10 @@ class _IconsCatalogState extends State<IconsCatalog> {
               decoration: InputDecoration(
                 hintText: 'Search 772 icons...',
                 hintStyle: const TextStyle(color: Colors.white38),
-                prefixIcon: const Icon(AppIconsRegular.magnifyingGlass, color: Colors.white38),
+                prefixIcon: const Icon(PiconsRegular.magnifyingGlass, color: Colors.white38),
                 suffixIcon: _query.isNotEmpty
                     ? IconButton(
-                        icon: const Icon(AppIconsRegular.x, color: Colors.white38),
+                        icon: const Icon(PiconsRegular.x, color: Colors.white38),
                         onPressed: () {
                           _searchController.clear();
                           setState(() => _query = '');
@@ -134,7 +134,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
             child: ListView(
               scrollDirection: Axis.horizontal,
               padding: const EdgeInsets.symmetric(horizontal: 12),
-              children: AppIconsStyle.values.map((style) {
+              children: PiconsStyle.values.map((style) {
                 final selected = style == _style;
                 return Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 4),
@@ -170,8 +170,8 @@ class _IconsCatalogState extends State<IconsCatalog> {
                     child: Column(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        const AppIcon(
-                          AppIconsRegular.magnifyingGlass,
+                        const Picon(
+                          PiconsRegular.magnifyingGlass,
                           size: 48,
                           color: Colors.white24,
                         ),
@@ -214,9 +214,9 @@ class _IconCell extends StatelessWidget {
     required this.style,
   });
 
-  final AppIconData icon;
+  final PiconData icon;
   final String name;
-  final AppIconsStyle style;
+  final PiconsStyle style;
 
   @override
   Widget build(BuildContext context) {
@@ -225,7 +225,7 @@ class _IconCell extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          AppIcon(icon, size: 30, color: Colors.white),
+          Picon(icon, size: 30, color: Colors.white),
           const SizedBox(height: 6),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 6),

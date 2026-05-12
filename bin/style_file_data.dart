@@ -49,7 +49,7 @@ enum StyleFileData {
 
   String get directoryName => styleName;
   String get docsLine => '/// ${styleName.capitalize()} Icons';
-  String get className => 'AppIcons${styleName.capitalize()}';
-  String get classFileName => 'app_icons_$styleName.dart';
+  String get className => 'Picons${styleName.capitalize()}';
+  String get classFileName => 'picons_$styleName.dart';
   String get classConstructorLine => '$className()';
 }

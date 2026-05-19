@@ -3,7 +3,7 @@ library picons;
 import 'package:flutter/material.dart';
 import 'package:picons/picons.dart';
 
-/// A Phosphor icon widget with duotone support.
+/// Phosphor icon widget with duotone support.
 ///
 /// Works exactly like [Icon] for non-duotone icons. For duotone icons,
 /// renders a two-layer stack using [duoColor] and [duoOpacity].
@@ -12,34 +12,33 @@ import 'package:picons/picons.dart';
 /// - Explicit value on the widget
 /// - [PiconsTheme] from the context
 /// - [IconTheme] (Flutter default)
-class Picon extends Icon {
+class Picon extends StatelessWidget {
   const Picon(
-    IconData icon, {
-    Key? key,
-    double? size,
-    double? fill,
-    double? weight,
-    double? grade,
-    double? opticalSize,
-    Color? color,
-    List<Shadow>? shadows,
-    String? semanticLabel,
-    TextDirection? textDirection,
+    this.icon, {
+    super.key,
+    this.size,
+    this.fill,
+    this.weight,
+    this.grade,
+    this.opticalSize,
+    this.color,
+    this.shadows,
+    this.semanticLabel,
+    this.textDirection,
     this.duoColor,
     this.duoOpacity,
-  }) : super(
-          icon,
-          color: color,
-          fill: fill,
-          grade: grade,
-          key: key,
-          opticalSize: opticalSize,
-          semanticLabel: semanticLabel,
-          shadows: shadows,
-          size: size,
-          textDirection: textDirection,
-          weight: weight,
-        );
+  });
+
+  final Object icon;
+  final double? size;
+  final double? fill;
+  final double? weight;
+  final double? grade;
+  final double? opticalSize;
+  final Color? color;
+  final List<Shadow>? shadows;
+  final String? semanticLabel;
+  final TextDirection? textDirection;
 
   /// Secondary layer color for duotone icons.
   /// Falls back to [PiconsTheme.duoColor], then to the icon's [color].
@@ -51,13 +50,12 @@ class Picon extends Icon {
 
   @override
   Widget build(BuildContext context) {
+    final piconsTheme = Theme.of(context).extension<PiconsTheme>();
+
     if (icon is PiconDuotoneData) {
       final duotoneIcon = icon as PiconDuotoneData;
-      final piconsTheme = Theme.of(context).extension<PiconsTheme>();
-
       final resolvedColor = color ?? piconsTheme?.color;
-      final resolvedDuoColor =
-          duoColor ?? piconsTheme?.duoColor ?? resolvedColor;
+      final resolvedDuoColor = duoColor ?? piconsTheme?.duoColor ?? resolvedColor;
       final resolvedDuoOpacity = duoOpacity ?? piconsTheme?.duoOpacity ?? 0.20;
 
       return Stack(
@@ -67,7 +65,6 @@ class Picon extends Icon {
             opacity: resolvedDuoOpacity,
             child: Icon(
               duotoneIcon.secondary,
-              key: key,
               size: size,
               fill: fill,
               weight: weight,
@@ -80,8 +77,7 @@ class Picon extends Icon {
             ),
           ),
           Icon(
-            icon,
-            key: key,
+            duotoneIcon.primary,
             size: size,
             fill: fill,
             weight: weight,
@@ -95,6 +91,18 @@ class Picon extends Icon {
         ],
       );
     }
-    return super.build(context);
+
+    return Icon(
+      icon as IconData,
+      size: size,
+      fill: fill,
+      weight: weight,
+      grade: grade,
+      opticalSize: opticalSize,
+      color: color ?? piconsTheme?.color,
+      shadows: shadows,
+      semanticLabel: semanticLabel,
+      textDirection: textDirection,
+    );
   }
 }

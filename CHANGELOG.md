@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [3.0.0] - 2026-05-19
+
+- **Fix (breaking)**: Dart 3.12 / Flutter 3.44 makes `IconData` a `final` class.
+  `PiconData` and `PiconFlatData` are now extension types implementing `IconData`
+  — zero API break for regular icon usage.
+- **Breaking**: `PiconDuotoneData` no longer extends `IconData`. Its constructor
+  changes from `PiconDuotoneData(int, PiconData)` to
+  `PiconDuotoneData(PiconData, PiconData)`. Use `Picon()` widget (not `Icon()`)
+  with duotone icons.
+- **Breaking**: `Picon` widget no longer extends `Icon`. It is now a
+  `StatelessWidget` with the same visual API.
+- **Behavior change**: `Picons.x` with `defaultStyle = duotone` now returns the
+  primary layer as `PiconData` instead of `PiconDuotoneData`. For full duotone
+  rendering use `PiconsDuotone.x` directly.
+- Fix: dartdoc SVG image URLs updated to current Phosphor asset naming convention
+  (`{name}-{style}.svg`).
+- Require Flutter >=3.44.0, Dart >=3.12.0.
+
 ## [2.1.1] - 2026-05-11
 
 - Add demo screenshot to README

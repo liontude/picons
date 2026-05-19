@@ -94,11 +94,14 @@ Method buildBaseFieldIcon(dynamic icon) {
   final fullName = rawName.split(",").first;
   final name = formatName(fullName, style: 'regular');
   final styles = StyleFileData.values;
-  var code = 'switch (AppIcons.defaultStyle) {';
+  var code = 'switch (Picons.defaultStyle) {';
   for (final style in styles) {
+    final returnExpr = style == StyleFileData.duotone
+        ? '${style.className}.$name.primary'
+        : '${style.className}.$name';
     code += '''
-case AppIconsStyle.${style.styleName}:
-  return ${style.className}.$name;
+case PiconsStyle.${style.styleName}:
+  return $returnExpr;
 ''';
   }
   code += '}';
@@ -106,10 +109,12 @@ case AppIconsStyle.${style.styleName}:
     ..name = name
     ..static = true
     ..type = MethodType.getter
-    ..docs.addAll(styles.map((style) =>
-        '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
+    ..docs.addAll(styles.map((style) {
+        final suffix = style.styleName == 'regular' ? '' : '-${style.styleName}';
+        return '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName$suffix.svg)';
+      }))
     ..body = Code(code)
-    ..returns = Reference('AppIconData'));
+    ..returns = Reference('PiconData'));
 }
 
 /// reads the phosphor json  of one style and generates a dart class
@@ -167,10 +172,11 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
   final firstName = fullName.split(",").first;
   final name = formatName(firstName, style: style.styleName);
 
+  final svgSuffix = style.styleName == 'regular' ? '' : '-${style.styleName}';
   final iconDocLines = [
     '/// $firstName',
     '///',
-    '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName.svg)',
+    '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName$svgSuffix.svg)',
   ];
 
   late Code codeStatement;
@@ -180,13 +186,14 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
     final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "AppDuotoneIconData($foregroundHexCode, AppIconData($backgroundHexCode, 'Duotone'),)",
+      "PiconDuotoneData(PiconData(IconData($foregroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData($backgroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)),)",
     );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
+    final styleName = style.styleName.capitalize();
     codeStatement = Code(
-      "AppFlatIconData($hexCode, '${style.styleName.capitalize()}')",
+      "PiconFlatData(IconData($hexCode, fontFamily: 'Phosphor$styleName', fontPackage: 'picons', matchTextDirection: true),)",
     );
   }
 

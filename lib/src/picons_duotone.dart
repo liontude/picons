@@ -11,12090 +11,7560 @@ class PiconsDuotone {
   /// acorn-duotone
   ///
   /// ![acorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn-duotone.svg)
-  static const acorn = PiconDuotoneData(
-    0xeb9b,
-    PiconData(0xeb9a, 'Duotone'),
-  );
+  static const acorn = PiconDuotoneData(PiconData(IconData(0xeb9b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb9a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// address-book-duotone
   ///
   /// ![address-book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-duotone.svg)
-  static const addressBook = PiconDuotoneData(
-    0xe6f9,
-    PiconData(0xe6f8, 'Duotone'),
-  );
+  static const addressBook = PiconDuotoneData(PiconData(IconData(0xe6f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// address-book-tabs-duotone
   ///
   /// ![address-book-tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs-duotone.svg)
-  static const addressBookTabs = PiconDuotoneData(
-    0xee4f,
-    PiconData(0xee4e, 'Duotone'),
-  );
+  static const addressBookTabs = PiconDuotoneData(PiconData(IconData(0xee4f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee4e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// air-traffic-control-duotone
   ///
   /// ![air-traffic-control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control-duotone.svg)
-  static const airTrafficControl = PiconDuotoneData(
-    0xecd9,
-    PiconData(0xecd8, 'Duotone'),
-  );
+  static const airTrafficControl = PiconDuotoneData(PiconData(IconData(0xecd9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecd8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-duotone
   ///
   /// ![airplane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-duotone.svg)
-  static const airplane = PiconDuotoneData(
-    0xe003,
-    PiconData(0xe002, 'Duotone'),
-  );
+  static const airplane = PiconDuotoneData(PiconData(IconData(0xe003, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe002, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-in-flight-duotone
   ///
   /// ![airplane-in-flight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight-duotone.svg)
-  static const airplaneInFlight = PiconDuotoneData(
-    0xe4ff,
-    PiconData(0xe4fe, 'Duotone'),
-  );
+  static const airplaneInFlight = PiconDuotoneData(PiconData(IconData(0xe4ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-landing-duotone
   ///
   /// ![airplane-landing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing-duotone.svg)
-  static const airplaneLanding = PiconDuotoneData(
-    0xe503,
-    PiconData(0xe502, 'Duotone'),
-  );
+  static const airplaneLanding = PiconDuotoneData(PiconData(IconData(0xe503, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe502, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-takeoff-duotone
   ///
   /// ![airplane-takeoff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff-duotone.svg)
-  static const airplaneTakeoff = PiconDuotoneData(
-    0xe505,
-    PiconData(0xe504, 'Duotone'),
-  );
+  static const airplaneTakeoff = PiconDuotoneData(PiconData(IconData(0xe505, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe504, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-taxiing-duotone
   ///
   /// ![airplane-taxiing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing-duotone.svg)
-  static const airplaneTaxiing = PiconDuotoneData(
-    0xe501,
-    PiconData(0xe500, 'Duotone'),
-  );
+  static const airplaneTaxiing = PiconDuotoneData(PiconData(IconData(0xe501, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe500, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplane-tilt-duotone
   ///
   /// ![airplane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt-duotone.svg)
-  static const airplaneTilt = PiconDuotoneData(
-    0xe5d7,
-    PiconData(0xe5d6, 'Duotone'),
-  );
+  static const airplaneTilt = PiconDuotoneData(PiconData(IconData(0xe5d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// airplay-duotone
   ///
   /// ![airplay-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay-duotone.svg)
-  static const airplay = PiconDuotoneData(
-    0xe005,
-    PiconData(0xe004, 'Duotone'),
-  );
+  static const airplay = PiconDuotoneData(PiconData(IconData(0xe005, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe004, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// alarm-duotone
   ///
   /// ![alarm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm-duotone.svg)
-  static const alarm = PiconDuotoneData(
-    0xe007,
-    PiconData(0xe006, 'Duotone'),
-  );
+  static const alarm = PiconDuotoneData(PiconData(IconData(0xe007, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe006, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// alien-duotone
   ///
   /// ![alien-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien-duotone.svg)
-  static const alien = PiconDuotoneData(
-    0xe8a7,
-    PiconData(0xe8a6, 'Duotone'),
-  );
+  static const alien = PiconDuotoneData(PiconData(IconData(0xe8a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-bottom-duotone
   ///
   /// ![align-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-duotone.svg)
-  static const alignBottom = PiconDuotoneData(
-    0xe507,
-    PiconData(0xe506, 'Duotone'),
-  );
+  static const alignBottom = PiconDuotoneData(PiconData(IconData(0xe507, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe506, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-bottom-simple-duotone
   ///
   /// ![align-bottom-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple-duotone.svg)
-  static const alignBottomSimple = PiconDuotoneData(
-    0xeb0d,
-    PiconData(0xeb0c, 'Duotone'),
-  );
+  static const alignBottomSimple = PiconDuotoneData(PiconData(IconData(0xeb0d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb0c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-center-horizontal-duotone
   ///
   /// ![align-center-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-duotone.svg)
-  static const alignCenterHorizontal = PiconDuotoneData(
-    0xe50b,
-    PiconData(0xe50a, 'Duotone'),
-  );
+  static const alignCenterHorizontal = PiconDuotoneData(PiconData(IconData(0xe50b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe50a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-center-horizontal-simple-duotone
   ///
   /// ![align-center-horizontal-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple-duotone.svg)
-  static const alignCenterHorizontalSimple = PiconDuotoneData(
-    0xeb0f,
-    PiconData(0xeb0e, 'Duotone'),
-  );
+  static const alignCenterHorizontalSimple = PiconDuotoneData(PiconData(IconData(0xeb0f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb0e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-center-vertical-duotone
   ///
   /// ![align-center-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-duotone.svg)
-  static const alignCenterVertical = PiconDuotoneData(
-    0xe50d,
-    PiconData(0xe50c, 'Duotone'),
-  );
+  static const alignCenterVertical = PiconDuotoneData(PiconData(IconData(0xe50d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe50c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-center-vertical-simple-duotone
   ///
   /// ![align-center-vertical-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple-duotone.svg)
-  static const alignCenterVerticalSimple = PiconDuotoneData(
-    0xeb11,
-    PiconData(0xeb10, 'Duotone'),
-  );
+  static const alignCenterVerticalSimple = PiconDuotoneData(PiconData(IconData(0xeb11, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb10, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-left-duotone
   ///
   /// ![align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-duotone.svg)
-  static const alignLeft = PiconDuotoneData(
-    0xe50f,
-    PiconData(0xe50e, 'Duotone'),
-  );
+  static const alignLeft = PiconDuotoneData(PiconData(IconData(0xe50f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe50e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-left-simple-duotone
   ///
   /// ![align-left-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple-duotone.svg)
-  static const alignLeftSimple = PiconDuotoneData(
-    0xeaef,
-    PiconData(0xeaee, 'Duotone'),
-  );
+  static const alignLeftSimple = PiconDuotoneData(PiconData(IconData(0xeaef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-right-duotone
   ///
   /// ![align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-duotone.svg)
-  static const alignRight = PiconDuotoneData(
-    0xe511,
-    PiconData(0xe510, 'Duotone'),
-  );
+  static const alignRight = PiconDuotoneData(PiconData(IconData(0xe511, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe510, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-right-simple-duotone
   ///
   /// ![align-right-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple-duotone.svg)
-  static const alignRightSimple = PiconDuotoneData(
-    0xeb13,
-    PiconData(0xeb12, 'Duotone'),
-  );
+  static const alignRightSimple = PiconDuotoneData(PiconData(IconData(0xeb13, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb12, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-top-duotone
   ///
   /// ![align-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-duotone.svg)
-  static const alignTop = PiconDuotoneData(
-    0xe513,
-    PiconData(0xe512, 'Duotone'),
-  );
+  static const alignTop = PiconDuotoneData(PiconData(IconData(0xe513, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe512, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// align-top-simple-duotone
   ///
   /// ![align-top-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple-duotone.svg)
-  static const alignTopSimple = PiconDuotoneData(
-    0xeb15,
-    PiconData(0xeb14, 'Duotone'),
-  );
+  static const alignTopSimple = PiconDuotoneData(PiconData(IconData(0xeb15, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb14, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// amazon-logo-duotone
   ///
   /// ![amazon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo-duotone.svg)
-  static const amazonLogo = PiconDuotoneData(
-    0xe96d,
-    PiconData(0xe96c, 'Duotone'),
-  );
+  static const amazonLogo = PiconDuotoneData(PiconData(IconData(0xe96d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe96c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ambulance-duotone
   ///
   /// ![ambulance-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance-duotone.svg)
-  static const ambulance = PiconDuotoneData(
-    0xe573,
-    PiconData(0xe572, 'Duotone'),
-  );
+  static const ambulance = PiconDuotoneData(PiconData(IconData(0xe573, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe572, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// anchor-duotone
   ///
   /// ![anchor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-duotone.svg)
-  static const anchor = PiconDuotoneData(
-    0xe515,
-    PiconData(0xe514, 'Duotone'),
-  );
+  static const anchor = PiconDuotoneData(PiconData(IconData(0xe515, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe514, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// anchor-simple-duotone
   ///
   /// ![anchor-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple-duotone.svg)
-  static const anchorSimple = PiconDuotoneData(
-    0xe5d9,
-    PiconData(0xe5d8, 'Duotone'),
-  );
+  static const anchorSimple = PiconDuotoneData(PiconData(IconData(0xe5d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// android-logo-duotone
   ///
   /// ![android-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo-duotone.svg)
-  static const androidLogo = PiconDuotoneData(
-    0xe009,
-    PiconData(0xe008, 'Duotone'),
-  );
+  static const androidLogo = PiconDuotoneData(PiconData(IconData(0xe009, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe008, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// angle-duotone
   ///
   /// ![angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle-duotone.svg)
-  static const angle = PiconDuotoneData(
-    0xe7bd,
-    PiconData(0xe7bc, 'Duotone'),
-  );
+  static const angle = PiconDuotoneData(PiconData(IconData(0xe7bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// angular-logo-duotone
   ///
   /// ![angular-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo-duotone.svg)
-  static const angularLogo = PiconDuotoneData(
-    0xeb81,
-    PiconData(0xeb80, 'Duotone'),
-  );
+  static const angularLogo = PiconDuotoneData(PiconData(IconData(0xeb81, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb80, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// aperture-duotone
   ///
   /// ![aperture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture-duotone.svg)
-  static const aperture = PiconDuotoneData(
-    0xe00b,
-    PiconData(0xe00a, 'Duotone'),
-  );
+  static const aperture = PiconDuotoneData(PiconData(IconData(0xe00b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe00a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// app-store-logo-duotone
   ///
   /// ![app-store-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo-duotone.svg)
-  static const appStoreLogo = PiconDuotoneData(
-    0xe975,
-    PiconData(0xe974, 'Duotone'),
-  );
+  static const appStoreLogo = PiconDuotoneData(PiconData(IconData(0xe975, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe974, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// app-window-duotone
   ///
   /// ![app-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window-duotone.svg)
-  static const appWindow = PiconDuotoneData(
-    0xe5db,
-    PiconData(0xe5da, 'Duotone'),
-  );
+  static const appWindow = PiconDuotoneData(PiconData(IconData(0xe5db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// apple-logo-duotone
   ///
   /// ![apple-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo-duotone.svg)
-  static const appleLogo = PiconDuotoneData(
-    0xe517,
-    PiconData(0xe516, 'Duotone'),
-  );
+  static const appleLogo = PiconDuotoneData(PiconData(IconData(0xe517, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe516, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// apple-podcasts-logo-duotone
   ///
   /// ![apple-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo-duotone.svg)
-  static const applePodcastsLogo = PiconDuotoneData(
-    0xeb97,
-    PiconData(0xeb96, 'Duotone'),
-  );
+  static const applePodcastsLogo = PiconDuotoneData(PiconData(IconData(0xeb97, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb96, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// approximate-equals-duotone
   ///
   /// ![approximate-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals-duotone.svg)
-  static const approximateEquals = PiconDuotoneData(
-    0xedab,
-    PiconData(0xedaa, 'Duotone'),
-  );
+  static const approximateEquals = PiconDuotoneData(PiconData(IconData(0xedab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedaa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// archive-duotone
   ///
   /// ![archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-duotone.svg)
-  static const archive = PiconDuotoneData(
-    0xe00d,
-    PiconData(0xe00c, 'Duotone'),
-  );
+  static const archive = PiconDuotoneData(PiconData(IconData(0xe00d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe00c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// armchair-duotone
   ///
   /// ![armchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair-duotone.svg)
-  static const armchair = PiconDuotoneData(
-    0xe013,
-    PiconData(0xe012, 'Duotone'),
-  );
+  static const armchair = PiconDuotoneData(PiconData(IconData(0xe013, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe012, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-arc-left-duotone
   ///
   /// ![arrow-arc-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left-duotone.svg)
-  static const arrowArcLeft = PiconDuotoneData(
-    0xe015,
-    PiconData(0xe014, 'Duotone'),
-  );
+  static const arrowArcLeft = PiconDuotoneData(PiconData(IconData(0xe015, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe014, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-arc-right-duotone
   ///
   /// ![arrow-arc-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right-duotone.svg)
-  static const arrowArcRight = PiconDuotoneData(
-    0xe017,
-    PiconData(0xe016, 'Duotone'),
-  );
+  static const arrowArcRight = PiconDuotoneData(PiconData(IconData(0xe017, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe016, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-double-up-left-duotone
   ///
   /// ![arrow-bend-double-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left-duotone.svg)
-  static const arrowBendDoubleUpLeft = PiconDuotoneData(
-    0xe03b,
-    PiconData(0xe03a, 'Duotone'),
-  );
+  static const arrowBendDoubleUpLeft = PiconDuotoneData(PiconData(IconData(0xe03b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe03a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-double-up-right-duotone
   ///
   /// ![arrow-bend-double-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right-duotone.svg)
-  static const arrowBendDoubleUpRight = PiconDuotoneData(
-    0xe03d,
-    PiconData(0xe03c, 'Duotone'),
-  );
+  static const arrowBendDoubleUpRight = PiconDuotoneData(PiconData(IconData(0xe03d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe03c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-down-left-duotone
   ///
   /// ![arrow-bend-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left-duotone.svg)
-  static const arrowBendDownLeft = PiconDuotoneData(
-    0xe019,
-    PiconData(0xe018, 'Duotone'),
-  );
+  static const arrowBendDownLeft = PiconDuotoneData(PiconData(IconData(0xe019, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe018, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-down-right-duotone
   ///
   /// ![arrow-bend-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right-duotone.svg)
-  static const arrowBendDownRight = PiconDuotoneData(
-    0xe01b,
-    PiconData(0xe01a, 'Duotone'),
-  );
+  static const arrowBendDownRight = PiconDuotoneData(PiconData(IconData(0xe01b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe01a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-left-down-duotone
   ///
   /// ![arrow-bend-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down-duotone.svg)
-  static const arrowBendLeftDown = PiconDuotoneData(
-    0xe01d,
-    PiconData(0xe01c, 'Duotone'),
-  );
+  static const arrowBendLeftDown = PiconDuotoneData(PiconData(IconData(0xe01d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe01c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-left-up-duotone
   ///
   /// ![arrow-bend-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up-duotone.svg)
-  static const arrowBendLeftUp = PiconDuotoneData(
-    0xe01f,
-    PiconData(0xe01e, 'Duotone'),
-  );
+  static const arrowBendLeftUp = PiconDuotoneData(PiconData(IconData(0xe01f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe01e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-right-down-duotone
   ///
   /// ![arrow-bend-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down-duotone.svg)
-  static const arrowBendRightDown = PiconDuotoneData(
-    0xe021,
-    PiconData(0xe020, 'Duotone'),
-  );
+  static const arrowBendRightDown = PiconDuotoneData(PiconData(IconData(0xe021, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe020, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-right-up-duotone
   ///
   /// ![arrow-bend-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up-duotone.svg)
-  static const arrowBendRightUp = PiconDuotoneData(
-    0xe023,
-    PiconData(0xe022, 'Duotone'),
-  );
+  static const arrowBendRightUp = PiconDuotoneData(PiconData(IconData(0xe023, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe022, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-up-left-duotone
   ///
   /// ![arrow-bend-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left-duotone.svg)
-  static const arrowBendUpLeft = PiconDuotoneData(
-    0xe025,
-    PiconData(0xe024, 'Duotone'),
-  );
+  static const arrowBendUpLeft = PiconDuotoneData(PiconData(IconData(0xe025, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe024, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-bend-up-right-duotone
   ///
   /// ![arrow-bend-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right-duotone.svg)
-  static const arrowBendUpRight = PiconDuotoneData(
-    0xe027,
-    PiconData(0xe026, 'Duotone'),
-  );
+  static const arrowBendUpRight = PiconDuotoneData(PiconData(IconData(0xe027, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe026, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-down-duotone
   ///
   /// ![arrow-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-duotone.svg)
-  static const arrowCircleDown = PiconDuotoneData(
-    0xe029,
-    PiconData(0xe028, 'Duotone'),
-  );
+  static const arrowCircleDown = PiconDuotoneData(PiconData(IconData(0xe029, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe028, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-down-left-duotone
   ///
   /// ![arrow-circle-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left-duotone.svg)
-  static const arrowCircleDownLeft = PiconDuotoneData(
-    0xe02b,
-    PiconData(0xe02a, 'Duotone'),
-  );
+  static const arrowCircleDownLeft = PiconDuotoneData(PiconData(IconData(0xe02b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe02a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-down-right-duotone
   ///
   /// ![arrow-circle-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right-duotone.svg)
-  static const arrowCircleDownRight = PiconDuotoneData(
-    0xe02d,
-    PiconData(0xe02c, 'Duotone'),
-  );
+  static const arrowCircleDownRight = PiconDuotoneData(PiconData(IconData(0xe02d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe02c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-left-duotone
   ///
   /// ![arrow-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left-duotone.svg)
-  static const arrowCircleLeft = PiconDuotoneData(
-    0xe05b,
-    PiconData(0xe05a, 'Duotone'),
-  );
+  static const arrowCircleLeft = PiconDuotoneData(PiconData(IconData(0xe05b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe05a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-right-duotone
   ///
   /// ![arrow-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right-duotone.svg)
-  static const arrowCircleRight = PiconDuotoneData(
-    0xe02f,
-    PiconData(0xe02e, 'Duotone'),
-  );
+  static const arrowCircleRight = PiconDuotoneData(PiconData(IconData(0xe02f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe02e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-up-duotone
   ///
   /// ![arrow-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-duotone.svg)
-  static const arrowCircleUp = PiconDuotoneData(
-    0xe031,
-    PiconData(0xe030, 'Duotone'),
-  );
+  static const arrowCircleUp = PiconDuotoneData(PiconData(IconData(0xe031, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe030, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-up-left-duotone
   ///
   /// ![arrow-circle-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left-duotone.svg)
-  static const arrowCircleUpLeft = PiconDuotoneData(
-    0xe033,
-    PiconData(0xe032, 'Duotone'),
-  );
+  static const arrowCircleUpLeft = PiconDuotoneData(PiconData(IconData(0xe033, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe032, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-circle-up-right-duotone
   ///
   /// ![arrow-circle-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right-duotone.svg)
-  static const arrowCircleUpRight = PiconDuotoneData(
-    0xe035,
-    PiconData(0xe034, 'Duotone'),
-  );
+  static const arrowCircleUpRight = PiconDuotoneData(PiconData(IconData(0xe035, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe034, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-clockwise-duotone
   ///
   /// ![arrow-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise-duotone.svg)
-  static const arrowClockwise = PiconDuotoneData(
-    0xe037,
-    PiconData(0xe036, 'Duotone'),
-  );
+  static const arrowClockwise = PiconDuotoneData(PiconData(IconData(0xe037, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe036, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-counter-clockwise-duotone
   ///
   /// ![arrow-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise-duotone.svg)
-  static const arrowCounterClockwise = PiconDuotoneData(
-    0xe039,
-    PiconData(0xe038, 'Duotone'),
-  );
+  static const arrowCounterClockwise = PiconDuotoneData(PiconData(IconData(0xe039, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe038, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-down-duotone
   ///
   /// ![arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-duotone.svg)
-  static const arrowDown = PiconDuotoneData(
-    0xe03f,
-    PiconData(0xe03e, 'Duotone'),
-  );
+  static const arrowDown = PiconDuotoneData(PiconData(IconData(0xe03f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe03e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-down-left-duotone
   ///
   /// ![arrow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left-duotone.svg)
-  static const arrowDownLeft = PiconDuotoneData(
-    0xe041,
-    PiconData(0xe040, 'Duotone'),
-  );
+  static const arrowDownLeft = PiconDuotoneData(PiconData(IconData(0xe041, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe040, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-down-right-duotone
   ///
   /// ![arrow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right-duotone.svg)
-  static const arrowDownRight = PiconDuotoneData(
-    0xe043,
-    PiconData(0xe042, 'Duotone'),
-  );
+  static const arrowDownRight = PiconDuotoneData(PiconData(IconData(0xe043, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe042, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-down-left-duotone
   ///
   /// ![arrow-elbow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left-duotone.svg)
-  static const arrowElbowDownLeft = PiconDuotoneData(
-    0xe045,
-    PiconData(0xe044, 'Duotone'),
-  );
+  static const arrowElbowDownLeft = PiconDuotoneData(PiconData(IconData(0xe045, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe044, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-down-right-duotone
   ///
   /// ![arrow-elbow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right-duotone.svg)
-  static const arrowElbowDownRight = PiconDuotoneData(
-    0xe047,
-    PiconData(0xe046, 'Duotone'),
-  );
+  static const arrowElbowDownRight = PiconDuotoneData(PiconData(IconData(0xe047, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe046, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-left-duotone
   ///
   /// ![arrow-elbow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-duotone.svg)
-  static const arrowElbowLeft = PiconDuotoneData(
-    0xe049,
-    PiconData(0xe048, 'Duotone'),
-  );
+  static const arrowElbowLeft = PiconDuotoneData(PiconData(IconData(0xe049, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe048, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-left-down-duotone
   ///
   /// ![arrow-elbow-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down-duotone.svg)
-  static const arrowElbowLeftDown = PiconDuotoneData(
-    0xe04b,
-    PiconData(0xe04a, 'Duotone'),
-  );
+  static const arrowElbowLeftDown = PiconDuotoneData(PiconData(IconData(0xe04b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe04a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-left-up-duotone
   ///
   /// ![arrow-elbow-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up-duotone.svg)
-  static const arrowElbowLeftUp = PiconDuotoneData(
-    0xe04d,
-    PiconData(0xe04c, 'Duotone'),
-  );
+  static const arrowElbowLeftUp = PiconDuotoneData(PiconData(IconData(0xe04d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe04c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-right-duotone
   ///
   /// ![arrow-elbow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-duotone.svg)
-  static const arrowElbowRight = PiconDuotoneData(
-    0xe04f,
-    PiconData(0xe04e, 'Duotone'),
-  );
+  static const arrowElbowRight = PiconDuotoneData(PiconData(IconData(0xe04f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe04e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-right-down-duotone
   ///
   /// ![arrow-elbow-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down-duotone.svg)
-  static const arrowElbowRightDown = PiconDuotoneData(
-    0xe051,
-    PiconData(0xe050, 'Duotone'),
-  );
+  static const arrowElbowRightDown = PiconDuotoneData(PiconData(IconData(0xe051, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe050, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-right-up-duotone
   ///
   /// ![arrow-elbow-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up-duotone.svg)
-  static const arrowElbowRightUp = PiconDuotoneData(
-    0xe053,
-    PiconData(0xe052, 'Duotone'),
-  );
+  static const arrowElbowRightUp = PiconDuotoneData(PiconData(IconData(0xe053, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe052, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-up-left-duotone
   ///
   /// ![arrow-elbow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left-duotone.svg)
-  static const arrowElbowUpLeft = PiconDuotoneData(
-    0xe055,
-    PiconData(0xe054, 'Duotone'),
-  );
+  static const arrowElbowUpLeft = PiconDuotoneData(PiconData(IconData(0xe055, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe054, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-elbow-up-right-duotone
   ///
   /// ![arrow-elbow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right-duotone.svg)
-  static const arrowElbowUpRight = PiconDuotoneData(
-    0xe057,
-    PiconData(0xe056, 'Duotone'),
-  );
+  static const arrowElbowUpRight = PiconDuotoneData(PiconData(IconData(0xe057, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe056, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-down-duotone
   ///
   /// ![arrow-fat-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down-duotone.svg)
-  static const arrowFatDown = PiconDuotoneData(
-    0xe519,
-    PiconData(0xe518, 'Duotone'),
-  );
+  static const arrowFatDown = PiconDuotoneData(PiconData(IconData(0xe519, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe518, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-left-duotone
   ///
   /// ![arrow-fat-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left-duotone.svg)
-  static const arrowFatLeft = PiconDuotoneData(
-    0xe51b,
-    PiconData(0xe51a, 'Duotone'),
-  );
+  static const arrowFatLeft = PiconDuotoneData(PiconData(IconData(0xe51b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe51a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-line-down-duotone
   ///
   /// ![arrow-fat-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down-duotone.svg)
-  static const arrowFatLineDown = PiconDuotoneData(
-    0xe51d,
-    PiconData(0xe51c, 'Duotone'),
-  );
+  static const arrowFatLineDown = PiconDuotoneData(PiconData(IconData(0xe51d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe51c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-line-left-duotone
   ///
   /// ![arrow-fat-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left-duotone.svg)
-  static const arrowFatLineLeft = PiconDuotoneData(
-    0xe51f,
-    PiconData(0xe51e, 'Duotone'),
-  );
+  static const arrowFatLineLeft = PiconDuotoneData(PiconData(IconData(0xe51f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe51e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-line-right-duotone
   ///
   /// ![arrow-fat-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right-duotone.svg)
-  static const arrowFatLineRight = PiconDuotoneData(
-    0xe521,
-    PiconData(0xe520, 'Duotone'),
-  );
+  static const arrowFatLineRight = PiconDuotoneData(PiconData(IconData(0xe521, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe520, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-line-up-duotone
   ///
   /// ![arrow-fat-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up-duotone.svg)
-  static const arrowFatLineUp = PiconDuotoneData(
-    0xe523,
-    PiconData(0xe522, 'Duotone'),
-  );
+  static const arrowFatLineUp = PiconDuotoneData(PiconData(IconData(0xe523, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe522, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-lines-down-duotone
   ///
   /// ![arrow-fat-lines-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down-duotone.svg)
-  static const arrowFatLinesDown = PiconDuotoneData(
-    0xe525,
-    PiconData(0xe524, 'Duotone'),
-  );
+  static const arrowFatLinesDown = PiconDuotoneData(PiconData(IconData(0xe525, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe524, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-lines-left-duotone
   ///
   /// ![arrow-fat-lines-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left-duotone.svg)
-  static const arrowFatLinesLeft = PiconDuotoneData(
-    0xe527,
-    PiconData(0xe526, 'Duotone'),
-  );
+  static const arrowFatLinesLeft = PiconDuotoneData(PiconData(IconData(0xe527, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe526, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-lines-right-duotone
   ///
   /// ![arrow-fat-lines-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right-duotone.svg)
-  static const arrowFatLinesRight = PiconDuotoneData(
-    0xe529,
-    PiconData(0xe528, 'Duotone'),
-  );
+  static const arrowFatLinesRight = PiconDuotoneData(PiconData(IconData(0xe529, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe528, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-lines-up-duotone
   ///
   /// ![arrow-fat-lines-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up-duotone.svg)
-  static const arrowFatLinesUp = PiconDuotoneData(
-    0xe52b,
-    PiconData(0xe52a, 'Duotone'),
-  );
+  static const arrowFatLinesUp = PiconDuotoneData(PiconData(IconData(0xe52b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe52a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-right-duotone
   ///
   /// ![arrow-fat-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right-duotone.svg)
-  static const arrowFatRight = PiconDuotoneData(
-    0xe52d,
-    PiconData(0xe52c, 'Duotone'),
-  );
+  static const arrowFatRight = PiconDuotoneData(PiconData(IconData(0xe52d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe52c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-fat-up-duotone
   ///
   /// ![arrow-fat-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up-duotone.svg)
-  static const arrowFatUp = PiconDuotoneData(
-    0xe52f,
-    PiconData(0xe52e, 'Duotone'),
-  );
+  static const arrowFatUp = PiconDuotoneData(PiconData(IconData(0xe52f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe52e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-left-duotone
   ///
   /// ![arrow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left-duotone.svg)
-  static const arrowLeft = PiconDuotoneData(
-    0xe059,
-    PiconData(0xe058, 'Duotone'),
-  );
+  static const arrowLeft = PiconDuotoneData(PiconData(IconData(0xe059, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe058, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-down-duotone
   ///
   /// ![arrow-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-duotone.svg)
-  static const arrowLineDown = PiconDuotoneData(
-    0xe05d,
-    PiconData(0xe05c, 'Duotone'),
-  );
+  static const arrowLineDown = PiconDuotoneData(PiconData(IconData(0xe05d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe05c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-down-left-duotone
   ///
   /// ![arrow-line-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left-duotone.svg)
-  static const arrowLineDownLeft = PiconDuotoneData(
-    0xe05f,
-    PiconData(0xe05e, 'Duotone'),
-  );
+  static const arrowLineDownLeft = PiconDuotoneData(PiconData(IconData(0xe05f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe05e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-down-right-duotone
   ///
   /// ![arrow-line-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right-duotone.svg)
-  static const arrowLineDownRight = PiconDuotoneData(
-    0xe061,
-    PiconData(0xe060, 'Duotone'),
-  );
+  static const arrowLineDownRight = PiconDuotoneData(PiconData(IconData(0xe061, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe060, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-left-duotone
   ///
   /// ![arrow-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left-duotone.svg)
-  static const arrowLineLeft = PiconDuotoneData(
-    0xe063,
-    PiconData(0xe062, 'Duotone'),
-  );
+  static const arrowLineLeft = PiconDuotoneData(PiconData(IconData(0xe063, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe062, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-right-duotone
   ///
   /// ![arrow-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right-duotone.svg)
-  static const arrowLineRight = PiconDuotoneData(
-    0xe065,
-    PiconData(0xe064, 'Duotone'),
-  );
+  static const arrowLineRight = PiconDuotoneData(PiconData(IconData(0xe065, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe064, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-up-duotone
   ///
   /// ![arrow-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-duotone.svg)
-  static const arrowLineUp = PiconDuotoneData(
-    0xe067,
-    PiconData(0xe066, 'Duotone'),
-  );
+  static const arrowLineUp = PiconDuotoneData(PiconData(IconData(0xe067, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe066, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-up-left-duotone
   ///
   /// ![arrow-line-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left-duotone.svg)
-  static const arrowLineUpLeft = PiconDuotoneData(
-    0xe069,
-    PiconData(0xe068, 'Duotone'),
-  );
+  static const arrowLineUpLeft = PiconDuotoneData(PiconData(IconData(0xe069, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe068, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-line-up-right-duotone
   ///
   /// ![arrow-line-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right-duotone.svg)
-  static const arrowLineUpRight = PiconDuotoneData(
-    0xe06b,
-    PiconData(0xe06a, 'Duotone'),
-  );
+  static const arrowLineUpRight = PiconDuotoneData(PiconData(IconData(0xe06b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe06a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-right-duotone
   ///
   /// ![arrow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right-duotone.svg)
-  static const arrowRight = PiconDuotoneData(
-    0xe06d,
-    PiconData(0xe06c, 'Duotone'),
-  );
+  static const arrowRight = PiconDuotoneData(PiconData(IconData(0xe06d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe06c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-down-duotone
   ///
   /// ![arrow-square-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-duotone.svg)
-  static const arrowSquareDown = PiconDuotoneData(
-    0xe06f,
-    PiconData(0xe06e, 'Duotone'),
-  );
+  static const arrowSquareDown = PiconDuotoneData(PiconData(IconData(0xe06f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe06e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-down-left-duotone
   ///
   /// ![arrow-square-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left-duotone.svg)
-  static const arrowSquareDownLeft = PiconDuotoneData(
-    0xe071,
-    PiconData(0xe070, 'Duotone'),
-  );
+  static const arrowSquareDownLeft = PiconDuotoneData(PiconData(IconData(0xe071, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe070, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-down-right-duotone
   ///
   /// ![arrow-square-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right-duotone.svg)
-  static const arrowSquareDownRight = PiconDuotoneData(
-    0xe073,
-    PiconData(0xe072, 'Duotone'),
-  );
+  static const arrowSquareDownRight = PiconDuotoneData(PiconData(IconData(0xe073, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe072, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-in-duotone
   ///
   /// ![arrow-square-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in-duotone.svg)
-  static const arrowSquareIn = PiconDuotoneData(
-    0xe5dd,
-    PiconData(0xe5dc, 'Duotone'),
-  );
+  static const arrowSquareIn = PiconDuotoneData(PiconData(IconData(0xe5dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-left-duotone
   ///
   /// ![arrow-square-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left-duotone.svg)
-  static const arrowSquareLeft = PiconDuotoneData(
-    0xe075,
-    PiconData(0xe074, 'Duotone'),
-  );
+  static const arrowSquareLeft = PiconDuotoneData(PiconData(IconData(0xe075, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe074, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-out-duotone
   ///
   /// ![arrow-square-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out-duotone.svg)
-  static const arrowSquareOut = PiconDuotoneData(
-    0xe5df,
-    PiconData(0xe5de, 'Duotone'),
-  );
+  static const arrowSquareOut = PiconDuotoneData(PiconData(IconData(0xe5df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-right-duotone
   ///
   /// ![arrow-square-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right-duotone.svg)
-  static const arrowSquareRight = PiconDuotoneData(
-    0xe077,
-    PiconData(0xe076, 'Duotone'),
-  );
+  static const arrowSquareRight = PiconDuotoneData(PiconData(IconData(0xe077, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe076, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-up-duotone
   ///
   /// ![arrow-square-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-duotone.svg)
-  static const arrowSquareUp = PiconDuotoneData(
-    0xe079,
-    PiconData(0xe078, 'Duotone'),
-  );
+  static const arrowSquareUp = PiconDuotoneData(PiconData(IconData(0xe079, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe078, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-up-left-duotone
   ///
   /// ![arrow-square-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left-duotone.svg)
-  static const arrowSquareUpLeft = PiconDuotoneData(
-    0xe07b,
-    PiconData(0xe07a, 'Duotone'),
-  );
+  static const arrowSquareUpLeft = PiconDuotoneData(PiconData(IconData(0xe07b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe07a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-square-up-right-duotone
   ///
   /// ![arrow-square-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right-duotone.svg)
-  static const arrowSquareUpRight = PiconDuotoneData(
-    0xe07d,
-    PiconData(0xe07c, 'Duotone'),
-  );
+  static const arrowSquareUpRight = PiconDuotoneData(PiconData(IconData(0xe07d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe07c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-down-left-duotone
   ///
   /// ![arrow-u-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left-duotone.svg)
-  static const arrowUDownLeft = PiconDuotoneData(
-    0xe07f,
-    PiconData(0xe07e, 'Duotone'),
-  );
+  static const arrowUDownLeft = PiconDuotoneData(PiconData(IconData(0xe07f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe07e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-down-right-duotone
   ///
   /// ![arrow-u-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right-duotone.svg)
-  static const arrowUDownRight = PiconDuotoneData(
-    0xe081,
-    PiconData(0xe080, 'Duotone'),
-  );
+  static const arrowUDownRight = PiconDuotoneData(PiconData(IconData(0xe081, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe080, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-left-down-duotone
   ///
   /// ![arrow-u-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down-duotone.svg)
-  static const arrowULeftDown = PiconDuotoneData(
-    0xe083,
-    PiconData(0xe082, 'Duotone'),
-  );
+  static const arrowULeftDown = PiconDuotoneData(PiconData(IconData(0xe083, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe082, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-left-up-duotone
   ///
   /// ![arrow-u-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up-duotone.svg)
-  static const arrowULeftUp = PiconDuotoneData(
-    0xe085,
-    PiconData(0xe084, 'Duotone'),
-  );
+  static const arrowULeftUp = PiconDuotoneData(PiconData(IconData(0xe085, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe084, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-right-down-duotone
   ///
   /// ![arrow-u-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down-duotone.svg)
-  static const arrowURightDown = PiconDuotoneData(
-    0xe087,
-    PiconData(0xe086, 'Duotone'),
-  );
+  static const arrowURightDown = PiconDuotoneData(PiconData(IconData(0xe087, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe086, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-right-up-duotone
   ///
   /// ![arrow-u-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up-duotone.svg)
-  static const arrowURightUp = PiconDuotoneData(
-    0xe089,
-    PiconData(0xe088, 'Duotone'),
-  );
+  static const arrowURightUp = PiconDuotoneData(PiconData(IconData(0xe089, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe088, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-up-left-duotone
   ///
   /// ![arrow-u-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left-duotone.svg)
-  static const arrowUUpLeft = PiconDuotoneData(
-    0xe08b,
-    PiconData(0xe08a, 'Duotone'),
-  );
+  static const arrowUUpLeft = PiconDuotoneData(PiconData(IconData(0xe08b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe08a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-u-up-right-duotone
   ///
   /// ![arrow-u-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right-duotone.svg)
-  static const arrowUUpRight = PiconDuotoneData(
-    0xe08d,
-    PiconData(0xe08c, 'Duotone'),
-  );
+  static const arrowUUpRight = PiconDuotoneData(PiconData(IconData(0xe08d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe08c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-up-duotone
   ///
   /// ![arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-duotone.svg)
-  static const arrowUp = PiconDuotoneData(
-    0xe08f,
-    PiconData(0xe08e, 'Duotone'),
-  );
+  static const arrowUp = PiconDuotoneData(PiconData(IconData(0xe08f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe08e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-up-left-duotone
   ///
   /// ![arrow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left-duotone.svg)
-  static const arrowUpLeft = PiconDuotoneData(
-    0xe091,
-    PiconData(0xe090, 'Duotone'),
-  );
+  static const arrowUpLeft = PiconDuotoneData(PiconData(IconData(0xe091, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe090, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrow-up-right-duotone
   ///
   /// ![arrow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right-duotone.svg)
-  static const arrowUpRight = PiconDuotoneData(
-    0xe093,
-    PiconData(0xe092, 'Duotone'),
-  );
+  static const arrowUpRight = PiconDuotoneData(PiconData(IconData(0xe093, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe092, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-clockwise-duotone
   ///
   /// ![arrows-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise-duotone.svg)
-  static const arrowsClockwise = PiconDuotoneData(
-    0xe095,
-    PiconData(0xe094, 'Duotone'),
-  );
+  static const arrowsClockwise = PiconDuotoneData(PiconData(IconData(0xe095, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe094, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-counter-clockwise-duotone
   ///
   /// ![arrows-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise-duotone.svg)
-  static const arrowsCounterClockwise = PiconDuotoneData(
-    0xe097,
-    PiconData(0xe096, 'Duotone'),
-  );
+  static const arrowsCounterClockwise = PiconDuotoneData(PiconData(IconData(0xe097, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe096, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-down-up-duotone
   ///
   /// ![arrows-down-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up-duotone.svg)
-  static const arrowsDownUp = PiconDuotoneData(
-    0xe099,
-    PiconData(0xe098, 'Duotone'),
-  );
+  static const arrowsDownUp = PiconDuotoneData(PiconData(IconData(0xe099, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe098, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-horizontal-duotone
   ///
   /// ![arrows-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal-duotone.svg)
-  static const arrowsHorizontal = PiconDuotoneData(
-    0xeb07,
-    PiconData(0xeb06, 'Duotone'),
-  );
+  static const arrowsHorizontal = PiconDuotoneData(PiconData(IconData(0xeb07, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb06, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-in-duotone
   ///
   /// ![arrows-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-duotone.svg)
-  static const arrowsIn = PiconDuotoneData(
-    0xe09b,
-    PiconData(0xe09a, 'Duotone'),
-  );
+  static const arrowsIn = PiconDuotoneData(PiconData(IconData(0xe09b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe09a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-in-cardinal-duotone
   ///
   /// ![arrows-in-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal-duotone.svg)
-  static const arrowsInCardinal = PiconDuotoneData(
-    0xe09d,
-    PiconData(0xe09c, 'Duotone'),
-  );
+  static const arrowsInCardinal = PiconDuotoneData(PiconData(IconData(0xe09d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe09c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-in-line-horizontal-duotone
   ///
   /// ![arrows-in-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal-duotone.svg)
-  static const arrowsInLineHorizontal = PiconDuotoneData(
-    0xe531,
-    PiconData(0xe530, 'Duotone'),
-  );
+  static const arrowsInLineHorizontal = PiconDuotoneData(PiconData(IconData(0xe531, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe530, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-in-line-vertical-duotone
   ///
   /// ![arrows-in-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical-duotone.svg)
-  static const arrowsInLineVertical = PiconDuotoneData(
-    0xe533,
-    PiconData(0xe532, 'Duotone'),
-  );
+  static const arrowsInLineVertical = PiconDuotoneData(PiconData(IconData(0xe533, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe532, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-in-simple-duotone
   ///
   /// ![arrows-in-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple-duotone.svg)
-  static const arrowsInSimple = PiconDuotoneData(
-    0xe09f,
-    PiconData(0xe09e, 'Duotone'),
-  );
+  static const arrowsInSimple = PiconDuotoneData(PiconData(IconData(0xe09f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe09e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-left-right-duotone
   ///
   /// ![arrows-left-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right-duotone.svg)
-  static const arrowsLeftRight = PiconDuotoneData(
-    0xe0a1,
-    PiconData(0xe0a0, 'Duotone'),
-  );
+  static const arrowsLeftRight = PiconDuotoneData(PiconData(IconData(0xe0a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-merge-duotone
   ///
   /// ![arrows-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge-duotone.svg)
-  static const arrowsMerge = PiconDuotoneData(
-    0xed3f,
-    PiconData(0xed3e, 'Duotone'),
-  );
+  static const arrowsMerge = PiconDuotoneData(PiconData(IconData(0xed3f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed3e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-out-duotone
   ///
   /// ![arrows-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-duotone.svg)
-  static const arrowsOut = PiconDuotoneData(
-    0xe0a3,
-    PiconData(0xe0a2, 'Duotone'),
-  );
+  static const arrowsOut = PiconDuotoneData(PiconData(IconData(0xe0a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-out-cardinal-duotone
   ///
   /// ![arrows-out-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal-duotone.svg)
-  static const arrowsOutCardinal = PiconDuotoneData(
-    0xe0a5,
-    PiconData(0xe0a4, 'Duotone'),
-  );
+  static const arrowsOutCardinal = PiconDuotoneData(PiconData(IconData(0xe0a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-out-line-horizontal-duotone
   ///
   /// ![arrows-out-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal-duotone.svg)
-  static const arrowsOutLineHorizontal = PiconDuotoneData(
-    0xe535,
-    PiconData(0xe534, 'Duotone'),
-  );
+  static const arrowsOutLineHorizontal = PiconDuotoneData(PiconData(IconData(0xe535, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe534, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-out-line-vertical-duotone
   ///
   /// ![arrows-out-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical-duotone.svg)
-  static const arrowsOutLineVertical = PiconDuotoneData(
-    0xe537,
-    PiconData(0xe536, 'Duotone'),
-  );
+  static const arrowsOutLineVertical = PiconDuotoneData(PiconData(IconData(0xe537, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe536, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-out-simple-duotone
   ///
   /// ![arrows-out-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple-duotone.svg)
-  static const arrowsOutSimple = PiconDuotoneData(
-    0xe0a7,
-    PiconData(0xe0a6, 'Duotone'),
-  );
+  static const arrowsOutSimple = PiconDuotoneData(PiconData(IconData(0xe0a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-split-duotone
   ///
   /// ![arrows-split-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split-duotone.svg)
-  static const arrowsSplit = PiconDuotoneData(
-    0xed3d,
-    PiconData(0xed3c, 'Duotone'),
-  );
+  static const arrowsSplit = PiconDuotoneData(PiconData(IconData(0xed3d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed3c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// arrows-vertical-duotone
   ///
   /// ![arrows-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical-duotone.svg)
-  static const arrowsVertical = PiconDuotoneData(
-    0xeb05,
-    PiconData(0xeb04, 'Duotone'),
-  );
+  static const arrowsVertical = PiconDuotoneData(PiconData(IconData(0xeb05, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb04, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// article-duotone
   ///
   /// ![article-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-duotone.svg)
-  static const article = PiconDuotoneData(
-    0xe0a9,
-    PiconData(0xe0a8, 'Duotone'),
-  );
+  static const article = PiconDuotoneData(PiconData(IconData(0xe0a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// article-medium-duotone
   ///
   /// ![article-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium-duotone.svg)
-  static const articleMedium = PiconDuotoneData(
-    0xe5e1,
-    PiconData(0xe5e0, 'Duotone'),
-  );
+  static const articleMedium = PiconDuotoneData(PiconData(IconData(0xe5e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// article-ny-times-duotone
   ///
   /// ![article-ny-times-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times-duotone.svg)
-  static const articleNyTimes = PiconDuotoneData(
-    0xe5e3,
-    PiconData(0xe5e2, 'Duotone'),
-  );
+  static const articleNyTimes = PiconDuotoneData(PiconData(IconData(0xe5e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// asclepius-duotone
   ///
   /// ![asclepius-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius-duotone.svg)
-  static const asclepius = PiconDuotoneData(
-    0xee35,
-    PiconData(0xee34, 'Duotone'),
-  );
+  static const asclepius = PiconDuotoneData(PiconData(IconData(0xee35, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee34, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// asterisk-duotone
   ///
   /// ![asterisk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-duotone.svg)
-  static const asterisk = PiconDuotoneData(
-    0xe0ab,
-    PiconData(0xe0aa, 'Duotone'),
-  );
+  static const asterisk = PiconDuotoneData(PiconData(IconData(0xe0ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// asterisk-simple-duotone
   ///
   /// ![asterisk-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple-duotone.svg)
-  static const asteriskSimple = PiconDuotoneData(
-    0xe833,
-    PiconData(0xe832, 'Duotone'),
-  );
+  static const asteriskSimple = PiconDuotoneData(PiconData(IconData(0xe833, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe832, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// at-duotone
   ///
   /// ![at-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at-duotone.svg)
-  static const at = PiconDuotoneData(
-    0xe0ad,
-    PiconData(0xe0ac, 'Duotone'),
-  );
+  static const at = PiconDuotoneData(PiconData(IconData(0xe0ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// atom-duotone
   ///
   /// ![atom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom-duotone.svg)
-  static const atom = PiconDuotoneData(
-    0xe5e5,
-    PiconData(0xe5e4, 'Duotone'),
-  );
+  static const atom = PiconDuotoneData(PiconData(IconData(0xe5e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// avocado-duotone
   ///
   /// ![avocado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado-duotone.svg)
-  static const avocado = PiconDuotoneData(
-    0xee05,
-    PiconData(0xee04, 'Duotone'),
-  );
+  static const avocado = PiconDuotoneData(PiconData(IconData(0xee05, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee04, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// axe-duotone
   ///
   /// ![axe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe-duotone.svg)
-  static const axe = PiconDuotoneData(
-    0xe9fd,
-    PiconData(0xe9fc, 'Duotone'),
-  );
+  static const axe = PiconDuotoneData(PiconData(IconData(0xe9fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// baby-duotone
   ///
   /// ![baby-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-duotone.svg)
-  static const baby = PiconDuotoneData(
-    0xe775,
-    PiconData(0xe774, 'Duotone'),
-  );
+  static const baby = PiconDuotoneData(PiconData(IconData(0xe775, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe774, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// baby-carriage-duotone
   ///
   /// ![baby-carriage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage-duotone.svg)
-  static const babyCarriage = PiconDuotoneData(
-    0xe819,
-    PiconData(0xe818, 'Duotone'),
-  );
+  static const babyCarriage = PiconDuotoneData(PiconData(IconData(0xe819, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe818, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// backpack-duotone
   ///
   /// ![backpack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack-duotone.svg)
-  static const backpack = PiconDuotoneData(
-    0xe923,
-    PiconData(0xe922, 'Duotone'),
-  );
+  static const backpack = PiconDuotoneData(PiconData(IconData(0xe923, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe922, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// backspace-duotone
   ///
   /// ![backspace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace-duotone.svg)
-  static const backspace = PiconDuotoneData(
-    0xe0af,
-    PiconData(0xe0ae, 'Duotone'),
-  );
+  static const backspace = PiconDuotoneData(PiconData(IconData(0xe0af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bag-duotone
   ///
   /// ![bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-duotone.svg)
-  static const bag = PiconDuotoneData(
-    0xe0b1,
-    PiconData(0xe0b0, 'Duotone'),
-  );
+  static const bag = PiconDuotoneData(PiconData(IconData(0xe0b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bag-simple-duotone
   ///
   /// ![bag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple-duotone.svg)
-  static const bagSimple = PiconDuotoneData(
-    0xe5e7,
-    PiconData(0xe5e6, 'Duotone'),
-  );
+  static const bagSimple = PiconDuotoneData(PiconData(IconData(0xe5e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// balloon-duotone
   ///
   /// ![balloon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon-duotone.svg)
-  static const balloon = PiconDuotoneData(
-    0xe76d,
-    PiconData(0xe76c, 'Duotone'),
-  );
+  static const balloon = PiconDuotoneData(PiconData(IconData(0xe76d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe76c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bandaids-duotone
   ///
   /// ![bandaids-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids-duotone.svg)
-  static const bandaids = PiconDuotoneData(
-    0xe0b3,
-    PiconData(0xe0b2, 'Duotone'),
-  );
+  static const bandaids = PiconDuotoneData(PiconData(IconData(0xe0b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bank-duotone
   ///
   /// ![bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank-duotone.svg)
-  static const bank = PiconDuotoneData(
-    0xe0b5,
-    PiconData(0xe0b4, 'Duotone'),
-  );
+  static const bank = PiconDuotoneData(PiconData(IconData(0xe0b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// barbell-duotone
   ///
   /// ![barbell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell-duotone.svg)
-  static const barbell = PiconDuotoneData(
-    0xe0b7,
-    PiconData(0xe0b6, 'Duotone'),
-  );
+  static const barbell = PiconDuotoneData(PiconData(IconData(0xe0b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// barcode-duotone
   ///
   /// ![barcode-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode-duotone.svg)
-  static const barcode = PiconDuotoneData(
-    0xe0b9,
-    PiconData(0xe0b8, 'Duotone'),
-  );
+  static const barcode = PiconDuotoneData(PiconData(IconData(0xe0b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// barn-duotone
   ///
   /// ![barn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn-duotone.svg)
-  static const barn = PiconDuotoneData(
-    0xec73,
-    PiconData(0xec72, 'Duotone'),
-  );
+  static const barn = PiconDuotoneData(PiconData(IconData(0xec73, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec72, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// barricade-duotone
   ///
   /// ![barricade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade-duotone.svg)
-  static const barricade = PiconDuotoneData(
-    0xe949,
-    PiconData(0xe948, 'Duotone'),
-  );
+  static const barricade = PiconDuotoneData(PiconData(IconData(0xe949, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe948, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// baseball-duotone
   ///
   /// ![baseball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-duotone.svg)
-  static const baseball = PiconDuotoneData(
-    0xe71b,
-    PiconData(0xe71a, 'Duotone'),
-  );
+  static const baseball = PiconDuotoneData(PiconData(IconData(0xe71b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe71a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// baseball-cap-duotone
   ///
   /// ![baseball-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap-duotone.svg)
-  static const baseballCap = PiconDuotoneData(
-    0xea29,
-    PiconData(0xea28, 'Duotone'),
-  );
+  static const baseballCap = PiconDuotoneData(PiconData(IconData(0xea29, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea28, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// baseball-helmet-duotone
   ///
   /// ![baseball-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet-duotone.svg)
-  static const baseballHelmet = PiconDuotoneData(
-    0xee4b,
-    PiconData(0xee4a, 'Duotone'),
-  );
+  static const baseballHelmet = PiconDuotoneData(PiconData(IconData(0xee4b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee4a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// basket-duotone
   ///
   /// ![basket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket-duotone.svg)
-  static const basket = PiconDuotoneData(
-    0xe965,
-    PiconData(0xe964, 'Duotone'),
-  );
+  static const basket = PiconDuotoneData(PiconData(IconData(0xe965, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe964, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// basketball-duotone
   ///
   /// ![basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball-duotone.svg)
-  static const basketball = PiconDuotoneData(
-    0xe725,
-    PiconData(0xe724, 'Duotone'),
-  );
+  static const basketball = PiconDuotoneData(PiconData(IconData(0xe725, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe724, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bathtub-duotone
   ///
   /// ![bathtub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub-duotone.svg)
-  static const bathtub = PiconDuotoneData(
-    0xe81f,
-    PiconData(0xe81e, 'Duotone'),
-  );
+  static const bathtub = PiconDuotoneData(PiconData(IconData(0xe81f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe81e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-charging-duotone
   ///
   /// ![battery-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-duotone.svg)
-  static const batteryCharging = PiconDuotoneData(
-    0xe0bb,
-    PiconData(0xe0ba, 'Duotone'),
-  );
+  static const batteryCharging = PiconDuotoneData(PiconData(IconData(0xe0bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-charging-vertical-duotone
   ///
   /// ![battery-charging-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical-duotone.svg)
-  static const batteryChargingVertical = PiconDuotoneData(
-    0xe0bd,
-    PiconData(0xe0bc, 'Duotone'),
-  );
+  static const batteryChargingVertical = PiconDuotoneData(PiconData(IconData(0xe0bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-empty-duotone
   ///
   /// ![battery-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty-duotone.svg)
-  static const batteryEmpty = PiconDuotoneData(
-    0xe0bf,
-    PiconData(0xe0be, 'Duotone'),
-  );
+  static const batteryEmpty = PiconDuotoneData(PiconData(IconData(0xe0bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-full-duotone
   ///
   /// ![battery-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full-duotone.svg)
-  static const batteryFull = PiconDuotoneData(
-    0xe0c1,
-    PiconData(0xe0c0, 'Duotone'),
-  );
+  static const batteryFull = PiconDuotoneData(PiconData(IconData(0xe0c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-high-duotone
   ///
   /// ![battery-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high-duotone.svg)
-  static const batteryHigh = PiconDuotoneData(
-    0xe0c3,
-    PiconData(0xe0c2, 'Duotone'),
-  );
+  static const batteryHigh = PiconDuotoneData(PiconData(IconData(0xe0c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-low-duotone
   ///
   /// ![battery-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low-duotone.svg)
-  static const batteryLow = PiconDuotoneData(
-    0xe0c5,
-    PiconData(0xe0c4, 'Duotone'),
-  );
+  static const batteryLow = PiconDuotoneData(PiconData(IconData(0xe0c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-medium-duotone
   ///
   /// ![battery-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium-duotone.svg)
-  static const batteryMedium = PiconDuotoneData(
-    0xe0c7,
-    PiconData(0xe0c6, 'Duotone'),
-  );
+  static const batteryMedium = PiconDuotoneData(PiconData(IconData(0xe0c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-plus-duotone
   ///
   /// ![battery-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-duotone.svg)
-  static const batteryPlus = PiconDuotoneData(
-    0xe809,
-    PiconData(0xe808, 'Duotone'),
-  );
+  static const batteryPlus = PiconDuotoneData(PiconData(IconData(0xe809, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe808, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-plus-vertical-duotone
   ///
   /// ![battery-plus-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical-duotone.svg)
-  static const batteryPlusVertical = PiconDuotoneData(
-    0xec51,
-    PiconData(0xec50, 'Duotone'),
-  );
+  static const batteryPlusVertical = PiconDuotoneData(PiconData(IconData(0xec51, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec50, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-vertical-empty-duotone
   ///
   /// ![battery-vertical-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty-duotone.svg)
-  static const batteryVerticalEmpty = PiconDuotoneData(
-    0xe7c7,
-    PiconData(0xe7c6, 'Duotone'),
-  );
+  static const batteryVerticalEmpty = PiconDuotoneData(PiconData(IconData(0xe7c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-vertical-full-duotone
   ///
   /// ![battery-vertical-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full-duotone.svg)
-  static const batteryVerticalFull = PiconDuotoneData(
-    0xe7c5,
-    PiconData(0xe7c4, 'Duotone'),
-  );
+  static const batteryVerticalFull = PiconDuotoneData(PiconData(IconData(0xe7c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-vertical-high-duotone
   ///
   /// ![battery-vertical-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high-duotone.svg)
-  static const batteryVerticalHigh = PiconDuotoneData(
-    0xe7c3,
-    PiconData(0xe7c2, 'Duotone'),
-  );
+  static const batteryVerticalHigh = PiconDuotoneData(PiconData(IconData(0xe7c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-vertical-low-duotone
   ///
   /// ![battery-vertical-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low-duotone.svg)
-  static const batteryVerticalLow = PiconDuotoneData(
-    0xe7bf,
-    PiconData(0xe7be, 'Duotone'),
-  );
+  static const batteryVerticalLow = PiconDuotoneData(PiconData(IconData(0xe7bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-vertical-medium-duotone
   ///
   /// ![battery-vertical-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium-duotone.svg)
-  static const batteryVerticalMedium = PiconDuotoneData(
-    0xe7c1,
-    PiconData(0xe7c0, 'Duotone'),
-  );
+  static const batteryVerticalMedium = PiconDuotoneData(PiconData(IconData(0xe7c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-warning-duotone
   ///
   /// ![battery-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-duotone.svg)
-  static const batteryWarning = PiconDuotoneData(
-    0xe0c9,
-    PiconData(0xe0c8, 'Duotone'),
-  );
+  static const batteryWarning = PiconDuotoneData(PiconData(IconData(0xe0c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// battery-warning-vertical-duotone
   ///
   /// ![battery-warning-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical-duotone.svg)
-  static const batteryWarningVertical = PiconDuotoneData(
-    0xe0cb,
-    PiconData(0xe0ca, 'Duotone'),
-  );
+  static const batteryWarningVertical = PiconDuotoneData(PiconData(IconData(0xe0cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// beach-ball-duotone
   ///
   /// ![beach-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball-duotone.svg)
-  static const beachBall = PiconDuotoneData(
-    0xed25,
-    PiconData(0xed24, 'Duotone'),
-  );
+  static const beachBall = PiconDuotoneData(PiconData(IconData(0xed25, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed24, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// beanie-duotone
   ///
   /// ![beanie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie-duotone.svg)
-  static const beanie = PiconDuotoneData(
-    0xea2b,
-    PiconData(0xea2a, 'Duotone'),
-  );
+  static const beanie = PiconDuotoneData(PiconData(IconData(0xea2b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea2a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bed-duotone
   ///
   /// ![bed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed-duotone.svg)
-  static const bed = PiconDuotoneData(
-    0xe0cd,
-    PiconData(0xe0cc, 'Duotone'),
-  );
+  static const bed = PiconDuotoneData(PiconData(IconData(0xe0cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// beer-bottle-duotone
   ///
   /// ![beer-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle-duotone.svg)
-  static const beerBottle = PiconDuotoneData(
-    0xe7b1,
-    PiconData(0xe7b0, 'Duotone'),
-  );
+  static const beerBottle = PiconDuotoneData(PiconData(IconData(0xe7b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// beer-stein-duotone
   ///
   /// ![beer-stein-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein-duotone.svg)
-  static const beerStein = PiconDuotoneData(
-    0xeb63,
-    PiconData(0xeb62, 'Duotone'),
-  );
+  static const beerStein = PiconDuotoneData(PiconData(IconData(0xeb63, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb62, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// behance-logo-duotone
   ///
   /// ![behance-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo-duotone.svg)
-  static const behanceLogo = PiconDuotoneData(
-    0xe7f5,
-    PiconData(0xe7f4, 'Duotone'),
-  );
+  static const behanceLogo = PiconDuotoneData(PiconData(IconData(0xe7f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-duotone
   ///
   /// ![bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-duotone.svg)
-  static const bell = PiconDuotoneData(
-    0xe0cf,
-    PiconData(0xe0ce, 'Duotone'),
-  );
+  static const bell = PiconDuotoneData(PiconData(IconData(0xe0cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-ringing-duotone
   ///
   /// ![bell-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing-duotone.svg)
-  static const bellRinging = PiconDuotoneData(
-    0xe5e9,
-    PiconData(0xe5e8, 'Duotone'),
-  );
+  static const bellRinging = PiconDuotoneData(PiconData(IconData(0xe5e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-simple-duotone
   ///
   /// ![bell-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-duotone.svg)
-  static const bellSimple = PiconDuotoneData(
-    0xe0d1,
-    PiconData(0xe0d0, 'Duotone'),
-  );
+  static const bellSimple = PiconDuotoneData(PiconData(IconData(0xe0d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-simple-ringing-duotone
   ///
   /// ![bell-simple-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing-duotone.svg)
-  static const bellSimpleRinging = PiconDuotoneData(
-    0xe5eb,
-    PiconData(0xe5ea, 'Duotone'),
-  );
+  static const bellSimpleRinging = PiconDuotoneData(PiconData(IconData(0xe5eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-simple-slash-duotone
   ///
   /// ![bell-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash-duotone.svg)
-  static const bellSimpleSlash = PiconDuotoneData(
-    0xe0d3,
-    PiconData(0xe0d2, 'Duotone'),
-  );
+  static const bellSimpleSlash = PiconDuotoneData(PiconData(IconData(0xe0d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-simple-z-duotone
   ///
   /// ![bell-simple-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z-duotone.svg)
-  static const bellSimpleZ = PiconDuotoneData(
-    0xe5ed,
-    PiconData(0xe5ec, 'Duotone'),
-  );
+  static const bellSimpleZ = PiconDuotoneData(PiconData(IconData(0xe5ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-slash-duotone
   ///
   /// ![bell-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash-duotone.svg)
-  static const bellSlash = PiconDuotoneData(
-    0xe0d5,
-    PiconData(0xe0d4, 'Duotone'),
-  );
+  static const bellSlash = PiconDuotoneData(PiconData(IconData(0xe0d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bell-z-duotone
   ///
   /// ![bell-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z-duotone.svg)
-  static const bellZ = PiconDuotoneData(
-    0xe5ef,
-    PiconData(0xe5ee, 'Duotone'),
-  );
+  static const bellZ = PiconDuotoneData(PiconData(IconData(0xe5ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// belt-duotone
   ///
   /// ![belt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt-duotone.svg)
-  static const belt = PiconDuotoneData(
-    0xea2d,
-    PiconData(0xea2c, 'Duotone'),
-  );
+  static const belt = PiconDuotoneData(PiconData(IconData(0xea2d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea2c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bezier-curve-duotone
   ///
   /// ![bezier-curve-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve-duotone.svg)
-  static const bezierCurve = PiconDuotoneData(
-    0xeb01,
-    PiconData(0xeb00, 'Duotone'),
-  );
+  static const bezierCurve = PiconDuotoneData(PiconData(IconData(0xeb01, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb00, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bicycle-duotone
   ///
   /// ![bicycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle-duotone.svg)
-  static const bicycle = PiconDuotoneData(
-    0xe0d7,
-    PiconData(0xe0d6, 'Duotone'),
-  );
+  static const bicycle = PiconDuotoneData(PiconData(IconData(0xe0d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// binary-duotone
   ///
   /// ![binary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary-duotone.svg)
-  static const binary = PiconDuotoneData(
-    0xee61,
-    PiconData(0xee60, 'Duotone'),
-  );
+  static const binary = PiconDuotoneData(PiconData(IconData(0xee61, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee60, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// binoculars-duotone
   ///
   /// ![binoculars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars-duotone.svg)
-  static const binoculars = PiconDuotoneData(
-    0xea65,
-    PiconData(0xea64, 'Duotone'),
-  );
+  static const binoculars = PiconDuotoneData(PiconData(IconData(0xea65, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea64, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// biohazard-duotone
   ///
   /// ![biohazard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard-duotone.svg)
-  static const biohazard = PiconDuotoneData(
-    0xe9e1,
-    PiconData(0xe9e0, 'Duotone'),
-  );
+  static const biohazard = PiconDuotoneData(PiconData(IconData(0xe9e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bird-duotone
   ///
   /// ![bird-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird-duotone.svg)
-  static const bird = PiconDuotoneData(
-    0xe72d,
-    PiconData(0xe72c, 'Duotone'),
-  );
+  static const bird = PiconDuotoneData(PiconData(IconData(0xe72d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe72c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// blueprint-duotone
   ///
   /// ![blueprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint-duotone.svg)
-  static const blueprint = PiconDuotoneData(
-    0xeda1,
-    PiconData(0xeda0, 'Duotone'),
-  );
+  static const blueprint = PiconDuotoneData(PiconData(IconData(0xeda1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeda0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bluetooth-duotone
   ///
   /// ![bluetooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-duotone.svg)
-  static const bluetooth = PiconDuotoneData(
-    0xe0db,
-    PiconData(0xe0da, 'Duotone'),
-  );
+  static const bluetooth = PiconDuotoneData(PiconData(IconData(0xe0db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bluetooth-connected-duotone
   ///
   /// ![bluetooth-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected-duotone.svg)
-  static const bluetoothConnected = PiconDuotoneData(
-    0xe0dd,
-    PiconData(0xe0dc, 'Duotone'),
-  );
+  static const bluetoothConnected = PiconDuotoneData(PiconData(IconData(0xe0dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bluetooth-slash-duotone
   ///
   /// ![bluetooth-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash-duotone.svg)
-  static const bluetoothSlash = PiconDuotoneData(
-    0xe0df,
-    PiconData(0xe0de, 'Duotone'),
-  );
+  static const bluetoothSlash = PiconDuotoneData(PiconData(IconData(0xe0df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bluetooth-x-duotone
   ///
   /// ![bluetooth-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x-duotone.svg)
-  static const bluetoothX = PiconDuotoneData(
-    0xe0e1,
-    PiconData(0xe0e0, 'Duotone'),
-  );
+  static const bluetoothX = PiconDuotoneData(PiconData(IconData(0xe0e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// boat-duotone
   ///
   /// ![boat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat-duotone.svg)
-  static const boat = PiconDuotoneData(
-    0xe787,
-    PiconData(0xe786, 'Duotone'),
-  );
+  static const boat = PiconDuotoneData(PiconData(IconData(0xe787, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe786, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bomb-duotone
   ///
   /// ![bomb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb-duotone.svg)
-  static const bomb = PiconDuotoneData(
-    0xee0b,
-    PiconData(0xee0a, 'Duotone'),
-  );
+  static const bomb = PiconDuotoneData(PiconData(IconData(0xee0b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee0a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bone-duotone
   ///
   /// ![bone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone-duotone.svg)
-  static const bone = PiconDuotoneData(
-    0xe7f3,
-    PiconData(0xe7f2, 'Duotone'),
-  );
+  static const bone = PiconDuotoneData(PiconData(IconData(0xe7f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// book-duotone
   ///
   /// ![book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-duotone.svg)
-  static const book = PiconDuotoneData(
-    0xe0e3,
-    PiconData(0xe0e2, 'Duotone'),
-  );
+  static const book = PiconDuotoneData(PiconData(IconData(0xe0e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// book-bookmark-duotone
   ///
   /// ![book-bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark-duotone.svg)
-  static const bookBookmark = PiconDuotoneData(
-    0xe0e5,
-    PiconData(0xe0e4, 'Duotone'),
-  );
+  static const bookBookmark = PiconDuotoneData(PiconData(IconData(0xe0e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// book-open-duotone
   ///
   /// ![book-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-duotone.svg)
-  static const bookOpen = PiconDuotoneData(
-    0xe0e7,
-    PiconData(0xe0e6, 'Duotone'),
-  );
+  static const bookOpen = PiconDuotoneData(PiconData(IconData(0xe0e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// book-open-text-duotone
   ///
   /// ![book-open-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text-duotone.svg)
-  static const bookOpenText = PiconDuotoneData(
-    0xe8f3,
-    PiconData(0xe8f2, 'Duotone'),
-  );
+  static const bookOpenText = PiconDuotoneData(PiconData(IconData(0xe8f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// book-open-user-duotone
   ///
   /// ![book-open-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user-duotone.svg)
-  static const bookOpenUser = PiconDuotoneData(
-    0xede1,
-    PiconData(0xede0, 'Duotone'),
-  );
+  static const bookOpenUser = PiconDuotoneData(PiconData(IconData(0xede1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xede0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bookmark-duotone
   ///
   /// ![bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-duotone.svg)
-  static const bookmark = PiconDuotoneData(
-    0xe0e9,
-    PiconData(0xe0e8, 'Duotone'),
-  );
+  static const bookmark = PiconDuotoneData(PiconData(IconData(0xe0e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bookmark-simple-duotone
   ///
   /// ![bookmark-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple-duotone.svg)
-  static const bookmarkSimple = PiconDuotoneData(
-    0xe0eb,
-    PiconData(0xe0ea, 'Duotone'),
-  );
+  static const bookmarkSimple = PiconDuotoneData(PiconData(IconData(0xe0eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bookmarks-duotone
   ///
   /// ![bookmarks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-duotone.svg)
-  static const bookmarks = PiconDuotoneData(
-    0xe0ed,
-    PiconData(0xe0ec, 'Duotone'),
-  );
+  static const bookmarks = PiconDuotoneData(PiconData(IconData(0xe0ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bookmarks-simple-duotone
   ///
   /// ![bookmarks-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple-duotone.svg)
-  static const bookmarksSimple = PiconDuotoneData(
-    0xe5f1,
-    PiconData(0xe5f0, 'Duotone'),
-  );
+  static const bookmarksSimple = PiconDuotoneData(PiconData(IconData(0xe5f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// books-duotone
   ///
   /// ![books-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books-duotone.svg)
-  static const books = PiconDuotoneData(
-    0xe759,
-    PiconData(0xe758, 'Duotone'),
-  );
+  static const books = PiconDuotoneData(PiconData(IconData(0xe759, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe758, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// boot-duotone
   ///
   /// ![boot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot-duotone.svg)
-  static const boot = PiconDuotoneData(
-    0xeccb,
-    PiconData(0xecca, 'Duotone'),
-  );
+  static const boot = PiconDuotoneData(PiconData(IconData(0xeccb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// boules-duotone
   ///
   /// ![boules-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules-duotone.svg)
-  static const boules = PiconDuotoneData(
-    0xe723,
-    PiconData(0xe722, 'Duotone'),
-  );
+  static const boules = PiconDuotoneData(PiconData(IconData(0xe723, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe722, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bounding-box-duotone
   ///
   /// ![bounding-box-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box-duotone.svg)
-  static const boundingBox = PiconDuotoneData(
-    0xe6cf,
-    PiconData(0xe6ce, 'Duotone'),
-  );
+  static const boundingBox = PiconDuotoneData(PiconData(IconData(0xe6cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bowl-food-duotone
   ///
   /// ![bowl-food-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food-duotone.svg)
-  static const bowlFood = PiconDuotoneData(
-    0xeaa5,
-    PiconData(0xeaa4, 'Duotone'),
-  );
+  static const bowlFood = PiconDuotoneData(PiconData(IconData(0xeaa5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaa4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bowl-steam-duotone
   ///
   /// ![bowl-steam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam-duotone.svg)
-  static const bowlSteam = PiconDuotoneData(
-    0xe8e5,
-    PiconData(0xe8e4, 'Duotone'),
-  );
+  static const bowlSteam = PiconDuotoneData(PiconData(IconData(0xe8e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bowling-ball-duotone
   ///
   /// ![bowling-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball-duotone.svg)
-  static const bowlingBall = PiconDuotoneData(
-    0xea35,
-    PiconData(0xea34, 'Duotone'),
-  );
+  static const bowlingBall = PiconDuotoneData(PiconData(IconData(0xea35, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea34, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// box-arrow-down-duotone
   ///
   /// ![box-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down-duotone.svg)
-  static const boxArrowDown = PiconDuotoneData(
-    0xe00f,
-    PiconData(0xe00e, 'Duotone'),
-  );
+  static const boxArrowDown = PiconDuotoneData(PiconData(IconData(0xe00f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe00e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// box-arrow-up-duotone
   ///
   /// ![box-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up-duotone.svg)
-  static const boxArrowUp = PiconDuotoneData(
-    0xee55,
-    PiconData(0xee54, 'Duotone'),
-  );
+  static const boxArrowUp = PiconDuotoneData(PiconData(IconData(0xee55, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee54, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// boxing-glove-duotone
   ///
   /// ![boxing-glove-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove-duotone.svg)
-  static const boxingGlove = PiconDuotoneData(
-    0xea37,
-    PiconData(0xea36, 'Duotone'),
-  );
+  static const boxingGlove = PiconDuotoneData(PiconData(IconData(0xea37, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea36, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brackets-angle-duotone
   ///
   /// ![brackets-angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle-duotone.svg)
-  static const bracketsAngle = PiconDuotoneData(
-    0xe863,
-    PiconData(0xe862, 'Duotone'),
-  );
+  static const bracketsAngle = PiconDuotoneData(PiconData(IconData(0xe863, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe862, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brackets-curly-duotone
   ///
   /// ![brackets-curly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly-duotone.svg)
-  static const bracketsCurly = PiconDuotoneData(
-    0xe861,
-    PiconData(0xe860, 'Duotone'),
-  );
+  static const bracketsCurly = PiconDuotoneData(PiconData(IconData(0xe861, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe860, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brackets-round-duotone
   ///
   /// ![brackets-round-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round-duotone.svg)
-  static const bracketsRound = PiconDuotoneData(
-    0xe865,
-    PiconData(0xe864, 'Duotone'),
-  );
+  static const bracketsRound = PiconDuotoneData(PiconData(IconData(0xe865, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe864, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brackets-square-duotone
   ///
   /// ![brackets-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square-duotone.svg)
-  static const bracketsSquare = PiconDuotoneData(
-    0xe85f,
-    PiconData(0xe85e, 'Duotone'),
-  );
+  static const bracketsSquare = PiconDuotoneData(PiconData(IconData(0xe85f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe85e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brain-duotone
   ///
   /// ![brain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain-duotone.svg)
-  static const brain = PiconDuotoneData(
-    0xe74f,
-    PiconData(0xe74e, 'Duotone'),
-  );
+  static const brain = PiconDuotoneData(PiconData(IconData(0xe74f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe74e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// brandy-duotone
   ///
   /// ![brandy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy-duotone.svg)
-  static const brandy = PiconDuotoneData(
-    0xe6b5,
-    PiconData(0xe6b4, 'Duotone'),
-  );
+  static const brandy = PiconDuotoneData(PiconData(IconData(0xe6b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bread-duotone
   ///
   /// ![bread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread-duotone.svg)
-  static const bread = PiconDuotoneData(
-    0xe81d,
-    PiconData(0xe81c, 'Duotone'),
-  );
+  static const bread = PiconDuotoneData(PiconData(IconData(0xe81d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe81c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bridge-duotone
   ///
   /// ![bridge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge-duotone.svg)
-  static const bridge = PiconDuotoneData(
-    0xea69,
-    PiconData(0xea68, 'Duotone'),
-  );
+  static const bridge = PiconDuotoneData(PiconData(IconData(0xea69, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea68, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// briefcase-duotone
   ///
   /// ![briefcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-duotone.svg)
-  static const briefcase = PiconDuotoneData(
-    0xe0ef,
-    PiconData(0xe0ee, 'Duotone'),
-  );
+  static const briefcase = PiconDuotoneData(PiconData(IconData(0xe0ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// briefcase-metal-duotone
   ///
   /// ![briefcase-metal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal-duotone.svg)
-  static const briefcaseMetal = PiconDuotoneData(
-    0xe5f3,
-    PiconData(0xe5f2, 'Duotone'),
-  );
+  static const briefcaseMetal = PiconDuotoneData(PiconData(IconData(0xe5f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// broadcast-duotone
   ///
   /// ![broadcast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast-duotone.svg)
-  static const broadcast = PiconDuotoneData(
-    0xe0f3,
-    PiconData(0xe0f2, 'Duotone'),
-  );
+  static const broadcast = PiconDuotoneData(PiconData(IconData(0xe0f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// broom-duotone
   ///
   /// ![broom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom-duotone.svg)
-  static const broom = PiconDuotoneData(
-    0xec55,
-    PiconData(0xec54, 'Duotone'),
-  );
+  static const broom = PiconDuotoneData(PiconData(IconData(0xec55, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec54, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// browser-duotone
   ///
   /// ![browser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser-duotone.svg)
-  static const browser = PiconDuotoneData(
-    0xe0f5,
-    PiconData(0xe0f4, 'Duotone'),
-  );
+  static const browser = PiconDuotoneData(PiconData(IconData(0xe0f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// browsers-duotone
   ///
   /// ![browsers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers-duotone.svg)
-  static const browsers = PiconDuotoneData(
-    0xe0f7,
-    PiconData(0xe0f6, 'Duotone'),
-  );
+  static const browsers = PiconDuotoneData(PiconData(IconData(0xe0f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bug-duotone
   ///
   /// ![bug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-duotone.svg)
-  static const bug = PiconDuotoneData(
-    0xe5f5,
-    PiconData(0xe5f4, 'Duotone'),
-  );
+  static const bug = PiconDuotoneData(PiconData(IconData(0xe5f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bug-beetle-duotone
   ///
   /// ![bug-beetle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle-duotone.svg)
-  static const bugBeetle = PiconDuotoneData(
-    0xe5f7,
-    PiconData(0xe5f6, 'Duotone'),
-  );
+  static const bugBeetle = PiconDuotoneData(PiconData(IconData(0xe5f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bug-droid-duotone
   ///
   /// ![bug-droid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid-duotone.svg)
-  static const bugDroid = PiconDuotoneData(
-    0xe5f9,
-    PiconData(0xe5f8, 'Duotone'),
-  );
+  static const bugDroid = PiconDuotoneData(PiconData(IconData(0xe5f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// building-duotone
   ///
   /// ![building-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-duotone.svg)
-  static const building = PiconDuotoneData(
-    0xe101,
-    PiconData(0xe100, 'Duotone'),
-  );
+  static const building = PiconDuotoneData(PiconData(IconData(0xe101, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe100, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// building-apartment-duotone
   ///
   /// ![building-apartment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment-duotone.svg)
-  static const buildingApartment = PiconDuotoneData(
-    0xe103,
-    PiconData(0xe0fe, 'Duotone'),
-  );
+  static const buildingApartment = PiconDuotoneData(PiconData(IconData(0xe103, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// building-office-duotone
   ///
   /// ![building-office-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office-duotone.svg)
-  static const buildingOffice = PiconDuotoneData(
-    0xe104,
-    PiconData(0xe0ff, 'Duotone'),
-  );
+  static const buildingOffice = PiconDuotoneData(PiconData(IconData(0xe104, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// buildings-duotone
   ///
   /// ![buildings-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings-duotone.svg)
-  static const buildings = PiconDuotoneData(
-    0xe105,
-    PiconData(0xe102, 'Duotone'),
-  );
+  static const buildings = PiconDuotoneData(PiconData(IconData(0xe105, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe102, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bulldozer-duotone
   ///
   /// ![bulldozer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer-duotone.svg)
-  static const bulldozer = PiconDuotoneData(
-    0xec6d,
-    PiconData(0xec6c, 'Duotone'),
-  );
+  static const bulldozer = PiconDuotoneData(PiconData(IconData(0xec6d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec6c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// bus-duotone
   ///
   /// ![bus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus-duotone.svg)
-  static const bus = PiconDuotoneData(
-    0xe107,
-    PiconData(0xe106, 'Duotone'),
-  );
+  static const bus = PiconDuotoneData(PiconData(IconData(0xe107, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe106, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// butterfly-duotone
   ///
   /// ![butterfly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly-duotone.svg)
-  static const butterfly = PiconDuotoneData(
-    0xea6f,
-    PiconData(0xea6e, 'Duotone'),
-  );
+  static const butterfly = PiconDuotoneData(PiconData(IconData(0xea6f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea6e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cable-car-duotone
   ///
   /// ![cable-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car-duotone.svg)
-  static const cableCar = PiconDuotoneData(
-    0xe49d,
-    PiconData(0xe49c, 'Duotone'),
-  );
+  static const cableCar = PiconDuotoneData(PiconData(IconData(0xe49d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe49c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cactus-duotone
   ///
   /// ![cactus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus-duotone.svg)
-  static const cactus = PiconDuotoneData(
-    0xe919,
-    PiconData(0xe918, 'Duotone'),
-  );
+  static const cactus = PiconDuotoneData(PiconData(IconData(0xe919, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe918, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cake-duotone
   ///
   /// ![cake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake-duotone.svg)
-  static const cake = PiconDuotoneData(
-    0xe781,
-    PiconData(0xe780, 'Duotone'),
-  );
+  static const cake = PiconDuotoneData(PiconData(IconData(0xe781, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe780, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calculator-duotone
   ///
   /// ![calculator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator-duotone.svg)
-  static const calculator = PiconDuotoneData(
-    0xe539,
-    PiconData(0xe538, 'Duotone'),
-  );
+  static const calculator = PiconDuotoneData(PiconData(IconData(0xe539, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe538, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-duotone
   ///
   /// ![calendar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-duotone.svg)
-  static const calendar = PiconDuotoneData(
-    0xe109,
-    PiconData(0xe108, 'Duotone'),
-  );
+  static const calendar = PiconDuotoneData(PiconData(IconData(0xe109, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe108, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-blank-duotone
   ///
   /// ![calendar-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank-duotone.svg)
-  static const calendarBlank = PiconDuotoneData(
-    0xe10b,
-    PiconData(0xe10a, 'Duotone'),
-  );
+  static const calendarBlank = PiconDuotoneData(PiconData(IconData(0xe10b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe10a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-check-duotone
   ///
   /// ![calendar-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check-duotone.svg)
-  static const calendarCheck = PiconDuotoneData(
-    0xe713,
-    PiconData(0xe712, 'Duotone'),
-  );
+  static const calendarCheck = PiconDuotoneData(PiconData(IconData(0xe713, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe712, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-dot-duotone
   ///
   /// ![calendar-dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot-duotone.svg)
-  static const calendarDot = PiconDuotoneData(
-    0xe7b3,
-    PiconData(0xe7b2, 'Duotone'),
-  );
+  static const calendarDot = PiconDuotoneData(PiconData(IconData(0xe7b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-dots-duotone
   ///
   /// ![calendar-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots-duotone.svg)
-  static const calendarDots = PiconDuotoneData(
-    0xe7b5,
-    PiconData(0xe7b4, 'Duotone'),
-  );
+  static const calendarDots = PiconDuotoneData(PiconData(IconData(0xe7b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-heart-duotone
   ///
   /// ![calendar-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart-duotone.svg)
-  static const calendarHeart = PiconDuotoneData(
-    0xe8b1,
-    PiconData(0xe8b0, 'Duotone'),
-  );
+  static const calendarHeart = PiconDuotoneData(PiconData(IconData(0xe8b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-minus-duotone
   ///
   /// ![calendar-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus-duotone.svg)
-  static const calendarMinus = PiconDuotoneData(
-    0xea15,
-    PiconData(0xea14, 'Duotone'),
-  );
+  static const calendarMinus = PiconDuotoneData(PiconData(IconData(0xea15, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea14, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-plus-duotone
   ///
   /// ![calendar-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus-duotone.svg)
-  static const calendarPlus = PiconDuotoneData(
-    0xe715,
-    PiconData(0xe714, 'Duotone'),
-  );
+  static const calendarPlus = PiconDuotoneData(PiconData(IconData(0xe715, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe714, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-slash-duotone
   ///
   /// ![calendar-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash-duotone.svg)
-  static const calendarSlash = PiconDuotoneData(
-    0xea13,
-    PiconData(0xea12, 'Duotone'),
-  );
+  static const calendarSlash = PiconDuotoneData(PiconData(IconData(0xea13, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea12, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-star-duotone
   ///
   /// ![calendar-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star-duotone.svg)
-  static const calendarStar = PiconDuotoneData(
-    0xe8b3,
-    PiconData(0xe8b2, 'Duotone'),
-  );
+  static const calendarStar = PiconDuotoneData(PiconData(IconData(0xe8b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// calendar-x-duotone
   ///
   /// ![calendar-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x-duotone.svg)
-  static const calendarX = PiconDuotoneData(
-    0xe10d,
-    PiconData(0xe10c, 'Duotone'),
-  );
+  static const calendarX = PiconDuotoneData(PiconData(IconData(0xe10d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe10c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// call-bell-duotone
   ///
   /// ![call-bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell-duotone.svg)
-  static const callBell = PiconDuotoneData(
-    0xe7df,
-    PiconData(0xe7de, 'Duotone'),
-  );
+  static const callBell = PiconDuotoneData(PiconData(IconData(0xe7df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// camera-duotone
   ///
   /// ![camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-duotone.svg)
-  static const camera = PiconDuotoneData(
-    0xe10f,
-    PiconData(0xe10e, 'Duotone'),
-  );
+  static const camera = PiconDuotoneData(PiconData(IconData(0xe10f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe10e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// camera-plus-duotone
   ///
   /// ![camera-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus-duotone.svg)
-  static const cameraPlus = PiconDuotoneData(
-    0xec59,
-    PiconData(0xec58, 'Duotone'),
-  );
+  static const cameraPlus = PiconDuotoneData(PiconData(IconData(0xec59, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec58, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// camera-rotate-duotone
   ///
   /// ![camera-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate-duotone.svg)
-  static const cameraRotate = PiconDuotoneData(
-    0xe7a5,
-    PiconData(0xe7a4, 'Duotone'),
-  );
+  static const cameraRotate = PiconDuotoneData(PiconData(IconData(0xe7a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// camera-slash-duotone
   ///
   /// ![camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash-duotone.svg)
-  static const cameraSlash = PiconDuotoneData(
-    0xe111,
-    PiconData(0xe110, 'Duotone'),
-  );
+  static const cameraSlash = PiconDuotoneData(PiconData(IconData(0xe111, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe110, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// campfire-duotone
   ///
   /// ![campfire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire-duotone.svg)
-  static const campfire = PiconDuotoneData(
-    0xe9d9,
-    PiconData(0xe9d8, 'Duotone'),
-  );
+  static const campfire = PiconDuotoneData(PiconData(IconData(0xe9d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// car-duotone
   ///
   /// ![car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-duotone.svg)
-  static const car = PiconDuotoneData(
-    0xe113,
-    PiconData(0xe112, 'Duotone'),
-  );
+  static const car = PiconDuotoneData(PiconData(IconData(0xe113, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe112, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// car-battery-duotone
   ///
   /// ![car-battery-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery-duotone.svg)
-  static const carBattery = PiconDuotoneData(
-    0xee31,
-    PiconData(0xee30, 'Duotone'),
-  );
+  static const carBattery = PiconDuotoneData(PiconData(IconData(0xee31, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee30, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// car-profile-duotone
   ///
   /// ![car-profile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile-duotone.svg)
-  static const carProfile = PiconDuotoneData(
-    0xe8cd,
-    PiconData(0xe8cc, 'Duotone'),
-  );
+  static const carProfile = PiconDuotoneData(PiconData(IconData(0xe8cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// car-simple-duotone
   ///
   /// ![car-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple-duotone.svg)
-  static const carSimple = PiconDuotoneData(
-    0xe115,
-    PiconData(0xe114, 'Duotone'),
-  );
+  static const carSimple = PiconDuotoneData(PiconData(IconData(0xe115, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe114, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cardholder-duotone
   ///
   /// ![cardholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder-duotone.svg)
-  static const cardholder = PiconDuotoneData(
-    0xe5fb,
-    PiconData(0xe5fa, 'Duotone'),
-  );
+  static const cardholder = PiconDuotoneData(PiconData(IconData(0xe5fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cards-duotone
   ///
   /// ![cards-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-duotone.svg)
-  static const cards = PiconDuotoneData(
-    0xe0f9,
-    PiconData(0xe0f8, 'Duotone'),
-  );
+  static const cards = PiconDuotoneData(PiconData(IconData(0xe0f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe0f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cards-three-duotone
   ///
   /// ![cards-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three-duotone.svg)
-  static const cardsThree = PiconDuotoneData(
-    0xee51,
-    PiconData(0xee50, 'Duotone'),
-  );
+  static const cardsThree = PiconDuotoneData(PiconData(IconData(0xee51, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee50, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-double-down-duotone
   ///
   /// ![caret-circle-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down-duotone.svg)
-  static const caretCircleDoubleDown = PiconDuotoneData(
-    0xe117,
-    PiconData(0xe116, 'Duotone'),
-  );
+  static const caretCircleDoubleDown = PiconDuotoneData(PiconData(IconData(0xe117, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe116, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-double-left-duotone
   ///
   /// ![caret-circle-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left-duotone.svg)
-  static const caretCircleDoubleLeft = PiconDuotoneData(
-    0xe119,
-    PiconData(0xe118, 'Duotone'),
-  );
+  static const caretCircleDoubleLeft = PiconDuotoneData(PiconData(IconData(0xe119, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe118, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-double-right-duotone
   ///
   /// ![caret-circle-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right-duotone.svg)
-  static const caretCircleDoubleRight = PiconDuotoneData(
-    0xe11b,
-    PiconData(0xe11a, 'Duotone'),
-  );
+  static const caretCircleDoubleRight = PiconDuotoneData(PiconData(IconData(0xe11b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe11a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-double-up-duotone
   ///
   /// ![caret-circle-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up-duotone.svg)
-  static const caretCircleDoubleUp = PiconDuotoneData(
-    0xe11d,
-    PiconData(0xe11c, 'Duotone'),
-  );
+  static const caretCircleDoubleUp = PiconDuotoneData(PiconData(IconData(0xe11d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe11c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-down-duotone
   ///
   /// ![caret-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down-duotone.svg)
-  static const caretCircleDown = PiconDuotoneData(
-    0xe11f,
-    PiconData(0xe11e, 'Duotone'),
-  );
+  static const caretCircleDown = PiconDuotoneData(PiconData(IconData(0xe11f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe11e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-left-duotone
   ///
   /// ![caret-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left-duotone.svg)
-  static const caretCircleLeft = PiconDuotoneData(
-    0xe121,
-    PiconData(0xe120, 'Duotone'),
-  );
+  static const caretCircleLeft = PiconDuotoneData(PiconData(IconData(0xe121, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe120, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-right-duotone
   ///
   /// ![caret-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right-duotone.svg)
-  static const caretCircleRight = PiconDuotoneData(
-    0xe123,
-    PiconData(0xe122, 'Duotone'),
-  );
+  static const caretCircleRight = PiconDuotoneData(PiconData(IconData(0xe123, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe122, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-up-duotone
   ///
   /// ![caret-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-duotone.svg)
-  static const caretCircleUp = PiconDuotoneData(
-    0xe125,
-    PiconData(0xe124, 'Duotone'),
-  );
+  static const caretCircleUp = PiconDuotoneData(PiconData(IconData(0xe125, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe124, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-circle-up-down-duotone
   ///
   /// ![caret-circle-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down-duotone.svg)
-  static const caretCircleUpDown = PiconDuotoneData(
-    0xe13f,
-    PiconData(0xe13e, 'Duotone'),
-  );
+  static const caretCircleUpDown = PiconDuotoneData(PiconData(IconData(0xe13f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe13e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-double-down-duotone
   ///
   /// ![caret-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down-duotone.svg)
-  static const caretDoubleDown = PiconDuotoneData(
-    0xe127,
-    PiconData(0xe126, 'Duotone'),
-  );
+  static const caretDoubleDown = PiconDuotoneData(PiconData(IconData(0xe127, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe126, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-double-left-duotone
   ///
   /// ![caret-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left-duotone.svg)
-  static const caretDoubleLeft = PiconDuotoneData(
-    0xe129,
-    PiconData(0xe128, 'Duotone'),
-  );
+  static const caretDoubleLeft = PiconDuotoneData(PiconData(IconData(0xe129, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe128, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-double-right-duotone
   ///
   /// ![caret-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right-duotone.svg)
-  static const caretDoubleRight = PiconDuotoneData(
-    0xe12b,
-    PiconData(0xe12a, 'Duotone'),
-  );
+  static const caretDoubleRight = PiconDuotoneData(PiconData(IconData(0xe12b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe12a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-double-up-duotone
   ///
   /// ![caret-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up-duotone.svg)
-  static const caretDoubleUp = PiconDuotoneData(
-    0xe12d,
-    PiconData(0xe12c, 'Duotone'),
-  );
+  static const caretDoubleUp = PiconDuotoneData(PiconData(IconData(0xe12d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe12c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-down-duotone
   ///
   /// ![caret-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down-duotone.svg)
-  static const caretDown = PiconDuotoneData(
-    0xe137,
-    PiconData(0xe136, 'Duotone'),
-  );
+  static const caretDown = PiconDuotoneData(PiconData(IconData(0xe137, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe136, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-left-duotone
   ///
   /// ![caret-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left-duotone.svg)
-  static const caretLeft = PiconDuotoneData(
-    0xe139,
-    PiconData(0xe138, 'Duotone'),
-  );
+  static const caretLeft = PiconDuotoneData(PiconData(IconData(0xe139, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe138, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-line-down-duotone
   ///
   /// ![caret-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down-duotone.svg)
-  static const caretLineDown = PiconDuotoneData(
-    0xe135,
-    PiconData(0xe134, 'Duotone'),
-  );
+  static const caretLineDown = PiconDuotoneData(PiconData(IconData(0xe135, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe134, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-line-left-duotone
   ///
   /// ![caret-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left-duotone.svg)
-  static const caretLineLeft = PiconDuotoneData(
-    0xe133,
-    PiconData(0xe132, 'Duotone'),
-  );
+  static const caretLineLeft = PiconDuotoneData(PiconData(IconData(0xe133, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe132, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-line-right-duotone
   ///
   /// ![caret-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right-duotone.svg)
-  static const caretLineRight = PiconDuotoneData(
-    0xe131,
-    PiconData(0xe130, 'Duotone'),
-  );
+  static const caretLineRight = PiconDuotoneData(PiconData(IconData(0xe131, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe130, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-line-up-duotone
   ///
   /// ![caret-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up-duotone.svg)
-  static const caretLineUp = PiconDuotoneData(
-    0xe12f,
-    PiconData(0xe12e, 'Duotone'),
-  );
+  static const caretLineUp = PiconDuotoneData(PiconData(IconData(0xe12f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe12e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-right-duotone
   ///
   /// ![caret-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right-duotone.svg)
-  static const caretRight = PiconDuotoneData(
-    0xe13b,
-    PiconData(0xe13a, 'Duotone'),
-  );
+  static const caretRight = PiconDuotoneData(PiconData(IconData(0xe13b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe13a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-up-duotone
   ///
   /// ![caret-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-duotone.svg)
-  static const caretUp = PiconDuotoneData(
-    0xe13d,
-    PiconData(0xe13c, 'Duotone'),
-  );
+  static const caretUp = PiconDuotoneData(PiconData(IconData(0xe13d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe13c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// caret-up-down-duotone
   ///
   /// ![caret-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down-duotone.svg)
-  static const caretUpDown = PiconDuotoneData(
-    0xe141,
-    PiconData(0xe140, 'Duotone'),
-  );
+  static const caretUpDown = PiconDuotoneData(PiconData(IconData(0xe141, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe140, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// carrot-duotone
   ///
   /// ![carrot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot-duotone.svg)
-  static const carrot = PiconDuotoneData(
-    0xed39,
-    PiconData(0xed38, 'Duotone'),
-  );
+  static const carrot = PiconDuotoneData(PiconData(IconData(0xed39, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed38, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cash-register-duotone
   ///
   /// ![cash-register-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register-duotone.svg)
-  static const cashRegister = PiconDuotoneData(
-    0xed81,
-    PiconData(0xed80, 'Duotone'),
-  );
+  static const cashRegister = PiconDuotoneData(PiconData(IconData(0xed81, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed80, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cassette-tape-duotone
   ///
   /// ![cassette-tape-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape-duotone.svg)
-  static const cassetteTape = PiconDuotoneData(
-    0xed2f,
-    PiconData(0xed2e, 'Duotone'),
-  );
+  static const cassetteTape = PiconDuotoneData(PiconData(IconData(0xed2f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed2e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// castle-turret-duotone
   ///
   /// ![castle-turret-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret-duotone.svg)
-  static const castleTurret = PiconDuotoneData(
-    0xe9d1,
-    PiconData(0xe9d0, 'Duotone'),
-  );
+  static const castleTurret = PiconDuotoneData(PiconData(IconData(0xe9d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cat-duotone
   ///
   /// ![cat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat-duotone.svg)
-  static const cat = PiconDuotoneData(
-    0xe749,
-    PiconData(0xe748, 'Duotone'),
-  );
+  static const cat = PiconDuotoneData(PiconData(IconData(0xe749, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe748, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-full-duotone
   ///
   /// ![cell-signal-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full-duotone.svg)
-  static const cellSignalFull = PiconDuotoneData(
-    0xe143,
-    PiconData(0xe142, 'Duotone'),
-  );
+  static const cellSignalFull = PiconDuotoneData(PiconData(IconData(0xe143, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe142, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-high-duotone
   ///
   /// ![cell-signal-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high-duotone.svg)
-  static const cellSignalHigh = PiconDuotoneData(
-    0xe145,
-    PiconData(0xe144, 'Duotone'),
-  );
+  static const cellSignalHigh = PiconDuotoneData(PiconData(IconData(0xe145, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe144, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-low-duotone
   ///
   /// ![cell-signal-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low-duotone.svg)
-  static const cellSignalLow = PiconDuotoneData(
-    0xe147,
-    PiconData(0xe146, 'Duotone'),
-  );
+  static const cellSignalLow = PiconDuotoneData(PiconData(IconData(0xe147, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe146, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-medium-duotone
   ///
   /// ![cell-signal-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium-duotone.svg)
-  static const cellSignalMedium = PiconDuotoneData(
-    0xe149,
-    PiconData(0xe148, 'Duotone'),
-  );
+  static const cellSignalMedium = PiconDuotoneData(PiconData(IconData(0xe149, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe148, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-none-duotone
   ///
   /// ![cell-signal-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none-duotone.svg)
-  static const cellSignalNone = PiconFlatData(0xe14a, 'Duotone');
+  static const cellSignalNone = PiconFlatData(IconData(0xe14a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true));
 
   /// cell-signal-slash-duotone
   ///
   /// ![cell-signal-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash-duotone.svg)
-  static const cellSignalSlash = PiconDuotoneData(
-    0xe14d,
-    PiconData(0xe14c, 'Duotone'),
-  );
+  static const cellSignalSlash = PiconDuotoneData(PiconData(IconData(0xe14d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe14c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-signal-x-duotone
   ///
   /// ![cell-signal-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x-duotone.svg)
-  static const cellSignalX = PiconDuotoneData(
-    0xe14f,
-    PiconData(0xe14e, 'Duotone'),
-  );
+  static const cellSignalX = PiconDuotoneData(PiconData(IconData(0xe14f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe14e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cell-tower-duotone
   ///
   /// ![cell-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower-duotone.svg)
-  static const cellTower = PiconDuotoneData(
-    0xebab,
-    PiconData(0xebaa, 'Duotone'),
-  );
+  static const cellTower = PiconDuotoneData(PiconData(IconData(0xebab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebaa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// certificate-duotone
   ///
   /// ![certificate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate-duotone.svg)
-  static const certificate = PiconDuotoneData(
-    0xe767,
-    PiconData(0xe766, 'Duotone'),
-  );
+  static const certificate = PiconDuotoneData(PiconData(IconData(0xe767, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe766, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chair-duotone
   ///
   /// ![chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair-duotone.svg)
-  static const chair = PiconDuotoneData(
-    0xe951,
-    PiconData(0xe950, 'Duotone'),
-  );
+  static const chair = PiconDuotoneData(PiconData(IconData(0xe951, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe950, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chalkboard-duotone
   ///
   /// ![chalkboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-duotone.svg)
-  static const chalkboard = PiconDuotoneData(
-    0xe5fd,
-    PiconData(0xe5fc, 'Duotone'),
-  );
+  static const chalkboard = PiconDuotoneData(PiconData(IconData(0xe5fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chalkboard-simple-duotone
   ///
   /// ![chalkboard-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple-duotone.svg)
-  static const chalkboardSimple = PiconDuotoneData(
-    0xe5ff,
-    PiconData(0xe5fe, 'Duotone'),
-  );
+  static const chalkboardSimple = PiconDuotoneData(PiconData(IconData(0xe5ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chalkboard-teacher-duotone
   ///
   /// ![chalkboard-teacher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher-duotone.svg)
-  static const chalkboardTeacher = PiconDuotoneData(
-    0xe601,
-    PiconData(0xe600, 'Duotone'),
-  );
+  static const chalkboardTeacher = PiconDuotoneData(PiconData(IconData(0xe601, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe600, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// champagne-duotone
   ///
   /// ![champagne-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne-duotone.svg)
-  static const champagne = PiconDuotoneData(
-    0xeacb,
-    PiconData(0xeaca, 'Duotone'),
-  );
+  static const champagne = PiconDuotoneData(PiconData(IconData(0xeacb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// charging-station-duotone
   ///
   /// ![charging-station-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station-duotone.svg)
-  static const chargingStation = PiconDuotoneData(
-    0xe8d1,
-    PiconData(0xe8d0, 'Duotone'),
-  );
+  static const chargingStation = PiconDuotoneData(PiconData(IconData(0xe8d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-bar-duotone
   ///
   /// ![chart-bar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-duotone.svg)
-  static const chartBar = PiconDuotoneData(
-    0xe151,
-    PiconData(0xe150, 'Duotone'),
-  );
+  static const chartBar = PiconDuotoneData(PiconData(IconData(0xe151, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe150, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-bar-horizontal-duotone
   ///
   /// ![chart-bar-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal-duotone.svg)
-  static const chartBarHorizontal = PiconDuotoneData(
-    0xe153,
-    PiconData(0xe152, 'Duotone'),
-  );
+  static const chartBarHorizontal = PiconDuotoneData(PiconData(IconData(0xe153, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe152, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-donut-duotone
   ///
   /// ![chart-donut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut-duotone.svg)
-  static const chartDonut = PiconDuotoneData(
-    0xeaa7,
-    PiconData(0xeaa6, 'Duotone'),
-  );
+  static const chartDonut = PiconDuotoneData(PiconData(IconData(0xeaa7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaa6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-line-duotone
   ///
   /// ![chart-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-duotone.svg)
-  static const chartLine = PiconDuotoneData(
-    0xe155,
-    PiconData(0xe154, 'Duotone'),
-  );
+  static const chartLine = PiconDuotoneData(PiconData(IconData(0xe155, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe154, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-line-down-duotone
   ///
   /// ![chart-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down-duotone.svg)
-  static const chartLineDown = PiconDuotoneData(
-    0xe8b7,
-    PiconData(0xe8b6, 'Duotone'),
-  );
+  static const chartLineDown = PiconDuotoneData(PiconData(IconData(0xe8b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-line-up-duotone
   ///
   /// ![chart-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up-duotone.svg)
-  static const chartLineUp = PiconDuotoneData(
-    0xe157,
-    PiconData(0xe156, 'Duotone'),
-  );
+  static const chartLineUp = PiconDuotoneData(PiconData(IconData(0xe157, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe156, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-pie-duotone
   ///
   /// ![chart-pie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-duotone.svg)
-  static const chartPie = PiconDuotoneData(
-    0xe159,
-    PiconData(0xe158, 'Duotone'),
-  );
+  static const chartPie = PiconDuotoneData(PiconData(IconData(0xe159, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe158, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-pie-slice-duotone
   ///
   /// ![chart-pie-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice-duotone.svg)
-  static const chartPieSlice = PiconDuotoneData(
-    0xe15b,
-    PiconData(0xe15a, 'Duotone'),
-  );
+  static const chartPieSlice = PiconDuotoneData(PiconData(IconData(0xe15b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe15a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-polar-duotone
   ///
   /// ![chart-polar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar-duotone.svg)
-  static const chartPolar = PiconDuotoneData(
-    0xeaa9,
-    PiconData(0xeaa8, 'Duotone'),
-  );
+  static const chartPolar = PiconDuotoneData(PiconData(IconData(0xeaa9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaa8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chart-scatter-duotone
   ///
   /// ![chart-scatter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter-duotone.svg)
-  static const chartScatter = PiconDuotoneData(
-    0xeaad,
-    PiconData(0xeaac, 'Duotone'),
-  );
+  static const chartScatter = PiconDuotoneData(PiconData(IconData(0xeaad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-duotone
   ///
   /// ![chat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-duotone.svg)
-  static const chat = PiconDuotoneData(
-    0xe15d,
-    PiconData(0xe15c, 'Duotone'),
-  );
+  static const chat = PiconDuotoneData(PiconData(IconData(0xe15d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe15c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-centered-duotone
   ///
   /// ![chat-centered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-duotone.svg)
-  static const chatCentered = PiconDuotoneData(
-    0xe161,
-    PiconData(0xe160, 'Duotone'),
-  );
+  static const chatCentered = PiconDuotoneData(PiconData(IconData(0xe161, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe160, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-centered-dots-duotone
   ///
   /// ![chat-centered-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots-duotone.svg)
-  static const chatCenteredDots = PiconDuotoneData(
-    0xe165,
-    PiconData(0xe164, 'Duotone'),
-  );
+  static const chatCenteredDots = PiconDuotoneData(PiconData(IconData(0xe165, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe164, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-centered-slash-duotone
   ///
   /// ![chat-centered-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash-duotone.svg)
-  static const chatCenteredSlash = PiconDuotoneData(
-    0xe163,
-    PiconData(0xe162, 'Duotone'),
-  );
+  static const chatCenteredSlash = PiconDuotoneData(PiconData(IconData(0xe163, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe162, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-centered-text-duotone
   ///
   /// ![chat-centered-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text-duotone.svg)
-  static const chatCenteredText = PiconDuotoneData(
-    0xe167,
-    PiconData(0xe166, 'Duotone'),
-  );
+  static const chatCenteredText = PiconDuotoneData(PiconData(IconData(0xe167, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe166, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-circle-duotone
   ///
   /// ![chat-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-duotone.svg)
-  static const chatCircle = PiconDuotoneData(
-    0xe169,
-    PiconData(0xe168, 'Duotone'),
-  );
+  static const chatCircle = PiconDuotoneData(PiconData(IconData(0xe169, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe168, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-circle-dots-duotone
   ///
   /// ![chat-circle-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots-duotone.svg)
-  static const chatCircleDots = PiconDuotoneData(
-    0xe16d,
-    PiconData(0xe16c, 'Duotone'),
-  );
+  static const chatCircleDots = PiconDuotoneData(PiconData(IconData(0xe16d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe16c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-circle-slash-duotone
   ///
   /// ![chat-circle-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash-duotone.svg)
-  static const chatCircleSlash = PiconDuotoneData(
-    0xe16b,
-    PiconData(0xe16a, 'Duotone'),
-  );
+  static const chatCircleSlash = PiconDuotoneData(PiconData(IconData(0xe16b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe16a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-circle-text-duotone
   ///
   /// ![chat-circle-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text-duotone.svg)
-  static const chatCircleText = PiconDuotoneData(
-    0xe16f,
-    PiconData(0xe16e, 'Duotone'),
-  );
+  static const chatCircleText = PiconDuotoneData(PiconData(IconData(0xe16f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe16e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-dots-duotone
   ///
   /// ![chat-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots-duotone.svg)
-  static const chatDots = PiconDuotoneData(
-    0xe171,
-    PiconData(0xe170, 'Duotone'),
-  );
+  static const chatDots = PiconDuotoneData(PiconData(IconData(0xe171, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe170, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-slash-duotone
   ///
   /// ![chat-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash-duotone.svg)
-  static const chatSlash = PiconDuotoneData(
-    0xe15f,
-    PiconData(0xe15e, 'Duotone'),
-  );
+  static const chatSlash = PiconDuotoneData(PiconData(IconData(0xe15f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe15e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-teardrop-duotone
   ///
   /// ![chat-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-duotone.svg)
-  static const chatTeardrop = PiconDuotoneData(
-    0xe173,
-    PiconData(0xe172, 'Duotone'),
-  );
+  static const chatTeardrop = PiconDuotoneData(PiconData(IconData(0xe173, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe172, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-teardrop-dots-duotone
   ///
   /// ![chat-teardrop-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots-duotone.svg)
-  static const chatTeardropDots = PiconDuotoneData(
-    0xe177,
-    PiconData(0xe176, 'Duotone'),
-  );
+  static const chatTeardropDots = PiconDuotoneData(PiconData(IconData(0xe177, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe176, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-teardrop-slash-duotone
   ///
   /// ![chat-teardrop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash-duotone.svg)
-  static const chatTeardropSlash = PiconDuotoneData(
-    0xe175,
-    PiconData(0xe174, 'Duotone'),
-  );
+  static const chatTeardropSlash = PiconDuotoneData(PiconData(IconData(0xe175, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe174, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-teardrop-text-duotone
   ///
   /// ![chat-teardrop-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text-duotone.svg)
-  static const chatTeardropText = PiconDuotoneData(
-    0xe179,
-    PiconData(0xe178, 'Duotone'),
-  );
+  static const chatTeardropText = PiconDuotoneData(PiconData(IconData(0xe179, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe178, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chat-text-duotone
   ///
   /// ![chat-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text-duotone.svg)
-  static const chatText = PiconDuotoneData(
-    0xe17b,
-    PiconData(0xe17a, 'Duotone'),
-  );
+  static const chatText = PiconDuotoneData(PiconData(IconData(0xe17b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe17a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chats-duotone
   ///
   /// ![chats-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-duotone.svg)
-  static const chats = PiconDuotoneData(
-    0xe17d,
-    PiconData(0xe17c, 'Duotone'),
-  );
+  static const chats = PiconDuotoneData(PiconData(IconData(0xe17d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe17c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chats-circle-duotone
   ///
   /// ![chats-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle-duotone.svg)
-  static const chatsCircle = PiconDuotoneData(
-    0xe17f,
-    PiconData(0xe17e, 'Duotone'),
-  );
+  static const chatsCircle = PiconDuotoneData(PiconData(IconData(0xe17f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe17e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chats-teardrop-duotone
   ///
   /// ![chats-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop-duotone.svg)
-  static const chatsTeardrop = PiconDuotoneData(
-    0xe181,
-    PiconData(0xe180, 'Duotone'),
-  );
+  static const chatsTeardrop = PiconDuotoneData(PiconData(IconData(0xe181, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe180, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// check-duotone
   ///
   /// ![check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-duotone.svg)
-  static const check = PiconDuotoneData(
-    0xe183,
-    PiconData(0xe182, 'Duotone'),
-  );
+  static const check = PiconDuotoneData(PiconData(IconData(0xe183, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe182, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// check-circle-duotone
   ///
   /// ![check-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle-duotone.svg)
-  static const checkCircle = PiconDuotoneData(
-    0xe185,
-    PiconData(0xe184, 'Duotone'),
-  );
+  static const checkCircle = PiconDuotoneData(PiconData(IconData(0xe185, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe184, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// check-fat-duotone
   ///
   /// ![check-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat-duotone.svg)
-  static const checkFat = PiconDuotoneData(
-    0xeba7,
-    PiconData(0xeba6, 'Duotone'),
-  );
+  static const checkFat = PiconDuotoneData(PiconData(IconData(0xeba7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeba6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// check-square-duotone
   ///
   /// ![check-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-duotone.svg)
-  static const checkSquare = PiconDuotoneData(
-    0xe187,
-    PiconData(0xe186, 'Duotone'),
-  );
+  static const checkSquare = PiconDuotoneData(PiconData(IconData(0xe187, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe186, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// check-square-offset-duotone
   ///
   /// ![check-square-offset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset-duotone.svg)
-  static const checkSquareOffset = PiconDuotoneData(
-    0xe189,
-    PiconData(0xe188, 'Duotone'),
-  );
+  static const checkSquareOffset = PiconDuotoneData(PiconData(IconData(0xe189, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe188, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// checkerboard-duotone
   ///
   /// ![checkerboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard-duotone.svg)
-  static const checkerboard = PiconDuotoneData(
-    0xe8c5,
-    PiconData(0xe8c4, 'Duotone'),
-  );
+  static const checkerboard = PiconDuotoneData(PiconData(IconData(0xe8c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// checks-duotone
   ///
   /// ![checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks-duotone.svg)
-  static const checks = PiconDuotoneData(
-    0xe53b,
-    PiconData(0xe53a, 'Duotone'),
-  );
+  static const checks = PiconDuotoneData(PiconData(IconData(0xe53b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe53a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cheers-duotone
   ///
   /// ![cheers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers-duotone.svg)
-  static const cheers = PiconDuotoneData(
-    0xea4b,
-    PiconData(0xea4a, 'Duotone'),
-  );
+  static const cheers = PiconDuotoneData(PiconData(IconData(0xea4b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea4a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cheese-duotone
   ///
   /// ![cheese-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese-duotone.svg)
-  static const cheese = PiconDuotoneData(
-    0xe9ff,
-    PiconData(0xe9fe, 'Duotone'),
-  );
+  static const cheese = PiconDuotoneData(PiconData(IconData(0xe9ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// chef-hat-duotone
   ///
   /// ![chef-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat-duotone.svg)
-  static const chefHat = PiconDuotoneData(
-    0xed8f,
-    PiconData(0xed8e, 'Duotone'),
-  );
+  static const chefHat = PiconDuotoneData(PiconData(IconData(0xed8f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed8e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cherries-duotone
   ///
   /// ![cherries-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries-duotone.svg)
-  static const cherries = PiconDuotoneData(
-    0xe831,
-    PiconData(0xe830, 'Duotone'),
-  );
+  static const cherries = PiconDuotoneData(PiconData(IconData(0xe831, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe830, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// church-duotone
   ///
   /// ![church-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church-duotone.svg)
-  static const church = PiconDuotoneData(
-    0xeceb,
-    PiconData(0xecea, 'Duotone'),
-  );
+  static const church = PiconDuotoneData(PiconData(IconData(0xeceb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cigarette-duotone
   ///
   /// ![cigarette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-duotone.svg)
-  static const cigarette = PiconDuotoneData(
-    0xed91,
-    PiconData(0xed90, 'Duotone'),
-  );
+  static const cigarette = PiconDuotoneData(PiconData(IconData(0xed91, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed90, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cigarette-slash-duotone
   ///
   /// ![cigarette-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash-duotone.svg)
-  static const cigaretteSlash = PiconDuotoneData(
-    0xed93,
-    PiconData(0xed92, 'Duotone'),
-  );
+  static const cigaretteSlash = PiconDuotoneData(PiconData(IconData(0xed93, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed92, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circle-duotone
   ///
   /// ![circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-duotone.svg)
-  static const circle = PiconDuotoneData(
-    0xe18b,
-    PiconData(0xe18a, 'Duotone'),
-  );
+  static const circle = PiconDuotoneData(PiconData(IconData(0xe18b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe18a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circle-dashed-duotone
   ///
   /// ![circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed-duotone.svg)
-  static const circleDashed = PiconDuotoneData(
-    0xe603,
-    PiconData(0xe602, 'Duotone'),
-  );
+  static const circleDashed = PiconDuotoneData(PiconData(IconData(0xe603, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe602, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circle-half-duotone
   ///
   /// ![circle-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-duotone.svg)
-  static const circleHalf = PiconDuotoneData(
-    0xe18d,
-    PiconData(0xe18c, 'Duotone'),
-  );
+  static const circleHalf = PiconDuotoneData(PiconData(IconData(0xe18d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe18c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circle-half-tilt-duotone
   ///
   /// ![circle-half-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt-duotone.svg)
-  static const circleHalfTilt = PiconDuotoneData(
-    0xe18f,
-    PiconData(0xe18e, 'Duotone'),
-  );
+  static const circleHalfTilt = PiconDuotoneData(PiconData(IconData(0xe18f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe18e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circle-notch-duotone
   ///
   /// ![circle-notch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch-duotone.svg)
-  static const circleNotch = PiconDuotoneData(
-    0xeb45,
-    PiconData(0xeb44, 'Duotone'),
-  );
+  static const circleNotch = PiconDuotoneData(PiconData(IconData(0xeb45, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb44, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circles-four-duotone
   ///
   /// ![circles-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four-duotone.svg)
-  static const circlesFour = PiconDuotoneData(
-    0xe191,
-    PiconData(0xe190, 'Duotone'),
-  );
+  static const circlesFour = PiconDuotoneData(PiconData(IconData(0xe191, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe190, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circles-three-duotone
   ///
   /// ![circles-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-duotone.svg)
-  static const circlesThree = PiconDuotoneData(
-    0xe193,
-    PiconData(0xe192, 'Duotone'),
-  );
+  static const circlesThree = PiconDuotoneData(PiconData(IconData(0xe193, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe192, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circles-three-plus-duotone
   ///
   /// ![circles-three-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus-duotone.svg)
-  static const circlesThreePlus = PiconDuotoneData(
-    0xe195,
-    PiconData(0xe194, 'Duotone'),
-  );
+  static const circlesThreePlus = PiconDuotoneData(PiconData(IconData(0xe195, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe194, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// circuitry-duotone
   ///
   /// ![circuitry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry-duotone.svg)
-  static const circuitry = PiconDuotoneData(
-    0xe9c3,
-    PiconData(0xe9c2, 'Duotone'),
-  );
+  static const circuitry = PiconDuotoneData(PiconData(IconData(0xe9c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// city-duotone
   ///
   /// ![city-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city-duotone.svg)
-  static const city = PiconDuotoneData(
-    0xea6b,
-    PiconData(0xea6a, 'Duotone'),
-  );
+  static const city = PiconDuotoneData(PiconData(IconData(0xea6b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea6a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clipboard-duotone
   ///
   /// ![clipboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-duotone.svg)
-  static const clipboard = PiconDuotoneData(
-    0xe197,
-    PiconData(0xe196, 'Duotone'),
-  );
+  static const clipboard = PiconDuotoneData(PiconData(IconData(0xe197, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe196, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clipboard-text-duotone
   ///
   /// ![clipboard-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text-duotone.svg)
-  static const clipboardText = PiconDuotoneData(
-    0xe199,
-    PiconData(0xe198, 'Duotone'),
-  );
+  static const clipboardText = PiconDuotoneData(PiconData(IconData(0xe199, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe198, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-duotone
   ///
   /// ![clock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-duotone.svg)
-  static const clock = PiconDuotoneData(
-    0xe19b,
-    PiconData(0xe19a, 'Duotone'),
-  );
+  static const clock = PiconDuotoneData(PiconData(IconData(0xe19b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe19a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-afternoon-duotone
   ///
   /// ![clock-afternoon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon-duotone.svg)
-  static const clockAfternoon = PiconDuotoneData(
-    0xe19d,
-    PiconData(0xe19c, 'Duotone'),
-  );
+  static const clockAfternoon = PiconDuotoneData(PiconData(IconData(0xe19d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe19c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-clockwise-duotone
   ///
   /// ![clock-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise-duotone.svg)
-  static const clockClockwise = PiconDuotoneData(
-    0xe19f,
-    PiconData(0xe19e, 'Duotone'),
-  );
+  static const clockClockwise = PiconDuotoneData(PiconData(IconData(0xe19f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe19e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-countdown-duotone
   ///
   /// ![clock-countdown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown-duotone.svg)
-  static const clockCountdown = PiconDuotoneData(
-    0xed2d,
-    PiconData(0xed2c, 'Duotone'),
-  );
+  static const clockCountdown = PiconDuotoneData(PiconData(IconData(0xed2d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed2c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-counter-clockwise-duotone
   ///
   /// ![clock-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise-duotone.svg)
-  static const clockCounterClockwise = PiconDuotoneData(
-    0xe1a1,
-    PiconData(0xe1a0, 'Duotone'),
-  );
+  static const clockCounterClockwise = PiconDuotoneData(PiconData(IconData(0xe1a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clock-user-duotone
   ///
   /// ![clock-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user-duotone.svg)
-  static const clockUser = PiconDuotoneData(
-    0xeded,
-    PiconData(0xedec, 'Duotone'),
-  );
+  static const clockUser = PiconDuotoneData(PiconData(IconData(0xeded, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// closed-captioning-duotone
   ///
   /// ![closed-captioning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning-duotone.svg)
-  static const closedCaptioning = PiconDuotoneData(
-    0xe1a5,
-    PiconData(0xe1a4, 'Duotone'),
-  );
+  static const closedCaptioning = PiconDuotoneData(PiconData(IconData(0xe1a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-duotone
   ///
   /// ![cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-duotone.svg)
-  static const cloud = PiconDuotoneData(
-    0xe1ab,
-    PiconData(0xe1aa, 'Duotone'),
-  );
+  static const cloud = PiconDuotoneData(PiconData(IconData(0xe1ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-arrow-down-duotone
   ///
   /// ![cloud-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down-duotone.svg)
-  static const cloudArrowDown = PiconDuotoneData(
-    0xe1ad,
-    PiconData(0xe1ac, 'Duotone'),
-  );
+  static const cloudArrowDown = PiconDuotoneData(PiconData(IconData(0xe1ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-arrow-up-duotone
   ///
   /// ![cloud-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up-duotone.svg)
-  static const cloudArrowUp = PiconDuotoneData(
-    0xe1af,
-    PiconData(0xe1ae, 'Duotone'),
-  );
+  static const cloudArrowUp = PiconDuotoneData(PiconData(IconData(0xe1af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-check-duotone
   ///
   /// ![cloud-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check-duotone.svg)
-  static const cloudCheck = PiconDuotoneData(
-    0xe1b1,
-    PiconData(0xe1b0, 'Duotone'),
-  );
+  static const cloudCheck = PiconDuotoneData(PiconData(IconData(0xe1b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-fog-duotone
   ///
   /// ![cloud-fog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog-duotone.svg)
-  static const cloudFog = PiconDuotoneData(
-    0xe53d,
-    PiconData(0xe53c, 'Duotone'),
-  );
+  static const cloudFog = PiconDuotoneData(PiconData(IconData(0xe53d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe53c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-lightning-duotone
   ///
   /// ![cloud-lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning-duotone.svg)
-  static const cloudLightning = PiconDuotoneData(
-    0xe1b3,
-    PiconData(0xe1b2, 'Duotone'),
-  );
+  static const cloudLightning = PiconDuotoneData(PiconData(IconData(0xe1b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-moon-duotone
   ///
   /// ![cloud-moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon-duotone.svg)
-  static const cloudMoon = PiconDuotoneData(
-    0xe53f,
-    PiconData(0xe53e, 'Duotone'),
-  );
+  static const cloudMoon = PiconDuotoneData(PiconData(IconData(0xe53f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe53e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-rain-duotone
   ///
   /// ![cloud-rain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain-duotone.svg)
-  static const cloudRain = PiconDuotoneData(
-    0xe1b5,
-    PiconData(0xe1b4, 'Duotone'),
-  );
+  static const cloudRain = PiconDuotoneData(PiconData(IconData(0xe1b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-slash-duotone
   ///
   /// ![cloud-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash-duotone.svg)
-  static const cloudSlash = PiconDuotoneData(
-    0xe1b7,
-    PiconData(0xe1b6, 'Duotone'),
-  );
+  static const cloudSlash = PiconDuotoneData(PiconData(IconData(0xe1b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-snow-duotone
   ///
   /// ![cloud-snow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow-duotone.svg)
-  static const cloudSnow = PiconDuotoneData(
-    0xe1b9,
-    PiconData(0xe1b8, 'Duotone'),
-  );
+  static const cloudSnow = PiconDuotoneData(PiconData(IconData(0xe1b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-sun-duotone
   ///
   /// ![cloud-sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun-duotone.svg)
-  static const cloudSun = PiconDuotoneData(
-    0xe541,
-    PiconData(0xe540, 'Duotone'),
-  );
+  static const cloudSun = PiconDuotoneData(PiconData(IconData(0xe541, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe540, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-warning-duotone
   ///
   /// ![cloud-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning-duotone.svg)
-  static const cloudWarning = PiconDuotoneData(
-    0xea99,
-    PiconData(0xea98, 'Duotone'),
-  );
+  static const cloudWarning = PiconDuotoneData(PiconData(IconData(0xea99, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea98, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cloud-x-duotone
   ///
   /// ![cloud-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x-duotone.svg)
-  static const cloudX = PiconDuotoneData(
-    0xea97,
-    PiconData(0xea96, 'Duotone'),
-  );
+  static const cloudX = PiconDuotoneData(PiconData(IconData(0xea97, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea96, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// clover-duotone
   ///
   /// ![clover-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover-duotone.svg)
-  static const clover = PiconDuotoneData(
-    0xedc9,
-    PiconData(0xedc8, 'Duotone'),
-  );
+  static const clover = PiconDuotoneData(PiconData(IconData(0xedc9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedc8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// club-duotone
   ///
   /// ![club-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club-duotone.svg)
-  static const club = PiconDuotoneData(
-    0xe1bb,
-    PiconData(0xe1ba, 'Duotone'),
-  );
+  static const club = PiconDuotoneData(PiconData(IconData(0xe1bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coat-hanger-duotone
   ///
   /// ![coat-hanger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger-duotone.svg)
-  static const coatHanger = PiconDuotoneData(
-    0xe7ff,
-    PiconData(0xe7fe, 'Duotone'),
-  );
+  static const coatHanger = PiconDuotoneData(PiconData(IconData(0xe7ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coda-logo-duotone
   ///
   /// ![coda-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo-duotone.svg)
-  static const codaLogo = PiconDuotoneData(
-    0xe7cf,
-    PiconData(0xe7ce, 'Duotone'),
-  );
+  static const codaLogo = PiconDuotoneData(PiconData(IconData(0xe7cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// code-duotone
   ///
   /// ![code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-duotone.svg)
-  static const code = PiconDuotoneData(
-    0xe1bd,
-    PiconData(0xe1bc, 'Duotone'),
-  );
+  static const code = PiconDuotoneData(PiconData(IconData(0xe1bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// code-block-duotone
   ///
   /// ![code-block-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block-duotone.svg)
-  static const codeBlock = PiconDuotoneData(
-    0xeaff,
-    PiconData(0xeafe, 'Duotone'),
-  );
+  static const codeBlock = PiconDuotoneData(PiconData(IconData(0xeaff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeafe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// code-simple-duotone
   ///
   /// ![code-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple-duotone.svg)
-  static const codeSimple = PiconDuotoneData(
-    0xe1bf,
-    PiconData(0xe1be, 'Duotone'),
-  );
+  static const codeSimple = PiconDuotoneData(PiconData(IconData(0xe1bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// codepen-logo-duotone
   ///
   /// ![codepen-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo-duotone.svg)
-  static const codepenLogo = PiconDuotoneData(
-    0xe979,
-    PiconData(0xe978, 'Duotone'),
-  );
+  static const codepenLogo = PiconDuotoneData(PiconData(IconData(0xe979, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe978, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// codesandbox-logo-duotone
   ///
   /// ![codesandbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo-duotone.svg)
-  static const codesandboxLogo = PiconDuotoneData(
-    0xea07,
-    PiconData(0xea06, 'Duotone'),
-  );
+  static const codesandboxLogo = PiconDuotoneData(PiconData(IconData(0xea07, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea06, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coffee-duotone
   ///
   /// ![coffee-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-duotone.svg)
-  static const coffee = PiconDuotoneData(
-    0xe1c3,
-    PiconData(0xe1c2, 'Duotone'),
-  );
+  static const coffee = PiconDuotoneData(PiconData(IconData(0xe1c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coffee-bean-duotone
   ///
   /// ![coffee-bean-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean-duotone.svg)
-  static const coffeeBean = PiconDuotoneData(
-    0xe1c1,
-    PiconData(0xe1c0, 'Duotone'),
-  );
+  static const coffeeBean = PiconDuotoneData(PiconData(IconData(0xe1c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coin-duotone
   ///
   /// ![coin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-duotone.svg)
-  static const coin = PiconDuotoneData(
-    0xe60f,
-    PiconData(0xe60e, 'Duotone'),
-  );
+  static const coin = PiconDuotoneData(PiconData(IconData(0xe60f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe60e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coin-vertical-duotone
   ///
   /// ![coin-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical-duotone.svg)
-  static const coinVertical = PiconDuotoneData(
-    0xeb49,
-    PiconData(0xeb48, 'Duotone'),
-  );
+  static const coinVertical = PiconDuotoneData(PiconData(IconData(0xeb49, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb48, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// coins-duotone
   ///
   /// ![coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins-duotone.svg)
-  static const coins = PiconDuotoneData(
-    0xe78f,
-    PiconData(0xe78e, 'Duotone'),
-  );
+  static const coins = PiconDuotoneData(PiconData(IconData(0xe78f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe78e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// columns-duotone
   ///
   /// ![columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-duotone.svg)
-  static const columns = PiconDuotoneData(
-    0xe547,
-    PiconData(0xe546, 'Duotone'),
-  );
+  static const columns = PiconDuotoneData(PiconData(IconData(0xe547, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe546, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// columns-plus-left-duotone
   ///
   /// ![columns-plus-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left-duotone.svg)
-  static const columnsPlusLeft = PiconDuotoneData(
-    0xe545,
-    PiconData(0xe544, 'Duotone'),
-  );
+  static const columnsPlusLeft = PiconDuotoneData(PiconData(IconData(0xe545, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe544, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// columns-plus-right-duotone
   ///
   /// ![columns-plus-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right-duotone.svg)
-  static const columnsPlusRight = PiconDuotoneData(
-    0xe543,
-    PiconData(0xe542, 'Duotone'),
-  );
+  static const columnsPlusRight = PiconDuotoneData(PiconData(IconData(0xe543, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe542, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// command-duotone
   ///
   /// ![command-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command-duotone.svg)
-  static const command = PiconDuotoneData(
-    0xe1c5,
-    PiconData(0xe1c4, 'Duotone'),
-  );
+  static const command = PiconDuotoneData(PiconData(IconData(0xe1c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// compass-duotone
   ///
   /// ![compass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-duotone.svg)
-  static const compass = PiconDuotoneData(
-    0xe1c9,
-    PiconData(0xe1c8, 'Duotone'),
-  );
+  static const compass = PiconDuotoneData(PiconData(IconData(0xe1c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// compass-rose-duotone
   ///
   /// ![compass-rose-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose-duotone.svg)
-  static const compassRose = PiconDuotoneData(
-    0xe1c7,
-    PiconData(0xe1c6, 'Duotone'),
-  );
+  static const compassRose = PiconDuotoneData(PiconData(IconData(0xe1c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// compass-tool-duotone
   ///
   /// ![compass-tool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool-duotone.svg)
-  static const compassTool = PiconDuotoneData(
-    0xea0f,
-    PiconData(0xea0e, 'Duotone'),
-  );
+  static const compassTool = PiconDuotoneData(PiconData(IconData(0xea0f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea0e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// computer-tower-duotone
   ///
   /// ![computer-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower-duotone.svg)
-  static const computerTower = PiconDuotoneData(
-    0xe549,
-    PiconData(0xe548, 'Duotone'),
-  );
+  static const computerTower = PiconDuotoneData(PiconData(IconData(0xe549, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe548, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// confetti-duotone
   ///
   /// ![confetti-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti-duotone.svg)
-  static const confetti = PiconDuotoneData(
-    0xe81b,
-    PiconData(0xe81a, 'Duotone'),
-  );
+  static const confetti = PiconDuotoneData(PiconData(IconData(0xe81b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe81a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// contactless-payment-duotone
   ///
   /// ![contactless-payment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment-duotone.svg)
-  static const contactlessPayment = PiconDuotoneData(
-    0xed43,
-    PiconData(0xed42, 'Duotone'),
-  );
+  static const contactlessPayment = PiconDuotoneData(PiconData(IconData(0xed43, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed42, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// control-duotone
   ///
   /// ![control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control-duotone.svg)
-  static const control = PiconDuotoneData(
-    0xeca7,
-    PiconData(0xeca6, 'Duotone'),
-  );
+  static const control = PiconDuotoneData(PiconData(IconData(0xeca7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeca6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cookie-duotone
   ///
   /// ![cookie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie-duotone.svg)
-  static const cookie = PiconDuotoneData(
-    0xe6cb,
-    PiconData(0xe6ca, 'Duotone'),
-  );
+  static const cookie = PiconDuotoneData(PiconData(IconData(0xe6cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cooking-pot-duotone
   ///
   /// ![cooking-pot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot-duotone.svg)
-  static const cookingPot = PiconDuotoneData(
-    0xe765,
-    PiconData(0xe764, 'Duotone'),
-  );
+  static const cookingPot = PiconDuotoneData(PiconData(IconData(0xe765, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe764, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// copy-duotone
   ///
   /// ![copy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-duotone.svg)
-  static const copy = PiconDuotoneData(
-    0xe1cb,
-    PiconData(0xe1ca, 'Duotone'),
-  );
+  static const copy = PiconDuotoneData(PiconData(IconData(0xe1cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// copy-simple-duotone
   ///
   /// ![copy-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple-duotone.svg)
-  static const copySimple = PiconDuotoneData(
-    0xe1cd,
-    PiconData(0xe1cc, 'Duotone'),
-  );
+  static const copySimple = PiconDuotoneData(PiconData(IconData(0xe1cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// copyleft-duotone
   ///
   /// ![copyleft-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft-duotone.svg)
-  static const copyleft = PiconDuotoneData(
-    0xe86b,
-    PiconData(0xe86a, 'Duotone'),
-  );
+  static const copyleft = PiconDuotoneData(PiconData(IconData(0xe86b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe86a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// copyright-duotone
   ///
   /// ![copyright-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright-duotone.svg)
-  static const copyright = PiconDuotoneData(
-    0xe54b,
-    PiconData(0xe54a, 'Duotone'),
-  );
+  static const copyright = PiconDuotoneData(PiconData(IconData(0xe54b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe54a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// corners-in-duotone
   ///
   /// ![corners-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in-duotone.svg)
-  static const cornersIn = PiconDuotoneData(
-    0xe1cf,
-    PiconData(0xe1ce, 'Duotone'),
-  );
+  static const cornersIn = PiconDuotoneData(PiconData(IconData(0xe1cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// corners-out-duotone
   ///
   /// ![corners-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out-duotone.svg)
-  static const cornersOut = PiconDuotoneData(
-    0xe1d1,
-    PiconData(0xe1d0, 'Duotone'),
-  );
+  static const cornersOut = PiconDuotoneData(PiconData(IconData(0xe1d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// couch-duotone
   ///
   /// ![couch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch-duotone.svg)
-  static const couch = PiconDuotoneData(
-    0xe7f7,
-    PiconData(0xe7f6, 'Duotone'),
-  );
+  static const couch = PiconDuotoneData(PiconData(IconData(0xe7f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// court-basketball-duotone
   ///
   /// ![court-basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball-duotone.svg)
-  static const courtBasketball = PiconDuotoneData(
-    0xee37,
-    PiconData(0xee36, 'Duotone'),
-  );
+  static const courtBasketball = PiconDuotoneData(PiconData(IconData(0xee37, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee36, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cow-duotone
   ///
   /// ![cow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow-duotone.svg)
-  static const cow = PiconDuotoneData(
-    0xeabf,
-    PiconData(0xeabe, 'Duotone'),
-  );
+  static const cow = PiconDuotoneData(PiconData(IconData(0xeabf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeabe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cowboy-hat-duotone
   ///
   /// ![cowboy-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat-duotone.svg)
-  static const cowboyHat = PiconDuotoneData(
-    0xed13,
-    PiconData(0xed12, 'Duotone'),
-  );
+  static const cowboyHat = PiconDuotoneData(PiconData(IconData(0xed13, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed12, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cpu-duotone
   ///
   /// ![cpu-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu-duotone.svg)
-  static const cpu = PiconDuotoneData(
-    0xe611,
-    PiconData(0xe610, 'Duotone'),
-  );
+  static const cpu = PiconDuotoneData(PiconData(IconData(0xe611, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe610, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crane-duotone
   ///
   /// ![crane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-duotone.svg)
-  static const crane = PiconDuotoneData(
-    0xed4b,
-    PiconData(0xed48, 'Duotone'),
-  );
+  static const crane = PiconDuotoneData(PiconData(IconData(0xed4b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed48, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crane-tower-duotone
   ///
   /// ![crane-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower-duotone.svg)
-  static const craneTower = PiconDuotoneData(
-    0xed4d,
-    PiconData(0xed49, 'Duotone'),
-  );
+  static const craneTower = PiconDuotoneData(PiconData(IconData(0xed4d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed49, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// credit-card-duotone
   ///
   /// ![credit-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card-duotone.svg)
-  static const creditCard = PiconDuotoneData(
-    0xe1d3,
-    PiconData(0xe1d2, 'Duotone'),
-  );
+  static const creditCard = PiconDuotoneData(PiconData(IconData(0xe1d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cricket-duotone
   ///
   /// ![cricket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket-duotone.svg)
-  static const cricket = PiconDuotoneData(
-    0xee13,
-    PiconData(0xee12, 'Duotone'),
-  );
+  static const cricket = PiconDuotoneData(PiconData(IconData(0xee13, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee12, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crop-duotone
   ///
   /// ![crop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop-duotone.svg)
-  static const crop = PiconDuotoneData(
-    0xe1d5,
-    PiconData(0xe1d4, 'Duotone'),
-  );
+  static const crop = PiconDuotoneData(PiconData(IconData(0xe1d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cross-duotone
   ///
   /// ![cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross-duotone.svg)
-  static const cross = PiconDuotoneData(
-    0xe8a1,
-    PiconData(0xe8a0, 'Duotone'),
-  );
+  static const cross = PiconDuotoneData(PiconData(IconData(0xe8a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crosshair-duotone
   ///
   /// ![crosshair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-duotone.svg)
-  static const crosshair = PiconDuotoneData(
-    0xe1d7,
-    PiconData(0xe1d6, 'Duotone'),
-  );
+  static const crosshair = PiconDuotoneData(PiconData(IconData(0xe1d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crosshair-simple-duotone
   ///
   /// ![crosshair-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple-duotone.svg)
-  static const crosshairSimple = PiconDuotoneData(
-    0xe1d9,
-    PiconData(0xe1d8, 'Duotone'),
-  );
+  static const crosshairSimple = PiconDuotoneData(PiconData(IconData(0xe1d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crown-duotone
   ///
   /// ![crown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-duotone.svg)
-  static const crown = PiconDuotoneData(
-    0xe615,
-    PiconData(0xe614, 'Duotone'),
-  );
+  static const crown = PiconDuotoneData(PiconData(IconData(0xe615, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe614, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crown-cross-duotone
   ///
   /// ![crown-cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross-duotone.svg)
-  static const crownCross = PiconDuotoneData(
-    0xee5f,
-    PiconData(0xee5e, 'Duotone'),
-  );
+  static const crownCross = PiconDuotoneData(PiconData(IconData(0xee5f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee5e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// crown-simple-duotone
   ///
   /// ![crown-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple-duotone.svg)
-  static const crownSimple = PiconDuotoneData(
-    0xe617,
-    PiconData(0xe616, 'Duotone'),
-  );
+  static const crownSimple = PiconDuotoneData(PiconData(IconData(0xe617, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe616, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cube-duotone
   ///
   /// ![cube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-duotone.svg)
-  static const cube = PiconDuotoneData(
-    0xe1db,
-    PiconData(0xe1da, 'Duotone'),
-  );
+  static const cube = PiconDuotoneData(PiconData(IconData(0xe1db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cube-focus-duotone
   ///
   /// ![cube-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus-duotone.svg)
-  static const cubeFocus = PiconDuotoneData(
-    0xed0b,
-    PiconData(0xed0a, 'Duotone'),
-  );
+  static const cubeFocus = PiconDuotoneData(PiconData(IconData(0xed0b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed0a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cube-transparent-duotone
   ///
   /// ![cube-transparent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent-duotone.svg)
-  static const cubeTransparent = PiconDuotoneData(
-    0xec7d,
-    PiconData(0xec7c, 'Duotone'),
-  );
+  static const cubeTransparent = PiconDuotoneData(PiconData(IconData(0xec7d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec7c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-btc-duotone
   ///
   /// ![currency-btc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc-duotone.svg)
-  static const currencyBtc = PiconDuotoneData(
-    0xe619,
-    PiconData(0xe618, 'Duotone'),
-  );
+  static const currencyBtc = PiconDuotoneData(PiconData(IconData(0xe619, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe618, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-circle-dollar-duotone
   ///
   /// ![currency-circle-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar-duotone.svg)
-  static const currencyCircleDollar = PiconDuotoneData(
-    0xe54d,
-    PiconData(0xe54c, 'Duotone'),
-  );
+  static const currencyCircleDollar = PiconDuotoneData(PiconData(IconData(0xe54d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe54c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-cny-duotone
   ///
   /// ![currency-cny-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny-duotone.svg)
-  static const currencyCny = PiconDuotoneData(
-    0xe54f,
-    PiconData(0xe54e, 'Duotone'),
-  );
+  static const currencyCny = PiconDuotoneData(PiconData(IconData(0xe54f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe54e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-dollar-duotone
   ///
   /// ![currency-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-duotone.svg)
-  static const currencyDollar = PiconDuotoneData(
-    0xe551,
-    PiconData(0xe550, 'Duotone'),
-  );
+  static const currencyDollar = PiconDuotoneData(PiconData(IconData(0xe551, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe550, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-dollar-simple-duotone
   ///
   /// ![currency-dollar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple-duotone.svg)
-  static const currencyDollarSimple = PiconDuotoneData(
-    0xe553,
-    PiconData(0xe552, 'Duotone'),
-  );
+  static const currencyDollarSimple = PiconDuotoneData(PiconData(IconData(0xe553, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe552, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-eth-duotone
   ///
   /// ![currency-eth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth-duotone.svg)
-  static const currencyEth = PiconDuotoneData(
-    0xeadb,
-    PiconData(0xeada, 'Duotone'),
-  );
+  static const currencyEth = PiconDuotoneData(PiconData(IconData(0xeadb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeada, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-eur-duotone
   ///
   /// ![currency-eur-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur-duotone.svg)
-  static const currencyEur = PiconDuotoneData(
-    0xe555,
-    PiconData(0xe554, 'Duotone'),
-  );
+  static const currencyEur = PiconDuotoneData(PiconData(IconData(0xe555, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe554, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-gbp-duotone
   ///
   /// ![currency-gbp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp-duotone.svg)
-  static const currencyGbp = PiconDuotoneData(
-    0xe557,
-    PiconData(0xe556, 'Duotone'),
-  );
+  static const currencyGbp = PiconDuotoneData(PiconData(IconData(0xe557, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe556, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-inr-duotone
   ///
   /// ![currency-inr-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr-duotone.svg)
-  static const currencyInr = PiconDuotoneData(
-    0xe559,
-    PiconData(0xe558, 'Duotone'),
-  );
+  static const currencyInr = PiconDuotoneData(PiconData(IconData(0xe559, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe558, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-jpy-duotone
   ///
   /// ![currency-jpy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy-duotone.svg)
-  static const currencyJpy = PiconDuotoneData(
-    0xe55b,
-    PiconData(0xe55a, 'Duotone'),
-  );
+  static const currencyJpy = PiconDuotoneData(PiconData(IconData(0xe55b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe55a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-krw-duotone
   ///
   /// ![currency-krw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw-duotone.svg)
-  static const currencyKrw = PiconDuotoneData(
-    0xe55d,
-    PiconData(0xe55c, 'Duotone'),
-  );
+  static const currencyKrw = PiconDuotoneData(PiconData(IconData(0xe55d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe55c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-kzt-duotone
   ///
   /// ![currency-kzt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt-duotone.svg)
-  static const currencyKzt = PiconDuotoneData(
-    0xec4d,
-    PiconData(0xec4c, 'Duotone'),
-  );
+  static const currencyKzt = PiconDuotoneData(PiconData(IconData(0xec4d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec4c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-ngn-duotone
   ///
   /// ![currency-ngn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn-duotone.svg)
-  static const currencyNgn = PiconDuotoneData(
-    0xeb53,
-    PiconData(0xeb52, 'Duotone'),
-  );
+  static const currencyNgn = PiconDuotoneData(PiconData(IconData(0xeb53, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb52, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// currency-rub-duotone
   ///
   /// ![currency-rub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub-duotone.svg)
-  static const currencyRub = PiconDuotoneData(
-    0xe55f,
-    PiconData(0xe55e, 'Duotone'),
-  );
+  static const currencyRub = PiconDuotoneData(PiconData(IconData(0xe55f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe55e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cursor-duotone
   ///
   /// ![cursor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-duotone.svg)
-  static const cursor = PiconDuotoneData(
-    0xe1dd,
-    PiconData(0xe1dc, 'Duotone'),
-  );
+  static const cursor = PiconDuotoneData(PiconData(IconData(0xe1dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cursor-click-duotone
   ///
   /// ![cursor-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click-duotone.svg)
-  static const cursorClick = PiconDuotoneData(
-    0xe7c9,
-    PiconData(0xe7c8, 'Duotone'),
-  );
+  static const cursorClick = PiconDuotoneData(PiconData(IconData(0xe7c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cursor-text-duotone
   ///
   /// ![cursor-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text-duotone.svg)
-  static const cursorText = PiconDuotoneData(
-    0xe7d9,
-    PiconData(0xe7d8, 'Duotone'),
-  );
+  static const cursorText = PiconDuotoneData(PiconData(IconData(0xe7d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// cylinder-duotone
   ///
   /// ![cylinder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder-duotone.svg)
-  static const cylinder = PiconDuotoneData(
-    0xe8fd,
-    PiconData(0xe8fc, 'Duotone'),
-  );
+  static const cylinder = PiconDuotoneData(PiconData(IconData(0xe8fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// database-duotone
   ///
   /// ![database-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database-duotone.svg)
-  static const database = PiconDuotoneData(
-    0xe1df,
-    PiconData(0xe1de, 'Duotone'),
-  );
+  static const database = PiconDuotoneData(PiconData(IconData(0xe1df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// desk-duotone
   ///
   /// ![desk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk-duotone.svg)
-  static const desk = PiconDuotoneData(
-    0xed17,
-    PiconData(0xed16, 'Duotone'),
-  );
+  static const desk = PiconDuotoneData(PiconData(IconData(0xed17, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed16, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// desktop-duotone
   ///
   /// ![desktop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-duotone.svg)
-  static const desktop = PiconDuotoneData(
-    0xe561,
-    PiconData(0xe560, 'Duotone'),
-  );
+  static const desktop = PiconDuotoneData(PiconData(IconData(0xe561, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe560, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// desktop-tower-duotone
   ///
   /// ![desktop-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower-duotone.svg)
-  static const desktopTower = PiconDuotoneData(
-    0xe563,
-    PiconData(0xe562, 'Duotone'),
-  );
+  static const desktopTower = PiconDuotoneData(PiconData(IconData(0xe563, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe562, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// detective-duotone
   ///
   /// ![detective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective-duotone.svg)
-  static const detective = PiconDuotoneData(
-    0xe83f,
-    PiconData(0xe83e, 'Duotone'),
-  );
+  static const detective = PiconDuotoneData(PiconData(IconData(0xe83f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe83e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dev-to-logo-duotone
   ///
   /// ![dev-to-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo-duotone.svg)
-  static const devToLogo = PiconDuotoneData(
-    0xed0f,
-    PiconData(0xed0e, 'Duotone'),
-  );
+  static const devToLogo = PiconDuotoneData(PiconData(IconData(0xed0f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed0e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-mobile-duotone
   ///
   /// ![device-mobile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-duotone.svg)
-  static const deviceMobile = PiconDuotoneData(
-    0xe1e1,
-    PiconData(0xe1e0, 'Duotone'),
-  );
+  static const deviceMobile = PiconDuotoneData(PiconData(IconData(0xe1e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-mobile-camera-duotone
   ///
   /// ![device-mobile-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera-duotone.svg)
-  static const deviceMobileCamera = PiconDuotoneData(
-    0xe1e3,
-    PiconData(0xe1e2, 'Duotone'),
-  );
+  static const deviceMobileCamera = PiconDuotoneData(PiconData(IconData(0xe1e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-mobile-slash-duotone
   ///
   /// ![device-mobile-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash-duotone.svg)
-  static const deviceMobileSlash = PiconDuotoneData(
-    0xee47,
-    PiconData(0xee46, 'Duotone'),
-  );
+  static const deviceMobileSlash = PiconDuotoneData(PiconData(IconData(0xee47, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee46, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-mobile-speaker-duotone
   ///
   /// ![device-mobile-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker-duotone.svg)
-  static const deviceMobileSpeaker = PiconDuotoneData(
-    0xe1e5,
-    PiconData(0xe1e4, 'Duotone'),
-  );
+  static const deviceMobileSpeaker = PiconDuotoneData(PiconData(IconData(0xe1e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-rotate-duotone
   ///
   /// ![device-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate-duotone.svg)
-  static const deviceRotate = PiconDuotoneData(
-    0xedf3,
-    PiconData(0xedf2, 'Duotone'),
-  );
+  static const deviceRotate = PiconDuotoneData(PiconData(IconData(0xedf3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedf2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-tablet-duotone
   ///
   /// ![device-tablet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-duotone.svg)
-  static const deviceTablet = PiconDuotoneData(
-    0xe1e7,
-    PiconData(0xe1e6, 'Duotone'),
-  );
+  static const deviceTablet = PiconDuotoneData(PiconData(IconData(0xe1e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-tablet-camera-duotone
   ///
   /// ![device-tablet-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera-duotone.svg)
-  static const deviceTabletCamera = PiconDuotoneData(
-    0xe1e9,
-    PiconData(0xe1e8, 'Duotone'),
-  );
+  static const deviceTabletCamera = PiconDuotoneData(PiconData(IconData(0xe1e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// device-tablet-speaker-duotone
   ///
   /// ![device-tablet-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker-duotone.svg)
-  static const deviceTabletSpeaker = PiconDuotoneData(
-    0xe1eb,
-    PiconData(0xe1ea, 'Duotone'),
-  );
+  static const deviceTabletSpeaker = PiconDuotoneData(PiconData(IconData(0xe1eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// devices-duotone
   ///
   /// ![devices-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices-duotone.svg)
-  static const devices = PiconDuotoneData(
-    0xeba5,
-    PiconData(0xeba4, 'Duotone'),
-  );
+  static const devices = PiconDuotoneData(PiconData(IconData(0xeba5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeba4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// diamond-duotone
   ///
   /// ![diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond-duotone.svg)
-  static const diamond = PiconDuotoneData(
-    0xe1ed,
-    PiconData(0xe1ec, 'Duotone'),
-  );
+  static const diamond = PiconDuotoneData(PiconData(IconData(0xe1ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// diamonds-four-duotone
   ///
   /// ![diamonds-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four-duotone.svg)
-  static const diamondsFour = PiconDuotoneData(
-    0xe8f5,
-    PiconData(0xe8f4, 'Duotone'),
-  );
+  static const diamondsFour = PiconDuotoneData(PiconData(IconData(0xe8f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-five-duotone
   ///
   /// ![dice-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five-duotone.svg)
-  static const diceFive = PiconDuotoneData(
-    0xe1ef,
-    PiconData(0xe1ee, 'Duotone'),
-  );
+  static const diceFive = PiconDuotoneData(PiconData(IconData(0xe1ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-four-duotone
   ///
   /// ![dice-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four-duotone.svg)
-  static const diceFour = PiconDuotoneData(
-    0xe1f1,
-    PiconData(0xe1f0, 'Duotone'),
-  );
+  static const diceFour = PiconDuotoneData(PiconData(IconData(0xe1f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-one-duotone
   ///
   /// ![dice-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one-duotone.svg)
-  static const diceOne = PiconDuotoneData(
-    0xe1f3,
-    PiconData(0xe1f2, 'Duotone'),
-  );
+  static const diceOne = PiconDuotoneData(PiconData(IconData(0xe1f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-six-duotone
   ///
   /// ![dice-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six-duotone.svg)
-  static const diceSix = PiconDuotoneData(
-    0xe1f5,
-    PiconData(0xe1f4, 'Duotone'),
-  );
+  static const diceSix = PiconDuotoneData(PiconData(IconData(0xe1f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-three-duotone
   ///
   /// ![dice-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three-duotone.svg)
-  static const diceThree = PiconDuotoneData(
-    0xe1f7,
-    PiconData(0xe1f6, 'Duotone'),
-  );
+  static const diceThree = PiconDuotoneData(PiconData(IconData(0xe1f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dice-two-duotone
   ///
   /// ![dice-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two-duotone.svg)
-  static const diceTwo = PiconDuotoneData(
-    0xe1f9,
-    PiconData(0xe1f8, 'Duotone'),
-  );
+  static const diceTwo = PiconDuotoneData(PiconData(IconData(0xe1f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// disc-duotone
   ///
   /// ![disc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc-duotone.svg)
-  static const disc = PiconDuotoneData(
-    0xe565,
-    PiconData(0xe564, 'Duotone'),
-  );
+  static const disc = PiconDuotoneData(PiconData(IconData(0xe565, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe564, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// disco-ball-duotone
   ///
   /// ![disco-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball-duotone.svg)
-  static const discoBall = PiconDuotoneData(
-    0xed99,
-    PiconData(0xed98, 'Duotone'),
-  );
+  static const discoBall = PiconDuotoneData(PiconData(IconData(0xed99, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed98, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// discord-logo-duotone
   ///
   /// ![discord-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo-duotone.svg)
-  static const discordLogo = PiconDuotoneData(
-    0xe61b,
-    PiconData(0xe61a, 'Duotone'),
-  );
+  static const discordLogo = PiconDuotoneData(PiconData(IconData(0xe61b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe61a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// divide-duotone
   ///
   /// ![divide-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide-duotone.svg)
-  static const divide = PiconDuotoneData(
-    0xe1fb,
-    PiconData(0xe1fa, 'Duotone'),
-  );
+  static const divide = PiconDuotoneData(PiconData(IconData(0xe1fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dna-duotone
   ///
   /// ![dna-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna-duotone.svg)
-  static const dna = PiconDuotoneData(
-    0xe925,
-    PiconData(0xe924, 'Duotone'),
-  );
+  static const dna = PiconDuotoneData(PiconData(IconData(0xe925, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe924, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dog-duotone
   ///
   /// ![dog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog-duotone.svg)
-  static const dog = PiconDuotoneData(
-    0xe74b,
-    PiconData(0xe74a, 'Duotone'),
-  );
+  static const dog = PiconDuotoneData(PiconData(IconData(0xe74b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe74a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// door-duotone
   ///
   /// ![door-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-duotone.svg)
-  static const door = PiconDuotoneData(
-    0xe61d,
-    PiconData(0xe61c, 'Duotone'),
-  );
+  static const door = PiconDuotoneData(PiconData(IconData(0xe61d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe61c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// door-open-duotone
   ///
   /// ![door-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open-duotone.svg)
-  static const doorOpen = PiconDuotoneData(
-    0xe7e7,
-    PiconData(0xe7e6, 'Duotone'),
-  );
+  static const doorOpen = PiconDuotoneData(PiconData(IconData(0xe7e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dot-duotone
   ///
   /// ![dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-duotone.svg)
-  static const dot = PiconDuotoneData(
-    0xecdf,
-    PiconData(0xecde, 'Duotone'),
-  );
+  static const dot = PiconDuotoneData(PiconData(IconData(0xecdf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecde, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dot-outline-duotone
   ///
   /// ![dot-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline-duotone.svg)
-  static const dotOutline = PiconDuotoneData(
-    0xece1,
-    PiconData(0xece0, 'Duotone'),
-  );
+  static const dotOutline = PiconDuotoneData(PiconData(IconData(0xece1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xece0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-nine-duotone
   ///
   /// ![dots-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine-duotone.svg)
-  static const dotsNine = PiconDuotoneData(
-    0xe1fd,
-    PiconData(0xe1fc, 'Duotone'),
-  );
+  static const dotsNine = PiconDuotoneData(PiconData(IconData(0xe1fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-six-duotone
   ///
   /// ![dots-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-duotone.svg)
-  static const dotsSix = PiconDuotoneData(
-    0xe795,
-    PiconData(0xe794, 'Duotone'),
-  );
+  static const dotsSix = PiconDuotoneData(PiconData(IconData(0xe795, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe794, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-six-vertical-duotone
   ///
   /// ![dots-six-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical-duotone.svg)
-  static const dotsSixVertical = PiconDuotoneData(
-    0xeae3,
-    PiconData(0xeae2, 'Duotone'),
-  );
+  static const dotsSixVertical = PiconDuotoneData(PiconData(IconData(0xeae3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeae2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-duotone
   ///
   /// ![dots-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-duotone.svg)
-  static const dotsThree = PiconDuotoneData(
-    0xe1ff,
-    PiconData(0xe1fe, 'Duotone'),
-  );
+  static const dotsThree = PiconDuotoneData(PiconData(IconData(0xe1ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-circle-duotone
   ///
   /// ![dots-three-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-duotone.svg)
-  static const dotsThreeCircle = PiconDuotoneData(
-    0xe201,
-    PiconData(0xe200, 'Duotone'),
-  );
+  static const dotsThreeCircle = PiconDuotoneData(PiconData(IconData(0xe201, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe200, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-circle-vertical-duotone
   ///
   /// ![dots-three-circle-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical-duotone.svg)
-  static const dotsThreeCircleVertical = PiconDuotoneData(
-    0xe203,
-    PiconData(0xe202, 'Duotone'),
-  );
+  static const dotsThreeCircleVertical = PiconDuotoneData(PiconData(IconData(0xe203, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe202, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-outline-duotone
   ///
   /// ![dots-three-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-duotone.svg)
-  static const dotsThreeOutline = PiconDuotoneData(
-    0xe205,
-    PiconData(0xe204, 'Duotone'),
-  );
+  static const dotsThreeOutline = PiconDuotoneData(PiconData(IconData(0xe205, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe204, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-outline-vertical-duotone
   ///
   /// ![dots-three-outline-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical-duotone.svg)
-  static const dotsThreeOutlineVertical = PiconDuotoneData(
-    0xe207,
-    PiconData(0xe206, 'Duotone'),
-  );
+  static const dotsThreeOutlineVertical = PiconDuotoneData(PiconData(IconData(0xe207, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe206, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dots-three-vertical-duotone
   ///
   /// ![dots-three-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical-duotone.svg)
-  static const dotsThreeVertical = PiconDuotoneData(
-    0xe209,
-    PiconData(0xe208, 'Duotone'),
-  );
+  static const dotsThreeVertical = PiconDuotoneData(PiconData(IconData(0xe209, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe208, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// download-duotone
   ///
   /// ![download-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-duotone.svg)
-  static const download = PiconDuotoneData(
-    0xe20b,
-    PiconData(0xe20a, 'Duotone'),
-  );
+  static const download = PiconDuotoneData(PiconData(IconData(0xe20b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe20a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// download-simple-duotone
   ///
   /// ![download-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple-duotone.svg)
-  static const downloadSimple = PiconDuotoneData(
-    0xe20d,
-    PiconData(0xe20c, 'Duotone'),
-  );
+  static const downloadSimple = PiconDuotoneData(PiconData(IconData(0xe20d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe20c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dress-duotone
   ///
   /// ![dress-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress-duotone.svg)
-  static const dress = PiconDuotoneData(
-    0xea7f,
-    PiconData(0xea7e, 'Duotone'),
-  );
+  static const dress = PiconDuotoneData(PiconData(IconData(0xea7f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea7e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dresser-duotone
   ///
   /// ![dresser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser-duotone.svg)
-  static const dresser = PiconDuotoneData(
-    0xe94f,
-    PiconData(0xe94e, 'Duotone'),
-  );
+  static const dresser = PiconDuotoneData(PiconData(IconData(0xe94f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe94e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dribbble-logo-duotone
   ///
   /// ![dribbble-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo-duotone.svg)
-  static const dribbbleLogo = PiconDuotoneData(
-    0xe20f,
-    PiconData(0xe20e, 'Duotone'),
-  );
+  static const dribbbleLogo = PiconDuotoneData(PiconData(IconData(0xe20f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe20e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drone-duotone
   ///
   /// ![drone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone-duotone.svg)
-  static const drone = PiconDuotoneData(
-    0xed75,
-    PiconData(0xed74, 'Duotone'),
-  );
+  static const drone = PiconDuotoneData(PiconData(IconData(0xed75, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed74, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drop-duotone
   ///
   /// ![drop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-duotone.svg)
-  static const drop = PiconDuotoneData(
-    0xe211,
-    PiconData(0xe210, 'Duotone'),
-  );
+  static const drop = PiconDuotoneData(PiconData(IconData(0xe211, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe210, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drop-half-duotone
   ///
   /// ![drop-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-duotone.svg)
-  static const dropHalf = PiconDuotoneData(
-    0xe567,
-    PiconData(0xe566, 'Duotone'),
-  );
+  static const dropHalf = PiconDuotoneData(PiconData(IconData(0xe567, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe566, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drop-half-bottom-duotone
   ///
   /// ![drop-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom-duotone.svg)
-  static const dropHalfBottom = PiconDuotoneData(
-    0xeb41,
-    PiconData(0xeb40, 'Duotone'),
-  );
+  static const dropHalfBottom = PiconDuotoneData(PiconData(IconData(0xeb41, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb40, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drop-simple-duotone
   ///
   /// ![drop-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple-duotone.svg)
-  static const dropSimple = PiconDuotoneData(
-    0xee33,
-    PiconData(0xee32, 'Duotone'),
-  );
+  static const dropSimple = PiconDuotoneData(PiconData(IconData(0xee33, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee32, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// drop-slash-duotone
   ///
   /// ![drop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash-duotone.svg)
-  static const dropSlash = PiconDuotoneData(
-    0xe955,
-    PiconData(0xe954, 'Duotone'),
-  );
+  static const dropSlash = PiconDuotoneData(PiconData(IconData(0xe955, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe954, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// dropbox-logo-duotone
   ///
   /// ![dropbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo-duotone.svg)
-  static const dropboxLogo = PiconDuotoneData(
-    0xe7d1,
-    PiconData(0xe7d0, 'Duotone'),
-  );
+  static const dropboxLogo = PiconDuotoneData(PiconData(IconData(0xe7d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ear-duotone
   ///
   /// ![ear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-duotone.svg)
-  static const ear = PiconDuotoneData(
-    0xe70d,
-    PiconData(0xe70c, 'Duotone'),
-  );
+  static const ear = PiconDuotoneData(PiconData(IconData(0xe70d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe70c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ear-slash-duotone
   ///
   /// ![ear-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash-duotone.svg)
-  static const earSlash = PiconDuotoneData(
-    0xe70f,
-    PiconData(0xe70e, 'Duotone'),
-  );
+  static const earSlash = PiconDuotoneData(PiconData(IconData(0xe70f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe70e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// egg-duotone
   ///
   /// ![egg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-duotone.svg)
-  static const egg = PiconDuotoneData(
-    0xe813,
-    PiconData(0xe812, 'Duotone'),
-  );
+  static const egg = PiconDuotoneData(PiconData(IconData(0xe813, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe812, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// egg-crack-duotone
   ///
   /// ![egg-crack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack-duotone.svg)
-  static const eggCrack = PiconDuotoneData(
-    0xeb65,
-    PiconData(0xeb64, 'Duotone'),
-  );
+  static const eggCrack = PiconDuotoneData(PiconData(IconData(0xeb65, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb64, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eject-duotone
   ///
   /// ![eject-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-duotone.svg)
-  static const eject = PiconDuotoneData(
-    0xe213,
-    PiconData(0xe212, 'Duotone'),
-  );
+  static const eject = PiconDuotoneData(PiconData(IconData(0xe213, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe212, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eject-simple-duotone
   ///
   /// ![eject-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple-duotone.svg)
-  static const ejectSimple = PiconDuotoneData(
-    0xe6af,
-    PiconData(0xe6ae, 'Duotone'),
-  );
+  static const ejectSimple = PiconDuotoneData(PiconData(IconData(0xe6af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// elevator-duotone
   ///
   /// ![elevator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator-duotone.svg)
-  static const elevator = PiconDuotoneData(
-    0xecc1,
-    PiconData(0xecc0, 'Duotone'),
-  );
+  static const elevator = PiconDuotoneData(PiconData(IconData(0xecc1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecc0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// empty-duotone
   ///
   /// ![empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty-duotone.svg)
-  static const empty = PiconDuotoneData(
-    0xedbd,
-    PiconData(0xedbc, 'Duotone'),
-  );
+  static const empty = PiconDuotoneData(PiconData(IconData(0xedbd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedbc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// engine-duotone
   ///
   /// ![engine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine-duotone.svg)
-  static const engine = PiconDuotoneData(
-    0xea81,
-    PiconData(0xea80, 'Duotone'),
-  );
+  static const engine = PiconDuotoneData(PiconData(IconData(0xea81, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea80, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// envelope-duotone
   ///
   /// ![envelope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-duotone.svg)
-  static const envelope = PiconDuotoneData(
-    0xe215,
-    PiconData(0xe214, 'Duotone'),
-  );
+  static const envelope = PiconDuotoneData(PiconData(IconData(0xe215, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe214, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// envelope-open-duotone
   ///
   /// ![envelope-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open-duotone.svg)
-  static const envelopeOpen = PiconDuotoneData(
-    0xe217,
-    PiconData(0xe216, 'Duotone'),
-  );
+  static const envelopeOpen = PiconDuotoneData(PiconData(IconData(0xe217, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe216, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// envelope-simple-duotone
   ///
   /// ![envelope-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-duotone.svg)
-  static const envelopeSimple = PiconDuotoneData(
-    0xe219,
-    PiconData(0xe218, 'Duotone'),
-  );
+  static const envelopeSimple = PiconDuotoneData(PiconData(IconData(0xe219, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe218, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// envelope-simple-open-duotone
   ///
   /// ![envelope-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open-duotone.svg)
-  static const envelopeSimpleOpen = PiconDuotoneData(
-    0xe21b,
-    PiconData(0xe21a, 'Duotone'),
-  );
+  static const envelopeSimpleOpen = PiconDuotoneData(PiconData(IconData(0xe21b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe21a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// equalizer-duotone
   ///
   /// ![equalizer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer-duotone.svg)
-  static const equalizer = PiconDuotoneData(
-    0xebbd,
-    PiconData(0xebbc, 'Duotone'),
-  );
+  static const equalizer = PiconDuotoneData(PiconData(IconData(0xebbd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebbc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// equals-duotone
   ///
   /// ![equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals-duotone.svg)
-  static const equals = PiconDuotoneData(
-    0xe21d,
-    PiconData(0xe21c, 'Duotone'),
-  );
+  static const equals = PiconDuotoneData(PiconData(IconData(0xe21d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe21c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eraser-duotone
   ///
   /// ![eraser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser-duotone.svg)
-  static const eraser = PiconDuotoneData(
-    0xe21f,
-    PiconData(0xe21e, 'Duotone'),
-  );
+  static const eraser = PiconDuotoneData(PiconData(IconData(0xe21f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe21e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// escalator-down-duotone
   ///
   /// ![escalator-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down-duotone.svg)
-  static const escalatorDown = PiconDuotoneData(
-    0xecbb,
-    PiconData(0xecba, 'Duotone'),
-  );
+  static const escalatorDown = PiconDuotoneData(PiconData(IconData(0xecbb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// escalator-up-duotone
   ///
   /// ![escalator-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up-duotone.svg)
-  static const escalatorUp = PiconDuotoneData(
-    0xecbd,
-    PiconData(0xecbc, 'Duotone'),
-  );
+  static const escalatorUp = PiconDuotoneData(PiconData(IconData(0xecbd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecbc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// exam-duotone
   ///
   /// ![exam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam-duotone.svg)
-  static const exam = PiconDuotoneData(
-    0xe743,
-    PiconData(0xe742, 'Duotone'),
-  );
+  static const exam = PiconDuotoneData(PiconData(IconData(0xe743, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe742, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// exclamation-mark-duotone
   ///
   /// ![exclamation-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark-duotone.svg)
-  static const exclamationMark = PiconDuotoneData(
-    0xee45,
-    PiconData(0xee44, 'Duotone'),
-  );
+  static const exclamationMark = PiconDuotoneData(PiconData(IconData(0xee45, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee44, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// exclude-duotone
   ///
   /// ![exclude-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-duotone.svg)
-  static const exclude = PiconDuotoneData(
-    0xe883,
-    PiconData(0xe882, 'Duotone'),
-  );
+  static const exclude = PiconDuotoneData(PiconData(IconData(0xe883, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe882, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// exclude-square-duotone
   ///
   /// ![exclude-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square-duotone.svg)
-  static const excludeSquare = PiconDuotoneData(
-    0xe881,
-    PiconData(0xe880, 'Duotone'),
-  );
+  static const excludeSquare = PiconDuotoneData(PiconData(IconData(0xe881, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe880, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// export-duotone
   ///
   /// ![export-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export-duotone.svg)
-  static const export = PiconDuotoneData(
-    0xeaf1,
-    PiconData(0xeaf0, 'Duotone'),
-  );
+  static const export = PiconDuotoneData(PiconData(IconData(0xeaf1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaf0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eye-duotone
   ///
   /// ![eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-duotone.svg)
-  static const eye = PiconDuotoneData(
-    0xe221,
-    PiconData(0xe220, 'Duotone'),
-  );
+  static const eye = PiconDuotoneData(PiconData(IconData(0xe221, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe220, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eye-closed-duotone
   ///
   /// ![eye-closed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed-duotone.svg)
-  static const eyeClosed = PiconDuotoneData(
-    0xe223,
-    PiconData(0xe222, 'Duotone'),
-  );
+  static const eyeClosed = PiconDuotoneData(PiconData(IconData(0xe223, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe222, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eye-slash-duotone
   ///
   /// ![eye-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash-duotone.svg)
-  static const eyeSlash = PiconDuotoneData(
-    0xe225,
-    PiconData(0xe224, 'Duotone'),
-  );
+  static const eyeSlash = PiconDuotoneData(PiconData(IconData(0xe225, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe224, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eyedropper-duotone
   ///
   /// ![eyedropper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-duotone.svg)
-  static const eyedropper = PiconDuotoneData(
-    0xe569,
-    PiconData(0xe568, 'Duotone'),
-  );
+  static const eyedropper = PiconDuotoneData(PiconData(IconData(0xe569, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe568, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eyedropper-sample-duotone
   ///
   /// ![eyedropper-sample-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample-duotone.svg)
-  static const eyedropperSample = PiconDuotoneData(
-    0xeac5,
-    PiconData(0xeac4, 'Duotone'),
-  );
+  static const eyedropperSample = PiconDuotoneData(PiconData(IconData(0xeac5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeac4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eyeglasses-duotone
   ///
   /// ![eyeglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses-duotone.svg)
-  static const eyeglasses = PiconDuotoneData(
-    0xe7bb,
-    PiconData(0xe7ba, 'Duotone'),
-  );
+  static const eyeglasses = PiconDuotoneData(PiconData(IconData(0xe7bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// eyes-duotone
   ///
   /// ![eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes-duotone.svg)
-  static const eyes = PiconDuotoneData(
-    0xee5d,
-    PiconData(0xee5c, 'Duotone'),
-  );
+  static const eyes = PiconDuotoneData(PiconData(IconData(0xee5d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee5c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// face-mask-duotone
   ///
   /// ![face-mask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask-duotone.svg)
-  static const faceMask = PiconDuotoneData(
-    0xe56b,
-    PiconData(0xe56a, 'Duotone'),
-  );
+  static const faceMask = PiconDuotoneData(PiconData(IconData(0xe56b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe56a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// facebook-logo-duotone
   ///
   /// ![facebook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo-duotone.svg)
-  static const facebookLogo = PiconDuotoneData(
-    0xe227,
-    PiconData(0xe226, 'Duotone'),
-  );
+  static const facebookLogo = PiconDuotoneData(PiconData(IconData(0xe227, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe226, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// factory-duotone
   ///
   /// ![factory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory-duotone.svg)
-  static const factory = PiconDuotoneData(
-    0xe761,
-    PiconData(0xe760, 'Duotone'),
-  );
+  static const factory = PiconDuotoneData(PiconData(IconData(0xe761, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe760, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// faders-duotone
   ///
   /// ![faders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-duotone.svg)
-  static const faders = PiconDuotoneData(
-    0xe229,
-    PiconData(0xe228, 'Duotone'),
-  );
+  static const faders = PiconDuotoneData(PiconData(IconData(0xe229, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe228, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// faders-horizontal-duotone
   ///
   /// ![faders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal-duotone.svg)
-  static const fadersHorizontal = PiconDuotoneData(
-    0xe22b,
-    PiconData(0xe22a, 'Duotone'),
-  );
+  static const fadersHorizontal = PiconDuotoneData(PiconData(IconData(0xe22b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe22a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fallout-shelter-duotone
   ///
   /// ![fallout-shelter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter-duotone.svg)
-  static const falloutShelter = PiconDuotoneData(
-    0xe9df,
-    PiconData(0xe9de, 'Duotone'),
-  );
+  static const falloutShelter = PiconDuotoneData(PiconData(IconData(0xe9df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fan-duotone
   ///
   /// ![fan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan-duotone.svg)
-  static const fan = PiconDuotoneData(
-    0xe9f3,
-    PiconData(0xe9f2, 'Duotone'),
-  );
+  static const fan = PiconDuotoneData(PiconData(IconData(0xe9f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// farm-duotone
   ///
   /// ![farm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm-duotone.svg)
-  static const farm = PiconDuotoneData(
-    0xec71,
-    PiconData(0xec70, 'Duotone'),
-  );
+  static const farm = PiconDuotoneData(PiconData(IconData(0xec71, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec70, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fast-forward-duotone
   ///
   /// ![fast-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-duotone.svg)
-  static const fastForward = PiconDuotoneData(
-    0xe6a7,
-    PiconData(0xe6a6, 'Duotone'),
-  );
+  static const fastForward = PiconDuotoneData(PiconData(IconData(0xe6a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fast-forward-circle-duotone
   ///
   /// ![fast-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle-duotone.svg)
-  static const fastForwardCircle = PiconDuotoneData(
-    0xe22d,
-    PiconData(0xe22c, 'Duotone'),
-  );
+  static const fastForwardCircle = PiconDuotoneData(PiconData(IconData(0xe22d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe22c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// feather-duotone
   ///
   /// ![feather-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather-duotone.svg)
-  static const feather = PiconDuotoneData(
-    0xe9c1,
-    PiconData(0xe9c0, 'Duotone'),
-  );
+  static const feather = PiconDuotoneData(PiconData(IconData(0xe9c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fediverse-logo-duotone
   ///
   /// ![fediverse-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo-duotone.svg)
-  static const fediverseLogo = PiconDuotoneData(
-    0xed67,
-    PiconData(0xed66, 'Duotone'),
-  );
+  static const fediverseLogo = PiconDuotoneData(PiconData(IconData(0xed67, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed66, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// figma-logo-duotone
   ///
   /// ![figma-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo-duotone.svg)
-  static const figmaLogo = PiconDuotoneData(
-    0xe22f,
-    PiconData(0xe22e, 'Duotone'),
-  );
+  static const figmaLogo = PiconDuotoneData(PiconData(IconData(0xe22f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe22e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-duotone
   ///
   /// ![file-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-duotone.svg)
-  static const file = PiconDuotoneData(
-    0xe231,
-    PiconData(0xe230, 'Duotone'),
-  );
+  static const file = PiconDuotoneData(PiconData(IconData(0xe231, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe230, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-archive-duotone
   ///
   /// ![file-archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive-duotone.svg)
-  static const fileArchive = PiconDuotoneData(
-    0xeb2b,
-    PiconData(0xeb2a, 'Duotone'),
-  );
+  static const fileArchive = PiconDuotoneData(PiconData(IconData(0xeb2b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb2a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-arrow-down-duotone
   ///
   /// ![file-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down-duotone.svg)
-  static const fileArrowDown = PiconDuotoneData(
-    0xe233,
-    PiconData(0xe232, 'Duotone'),
-  );
+  static const fileArrowDown = PiconDuotoneData(PiconData(IconData(0xe233, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe232, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-arrow-up-duotone
   ///
   /// ![file-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up-duotone.svg)
-  static const fileArrowUp = PiconDuotoneData(
-    0xe61f,
-    PiconData(0xe61e, 'Duotone'),
-  );
+  static const fileArrowUp = PiconDuotoneData(PiconData(IconData(0xe61f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe61e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-audio-duotone
   ///
   /// ![file-audio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio-duotone.svg)
-  static const fileAudio = PiconDuotoneData(
-    0xea21,
-    PiconData(0xea20, 'Duotone'),
-  );
+  static const fileAudio = PiconDuotoneData(PiconData(IconData(0xea21, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea20, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-c-duotone
   ///
   /// ![file-c-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-duotone.svg)
-  static const fileC = PiconDuotoneData(
-    0xeb36,
-    PiconData(0xeb32, 'Duotone'),
-  );
+  static const fileC = PiconDuotoneData(PiconData(IconData(0xeb36, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb32, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-c-sharp-duotone
   ///
   /// ![file-c-sharp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp-duotone.svg)
-  static const fileCSharp = PiconDuotoneData(
-    0xeb31,
-    PiconData(0xeb30, 'Duotone'),
-  );
+  static const fileCSharp = PiconDuotoneData(PiconData(IconData(0xeb31, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb30, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-cloud-duotone
   ///
   /// ![file-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud-duotone.svg)
-  static const fileCloud = PiconDuotoneData(
-    0xe95f,
-    PiconData(0xe95e, 'Duotone'),
-  );
+  static const fileCloud = PiconDuotoneData(PiconData(IconData(0xe95f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe95e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-code-duotone
   ///
   /// ![file-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code-duotone.svg)
-  static const fileCode = PiconDuotoneData(
-    0xe915,
-    PiconData(0xe914, 'Duotone'),
-  );
+  static const fileCode = PiconDuotoneData(PiconData(IconData(0xe915, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe914, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-cpp-duotone
   ///
   /// ![file-cpp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp-duotone.svg)
-  static const fileCpp = PiconDuotoneData(
-    0xeb2f,
-    PiconData(0xeb2e, 'Duotone'),
-  );
+  static const fileCpp = PiconDuotoneData(PiconData(IconData(0xeb2f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb2e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-css-duotone
   ///
   /// ![file-css-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css-duotone.svg)
-  static const fileCss = PiconDuotoneData(
-    0xeb37,
-    PiconData(0xeb34, 'Duotone'),
-  );
+  static const fileCss = PiconDuotoneData(PiconData(IconData(0xeb37, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb34, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-csv-duotone
   ///
   /// ![file-csv-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv-duotone.svg)
-  static const fileCsv = PiconDuotoneData(
-    0xeb1d,
-    PiconData(0xeb1c, 'Duotone'),
-  );
+  static const fileCsv = PiconDuotoneData(PiconData(IconData(0xeb1d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb1c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-dashed-duotone
   ///
   /// ![file-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed-duotone.svg)
-  static const fileDashed = PiconDuotoneData(
-    0xe705,
-    PiconData(0xe704, 'Duotone'),
-  );
+  static const fileDashed = PiconDuotoneData(PiconData(IconData(0xe705, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe704, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-doc-duotone
   ///
   /// ![file-doc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc-duotone.svg)
-  static const fileDoc = PiconDuotoneData(
-    0xeb1f,
-    PiconData(0xeb1e, 'Duotone'),
-  );
+  static const fileDoc = PiconDuotoneData(PiconData(IconData(0xeb1f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb1e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-html-duotone
   ///
   /// ![file-html-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html-duotone.svg)
-  static const fileHtml = PiconDuotoneData(
-    0xeb39,
-    PiconData(0xeb38, 'Duotone'),
-  );
+  static const fileHtml = PiconDuotoneData(PiconData(IconData(0xeb39, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb38, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-image-duotone
   ///
   /// ![file-image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image-duotone.svg)
-  static const fileImage = PiconDuotoneData(
-    0xea25,
-    PiconData(0xea24, 'Duotone'),
-  );
+  static const fileImage = PiconDuotoneData(PiconData(IconData(0xea25, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea24, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-ini-duotone
   ///
   /// ![file-ini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini-duotone.svg)
-  static const fileIni = PiconDuotoneData(
-    0xeb3b,
-    PiconData(0xeb33, 'Duotone'),
-  );
+  static const fileIni = PiconDuotoneData(PiconData(IconData(0xeb3b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb33, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-jpg-duotone
   ///
   /// ![file-jpg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg-duotone.svg)
-  static const fileJpg = PiconDuotoneData(
-    0xeb1b,
-    PiconData(0xeb1a, 'Duotone'),
-  );
+  static const fileJpg = PiconDuotoneData(PiconData(IconData(0xeb1b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb1a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-js-duotone
   ///
   /// ![file-js-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js-duotone.svg)
-  static const fileJs = PiconDuotoneData(
-    0xeb25,
-    PiconData(0xeb24, 'Duotone'),
-  );
+  static const fileJs = PiconDuotoneData(PiconData(IconData(0xeb25, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb24, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-jsx-duotone
   ///
   /// ![file-jsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx-duotone.svg)
-  static const fileJsx = PiconDuotoneData(
-    0xeb3d,
-    PiconData(0xeb3a, 'Duotone'),
-  );
+  static const fileJsx = PiconDuotoneData(PiconData(IconData(0xeb3d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb3a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-lock-duotone
   ///
   /// ![file-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock-duotone.svg)
-  static const fileLock = PiconDuotoneData(
-    0xe95d,
-    PiconData(0xe95c, 'Duotone'),
-  );
+  static const fileLock = PiconDuotoneData(PiconData(IconData(0xe95d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe95c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-magnifying-glass-duotone
   ///
   /// ![file-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass-duotone.svg)
-  static const fileMagnifyingGlass = PiconDuotoneData(
-    0xe239,
-    PiconData(0xe238, 'Duotone'),
-  );
+  static const fileMagnifyingGlass = PiconDuotoneData(PiconData(IconData(0xe239, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe238, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-md-duotone
   ///
   /// ![file-md-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md-duotone.svg)
-  static const fileMd = PiconDuotoneData(
-    0xed51,
-    PiconData(0xed50, 'Duotone'),
-  );
+  static const fileMd = PiconDuotoneData(PiconData(IconData(0xed51, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed50, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-minus-duotone
   ///
   /// ![file-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus-duotone.svg)
-  static const fileMinus = PiconDuotoneData(
-    0xe235,
-    PiconData(0xe234, 'Duotone'),
-  );
+  static const fileMinus = PiconDuotoneData(PiconData(IconData(0xe235, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe234, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-pdf-duotone
   ///
   /// ![file-pdf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf-duotone.svg)
-  static const filePdf = PiconDuotoneData(
-    0xe703,
-    PiconData(0xe702, 'Duotone'),
-  );
+  static const filePdf = PiconDuotoneData(PiconData(IconData(0xe703, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe702, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-plus-duotone
   ///
   /// ![file-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus-duotone.svg)
-  static const filePlus = PiconDuotoneData(
-    0xe237,
-    PiconData(0xe236, 'Duotone'),
-  );
+  static const filePlus = PiconDuotoneData(PiconData(IconData(0xe237, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe236, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-png-duotone
   ///
   /// ![file-png-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png-duotone.svg)
-  static const filePng = PiconDuotoneData(
-    0xeb19,
-    PiconData(0xeb18, 'Duotone'),
-  );
+  static const filePng = PiconDuotoneData(PiconData(IconData(0xeb19, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb18, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-ppt-duotone
   ///
   /// ![file-ppt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt-duotone.svg)
-  static const filePpt = PiconDuotoneData(
-    0xeb21,
-    PiconData(0xeb20, 'Duotone'),
-  );
+  static const filePpt = PiconDuotoneData(PiconData(IconData(0xeb21, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb20, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-py-duotone
   ///
   /// ![file-py-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py-duotone.svg)
-  static const filePy = PiconDuotoneData(
-    0xeb2d,
-    PiconData(0xeb2c, 'Duotone'),
-  );
+  static const filePy = PiconDuotoneData(PiconData(IconData(0xeb2d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb2c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-rs-duotone
   ///
   /// ![file-rs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs-duotone.svg)
-  static const fileRs = PiconDuotoneData(
-    0xeb29,
-    PiconData(0xeb28, 'Duotone'),
-  );
+  static const fileRs = PiconDuotoneData(PiconData(IconData(0xeb29, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb28, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-sql-duotone
   ///
   /// ![file-sql-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql-duotone.svg)
-  static const fileSql = PiconDuotoneData(
-    0xed4f,
-    PiconData(0xed4e, 'Duotone'),
-  );
+  static const fileSql = PiconDuotoneData(PiconData(IconData(0xed4f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed4e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-svg-duotone
   ///
   /// ![file-svg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg-duotone.svg)
-  static const fileSvg = PiconDuotoneData(
-    0xed09,
-    PiconData(0xed08, 'Duotone'),
-  );
+  static const fileSvg = PiconDuotoneData(PiconData(IconData(0xed09, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed08, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-text-duotone
   ///
   /// ![file-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text-duotone.svg)
-  static const fileText = PiconDuotoneData(
-    0xe23b,
-    PiconData(0xe23a, 'Duotone'),
-  );
+  static const fileText = PiconDuotoneData(PiconData(IconData(0xe23b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe23a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-ts-duotone
   ///
   /// ![file-ts-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts-duotone.svg)
-  static const fileTs = PiconDuotoneData(
-    0xeb27,
-    PiconData(0xeb26, 'Duotone'),
-  );
+  static const fileTs = PiconDuotoneData(PiconData(IconData(0xeb27, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb26, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-tsx-duotone
   ///
   /// ![file-tsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx-duotone.svg)
-  static const fileTsx = PiconDuotoneData(
-    0xeb3f,
-    PiconData(0xeb3c, 'Duotone'),
-  );
+  static const fileTsx = PiconDuotoneData(PiconData(IconData(0xeb3f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb3c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-txt-duotone
   ///
   /// ![file-txt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt-duotone.svg)
-  static const fileTxt = PiconDuotoneData(
-    0xeb43,
-    PiconData(0xeb35, 'Duotone'),
-  );
+  static const fileTxt = PiconDuotoneData(PiconData(IconData(0xeb43, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb35, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-video-duotone
   ///
   /// ![file-video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video-duotone.svg)
-  static const fileVideo = PiconDuotoneData(
-    0xea23,
-    PiconData(0xea22, 'Duotone'),
-  );
+  static const fileVideo = PiconDuotoneData(PiconData(IconData(0xea23, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea22, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-vue-duotone
   ///
   /// ![file-vue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue-duotone.svg)
-  static const fileVue = PiconDuotoneData(
-    0xeb47,
-    PiconData(0xeb3e, 'Duotone'),
-  );
+  static const fileVue = PiconDuotoneData(PiconData(IconData(0xeb47, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb3e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-x-duotone
   ///
   /// ![file-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x-duotone.svg)
-  static const fileX = PiconDuotoneData(
-    0xe23d,
-    PiconData(0xe23c, 'Duotone'),
-  );
+  static const fileX = PiconDuotoneData(PiconData(IconData(0xe23d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe23c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-xls-duotone
   ///
   /// ![file-xls-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls-duotone.svg)
-  static const fileXls = PiconDuotoneData(
-    0xeb23,
-    PiconData(0xeb22, 'Duotone'),
-  );
+  static const fileXls = PiconDuotoneData(PiconData(IconData(0xeb23, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb22, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// file-zip-duotone
   ///
   /// ![file-zip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip-duotone.svg)
-  static const fileZip = PiconDuotoneData(
-    0xe959,
-    PiconData(0xe958, 'Duotone'),
-  );
+  static const fileZip = PiconDuotoneData(PiconData(IconData(0xe959, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe958, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// files-duotone
   ///
   /// ![files-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files-duotone.svg)
-  static const files = PiconDuotoneData(
-    0xe711,
-    PiconData(0xe710, 'Duotone'),
-  );
+  static const files = PiconDuotoneData(PiconData(IconData(0xe711, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe710, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// film-reel-duotone
   ///
   /// ![film-reel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel-duotone.svg)
-  static const filmReel = PiconDuotoneData(
-    0xe8c1,
-    PiconData(0xe8c0, 'Duotone'),
-  );
+  static const filmReel = PiconDuotoneData(PiconData(IconData(0xe8c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// film-script-duotone
   ///
   /// ![film-script-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script-duotone.svg)
-  static const filmScript = PiconDuotoneData(
-    0xeb51,
-    PiconData(0xeb50, 'Duotone'),
-  );
+  static const filmScript = PiconDuotoneData(PiconData(IconData(0xeb51, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb50, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// film-slate-duotone
   ///
   /// ![film-slate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate-duotone.svg)
-  static const filmSlate = PiconDuotoneData(
-    0xe8c3,
-    PiconData(0xe8c2, 'Duotone'),
-  );
+  static const filmSlate = PiconDuotoneData(PiconData(IconData(0xe8c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// film-strip-duotone
   ///
   /// ![film-strip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip-duotone.svg)
-  static const filmStrip = PiconDuotoneData(
-    0xe793,
-    PiconData(0xe792, 'Duotone'),
-  );
+  static const filmStrip = PiconDuotoneData(PiconData(IconData(0xe793, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe792, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fingerprint-duotone
   ///
   /// ![fingerprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-duotone.svg)
-  static const fingerprint = PiconDuotoneData(
-    0xe23f,
-    PiconData(0xe23e, 'Duotone'),
-  );
+  static const fingerprint = PiconDuotoneData(PiconData(IconData(0xe23f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe23e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fingerprint-simple-duotone
   ///
   /// ![fingerprint-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple-duotone.svg)
-  static const fingerprintSimple = PiconDuotoneData(
-    0xe241,
-    PiconData(0xe240, 'Duotone'),
-  );
+  static const fingerprintSimple = PiconDuotoneData(PiconData(IconData(0xe241, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe240, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// finn-the-human-duotone
   ///
   /// ![finn-the-human-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human-duotone.svg)
-  static const finnTheHuman = PiconDuotoneData(
-    0xe56d,
-    PiconData(0xe56c, 'Duotone'),
-  );
+  static const finnTheHuman = PiconDuotoneData(PiconData(IconData(0xe56d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe56c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fire-duotone
   ///
   /// ![fire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-duotone.svg)
-  static const fire = PiconDuotoneData(
-    0xe243,
-    PiconData(0xe242, 'Duotone'),
-  );
+  static const fire = PiconDuotoneData(PiconData(IconData(0xe243, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe242, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fire-extinguisher-duotone
   ///
   /// ![fire-extinguisher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher-duotone.svg)
-  static const fireExtinguisher = PiconDuotoneData(
-    0xe9e9,
-    PiconData(0xe9e8, 'Duotone'),
-  );
+  static const fireExtinguisher = PiconDuotoneData(PiconData(IconData(0xe9e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fire-simple-duotone
   ///
   /// ![fire-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple-duotone.svg)
-  static const fireSimple = PiconDuotoneData(
-    0xe621,
-    PiconData(0xe620, 'Duotone'),
-  );
+  static const fireSimple = PiconDuotoneData(PiconData(IconData(0xe621, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe620, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fire-truck-duotone
   ///
   /// ![fire-truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck-duotone.svg)
-  static const fireTruck = PiconDuotoneData(
-    0xe575,
-    PiconData(0xe574, 'Duotone'),
-  );
+  static const fireTruck = PiconDuotoneData(PiconData(IconData(0xe575, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe574, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// first-aid-duotone
   ///
   /// ![first-aid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-duotone.svg)
-  static const firstAid = PiconDuotoneData(
-    0xe56f,
-    PiconData(0xe56e, 'Duotone'),
-  );
+  static const firstAid = PiconDuotoneData(PiconData(IconData(0xe56f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe56e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// first-aid-kit-duotone
   ///
   /// ![first-aid-kit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit-duotone.svg)
-  static const firstAidKit = PiconDuotoneData(
-    0xe571,
-    PiconData(0xe570, 'Duotone'),
-  );
+  static const firstAidKit = PiconDuotoneData(PiconData(IconData(0xe571, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe570, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fish-duotone
   ///
   /// ![fish-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-duotone.svg)
-  static const fish = PiconDuotoneData(
-    0xe729,
-    PiconData(0xe728, 'Duotone'),
-  );
+  static const fish = PiconDuotoneData(PiconData(IconData(0xe729, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe728, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fish-simple-duotone
   ///
   /// ![fish-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple-duotone.svg)
-  static const fishSimple = PiconDuotoneData(
-    0xe72b,
-    PiconData(0xe72a, 'Duotone'),
-  );
+  static const fishSimple = PiconDuotoneData(PiconData(IconData(0xe72b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe72a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flag-duotone
   ///
   /// ![flag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-duotone.svg)
-  static const flag = PiconDuotoneData(
-    0xe245,
-    PiconData(0xe244, 'Duotone'),
-  );
+  static const flag = PiconDuotoneData(PiconData(IconData(0xe245, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe244, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flag-banner-duotone
   ///
   /// ![flag-banner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-duotone.svg)
-  static const flagBanner = PiconDuotoneData(
-    0xe623,
-    PiconData(0xe622, 'Duotone'),
-  );
+  static const flagBanner = PiconDuotoneData(PiconData(IconData(0xe623, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe622, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flag-banner-fold-duotone
   ///
   /// ![flag-banner-fold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold-duotone.svg)
-  static const flagBannerFold = PiconDuotoneData(
-    0xecf3,
-    PiconData(0xecf2, 'Duotone'),
-  );
+  static const flagBannerFold = PiconDuotoneData(PiconData(IconData(0xecf3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecf2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flag-checkered-duotone
   ///
   /// ![flag-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered-duotone.svg)
-  static const flagCheckered = PiconDuotoneData(
-    0xea39,
-    PiconData(0xea38, 'Duotone'),
-  );
+  static const flagCheckered = PiconDuotoneData(PiconData(IconData(0xea39, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea38, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flag-pennant-duotone
   ///
   /// ![flag-pennant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant-duotone.svg)
-  static const flagPennant = PiconDuotoneData(
-    0xecf1,
-    PiconData(0xecf0, 'Duotone'),
-  );
+  static const flagPennant = PiconDuotoneData(PiconData(IconData(0xecf1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecf0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flame-duotone
   ///
   /// ![flame-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame-duotone.svg)
-  static const flame = PiconDuotoneData(
-    0xe625,
-    PiconData(0xe624, 'Duotone'),
-  );
+  static const flame = PiconDuotoneData(PiconData(IconData(0xe625, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe624, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flashlight-duotone
   ///
   /// ![flashlight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight-duotone.svg)
-  static const flashlight = PiconDuotoneData(
-    0xe247,
-    PiconData(0xe246, 'Duotone'),
-  );
+  static const flashlight = PiconDuotoneData(PiconData(IconData(0xe247, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe246, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flask-duotone
   ///
   /// ![flask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask-duotone.svg)
-  static const flask = PiconDuotoneData(
-    0xe79f,
-    PiconData(0xe79e, 'Duotone'),
-  );
+  static const flask = PiconDuotoneData(PiconData(IconData(0xe79f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe79e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flip-horizontal-duotone
   ///
   /// ![flip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal-duotone.svg)
-  static const flipHorizontal = PiconDuotoneData(
-    0xed6b,
-    PiconData(0xed6a, 'Duotone'),
-  );
+  static const flipHorizontal = PiconDuotoneData(PiconData(IconData(0xed6b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed6a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flip-vertical-duotone
   ///
   /// ![flip-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical-duotone.svg)
-  static const flipVertical = PiconDuotoneData(
-    0xed6d,
-    PiconData(0xed6c, 'Duotone'),
-  );
+  static const flipVertical = PiconDuotoneData(PiconData(IconData(0xed6d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed6c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// floppy-disk-duotone
   ///
   /// ![floppy-disk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-duotone.svg)
-  static const floppyDisk = PiconDuotoneData(
-    0xe249,
-    PiconData(0xe248, 'Duotone'),
-  );
+  static const floppyDisk = PiconDuotoneData(PiconData(IconData(0xe249, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe248, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// floppy-disk-back-duotone
   ///
   /// ![floppy-disk-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back-duotone.svg)
-  static const floppyDiskBack = PiconDuotoneData(
-    0xeaf5,
-    PiconData(0xeaf4, 'Duotone'),
-  );
+  static const floppyDiskBack = PiconDuotoneData(PiconData(IconData(0xeaf5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaf4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flow-arrow-duotone
   ///
   /// ![flow-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow-duotone.svg)
-  static const flowArrow = PiconDuotoneData(
-    0xe6ed,
-    PiconData(0xe6ec, 'Duotone'),
-  );
+  static const flowArrow = PiconDuotoneData(PiconData(IconData(0xe6ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flower-duotone
   ///
   /// ![flower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-duotone.svg)
-  static const flower = PiconDuotoneData(
-    0xe75f,
-    PiconData(0xe75e, 'Duotone'),
-  );
+  static const flower = PiconDuotoneData(PiconData(IconData(0xe75f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe75e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flower-lotus-duotone
   ///
   /// ![flower-lotus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus-duotone.svg)
-  static const flowerLotus = PiconDuotoneData(
-    0xe6cd,
-    PiconData(0xe6cc, 'Duotone'),
-  );
+  static const flowerLotus = PiconDuotoneData(PiconData(IconData(0xe6cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flower-tulip-duotone
   ///
   /// ![flower-tulip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip-duotone.svg)
-  static const flowerTulip = PiconDuotoneData(
-    0xeacd,
-    PiconData(0xeacc, 'Duotone'),
-  );
+  static const flowerTulip = PiconDuotoneData(PiconData(IconData(0xeacd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeacc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// flying-saucer-duotone
   ///
   /// ![flying-saucer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer-duotone.svg)
-  static const flyingSaucer = PiconDuotoneData(
-    0xeb4b,
-    PiconData(0xeb4a, 'Duotone'),
-  );
+  static const flyingSaucer = PiconDuotoneData(PiconData(IconData(0xeb4b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb4a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-duotone
   ///
   /// ![folder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-duotone.svg)
-  static const folder = PiconDuotoneData(
-    0xe24b,
-    PiconData(0xe24a, 'Duotone'),
-  );
+  static const folder = PiconDuotoneData(PiconData(IconData(0xe24b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe24a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-dashed-duotone
   ///
   /// ![folder-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed-duotone.svg)
-  static const folderDashed = PiconDuotoneData(
-    0xe8f9,
-    PiconData(0xe8f8, 'Duotone'),
-  );
+  static const folderDashed = PiconDuotoneData(PiconData(IconData(0xe8f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-lock-duotone
   ///
   /// ![folder-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock-duotone.svg)
-  static const folderLock = PiconDuotoneData(
-    0xea3d,
-    PiconData(0xea3c, 'Duotone'),
-  );
+  static const folderLock = PiconDuotoneData(PiconData(IconData(0xea3d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea3c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-minus-duotone
   ///
   /// ![folder-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus-duotone.svg)
-  static const folderMinus = PiconDuotoneData(
-    0xe255,
-    PiconData(0xe254, 'Duotone'),
-  );
+  static const folderMinus = PiconDuotoneData(PiconData(IconData(0xe255, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe254, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-open-duotone
   ///
   /// ![folder-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open-duotone.svg)
-  static const folderOpen = PiconDuotoneData(
-    0xe257,
-    PiconData(0xe256, 'Duotone'),
-  );
+  static const folderOpen = PiconDuotoneData(PiconData(IconData(0xe257, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe256, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-plus-duotone
   ///
   /// ![folder-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus-duotone.svg)
-  static const folderPlus = PiconDuotoneData(
-    0xe259,
-    PiconData(0xe258, 'Duotone'),
-  );
+  static const folderPlus = PiconDuotoneData(PiconData(IconData(0xe259, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe258, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-duotone
   ///
   /// ![folder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-duotone.svg)
-  static const folderSimple = PiconDuotoneData(
-    0xe25b,
-    PiconData(0xe25a, 'Duotone'),
-  );
+  static const folderSimple = PiconDuotoneData(PiconData(IconData(0xe25b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe25a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-dashed-duotone
   ///
   /// ![folder-simple-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed-duotone.svg)
-  static const folderSimpleDashed = PiconDuotoneData(
-    0xec2b,
-    PiconData(0xec2a, 'Duotone'),
-  );
+  static const folderSimpleDashed = PiconDuotoneData(PiconData(IconData(0xec2b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec2a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-lock-duotone
   ///
   /// ![folder-simple-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock-duotone.svg)
-  static const folderSimpleLock = PiconDuotoneData(
-    0xeb5f,
-    PiconData(0xeb5e, 'Duotone'),
-  );
+  static const folderSimpleLock = PiconDuotoneData(PiconData(IconData(0xeb5f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb5e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-minus-duotone
   ///
   /// ![folder-simple-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus-duotone.svg)
-  static const folderSimpleMinus = PiconDuotoneData(
-    0xe25d,
-    PiconData(0xe25c, 'Duotone'),
-  );
+  static const folderSimpleMinus = PiconDuotoneData(PiconData(IconData(0xe25d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe25c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-plus-duotone
   ///
   /// ![folder-simple-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus-duotone.svg)
-  static const folderSimplePlus = PiconDuotoneData(
-    0xe25f,
-    PiconData(0xe25e, 'Duotone'),
-  );
+  static const folderSimplePlus = PiconDuotoneData(PiconData(IconData(0xe25f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe25e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-star-duotone
   ///
   /// ![folder-simple-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star-duotone.svg)
-  static const folderSimpleStar = PiconDuotoneData(
-    0xec2f,
-    PiconData(0xec2e, 'Duotone'),
-  );
+  static const folderSimpleStar = PiconDuotoneData(PiconData(IconData(0xec2f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec2e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-simple-user-duotone
   ///
   /// ![folder-simple-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user-duotone.svg)
-  static const folderSimpleUser = PiconDuotoneData(
-    0xeb61,
-    PiconData(0xeb60, 'Duotone'),
-  );
+  static const folderSimpleUser = PiconDuotoneData(PiconData(IconData(0xeb61, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb60, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-star-duotone
   ///
   /// ![folder-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star-duotone.svg)
-  static const folderStar = PiconDuotoneData(
-    0xea87,
-    PiconData(0xea86, 'Duotone'),
-  );
+  static const folderStar = PiconDuotoneData(PiconData(IconData(0xea87, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea86, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folder-user-duotone
   ///
   /// ![folder-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user-duotone.svg)
-  static const folderUser = PiconDuotoneData(
-    0xeb4c,
-    PiconData(0xeb46, 'Duotone'),
-  );
+  static const folderUser = PiconDuotoneData(PiconData(IconData(0xeb4c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb46, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// folders-duotone
   ///
   /// ![folders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders-duotone.svg)
-  static const folders = PiconDuotoneData(
-    0xe261,
-    PiconData(0xe260, 'Duotone'),
-  );
+  static const folders = PiconDuotoneData(PiconData(IconData(0xe261, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe260, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// football-duotone
   ///
   /// ![football-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-duotone.svg)
-  static const football = PiconDuotoneData(
-    0xe719,
-    PiconData(0xe718, 'Duotone'),
-  );
+  static const football = PiconDuotoneData(PiconData(IconData(0xe719, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe718, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// football-helmet-duotone
   ///
   /// ![football-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet-duotone.svg)
-  static const footballHelmet = PiconDuotoneData(
-    0xee4d,
-    PiconData(0xee4c, 'Duotone'),
-  );
+  static const footballHelmet = PiconDuotoneData(PiconData(IconData(0xee4d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee4c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// footprints-duotone
   ///
   /// ![footprints-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints-duotone.svg)
-  static const footprints = PiconDuotoneData(
-    0xea89,
-    PiconData(0xea88, 'Duotone'),
-  );
+  static const footprints = PiconDuotoneData(PiconData(IconData(0xea89, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea88, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// fork-knife-duotone
   ///
   /// ![fork-knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife-duotone.svg)
-  static const forkKnife = PiconDuotoneData(
-    0xe263,
-    PiconData(0xe262, 'Duotone'),
-  );
+  static const forkKnife = PiconDuotoneData(PiconData(IconData(0xe263, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe262, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// four-k-duotone
   ///
   /// ![four-k-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k-duotone.svg)
-  static const fourK = PiconDuotoneData(
-    0xea5d,
-    PiconData(0xea5c, 'Duotone'),
-  );
+  static const fourK = PiconDuotoneData(PiconData(IconData(0xea5d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea5c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// frame-corners-duotone
   ///
   /// ![frame-corners-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners-duotone.svg)
-  static const frameCorners = PiconDuotoneData(
-    0xe627,
-    PiconData(0xe626, 'Duotone'),
-  );
+  static const frameCorners = PiconDuotoneData(PiconData(IconData(0xe627, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe626, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// framer-logo-duotone
   ///
   /// ![framer-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo-duotone.svg)
-  static const framerLogo = PiconDuotoneData(
-    0xe265,
-    PiconData(0xe264, 'Duotone'),
-  );
+  static const framerLogo = PiconDuotoneData(PiconData(IconData(0xe265, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe264, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// function-duotone
   ///
   /// ![function-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function-duotone.svg)
-  static const function = PiconDuotoneData(
-    0xebe5,
-    PiconData(0xebe4, 'Duotone'),
-  );
+  static const function = PiconDuotoneData(PiconData(IconData(0xebe5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebe4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// funnel-duotone
   ///
   /// ![funnel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-duotone.svg)
-  static const funnel = PiconDuotoneData(
-    0xe267,
-    PiconData(0xe266, 'Duotone'),
-  );
+  static const funnel = PiconDuotoneData(PiconData(IconData(0xe267, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe266, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// funnel-simple-duotone
   ///
   /// ![funnel-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-duotone.svg)
-  static const funnelSimple = PiconDuotoneData(
-    0xe269,
-    PiconData(0xe268, 'Duotone'),
-  );
+  static const funnelSimple = PiconDuotoneData(PiconData(IconData(0xe269, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe268, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// funnel-simple-x-duotone
   ///
   /// ![funnel-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x-duotone.svg)
-  static const funnelSimpleX = PiconDuotoneData(
-    0xe26b,
-    PiconData(0xe26a, 'Duotone'),
-  );
+  static const funnelSimpleX = PiconDuotoneData(PiconData(IconData(0xe26b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe26a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// funnel-x-duotone
   ///
   /// ![funnel-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x-duotone.svg)
-  static const funnelX = PiconDuotoneData(
-    0xe26d,
-    PiconData(0xe26c, 'Duotone'),
-  );
+  static const funnelX = PiconDuotoneData(PiconData(IconData(0xe26d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe26c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// game-controller-duotone
   ///
   /// ![game-controller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller-duotone.svg)
-  static const gameController = PiconDuotoneData(
-    0xe26f,
-    PiconData(0xe26e, 'Duotone'),
-  );
+  static const gameController = PiconDuotoneData(PiconData(IconData(0xe26f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe26e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// garage-duotone
   ///
   /// ![garage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage-duotone.svg)
-  static const garage = PiconDuotoneData(
-    0xecd7,
-    PiconData(0xecd6, 'Duotone'),
-  );
+  static const garage = PiconDuotoneData(PiconData(IconData(0xecd7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecd6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gas-can-duotone
   ///
   /// ![gas-can-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can-duotone.svg)
-  static const gasCan = PiconDuotoneData(
-    0xe8cf,
-    PiconData(0xe8ce, 'Duotone'),
-  );
+  static const gasCan = PiconDuotoneData(PiconData(IconData(0xe8cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gas-pump-duotone
   ///
   /// ![gas-pump-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump-duotone.svg)
-  static const gasPump = PiconDuotoneData(
-    0xe769,
-    PiconData(0xe768, 'Duotone'),
-  );
+  static const gasPump = PiconDuotoneData(PiconData(IconData(0xe769, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe768, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gauge-duotone
   ///
   /// ![gauge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge-duotone.svg)
-  static const gauge = PiconDuotoneData(
-    0xe629,
-    PiconData(0xe628, 'Duotone'),
-  );
+  static const gauge = PiconDuotoneData(PiconData(IconData(0xe629, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe628, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gavel-duotone
   ///
   /// ![gavel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel-duotone.svg)
-  static const gavel = PiconDuotoneData(
-    0xea33,
-    PiconData(0xea32, 'Duotone'),
-  );
+  static const gavel = PiconDuotoneData(PiconData(IconData(0xea33, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea32, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gear-duotone
   ///
   /// ![gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-duotone.svg)
-  static const gear = PiconDuotoneData(
-    0xe271,
-    PiconData(0xe270, 'Duotone'),
-  );
+  static const gear = PiconDuotoneData(PiconData(IconData(0xe271, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe270, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gear-fine-duotone
   ///
   /// ![gear-fine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine-duotone.svg)
-  static const gearFine = PiconDuotoneData(
-    0xe87d,
-    PiconData(0xe87c, 'Duotone'),
-  );
+  static const gearFine = PiconDuotoneData(PiconData(IconData(0xe87d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe87c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gear-six-duotone
   ///
   /// ![gear-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six-duotone.svg)
-  static const gearSix = PiconDuotoneData(
-    0xe273,
-    PiconData(0xe272, 'Duotone'),
-  );
+  static const gearSix = PiconDuotoneData(PiconData(IconData(0xe273, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe272, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-female-duotone
   ///
   /// ![gender-female-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female-duotone.svg)
-  static const genderFemale = PiconDuotoneData(
-    0xe6e1,
-    PiconData(0xe6e0, 'Duotone'),
-  );
+  static const genderFemale = PiconDuotoneData(PiconData(IconData(0xe6e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-intersex-duotone
   ///
   /// ![gender-intersex-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex-duotone.svg)
-  static const genderIntersex = PiconDuotoneData(
-    0xe6e7,
-    PiconData(0xe6e6, 'Duotone'),
-  );
+  static const genderIntersex = PiconDuotoneData(PiconData(IconData(0xe6e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-male-duotone
   ///
   /// ![gender-male-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male-duotone.svg)
-  static const genderMale = PiconDuotoneData(
-    0xe6e3,
-    PiconData(0xe6e2, 'Duotone'),
-  );
+  static const genderMale = PiconDuotoneData(PiconData(IconData(0xe6e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-neuter-duotone
   ///
   /// ![gender-neuter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter-duotone.svg)
-  static const genderNeuter = PiconDuotoneData(
-    0xe6eb,
-    PiconData(0xe6ea, 'Duotone'),
-  );
+  static const genderNeuter = PiconDuotoneData(PiconData(IconData(0xe6eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-nonbinary-duotone
   ///
   /// ![gender-nonbinary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary-duotone.svg)
-  static const genderNonbinary = PiconDuotoneData(
-    0xe6e5,
-    PiconData(0xe6e4, 'Duotone'),
-  );
+  static const genderNonbinary = PiconDuotoneData(PiconData(IconData(0xe6e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gender-transgender-duotone
   ///
   /// ![gender-transgender-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender-duotone.svg)
-  static const genderTransgender = PiconDuotoneData(
-    0xe6e9,
-    PiconData(0xe6e8, 'Duotone'),
-  );
+  static const genderTransgender = PiconDuotoneData(PiconData(IconData(0xe6e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ghost-duotone
   ///
   /// ![ghost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost-duotone.svg)
-  static const ghost = PiconDuotoneData(
-    0xe62b,
-    PiconData(0xe62a, 'Duotone'),
-  );
+  static const ghost = PiconDuotoneData(PiconData(IconData(0xe62b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe62a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gif-duotone
   ///
   /// ![gif-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif-duotone.svg)
-  static const gif = PiconDuotoneData(
-    0xe275,
-    PiconData(0xe274, 'Duotone'),
-  );
+  static const gif = PiconDuotoneData(PiconData(IconData(0xe275, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe274, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gift-duotone
   ///
   /// ![gift-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift-duotone.svg)
-  static const gift = PiconDuotoneData(
-    0xe277,
-    PiconData(0xe276, 'Duotone'),
-  );
+  static const gift = PiconDuotoneData(PiconData(IconData(0xe277, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe276, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-branch-duotone
   ///
   /// ![git-branch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch-duotone.svg)
-  static const gitBranch = PiconDuotoneData(
-    0xe279,
-    PiconData(0xe278, 'Duotone'),
-  );
+  static const gitBranch = PiconDuotoneData(PiconData(IconData(0xe279, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe278, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-commit-duotone
   ///
   /// ![git-commit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit-duotone.svg)
-  static const gitCommit = PiconDuotoneData(
-    0xe27b,
-    PiconData(0xe27a, 'Duotone'),
-  );
+  static const gitCommit = PiconDuotoneData(PiconData(IconData(0xe27b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe27a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-diff-duotone
   ///
   /// ![git-diff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff-duotone.svg)
-  static const gitDiff = PiconDuotoneData(
-    0xe27d,
-    PiconData(0xe27c, 'Duotone'),
-  );
+  static const gitDiff = PiconDuotoneData(PiconData(IconData(0xe27d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe27c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-fork-duotone
   ///
   /// ![git-fork-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork-duotone.svg)
-  static const gitFork = PiconDuotoneData(
-    0xe27f,
-    PiconData(0xe27e, 'Duotone'),
-  );
+  static const gitFork = PiconDuotoneData(PiconData(IconData(0xe27f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe27e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-merge-duotone
   ///
   /// ![git-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge-duotone.svg)
-  static const gitMerge = PiconDuotoneData(
-    0xe281,
-    PiconData(0xe280, 'Duotone'),
-  );
+  static const gitMerge = PiconDuotoneData(PiconData(IconData(0xe281, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe280, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// git-pull-request-duotone
   ///
   /// ![git-pull-request-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request-duotone.svg)
-  static const gitPullRequest = PiconDuotoneData(
-    0xe283,
-    PiconData(0xe282, 'Duotone'),
-  );
+  static const gitPullRequest = PiconDuotoneData(PiconData(IconData(0xe283, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe282, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// github-logo-duotone
   ///
   /// ![github-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo-duotone.svg)
-  static const githubLogo = PiconDuotoneData(
-    0xe577,
-    PiconData(0xe576, 'Duotone'),
-  );
+  static const githubLogo = PiconDuotoneData(PiconData(IconData(0xe577, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe576, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gitlab-logo-duotone
   ///
   /// ![gitlab-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-duotone.svg)
-  static const gitlabLogo = PiconDuotoneData(
-    0xe695,
-    PiconData(0xe694, 'Duotone'),
-  );
+  static const gitlabLogo = PiconDuotoneData(PiconData(IconData(0xe695, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe694, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gitlab-logo-simple-duotone
   ///
   /// ![gitlab-logo-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple-duotone.svg)
-  static const gitlabLogoSimple = PiconDuotoneData(
-    0xe697,
-    PiconData(0xe696, 'Duotone'),
-  );
+  static const gitlabLogoSimple = PiconDuotoneData(PiconData(IconData(0xe697, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe696, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-duotone
   ///
   /// ![globe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-duotone.svg)
-  static const globe = PiconDuotoneData(
-    0xe289,
-    PiconData(0xe288, 'Duotone'),
-  );
+  static const globe = PiconDuotoneData(PiconData(IconData(0xe289, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe288, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-hemisphere-east-duotone
   ///
   /// ![globe-hemisphere-east-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east-duotone.svg)
-  static const globeHemisphereEast = PiconDuotoneData(
-    0xe28b,
-    PiconData(0xe28a, 'Duotone'),
-  );
+  static const globeHemisphereEast = PiconDuotoneData(PiconData(IconData(0xe28b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe28a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-hemisphere-west-duotone
   ///
   /// ![globe-hemisphere-west-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west-duotone.svg)
-  static const globeHemisphereWest = PiconDuotoneData(
-    0xe28d,
-    PiconData(0xe28c, 'Duotone'),
-  );
+  static const globeHemisphereWest = PiconDuotoneData(PiconData(IconData(0xe28d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe28c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-simple-duotone
   ///
   /// ![globe-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-duotone.svg)
-  static const globeSimple = PiconDuotoneData(
-    0xe28f,
-    PiconData(0xe28e, 'Duotone'),
-  );
+  static const globeSimple = PiconDuotoneData(PiconData(IconData(0xe28f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe28e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-simple-x-duotone
   ///
   /// ![globe-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x-duotone.svg)
-  static const globeSimpleX = PiconDuotoneData(
-    0xe285,
-    PiconData(0xe284, 'Duotone'),
-  );
+  static const globeSimpleX = PiconDuotoneData(PiconData(IconData(0xe285, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe284, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-stand-duotone
   ///
   /// ![globe-stand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand-duotone.svg)
-  static const globeStand = PiconDuotoneData(
-    0xe291,
-    PiconData(0xe290, 'Duotone'),
-  );
+  static const globeStand = PiconDuotoneData(PiconData(IconData(0xe291, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe290, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// globe-x-duotone
   ///
   /// ![globe-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x-duotone.svg)
-  static const globeX = PiconDuotoneData(
-    0xe287,
-    PiconData(0xe286, 'Duotone'),
-  );
+  static const globeX = PiconDuotoneData(PiconData(IconData(0xe287, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe286, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// goggles-duotone
   ///
   /// ![goggles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles-duotone.svg)
-  static const goggles = PiconDuotoneData(
-    0xecb5,
-    PiconData(0xecb4, 'Duotone'),
-  );
+  static const goggles = PiconDuotoneData(PiconData(IconData(0xecb5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecb4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// golf-duotone
   ///
   /// ![golf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf-duotone.svg)
-  static const golf = PiconDuotoneData(
-    0xea3f,
-    PiconData(0xea3e, 'Duotone'),
-  );
+  static const golf = PiconDuotoneData(PiconData(IconData(0xea3f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea3e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// goodreads-logo-duotone
   ///
   /// ![goodreads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo-duotone.svg)
-  static const goodreadsLogo = PiconDuotoneData(
-    0xed11,
-    PiconData(0xed10, 'Duotone'),
-  );
+  static const goodreadsLogo = PiconDuotoneData(PiconData(IconData(0xed11, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed10, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-cardboard-logo-duotone
   ///
   /// ![google-cardboard-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo-duotone.svg)
-  static const googleCardboardLogo = PiconDuotoneData(
-    0xe7b7,
-    PiconData(0xe7b6, 'Duotone'),
-  );
+  static const googleCardboardLogo = PiconDuotoneData(PiconData(IconData(0xe7b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-chrome-logo-duotone
   ///
   /// ![google-chrome-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo-duotone.svg)
-  static const googleChromeLogo = PiconDuotoneData(
-    0xe977,
-    PiconData(0xe976, 'Duotone'),
-  );
+  static const googleChromeLogo = PiconDuotoneData(PiconData(IconData(0xe977, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe976, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-drive-logo-duotone
   ///
   /// ![google-drive-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo-duotone.svg)
-  static const googleDriveLogo = PiconDuotoneData(
-    0xe8f7,
-    PiconData(0xe8f6, 'Duotone'),
-  );
+  static const googleDriveLogo = PiconDuotoneData(PiconData(IconData(0xe8f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-logo-duotone
   ///
   /// ![google-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo-duotone.svg)
-  static const googleLogo = PiconDuotoneData(
-    0xe293,
-    PiconData(0xe292, 'Duotone'),
-  );
+  static const googleLogo = PiconDuotoneData(PiconData(IconData(0xe293, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe292, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-photos-logo-duotone
   ///
   /// ![google-photos-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo-duotone.svg)
-  static const googlePhotosLogo = PiconDuotoneData(
-    0xeb93,
-    PiconData(0xeb92, 'Duotone'),
-  );
+  static const googlePhotosLogo = PiconDuotoneData(PiconData(IconData(0xeb93, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb92, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-play-logo-duotone
   ///
   /// ![google-play-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo-duotone.svg)
-  static const googlePlayLogo = PiconDuotoneData(
-    0xe295,
-    PiconData(0xe294, 'Duotone'),
-  );
+  static const googlePlayLogo = PiconDuotoneData(PiconData(IconData(0xe295, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe294, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// google-podcasts-logo-duotone
   ///
   /// ![google-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo-duotone.svg)
-  static const googlePodcastsLogo = PiconDuotoneData(
-    0xeb95,
-    PiconData(0xeb94, 'Duotone'),
-  );
+  static const googlePodcastsLogo = PiconDuotoneData(PiconData(IconData(0xeb95, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb94, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gps-duotone
   ///
   /// ![gps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-duotone.svg)
-  static const gps = PiconDuotoneData(
-    0xedd9,
-    PiconData(0xedd8, 'Duotone'),
-  );
+  static const gps = PiconDuotoneData(PiconData(IconData(0xedd9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedd8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gps-fix-duotone
   ///
   /// ![gps-fix-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix-duotone.svg)
-  static const gpsFix = PiconDuotoneData(
-    0xedd7,
-    PiconData(0xedd6, 'Duotone'),
-  );
+  static const gpsFix = PiconDuotoneData(PiconData(IconData(0xedd7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedd6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gps-slash-duotone
   ///
   /// ![gps-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash-duotone.svg)
-  static const gpsSlash = PiconDuotoneData(
-    0xedd5,
-    PiconData(0xedd4, 'Duotone'),
-  );
+  static const gpsSlash = PiconDuotoneData(PiconData(IconData(0xedd5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedd4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// gradient-duotone
   ///
   /// ![gradient-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient-duotone.svg)
-  static const gradient = PiconDuotoneData(
-    0xeb4d,
-    PiconData(0xeb42, 'Duotone'),
-  );
+  static const gradient = PiconDuotoneData(PiconData(IconData(0xeb4d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb42, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// graduation-cap-duotone
   ///
   /// ![graduation-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap-duotone.svg)
-  static const graduationCap = PiconDuotoneData(
-    0xe62d,
-    PiconData(0xe62c, 'Duotone'),
-  );
+  static const graduationCap = PiconDuotoneData(PiconData(IconData(0xe62d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe62c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// grains-duotone
   ///
   /// ![grains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-duotone.svg)
-  static const grains = PiconDuotoneData(
-    0xec69,
-    PiconData(0xec68, 'Duotone'),
-  );
+  static const grains = PiconDuotoneData(PiconData(IconData(0xec69, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec68, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// grains-slash-duotone
   ///
   /// ![grains-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash-duotone.svg)
-  static const grainsSlash = PiconDuotoneData(
-    0xec6b,
-    PiconData(0xec6a, 'Duotone'),
-  );
+  static const grainsSlash = PiconDuotoneData(PiconData(IconData(0xec6b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec6a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// graph-duotone
   ///
   /// ![graph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph-duotone.svg)
-  static const graph = PiconDuotoneData(
-    0xeb59,
-    PiconData(0xeb58, 'Duotone'),
-  );
+  static const graph = PiconDuotoneData(PiconData(IconData(0xeb59, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb58, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// graphics-card-duotone
   ///
   /// ![graphics-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card-duotone.svg)
-  static const graphicsCard = PiconDuotoneData(
-    0xe613,
-    PiconData(0xe612, 'Duotone'),
-  );
+  static const graphicsCard = PiconDuotoneData(PiconData(IconData(0xe613, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe612, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// greater-than-duotone
   ///
   /// ![greater-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-duotone.svg)
-  static const greaterThan = PiconDuotoneData(
-    0xedc5,
-    PiconData(0xedc4, 'Duotone'),
-  );
+  static const greaterThan = PiconDuotoneData(PiconData(IconData(0xedc5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedc4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// greater-than-or-equal-duotone
   ///
   /// ![greater-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal-duotone.svg)
-  static const greaterThanOrEqual = PiconDuotoneData(
-    0xeda3,
-    PiconData(0xeda2, 'Duotone'),
-  );
+  static const greaterThanOrEqual = PiconDuotoneData(PiconData(IconData(0xeda3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeda2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// grid-four-duotone
   ///
   /// ![grid-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four-duotone.svg)
-  static const gridFour = PiconDuotoneData(
-    0xe297,
-    PiconData(0xe296, 'Duotone'),
-  );
+  static const gridFour = PiconDuotoneData(PiconData(IconData(0xe297, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe296, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// grid-nine-duotone
   ///
   /// ![grid-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine-duotone.svg)
-  static const gridNine = PiconDuotoneData(
-    0xec8d,
-    PiconData(0xec8c, 'Duotone'),
-  );
+  static const gridNine = PiconDuotoneData(PiconData(IconData(0xec8d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec8c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// guitar-duotone
   ///
   /// ![guitar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar-duotone.svg)
-  static const guitar = PiconDuotoneData(
-    0xea8b,
-    PiconData(0xea8a, 'Duotone'),
-  );
+  static const guitar = PiconDuotoneData(PiconData(IconData(0xea8b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea8a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hair-dryer-duotone
   ///
   /// ![hair-dryer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer-duotone.svg)
-  static const hairDryer = PiconDuotoneData(
-    0xea67,
-    PiconData(0xea66, 'Duotone'),
-  );
+  static const hairDryer = PiconDuotoneData(PiconData(IconData(0xea67, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea66, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hamburger-duotone
   ///
   /// ![hamburger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger-duotone.svg)
-  static const hamburger = PiconDuotoneData(
-    0xe791,
-    PiconData(0xe790, 'Duotone'),
-  );
+  static const hamburger = PiconDuotoneData(PiconData(IconData(0xe791, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe790, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hammer-duotone
   ///
   /// ![hammer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer-duotone.svg)
-  static const hammer = PiconDuotoneData(
-    0xe80f,
-    PiconData(0xe80e, 'Duotone'),
-  );
+  static const hammer = PiconDuotoneData(PiconData(IconData(0xe80f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe80e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-duotone
   ///
   /// ![hand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-duotone.svg)
-  static const hand = PiconDuotoneData(
-    0xe299,
-    PiconData(0xe298, 'Duotone'),
-  );
+  static const hand = PiconDuotoneData(PiconData(IconData(0xe299, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe298, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-arrow-down-duotone
   ///
   /// ![hand-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down-duotone.svg)
-  static const handArrowDown = PiconDuotoneData(
-    0xea4f,
-    PiconData(0xea4e, 'Duotone'),
-  );
+  static const handArrowDown = PiconDuotoneData(PiconData(IconData(0xea4f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea4e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-arrow-up-duotone
   ///
   /// ![hand-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up-duotone.svg)
-  static const handArrowUp = PiconDuotoneData(
-    0xee5b,
-    PiconData(0xee5a, 'Duotone'),
-  );
+  static const handArrowUp = PiconDuotoneData(PiconData(IconData(0xee5b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee5a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-coins-duotone
   ///
   /// ![hand-coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins-duotone.svg)
-  static const handCoins = PiconDuotoneData(
-    0xea8d,
-    PiconData(0xea8c, 'Duotone'),
-  );
+  static const handCoins = PiconDuotoneData(PiconData(IconData(0xea8d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea8c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-deposit-duotone
   ///
   /// ![hand-deposit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit-duotone.svg)
-  static const handDeposit = PiconDuotoneData(
-    0xee83,
-    PiconData(0xee82, 'Duotone'),
-  );
+  static const handDeposit = PiconDuotoneData(PiconData(IconData(0xee83, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee82, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-eye-duotone
   ///
   /// ![hand-eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye-duotone.svg)
-  static const handEye = PiconDuotoneData(
-    0xea4d,
-    PiconData(0xea4c, 'Duotone'),
-  );
+  static const handEye = PiconDuotoneData(PiconData(IconData(0xea4d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea4c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-fist-duotone
   ///
   /// ![hand-fist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist-duotone.svg)
-  static const handFist = PiconDuotoneData(
-    0xe57b,
-    PiconData(0xe57a, 'Duotone'),
-  );
+  static const handFist = PiconDuotoneData(PiconData(IconData(0xe57b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe57a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-grabbing-duotone
   ///
   /// ![hand-grabbing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing-duotone.svg)
-  static const handGrabbing = PiconDuotoneData(
-    0xe57d,
-    PiconData(0xe57c, 'Duotone'),
-  );
+  static const handGrabbing = PiconDuotoneData(PiconData(IconData(0xe57d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe57c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-heart-duotone
   ///
   /// ![hand-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart-duotone.svg)
-  static const handHeart = PiconDuotoneData(
-    0xe811,
-    PiconData(0xe810, 'Duotone'),
-  );
+  static const handHeart = PiconDuotoneData(PiconData(IconData(0xe811, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe810, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-palm-duotone
   ///
   /// ![hand-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm-duotone.svg)
-  static const handPalm = PiconDuotoneData(
-    0xe57f,
-    PiconData(0xe57e, 'Duotone'),
-  );
+  static const handPalm = PiconDuotoneData(PiconData(IconData(0xe57f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe57e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-peace-duotone
   ///
   /// ![hand-peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace-duotone.svg)
-  static const handPeace = PiconDuotoneData(
-    0xe7cd,
-    PiconData(0xe7cc, 'Duotone'),
-  );
+  static const handPeace = PiconDuotoneData(PiconData(IconData(0xe7cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-pointing-duotone
   ///
   /// ![hand-pointing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing-duotone.svg)
-  static const handPointing = PiconDuotoneData(
-    0xe29b,
-    PiconData(0xe29a, 'Duotone'),
-  );
+  static const handPointing = PiconDuotoneData(PiconData(IconData(0xe29b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe29a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-soap-duotone
   ///
   /// ![hand-soap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap-duotone.svg)
-  static const handSoap = PiconDuotoneData(
-    0xe631,
-    PiconData(0xe630, 'Duotone'),
-  );
+  static const handSoap = PiconDuotoneData(PiconData(IconData(0xe631, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe630, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-swipe-left-duotone
   ///
   /// ![hand-swipe-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left-duotone.svg)
-  static const handSwipeLeft = PiconDuotoneData(
-    0xec95,
-    PiconData(0xec94, 'Duotone'),
-  );
+  static const handSwipeLeft = PiconDuotoneData(PiconData(IconData(0xec95, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec94, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-swipe-right-duotone
   ///
   /// ![hand-swipe-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right-duotone.svg)
-  static const handSwipeRight = PiconDuotoneData(
-    0xec93,
-    PiconData(0xec92, 'Duotone'),
-  );
+  static const handSwipeRight = PiconDuotoneData(PiconData(IconData(0xec93, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec92, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-tap-duotone
   ///
   /// ![hand-tap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap-duotone.svg)
-  static const handTap = PiconDuotoneData(
-    0xec91,
-    PiconData(0xec90, 'Duotone'),
-  );
+  static const handTap = PiconDuotoneData(PiconData(IconData(0xec91, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec90, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-waving-duotone
   ///
   /// ![hand-waving-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving-duotone.svg)
-  static const handWaving = PiconDuotoneData(
-    0xe581,
-    PiconData(0xe580, 'Duotone'),
-  );
+  static const handWaving = PiconDuotoneData(PiconData(IconData(0xe581, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe580, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hand-withdraw-duotone
   ///
   /// ![hand-withdraw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw-duotone.svg)
-  static const handWithdraw = PiconDuotoneData(
-    0xee81,
-    PiconData(0xee80, 'Duotone'),
-  );
+  static const handWithdraw = PiconDuotoneData(PiconData(IconData(0xee81, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee80, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// handbag-duotone
   ///
   /// ![handbag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-duotone.svg)
-  static const handbag = PiconDuotoneData(
-    0xe29d,
-    PiconData(0xe29c, 'Duotone'),
-  );
+  static const handbag = PiconDuotoneData(PiconData(IconData(0xe29d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe29c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// handbag-simple-duotone
   ///
   /// ![handbag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple-duotone.svg)
-  static const handbagSimple = PiconDuotoneData(
-    0xe62f,
-    PiconData(0xe62e, 'Duotone'),
-  );
+  static const handbagSimple = PiconDuotoneData(PiconData(IconData(0xe62f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe62e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hands-clapping-duotone
   ///
   /// ![hands-clapping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping-duotone.svg)
-  static const handsClapping = PiconDuotoneData(
-    0xe6a1,
-    PiconData(0xe6a0, 'Duotone'),
-  );
+  static const handsClapping = PiconDuotoneData(PiconData(IconData(0xe6a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hands-praying-duotone
   ///
   /// ![hands-praying-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying-duotone.svg)
-  static const handsPraying = PiconDuotoneData(
-    0xecc9,
-    PiconData(0xecc8, 'Duotone'),
-  );
+  static const handsPraying = PiconDuotoneData(PiconData(IconData(0xecc9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecc8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// handshake-duotone
   ///
   /// ![handshake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake-duotone.svg)
-  static const handshake = PiconDuotoneData(
-    0xe583,
-    PiconData(0xe582, 'Duotone'),
-  );
+  static const handshake = PiconDuotoneData(PiconData(IconData(0xe583, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe582, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hard-drive-duotone
   ///
   /// ![hard-drive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive-duotone.svg)
-  static const hardDrive = PiconDuotoneData(
-    0xe29f,
-    PiconData(0xe29e, 'Duotone'),
-  );
+  static const hardDrive = PiconDuotoneData(PiconData(IconData(0xe29f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe29e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hard-drives-duotone
   ///
   /// ![hard-drives-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives-duotone.svg)
-  static const hardDrives = PiconDuotoneData(
-    0xe2a1,
-    PiconData(0xe2a0, 'Duotone'),
-  );
+  static const hardDrives = PiconDuotoneData(PiconData(IconData(0xe2a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hard-hat-duotone
   ///
   /// ![hard-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat-duotone.svg)
-  static const hardHat = PiconDuotoneData(
-    0xed47,
-    PiconData(0xed46, 'Duotone'),
-  );
+  static const hardHat = PiconDuotoneData(PiconData(IconData(0xed47, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed46, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hash-duotone
   ///
   /// ![hash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-duotone.svg)
-  static const hash = PiconDuotoneData(
-    0xe2a3,
-    PiconData(0xe2a2, 'Duotone'),
-  );
+  static const hash = PiconDuotoneData(PiconData(IconData(0xe2a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hash-straight-duotone
   ///
   /// ![hash-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight-duotone.svg)
-  static const hashStraight = PiconDuotoneData(
-    0xe2a5,
-    PiconData(0xe2a4, 'Duotone'),
-  );
+  static const hashStraight = PiconDuotoneData(PiconData(IconData(0xe2a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// head-circuit-duotone
   ///
   /// ![head-circuit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit-duotone.svg)
-  static const headCircuit = PiconDuotoneData(
-    0xe7d5,
-    PiconData(0xe7d4, 'Duotone'),
-  );
+  static const headCircuit = PiconDuotoneData(PiconData(IconData(0xe7d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// headlights-duotone
   ///
   /// ![headlights-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights-duotone.svg)
-  static const headlights = PiconDuotoneData(
-    0xe6ff,
-    PiconData(0xe6fe, 'Duotone'),
-  );
+  static const headlights = PiconDuotoneData(PiconData(IconData(0xe6ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// headphones-duotone
   ///
   /// ![headphones-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones-duotone.svg)
-  static const headphones = PiconDuotoneData(
-    0xe2a7,
-    PiconData(0xe2a6, 'Duotone'),
-  );
+  static const headphones = PiconDuotoneData(PiconData(IconData(0xe2a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// headset-duotone
   ///
   /// ![headset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset-duotone.svg)
-  static const headset = PiconDuotoneData(
-    0xe585,
-    PiconData(0xe584, 'Duotone'),
-  );
+  static const headset = PiconDuotoneData(PiconData(IconData(0xe585, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe584, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heart-duotone
   ///
   /// ![heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-duotone.svg)
-  static const heart = PiconDuotoneData(
-    0xe2a9,
-    PiconData(0xe2a8, 'Duotone'),
-  );
+  static const heart = PiconDuotoneData(PiconData(IconData(0xe2a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heart-break-duotone
   ///
   /// ![heart-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break-duotone.svg)
-  static const heartBreak = PiconDuotoneData(
-    0xebe9,
-    PiconData(0xebe8, 'Duotone'),
-  );
+  static const heartBreak = PiconDuotoneData(PiconData(IconData(0xebe9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebe8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heart-half-duotone
   ///
   /// ![heart-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half-duotone.svg)
-  static const heartHalf = PiconDuotoneData(
-    0xec49,
-    PiconData(0xec48, 'Duotone'),
-  );
+  static const heartHalf = PiconDuotoneData(PiconData(IconData(0xec49, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec48, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heart-straight-duotone
   ///
   /// ![heart-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-duotone.svg)
-  static const heartStraight = PiconDuotoneData(
-    0xe2ab,
-    PiconData(0xe2aa, 'Duotone'),
-  );
+  static const heartStraight = PiconDuotoneData(PiconData(IconData(0xe2ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heart-straight-break-duotone
   ///
   /// ![heart-straight-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break-duotone.svg)
-  static const heartStraightBreak = PiconDuotoneData(
-    0xeb99,
-    PiconData(0xeb98, 'Duotone'),
-  );
+  static const heartStraightBreak = PiconDuotoneData(PiconData(IconData(0xeb99, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb98, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// heartbeat-duotone
   ///
   /// ![heartbeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat-duotone.svg)
-  static const heartbeat = PiconDuotoneData(
-    0xe2ad,
-    PiconData(0xe2ac, 'Duotone'),
-  );
+  static const heartbeat = PiconDuotoneData(PiconData(IconData(0xe2ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hexagon-duotone
   ///
   /// ![hexagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon-duotone.svg)
-  static const hexagon = PiconDuotoneData(
-    0xe2af,
-    PiconData(0xe2ae, 'Duotone'),
-  );
+  static const hexagon = PiconDuotoneData(PiconData(IconData(0xe2af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// high-definition-duotone
   ///
   /// ![high-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition-duotone.svg)
-  static const highDefinition = PiconDuotoneData(
-    0xea8f,
-    PiconData(0xea8e, 'Duotone'),
-  );
+  static const highDefinition = PiconDuotoneData(PiconData(IconData(0xea8f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea8e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// high-heel-duotone
   ///
   /// ![high-heel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel-duotone.svg)
-  static const highHeel = PiconDuotoneData(
-    0xe8e9,
-    PiconData(0xe8e8, 'Duotone'),
-  );
+  static const highHeel = PiconDuotoneData(PiconData(IconData(0xe8e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// highlighter-duotone
   ///
   /// ![highlighter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-duotone.svg)
-  static const highlighter = PiconDuotoneData(
-    0xec77,
-    PiconData(0xec76, 'Duotone'),
-  );
+  static const highlighter = PiconDuotoneData(PiconData(IconData(0xec77, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec76, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// highlighter-circle-duotone
   ///
   /// ![highlighter-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle-duotone.svg)
-  static const highlighterCircle = PiconDuotoneData(
-    0xe633,
-    PiconData(0xe632, 'Duotone'),
-  );
+  static const highlighterCircle = PiconDuotoneData(PiconData(IconData(0xe633, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe632, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hockey-duotone
   ///
   /// ![hockey-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey-duotone.svg)
-  static const hockey = PiconDuotoneData(
-    0xec87,
-    PiconData(0xec86, 'Duotone'),
-  );
+  static const hockey = PiconDuotoneData(PiconData(IconData(0xec87, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec86, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hoodie-duotone
   ///
   /// ![hoodie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie-duotone.svg)
-  static const hoodie = PiconDuotoneData(
-    0xecd1,
-    PiconData(0xecd0, 'Duotone'),
-  );
+  static const hoodie = PiconDuotoneData(PiconData(IconData(0xecd1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecd0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// horse-duotone
   ///
   /// ![horse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse-duotone.svg)
-  static const horse = PiconDuotoneData(
-    0xe2b1,
-    PiconData(0xe2b0, 'Duotone'),
-  );
+  static const horse = PiconDuotoneData(PiconData(IconData(0xe2b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hospital-duotone
   ///
   /// ![hospital-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital-duotone.svg)
-  static const hospital = PiconDuotoneData(
-    0xe845,
-    PiconData(0xe844, 'Duotone'),
-  );
+  static const hospital = PiconDuotoneData(PiconData(IconData(0xe845, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe844, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-duotone
   ///
   /// ![hourglass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-duotone.svg)
-  static const hourglass = PiconDuotoneData(
-    0xe2b3,
-    PiconData(0xe2b2, 'Duotone'),
-  );
+  static const hourglass = PiconDuotoneData(PiconData(IconData(0xe2b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-high-duotone
   ///
   /// ![hourglass-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high-duotone.svg)
-  static const hourglassHigh = PiconDuotoneData(
-    0xe2b5,
-    PiconData(0xe2b4, 'Duotone'),
-  );
+  static const hourglassHigh = PiconDuotoneData(PiconData(IconData(0xe2b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-low-duotone
   ///
   /// ![hourglass-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low-duotone.svg)
-  static const hourglassLow = PiconDuotoneData(
-    0xe2b7,
-    PiconData(0xe2b6, 'Duotone'),
-  );
+  static const hourglassLow = PiconDuotoneData(PiconData(IconData(0xe2b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-medium-duotone
   ///
   /// ![hourglass-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium-duotone.svg)
-  static const hourglassMedium = PiconDuotoneData(
-    0xe2b9,
-    PiconData(0xe2b8, 'Duotone'),
-  );
+  static const hourglassMedium = PiconDuotoneData(PiconData(IconData(0xe2b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-simple-duotone
   ///
   /// ![hourglass-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-duotone.svg)
-  static const hourglassSimple = PiconDuotoneData(
-    0xe2bb,
-    PiconData(0xe2ba, 'Duotone'),
-  );
+  static const hourglassSimple = PiconDuotoneData(PiconData(IconData(0xe2bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-simple-high-duotone
   ///
   /// ![hourglass-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high-duotone.svg)
-  static const hourglassSimpleHigh = PiconDuotoneData(
-    0xe2bd,
-    PiconData(0xe2bc, 'Duotone'),
-  );
+  static const hourglassSimpleHigh = PiconDuotoneData(PiconData(IconData(0xe2bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-simple-low-duotone
   ///
   /// ![hourglass-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low-duotone.svg)
-  static const hourglassSimpleLow = PiconDuotoneData(
-    0xe2bf,
-    PiconData(0xe2be, 'Duotone'),
-  );
+  static const hourglassSimpleLow = PiconDuotoneData(PiconData(IconData(0xe2bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hourglass-simple-medium-duotone
   ///
   /// ![hourglass-simple-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium-duotone.svg)
-  static const hourglassSimpleMedium = PiconDuotoneData(
-    0xe2c1,
-    PiconData(0xe2c0, 'Duotone'),
-  );
+  static const hourglassSimpleMedium = PiconDuotoneData(PiconData(IconData(0xe2c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// house-duotone
   ///
   /// ![house-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-duotone.svg)
-  static const house = PiconDuotoneData(
-    0xe2c3,
-    PiconData(0xe2c2, 'Duotone'),
-  );
+  static const house = PiconDuotoneData(PiconData(IconData(0xe2c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// house-line-duotone
   ///
   /// ![house-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line-duotone.svg)
-  static const houseLine = PiconDuotoneData(
-    0xe2c5,
-    PiconData(0xe2c4, 'Duotone'),
-  );
+  static const houseLine = PiconDuotoneData(PiconData(IconData(0xe2c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// house-simple-duotone
   ///
   /// ![house-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple-duotone.svg)
-  static const houseSimple = PiconDuotoneData(
-    0xe2c7,
-    PiconData(0xe2c6, 'Duotone'),
-  );
+  static const houseSimple = PiconDuotoneData(PiconData(IconData(0xe2c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// hurricane-duotone
   ///
   /// ![hurricane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane-duotone.svg)
-  static const hurricane = PiconDuotoneData(
-    0xe88f,
-    PiconData(0xe88e, 'Duotone'),
-  );
+  static const hurricane = PiconDuotoneData(PiconData(IconData(0xe88f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe88e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ice-cream-duotone
   ///
   /// ![ice-cream-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream-duotone.svg)
-  static const iceCream = PiconDuotoneData(
-    0xe805,
-    PiconData(0xe804, 'Duotone'),
-  );
+  static const iceCream = PiconDuotoneData(PiconData(IconData(0xe805, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe804, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// identification-badge-duotone
   ///
   /// ![identification-badge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge-duotone.svg)
-  static const identificationBadge = PiconDuotoneData(
-    0xe6f7,
-    PiconData(0xe6f6, 'Duotone'),
-  );
+  static const identificationBadge = PiconDuotoneData(PiconData(IconData(0xe6f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// identification-card-duotone
   ///
   /// ![identification-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card-duotone.svg)
-  static const identificationCard = PiconDuotoneData(
-    0xe2c9,
-    PiconData(0xe2c8, 'Duotone'),
-  );
+  static const identificationCard = PiconDuotoneData(PiconData(IconData(0xe2c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// image-duotone
   ///
   /// ![image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-duotone.svg)
-  static const image = PiconDuotoneData(
-    0xe2cb,
-    PiconData(0xe2ca, 'Duotone'),
-  );
+  static const image = PiconDuotoneData(PiconData(IconData(0xe2cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// image-broken-duotone
   ///
   /// ![image-broken-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken-duotone.svg)
-  static const imageBroken = PiconDuotoneData(
-    0xe7a9,
-    PiconData(0xe7a8, 'Duotone'),
-  );
+  static const imageBroken = PiconDuotoneData(PiconData(IconData(0xe7a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// image-square-duotone
   ///
   /// ![image-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square-duotone.svg)
-  static const imageSquare = PiconDuotoneData(
-    0xe2cd,
-    PiconData(0xe2cc, 'Duotone'),
-  );
+  static const imageSquare = PiconDuotoneData(PiconData(IconData(0xe2cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// images-duotone
   ///
   /// ![images-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-duotone.svg)
-  static const images = PiconDuotoneData(
-    0xe837,
-    PiconData(0xe836, 'Duotone'),
-  );
+  static const images = PiconDuotoneData(PiconData(IconData(0xe837, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe836, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// images-square-duotone
   ///
   /// ![images-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square-duotone.svg)
-  static const imagesSquare = PiconDuotoneData(
-    0xe835,
-    PiconData(0xe834, 'Duotone'),
-  );
+  static const imagesSquare = PiconDuotoneData(PiconData(IconData(0xe835, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe834, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// infinity-duotone
   ///
   /// ![infinity-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity-duotone.svg)
-  static const infinity = PiconDuotoneData(
-    0xe635,
-    PiconData(0xe634, 'Duotone'),
-  );
+  static const infinity = PiconDuotoneData(PiconData(IconData(0xe635, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe634, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// info-duotone
   ///
   /// ![info-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info-duotone.svg)
-  static const info = PiconDuotoneData(
-    0xe2cf,
-    PiconData(0xe2ce, 'Duotone'),
-  );
+  static const info = PiconDuotoneData(PiconData(IconData(0xe2cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// instagram-logo-duotone
   ///
   /// ![instagram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo-duotone.svg)
-  static const instagramLogo = PiconDuotoneData(
-    0xe2d1,
-    PiconData(0xe2d0, 'Duotone'),
-  );
+  static const instagramLogo = PiconDuotoneData(PiconData(IconData(0xe2d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// intersect-duotone
   ///
   /// ![intersect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-duotone.svg)
-  static const intersect = PiconDuotoneData(
-    0xe2d3,
-    PiconData(0xe2d2, 'Duotone'),
-  );
+  static const intersect = PiconDuotoneData(PiconData(IconData(0xe2d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// intersect-square-duotone
   ///
   /// ![intersect-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square-duotone.svg)
-  static const intersectSquare = PiconDuotoneData(
-    0xe87b,
-    PiconData(0xe87a, 'Duotone'),
-  );
+  static const intersectSquare = PiconDuotoneData(PiconData(IconData(0xe87b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe87a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// intersect-three-duotone
   ///
   /// ![intersect-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three-duotone.svg)
-  static const intersectThree = PiconDuotoneData(
-    0xecc5,
-    PiconData(0xecc4, 'Duotone'),
-  );
+  static const intersectThree = PiconDuotoneData(PiconData(IconData(0xecc5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecc4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// intersection-duotone
   ///
   /// ![intersection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection-duotone.svg)
-  static const intersection = PiconDuotoneData(
-    0xedbb,
-    PiconData(0xedba, 'Duotone'),
-  );
+  static const intersection = PiconDuotoneData(PiconData(IconData(0xedbb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// invoice-duotone
   ///
   /// ![invoice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice-duotone.svg)
-  static const invoice = PiconDuotoneData(
-    0xee43,
-    PiconData(0xee42, 'Duotone'),
-  );
+  static const invoice = PiconDuotoneData(PiconData(IconData(0xee43, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee42, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// island-duotone
   ///
   /// ![island-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island-duotone.svg)
-  static const island = PiconDuotoneData(
-    0xee07,
-    PiconData(0xee06, 'Duotone'),
-  );
+  static const island = PiconDuotoneData(PiconData(IconData(0xee07, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee06, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// jar-duotone
   ///
   /// ![jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-duotone.svg)
-  static const jar = PiconDuotoneData(
-    0xe7e3,
-    PiconData(0xe7e0, 'Duotone'),
-  );
+  static const jar = PiconDuotoneData(PiconData(IconData(0xe7e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// jar-label-duotone
   ///
   /// ![jar-label-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label-duotone.svg)
-  static const jarLabel = PiconDuotoneData(
-    0xe7e5,
-    PiconData(0xe7e1, 'Duotone'),
-  );
+  static const jarLabel = PiconDuotoneData(PiconData(IconData(0xe7e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// jeep-duotone
   ///
   /// ![jeep-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep-duotone.svg)
-  static const jeep = PiconDuotoneData(
-    0xe2d5,
-    PiconData(0xe2d4, 'Duotone'),
-  );
+  static const jeep = PiconDuotoneData(PiconData(IconData(0xe2d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// joystick-duotone
   ///
   /// ![joystick-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick-duotone.svg)
-  static const joystick = PiconDuotoneData(
-    0xea5f,
-    PiconData(0xea5e, 'Duotone'),
-  );
+  static const joystick = PiconDuotoneData(PiconData(IconData(0xea5f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea5e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// kanban-duotone
   ///
   /// ![kanban-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban-duotone.svg)
-  static const kanban = PiconDuotoneData(
-    0xeb55,
-    PiconData(0xeb54, 'Duotone'),
-  );
+  static const kanban = PiconDuotoneData(PiconData(IconData(0xeb55, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb54, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// key-duotone
   ///
   /// ![key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-duotone.svg)
-  static const key = PiconDuotoneData(
-    0xe2d7,
-    PiconData(0xe2d6, 'Duotone'),
-  );
+  static const key = PiconDuotoneData(PiconData(IconData(0xe2d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// key-return-duotone
   ///
   /// ![key-return-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return-duotone.svg)
-  static const keyReturn = PiconDuotoneData(
-    0xe783,
-    PiconData(0xe782, 'Duotone'),
-  );
+  static const keyReturn = PiconDuotoneData(PiconData(IconData(0xe783, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe782, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// keyboard-duotone
   ///
   /// ![keyboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard-duotone.svg)
-  static const keyboard = PiconDuotoneData(
-    0xe2d9,
-    PiconData(0xe2d8, 'Duotone'),
-  );
+  static const keyboard = PiconDuotoneData(PiconData(IconData(0xe2d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// keyhole-duotone
   ///
   /// ![keyhole-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole-duotone.svg)
-  static const keyhole = PiconDuotoneData(
-    0xea79,
-    PiconData(0xea78, 'Duotone'),
-  );
+  static const keyhole = PiconDuotoneData(PiconData(IconData(0xea79, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea78, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// knife-duotone
   ///
   /// ![knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife-duotone.svg)
-  static const knife = PiconDuotoneData(
-    0xe637,
-    PiconData(0xe636, 'Duotone'),
-  );
+  static const knife = PiconDuotoneData(PiconData(IconData(0xe637, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe636, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ladder-duotone
   ///
   /// ![ladder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-duotone.svg)
-  static const ladder = PiconDuotoneData(
-    0xe9e5,
-    PiconData(0xe9e4, 'Duotone'),
-  );
+  static const ladder = PiconDuotoneData(PiconData(IconData(0xe9e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ladder-simple-duotone
   ///
   /// ![ladder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple-duotone.svg)
-  static const ladderSimple = PiconDuotoneData(
-    0xec27,
-    PiconData(0xec26, 'Duotone'),
-  );
+  static const ladderSimple = PiconDuotoneData(PiconData(IconData(0xec27, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec26, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lamp-duotone
   ///
   /// ![lamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-duotone.svg)
-  static const lamp = PiconDuotoneData(
-    0xe639,
-    PiconData(0xe638, 'Duotone'),
-  );
+  static const lamp = PiconDuotoneData(PiconData(IconData(0xe639, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe638, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lamp-pendant-duotone
   ///
   /// ![lamp-pendant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant-duotone.svg)
-  static const lampPendant = PiconDuotoneData(
-    0xee2f,
-    PiconData(0xee2e, 'Duotone'),
-  );
+  static const lampPendant = PiconDuotoneData(PiconData(IconData(0xee2f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee2e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// laptop-duotone
   ///
   /// ![laptop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop-duotone.svg)
-  static const laptop = PiconDuotoneData(
-    0xe587,
-    PiconData(0xe586, 'Duotone'),
-  );
+  static const laptop = PiconDuotoneData(PiconData(IconData(0xe587, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe586, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lasso-duotone
   ///
   /// ![lasso-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso-duotone.svg)
-  static const lasso = PiconDuotoneData(
-    0xedc7,
-    PiconData(0xedc6, 'Duotone'),
-  );
+  static const lasso = PiconDuotoneData(PiconData(IconData(0xedc7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedc6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lastfm-logo-duotone
   ///
   /// ![lastfm-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo-duotone.svg)
-  static const lastfmLogo = PiconDuotoneData(
-    0xe843,
-    PiconData(0xe842, 'Duotone'),
-  );
+  static const lastfmLogo = PiconDuotoneData(PiconData(IconData(0xe843, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe842, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// layout-duotone
   ///
   /// ![layout-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout-duotone.svg)
-  static const layout = PiconDuotoneData(
-    0xe6d7,
-    PiconData(0xe6d6, 'Duotone'),
-  );
+  static const layout = PiconDuotoneData(PiconData(IconData(0xe6d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// leaf-duotone
   ///
   /// ![leaf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf-duotone.svg)
-  static const leaf = PiconDuotoneData(
-    0xe2db,
-    PiconData(0xe2da, 'Duotone'),
-  );
+  static const leaf = PiconDuotoneData(PiconData(IconData(0xe2db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lectern-duotone
   ///
   /// ![lectern-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern-duotone.svg)
-  static const lectern = PiconDuotoneData(
-    0xe95b,
-    PiconData(0xe95a, 'Duotone'),
-  );
+  static const lectern = PiconDuotoneData(PiconData(IconData(0xe95b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe95a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lego-duotone
   ///
   /// ![lego-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-duotone.svg)
-  static const lego = PiconDuotoneData(
-    0xe8c8,
-    PiconData(0xe8c6, 'Duotone'),
-  );
+  static const lego = PiconDuotoneData(PiconData(IconData(0xe8c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lego-smiley-duotone
   ///
   /// ![lego-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley-duotone.svg)
-  static const legoSmiley = PiconDuotoneData(
-    0xe8c9,
-    PiconData(0xe8c7, 'Duotone'),
-  );
+  static const legoSmiley = PiconDuotoneData(PiconData(IconData(0xe8c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// less-than-duotone
   ///
   /// ![less-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-duotone.svg)
-  static const lessThan = PiconDuotoneData(
-    0xedad,
-    PiconData(0xedac, 'Duotone'),
-  );
+  static const lessThan = PiconDuotoneData(PiconData(IconData(0xedad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// less-than-or-equal-duotone
   ///
   /// ![less-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal-duotone.svg)
-  static const lessThanOrEqual = PiconDuotoneData(
-    0xeda5,
-    PiconData(0xeda4, 'Duotone'),
-  );
+  static const lessThanOrEqual = PiconDuotoneData(PiconData(IconData(0xeda5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeda4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// letter-circle-h-duotone
   ///
   /// ![letter-circle-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h-duotone.svg)
-  static const letterCircleH = PiconDuotoneData(
-    0xebf9,
-    PiconData(0xebf8, 'Duotone'),
-  );
+  static const letterCircleH = PiconDuotoneData(PiconData(IconData(0xebf9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebf8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// letter-circle-p-duotone
   ///
   /// ![letter-circle-p-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p-duotone.svg)
-  static const letterCircleP = PiconDuotoneData(
-    0xec09,
-    PiconData(0xec08, 'Duotone'),
-  );
+  static const letterCircleP = PiconDuotoneData(PiconData(IconData(0xec09, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec08, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// letter-circle-v-duotone
   ///
   /// ![letter-circle-v-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v-duotone.svg)
-  static const letterCircleV = PiconDuotoneData(
-    0xec15,
-    PiconData(0xec14, 'Duotone'),
-  );
+  static const letterCircleV = PiconDuotoneData(PiconData(IconData(0xec15, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec14, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lifebuoy-duotone
   ///
   /// ![lifebuoy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy-duotone.svg)
-  static const lifebuoy = PiconDuotoneData(
-    0xe63b,
-    PiconData(0xe63a, 'Duotone'),
-  );
+  static const lifebuoy = PiconDuotoneData(PiconData(IconData(0xe63b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe63a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lightbulb-duotone
   ///
   /// ![lightbulb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-duotone.svg)
-  static const lightbulb = PiconDuotoneData(
-    0xe2dd,
-    PiconData(0xe2dc, 'Duotone'),
-  );
+  static const lightbulb = PiconDuotoneData(PiconData(IconData(0xe2dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lightbulb-filament-duotone
   ///
   /// ![lightbulb-filament-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament-duotone.svg)
-  static const lightbulbFilament = PiconDuotoneData(
-    0xe63d,
-    PiconData(0xe63c, 'Duotone'),
-  );
+  static const lightbulbFilament = PiconDuotoneData(PiconData(IconData(0xe63d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe63c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lighthouse-duotone
   ///
   /// ![lighthouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse-duotone.svg)
-  static const lighthouse = PiconDuotoneData(
-    0xe9f7,
-    PiconData(0xe9f6, 'Duotone'),
-  );
+  static const lighthouse = PiconDuotoneData(PiconData(IconData(0xe9f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lightning-duotone
   ///
   /// ![lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-duotone.svg)
-  static const lightning = PiconDuotoneData(
-    0xe2df,
-    PiconData(0xe2de, 'Duotone'),
-  );
+  static const lightning = PiconDuotoneData(PiconData(IconData(0xe2df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lightning-a-duotone
   ///
   /// ![lightning-a-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a-duotone.svg)
-  static const lightningA = PiconDuotoneData(
-    0xea85,
-    PiconData(0xea84, 'Duotone'),
-  );
+  static const lightningA = PiconDuotoneData(PiconData(IconData(0xea85, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea84, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lightning-slash-duotone
   ///
   /// ![lightning-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash-duotone.svg)
-  static const lightningSlash = PiconDuotoneData(
-    0xe2e1,
-    PiconData(0xe2e0, 'Duotone'),
-  );
+  static const lightningSlash = PiconDuotoneData(PiconData(IconData(0xe2e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// line-segment-duotone
   ///
   /// ![line-segment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment-duotone.svg)
-  static const lineSegment = PiconDuotoneData(
-    0xe6d3,
-    PiconData(0xe6d2, 'Duotone'),
-  );
+  static const lineSegment = PiconDuotoneData(PiconData(IconData(0xe6d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// line-segments-duotone
   ///
   /// ![line-segments-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments-duotone.svg)
-  static const lineSegments = PiconDuotoneData(
-    0xe6d5,
-    PiconData(0xe6d4, 'Duotone'),
-  );
+  static const lineSegments = PiconDuotoneData(PiconData(IconData(0xe6d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// line-vertical-duotone
   ///
   /// ![line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical-duotone.svg)
-  static const lineVertical = PiconDuotoneData(
-    0xed71,
-    PiconData(0xed70, 'Duotone'),
-  );
+  static const lineVertical = PiconDuotoneData(PiconData(IconData(0xed71, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed70, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-duotone
   ///
   /// ![link-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-duotone.svg)
-  static const link = PiconDuotoneData(
-    0xe2e3,
-    PiconData(0xe2e2, 'Duotone'),
-  );
+  static const link = PiconDuotoneData(PiconData(IconData(0xe2e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-break-duotone
   ///
   /// ![link-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break-duotone.svg)
-  static const linkBreak = PiconDuotoneData(
-    0xe2e5,
-    PiconData(0xe2e4, 'Duotone'),
-  );
+  static const linkBreak = PiconDuotoneData(PiconData(IconData(0xe2e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-simple-duotone
   ///
   /// ![link-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-duotone.svg)
-  static const linkSimple = PiconDuotoneData(
-    0xe2e7,
-    PiconData(0xe2e6, 'Duotone'),
-  );
+  static const linkSimple = PiconDuotoneData(PiconData(IconData(0xe2e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-simple-break-duotone
   ///
   /// ![link-simple-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break-duotone.svg)
-  static const linkSimpleBreak = PiconDuotoneData(
-    0xe2e9,
-    PiconData(0xe2e8, 'Duotone'),
-  );
+  static const linkSimpleBreak = PiconDuotoneData(PiconData(IconData(0xe2e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-simple-horizontal-duotone
   ///
   /// ![link-simple-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-duotone.svg)
-  static const linkSimpleHorizontal = PiconDuotoneData(
-    0xe2eb,
-    PiconData(0xe2ea, 'Duotone'),
-  );
+  static const linkSimpleHorizontal = PiconDuotoneData(PiconData(IconData(0xe2eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// link-simple-horizontal-break-duotone
   ///
   /// ![link-simple-horizontal-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break-duotone.svg)
-  static const linkSimpleHorizontalBreak = PiconDuotoneData(
-    0xe2ed,
-    PiconData(0xe2ec, 'Duotone'),
-  );
+  static const linkSimpleHorizontalBreak = PiconDuotoneData(PiconData(IconData(0xe2ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// linkedin-logo-duotone
   ///
   /// ![linkedin-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo-duotone.svg)
-  static const linkedinLogo = PiconDuotoneData(
-    0xe2ef,
-    PiconData(0xe2ee, 'Duotone'),
-  );
+  static const linkedinLogo = PiconDuotoneData(PiconData(IconData(0xe2ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// linktree-logo-duotone
   ///
   /// ![linktree-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo-duotone.svg)
-  static const linktreeLogo = PiconDuotoneData(
-    0xedef,
-    PiconData(0xedee, 'Duotone'),
-  );
+  static const linktreeLogo = PiconDuotoneData(PiconData(IconData(0xedef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// linux-logo-duotone
   ///
   /// ![linux-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo-duotone.svg)
-  static const linuxLogo = PiconDuotoneData(
-    0xeb03,
-    PiconData(0xeb02, 'Duotone'),
-  );
+  static const linuxLogo = PiconDuotoneData(PiconData(IconData(0xeb03, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb02, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-duotone
   ///
   /// ![list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-duotone.svg)
-  static const list = PiconDuotoneData(
-    0xe2f1,
-    PiconData(0xe2f0, 'Duotone'),
-  );
+  static const list = PiconDuotoneData(PiconData(IconData(0xe2f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-bullets-duotone
   ///
   /// ![list-bullets-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets-duotone.svg)
-  static const listBullets = PiconDuotoneData(
-    0xe2f3,
-    PiconData(0xe2f2, 'Duotone'),
-  );
+  static const listBullets = PiconDuotoneData(PiconData(IconData(0xe2f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-checks-duotone
   ///
   /// ![list-checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks-duotone.svg)
-  static const listChecks = PiconDuotoneData(
-    0xeadd,
-    PiconData(0xeadc, 'Duotone'),
-  );
+  static const listChecks = PiconDuotoneData(PiconData(IconData(0xeadd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeadc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-dashes-duotone
   ///
   /// ![list-dashes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes-duotone.svg)
-  static const listDashes = PiconDuotoneData(
-    0xe2f5,
-    PiconData(0xe2f4, 'Duotone'),
-  );
+  static const listDashes = PiconDuotoneData(PiconData(IconData(0xe2f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-heart-duotone
   ///
   /// ![list-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart-duotone.svg)
-  static const listHeart = PiconDuotoneData(
-    0xebdf,
-    PiconData(0xebde, 'Duotone'),
-  );
+  static const listHeart = PiconDuotoneData(PiconData(IconData(0xebdf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebde, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-magnifying-glass-duotone
   ///
   /// ![list-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass-duotone.svg)
-  static const listMagnifyingGlass = PiconDuotoneData(
-    0xebe1,
-    PiconData(0xebe0, 'Duotone'),
-  );
+  static const listMagnifyingGlass = PiconDuotoneData(PiconData(IconData(0xebe1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebe0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-numbers-duotone
   ///
   /// ![list-numbers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers-duotone.svg)
-  static const listNumbers = PiconDuotoneData(
-    0xe2f7,
-    PiconData(0xe2f6, 'Duotone'),
-  );
+  static const listNumbers = PiconDuotoneData(PiconData(IconData(0xe2f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-plus-duotone
   ///
   /// ![list-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus-duotone.svg)
-  static const listPlus = PiconDuotoneData(
-    0xe2f9,
-    PiconData(0xe2f8, 'Duotone'),
-  );
+  static const listPlus = PiconDuotoneData(PiconData(IconData(0xe2f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// list-star-duotone
   ///
   /// ![list-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star-duotone.svg)
-  static const listStar = PiconDuotoneData(
-    0xebdd,
-    PiconData(0xebdc, 'Duotone'),
-  );
+  static const listStar = PiconDuotoneData(PiconData(IconData(0xebdd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebdc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-duotone
   ///
   /// ![lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-duotone.svg)
-  static const lock = PiconDuotoneData(
-    0xe2fb,
-    PiconData(0xe2fa, 'Duotone'),
-  );
+  static const lock = PiconDuotoneData(PiconData(IconData(0xe2fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-key-duotone
   ///
   /// ![lock-key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-duotone.svg)
-  static const lockKey = PiconDuotoneData(
-    0xe2ff,
-    PiconData(0xe2fe, 'Duotone'),
-  );
+  static const lockKey = PiconDuotoneData(PiconData(IconData(0xe2ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe2fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-key-open-duotone
   ///
   /// ![lock-key-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open-duotone.svg)
-  static const lockKeyOpen = PiconDuotoneData(
-    0xe301,
-    PiconData(0xe300, 'Duotone'),
-  );
+  static const lockKeyOpen = PiconDuotoneData(PiconData(IconData(0xe301, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe300, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-laminated-duotone
   ///
   /// ![lock-laminated-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-duotone.svg)
-  static const lockLaminated = PiconDuotoneData(
-    0xe303,
-    PiconData(0xe302, 'Duotone'),
-  );
+  static const lockLaminated = PiconDuotoneData(PiconData(IconData(0xe303, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe302, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-laminated-open-duotone
   ///
   /// ![lock-laminated-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open-duotone.svg)
-  static const lockLaminatedOpen = PiconDuotoneData(
-    0xe305,
-    PiconData(0xe304, 'Duotone'),
-  );
+  static const lockLaminatedOpen = PiconDuotoneData(PiconData(IconData(0xe305, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe304, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-open-duotone
   ///
   /// ![lock-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open-duotone.svg)
-  static const lockOpen = PiconDuotoneData(
-    0xe307,
-    PiconData(0xe306, 'Duotone'),
-  );
+  static const lockOpen = PiconDuotoneData(PiconData(IconData(0xe307, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe306, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-simple-duotone
   ///
   /// ![lock-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-duotone.svg)
-  static const lockSimple = PiconDuotoneData(
-    0xe309,
-    PiconData(0xe308, 'Duotone'),
-  );
+  static const lockSimple = PiconDuotoneData(PiconData(IconData(0xe309, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe308, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lock-simple-open-duotone
   ///
   /// ![lock-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open-duotone.svg)
-  static const lockSimpleOpen = PiconDuotoneData(
-    0xe30b,
-    PiconData(0xe30a, 'Duotone'),
-  );
+  static const lockSimpleOpen = PiconDuotoneData(PiconData(IconData(0xe30b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe30a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// lockers-duotone
   ///
   /// ![lockers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers-duotone.svg)
-  static const lockers = PiconDuotoneData(
-    0xecb9,
-    PiconData(0xecb8, 'Duotone'),
-  );
+  static const lockers = PiconDuotoneData(PiconData(IconData(0xecb9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecb8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// log-duotone
   ///
   /// ![log-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log-duotone.svg)
-  static const log = PiconDuotoneData(
-    0xed83,
-    PiconData(0xed82, 'Duotone'),
-  );
+  static const log = PiconDuotoneData(PiconData(IconData(0xed83, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed82, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magic-wand-duotone
   ///
   /// ![magic-wand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand-duotone.svg)
-  static const magicWand = PiconDuotoneData(
-    0xe6b7,
-    PiconData(0xe6b6, 'Duotone'),
-  );
+  static const magicWand = PiconDuotoneData(PiconData(IconData(0xe6b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magnet-duotone
   ///
   /// ![magnet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-duotone.svg)
-  static const magnet = PiconDuotoneData(
-    0xe681,
-    PiconData(0xe680, 'Duotone'),
-  );
+  static const magnet = PiconDuotoneData(PiconData(IconData(0xe681, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe680, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magnet-straight-duotone
   ///
   /// ![magnet-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight-duotone.svg)
-  static const magnetStraight = PiconDuotoneData(
-    0xe683,
-    PiconData(0xe682, 'Duotone'),
-  );
+  static const magnetStraight = PiconDuotoneData(PiconData(IconData(0xe683, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe682, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magnifying-glass-duotone
   ///
   /// ![magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-duotone.svg)
-  static const magnifyingGlass = PiconDuotoneData(
-    0xe30d,
-    PiconData(0xe30c, 'Duotone'),
-  );
+  static const magnifyingGlass = PiconDuotoneData(PiconData(IconData(0xe30d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe30c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magnifying-glass-minus-duotone
   ///
   /// ![magnifying-glass-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus-duotone.svg)
-  static const magnifyingGlassMinus = PiconDuotoneData(
-    0xe30f,
-    PiconData(0xe30e, 'Duotone'),
-  );
+  static const magnifyingGlassMinus = PiconDuotoneData(PiconData(IconData(0xe30f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe30e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// magnifying-glass-plus-duotone
   ///
   /// ![magnifying-glass-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus-duotone.svg)
-  static const magnifyingGlassPlus = PiconDuotoneData(
-    0xe311,
-    PiconData(0xe310, 'Duotone'),
-  );
+  static const magnifyingGlassPlus = PiconDuotoneData(PiconData(IconData(0xe311, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe310, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mailbox-duotone
   ///
   /// ![mailbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox-duotone.svg)
-  static const mailbox = PiconDuotoneData(
-    0xec1f,
-    PiconData(0xec1e, 'Duotone'),
-  );
+  static const mailbox = PiconDuotoneData(PiconData(IconData(0xec1f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec1e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-duotone
   ///
   /// ![map-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-duotone.svg)
-  static const mapPin = PiconDuotoneData(
-    0xe317,
-    PiconData(0xe316, 'Duotone'),
-  );
+  static const mapPin = PiconDuotoneData(PiconData(IconData(0xe317, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe316, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-area-duotone
   ///
   /// ![map-pin-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area-duotone.svg)
-  static const mapPinArea = PiconDuotoneData(
-    0xee3b,
-    PiconData(0xee3a, 'Duotone'),
-  );
+  static const mapPinArea = PiconDuotoneData(PiconData(IconData(0xee3b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee3a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-line-duotone
   ///
   /// ![map-pin-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line-duotone.svg)
-  static const mapPinLine = PiconDuotoneData(
-    0xe319,
-    PiconData(0xe318, 'Duotone'),
-  );
+  static const mapPinLine = PiconDuotoneData(PiconData(IconData(0xe319, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe318, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-plus-duotone
   ///
   /// ![map-pin-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus-duotone.svg)
-  static const mapPinPlus = PiconDuotoneData(
-    0xe315,
-    PiconData(0xe314, 'Duotone'),
-  );
+  static const mapPinPlus = PiconDuotoneData(PiconData(IconData(0xe315, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe314, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-simple-duotone
   ///
   /// ![map-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-duotone.svg)
-  static const mapPinSimple = PiconDuotoneData(
-    0xee3f,
-    PiconData(0xee3e, 'Duotone'),
-  );
+  static const mapPinSimple = PiconDuotoneData(PiconData(IconData(0xee3f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee3e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-simple-area-duotone
   ///
   /// ![map-pin-simple-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area-duotone.svg)
-  static const mapPinSimpleArea = PiconDuotoneData(
-    0xee3d,
-    PiconData(0xee3c, 'Duotone'),
-  );
+  static const mapPinSimpleArea = PiconDuotoneData(PiconData(IconData(0xee3d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee3c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-pin-simple-line-duotone
   ///
   /// ![map-pin-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line-duotone.svg)
-  static const mapPinSimpleLine = PiconDuotoneData(
-    0xee39,
-    PiconData(0xee38, 'Duotone'),
-  );
+  static const mapPinSimpleLine = PiconDuotoneData(PiconData(IconData(0xee39, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee38, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// map-trifold-duotone
   ///
   /// ![map-trifold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold-duotone.svg)
-  static const mapTrifold = PiconDuotoneData(
-    0xe31b,
-    PiconData(0xe31a, 'Duotone'),
-  );
+  static const mapTrifold = PiconDuotoneData(PiconData(IconData(0xe31b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe31a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// markdown-logo-duotone
   ///
   /// ![markdown-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo-duotone.svg)
-  static const markdownLogo = PiconDuotoneData(
-    0xe509,
-    PiconData(0xe508, 'Duotone'),
-  );
+  static const markdownLogo = PiconDuotoneData(PiconData(IconData(0xe509, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe508, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// marker-circle-duotone
   ///
   /// ![marker-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle-duotone.svg)
-  static const markerCircle = PiconDuotoneData(
-    0xe641,
-    PiconData(0xe640, 'Duotone'),
-  );
+  static const markerCircle = PiconDuotoneData(PiconData(IconData(0xe641, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe640, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// martini-duotone
   ///
   /// ![martini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini-duotone.svg)
-  static const martini = PiconDuotoneData(
-    0xe31d,
-    PiconData(0xe31c, 'Duotone'),
-  );
+  static const martini = PiconDuotoneData(PiconData(IconData(0xe31d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe31c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mask-happy-duotone
   ///
   /// ![mask-happy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy-duotone.svg)
-  static const maskHappy = PiconDuotoneData(
-    0xe9f5,
-    PiconData(0xe9f4, 'Duotone'),
-  );
+  static const maskHappy = PiconDuotoneData(PiconData(IconData(0xe9f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mask-sad-duotone
   ///
   /// ![mask-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad-duotone.svg)
-  static const maskSad = PiconDuotoneData(
-    0xeb9f,
-    PiconData(0xeb9e, 'Duotone'),
-  );
+  static const maskSad = PiconDuotoneData(PiconData(IconData(0xeb9f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb9e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mastodon-logo-duotone
   ///
   /// ![mastodon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo-duotone.svg)
-  static const mastodonLogo = PiconDuotoneData(
-    0xed69,
-    PiconData(0xed68, 'Duotone'),
-  );
+  static const mastodonLogo = PiconDuotoneData(PiconData(IconData(0xed69, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed68, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// math-operations-duotone
   ///
   /// ![math-operations-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations-duotone.svg)
-  static const mathOperations = PiconDuotoneData(
-    0xe31f,
-    PiconData(0xe31e, 'Duotone'),
-  );
+  static const mathOperations = PiconDuotoneData(PiconData(IconData(0xe31f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe31e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// matrix-logo-duotone
   ///
   /// ![matrix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo-duotone.svg)
-  static const matrixLogo = PiconDuotoneData(
-    0xed65,
-    PiconData(0xed64, 'Duotone'),
-  );
+  static const matrixLogo = PiconDuotoneData(PiconData(IconData(0xed65, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed64, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// medal-duotone
   ///
   /// ![medal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-duotone.svg)
-  static const medal = PiconDuotoneData(
-    0xe321,
-    PiconData(0xe320, 'Duotone'),
-  );
+  static const medal = PiconDuotoneData(PiconData(IconData(0xe321, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe320, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// medal-military-duotone
   ///
   /// ![medal-military-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military-duotone.svg)
-  static const medalMilitary = PiconDuotoneData(
-    0xecfd,
-    PiconData(0xecfc, 'Duotone'),
-  );
+  static const medalMilitary = PiconDuotoneData(PiconData(IconData(0xecfd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecfc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// medium-logo-duotone
   ///
   /// ![medium-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo-duotone.svg)
-  static const mediumLogo = PiconDuotoneData(
-    0xe323,
-    PiconData(0xe322, 'Duotone'),
-  );
+  static const mediumLogo = PiconDuotoneData(PiconData(IconData(0xe323, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe322, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// megaphone-duotone
   ///
   /// ![megaphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-duotone.svg)
-  static const megaphone = PiconDuotoneData(
-    0xe325,
-    PiconData(0xe324, 'Duotone'),
-  );
+  static const megaphone = PiconDuotoneData(PiconData(IconData(0xe325, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe324, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// megaphone-simple-duotone
   ///
   /// ![megaphone-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple-duotone.svg)
-  static const megaphoneSimple = PiconDuotoneData(
-    0xe643,
-    PiconData(0xe642, 'Duotone'),
-  );
+  static const megaphoneSimple = PiconDuotoneData(PiconData(IconData(0xe643, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe642, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// member-of-duotone
   ///
   /// ![member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of-duotone.svg)
-  static const memberOf = PiconDuotoneData(
-    0xedc3,
-    PiconData(0xedc2, 'Duotone'),
-  );
+  static const memberOf = PiconDuotoneData(PiconData(IconData(0xedc3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedc2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// memory-duotone
   ///
   /// ![memory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory-duotone.svg)
-  static const memory = PiconDuotoneData(
-    0xe9c5,
-    PiconData(0xe9c4, 'Duotone'),
-  );
+  static const memory = PiconDuotoneData(PiconData(IconData(0xe9c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// messenger-logo-duotone
   ///
   /// ![messenger-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo-duotone.svg)
-  static const messengerLogo = PiconDuotoneData(
-    0xe6d9,
-    PiconData(0xe6d8, 'Duotone'),
-  );
+  static const messengerLogo = PiconDuotoneData(PiconData(IconData(0xe6d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// meta-logo-duotone
   ///
   /// ![meta-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo-duotone.svg)
-  static const metaLogo = PiconDuotoneData(
-    0xed03,
-    PiconData(0xed02, 'Duotone'),
-  );
+  static const metaLogo = PiconDuotoneData(PiconData(IconData(0xed03, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed02, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// meteor-duotone
   ///
   /// ![meteor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor-duotone.svg)
-  static const meteor = PiconDuotoneData(
-    0xe9bb,
-    PiconData(0xe9ba, 'Duotone'),
-  );
+  static const meteor = PiconDuotoneData(PiconData(IconData(0xe9bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// metronome-duotone
   ///
   /// ![metronome-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome-duotone.svg)
-  static const metronome = PiconDuotoneData(
-    0xec8f,
-    PiconData(0xec8e, 'Duotone'),
-  );
+  static const metronome = PiconDuotoneData(PiconData(IconData(0xec8f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec8e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microphone-duotone
   ///
   /// ![microphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-duotone.svg)
-  static const microphone = PiconDuotoneData(
-    0xe327,
-    PiconData(0xe326, 'Duotone'),
-  );
+  static const microphone = PiconDuotoneData(PiconData(IconData(0xe327, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe326, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microphone-slash-duotone
   ///
   /// ![microphone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash-duotone.svg)
-  static const microphoneSlash = PiconDuotoneData(
-    0xe329,
-    PiconData(0xe328, 'Duotone'),
-  );
+  static const microphoneSlash = PiconDuotoneData(PiconData(IconData(0xe329, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe328, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microphone-stage-duotone
   ///
   /// ![microphone-stage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage-duotone.svg)
-  static const microphoneStage = PiconDuotoneData(
-    0xe75d,
-    PiconData(0xe75c, 'Duotone'),
-  );
+  static const microphoneStage = PiconDuotoneData(PiconData(IconData(0xe75d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe75c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microscope-duotone
   ///
   /// ![microscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope-duotone.svg)
-  static const microscope = PiconDuotoneData(
-    0xec7b,
-    PiconData(0xec7a, 'Duotone'),
-  );
+  static const microscope = PiconDuotoneData(PiconData(IconData(0xec7b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec7a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microsoft-excel-logo-duotone
   ///
   /// ![microsoft-excel-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo-duotone.svg)
-  static const microsoftExcelLogo = PiconDuotoneData(
-    0xeb6d,
-    PiconData(0xeb6c, 'Duotone'),
-  );
+  static const microsoftExcelLogo = PiconDuotoneData(PiconData(IconData(0xeb6d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb6c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microsoft-outlook-logo-duotone
   ///
   /// ![microsoft-outlook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo-duotone.svg)
-  static const microsoftOutlookLogo = PiconDuotoneData(
-    0xeb71,
-    PiconData(0xeb70, 'Duotone'),
-  );
+  static const microsoftOutlookLogo = PiconDuotoneData(PiconData(IconData(0xeb71, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb70, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microsoft-powerpoint-logo-duotone
   ///
   /// ![microsoft-powerpoint-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo-duotone.svg)
-  static const microsoftPowerpointLogo = PiconDuotoneData(
-    0xeacf,
-    PiconData(0xeace, 'Duotone'),
-  );
+  static const microsoftPowerpointLogo = PiconDuotoneData(PiconData(IconData(0xeacf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeace, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microsoft-teams-logo-duotone
   ///
   /// ![microsoft-teams-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo-duotone.svg)
-  static const microsoftTeamsLogo = PiconDuotoneData(
-    0xeb67,
-    PiconData(0xeb66, 'Duotone'),
-  );
+  static const microsoftTeamsLogo = PiconDuotoneData(PiconData(IconData(0xeb67, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb66, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// microsoft-word-logo-duotone
   ///
   /// ![microsoft-word-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo-duotone.svg)
-  static const microsoftWordLogo = PiconDuotoneData(
-    0xeb6b,
-    PiconData(0xeb6a, 'Duotone'),
-  );
+  static const microsoftWordLogo = PiconDuotoneData(PiconData(IconData(0xeb6b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb6a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// minus-duotone
   ///
   /// ![minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-duotone.svg)
-  static const minus = PiconDuotoneData(
-    0xe32b,
-    PiconData(0xe32a, 'Duotone'),
-  );
+  static const minus = PiconDuotoneData(PiconData(IconData(0xe32b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe32a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// minus-circle-duotone
   ///
   /// ![minus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle-duotone.svg)
-  static const minusCircle = PiconDuotoneData(
-    0xe32d,
-    PiconData(0xe32c, 'Duotone'),
-  );
+  static const minusCircle = PiconDuotoneData(PiconData(IconData(0xe32d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe32c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// minus-square-duotone
   ///
   /// ![minus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square-duotone.svg)
-  static const minusSquare = PiconDuotoneData(
-    0xed53,
-    PiconData(0xed4c, 'Duotone'),
-  );
+  static const minusSquare = PiconDuotoneData(PiconData(IconData(0xed53, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed4c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// money-duotone
   ///
   /// ![money-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-duotone.svg)
-  static const money = PiconDuotoneData(
-    0xe589,
-    PiconData(0xe588, 'Duotone'),
-  );
+  static const money = PiconDuotoneData(PiconData(IconData(0xe589, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe588, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// money-wavy-duotone
   ///
   /// ![money-wavy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy-duotone.svg)
-  static const moneyWavy = PiconDuotoneData(
-    0xee69,
-    PiconData(0xee68, 'Duotone'),
-  );
+  static const moneyWavy = PiconDuotoneData(PiconData(IconData(0xee69, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee68, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// monitor-duotone
   ///
   /// ![monitor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-duotone.svg)
-  static const monitor = PiconDuotoneData(
-    0xe32f,
-    PiconData(0xe32e, 'Duotone'),
-  );
+  static const monitor = PiconDuotoneData(PiconData(IconData(0xe32f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe32e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// monitor-arrow-up-duotone
   ///
   /// ![monitor-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up-duotone.svg)
-  static const monitorArrowUp = PiconDuotoneData(
-    0xe58b,
-    PiconData(0xe58a, 'Duotone'),
-  );
+  static const monitorArrowUp = PiconDuotoneData(PiconData(IconData(0xe58b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe58a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// monitor-play-duotone
   ///
   /// ![monitor-play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play-duotone.svg)
-  static const monitorPlay = PiconDuotoneData(
-    0xe58d,
-    PiconData(0xe58c, 'Duotone'),
-  );
+  static const monitorPlay = PiconDuotoneData(PiconData(IconData(0xe58d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe58c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// moon-duotone
   ///
   /// ![moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-duotone.svg)
-  static const moon = PiconDuotoneData(
-    0xe331,
-    PiconData(0xe330, 'Duotone'),
-  );
+  static const moon = PiconDuotoneData(PiconData(IconData(0xe331, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe330, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// moon-stars-duotone
   ///
   /// ![moon-stars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars-duotone.svg)
-  static const moonStars = PiconDuotoneData(
-    0xe58f,
-    PiconData(0xe58e, 'Duotone'),
-  );
+  static const moonStars = PiconDuotoneData(PiconData(IconData(0xe58f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe58e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// moped-duotone
   ///
   /// ![moped-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-duotone.svg)
-  static const moped = PiconDuotoneData(
-    0xe825,
-    PiconData(0xe824, 'Duotone'),
-  );
+  static const moped = PiconDuotoneData(PiconData(IconData(0xe825, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe824, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// moped-front-duotone
   ///
   /// ![moped-front-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front-duotone.svg)
-  static const mopedFront = PiconDuotoneData(
-    0xe823,
-    PiconData(0xe822, 'Duotone'),
-  );
+  static const mopedFront = PiconDuotoneData(PiconData(IconData(0xe823, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe822, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mosque-duotone
   ///
   /// ![mosque-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque-duotone.svg)
-  static const mosque = PiconDuotoneData(
-    0xecef,
-    PiconData(0xecee, 'Duotone'),
-  );
+  static const mosque = PiconDuotoneData(PiconData(IconData(0xecef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// motorcycle-duotone
   ///
   /// ![motorcycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle-duotone.svg)
-  static const motorcycle = PiconDuotoneData(
-    0xe80b,
-    PiconData(0xe80a, 'Duotone'),
-  );
+  static const motorcycle = PiconDuotoneData(PiconData(IconData(0xe80b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe80a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mountains-duotone
   ///
   /// ![mountains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains-duotone.svg)
-  static const mountains = PiconDuotoneData(
-    0xe7af,
-    PiconData(0xe7ae, 'Duotone'),
-  );
+  static const mountains = PiconDuotoneData(PiconData(IconData(0xe7af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-duotone
   ///
   /// ![mouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-duotone.svg)
-  static const mouse = PiconDuotoneData(
-    0xe33b,
-    PiconData(0xe33a, 'Duotone'),
-  );
+  static const mouse = PiconDuotoneData(PiconData(IconData(0xe33b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe33a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-left-click-duotone
   ///
   /// ![mouse-left-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click-duotone.svg)
-  static const mouseLeftClick = PiconDuotoneData(
-    0xe335,
-    PiconData(0xe334, 'Duotone'),
-  );
+  static const mouseLeftClick = PiconDuotoneData(PiconData(IconData(0xe335, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe334, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-middle-click-duotone
   ///
   /// ![mouse-middle-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click-duotone.svg)
-  static const mouseMiddleClick = PiconDuotoneData(
-    0xe339,
-    PiconData(0xe338, 'Duotone'),
-  );
+  static const mouseMiddleClick = PiconDuotoneData(PiconData(IconData(0xe339, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe338, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-right-click-duotone
   ///
   /// ![mouse-right-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click-duotone.svg)
-  static const mouseRightClick = PiconDuotoneData(
-    0xe337,
-    PiconData(0xe336, 'Duotone'),
-  );
+  static const mouseRightClick = PiconDuotoneData(PiconData(IconData(0xe337, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe336, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-scroll-duotone
   ///
   /// ![mouse-scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll-duotone.svg)
-  static const mouseScroll = PiconDuotoneData(
-    0xe333,
-    PiconData(0xe332, 'Duotone'),
-  );
+  static const mouseScroll = PiconDuotoneData(PiconData(IconData(0xe333, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe332, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// mouse-simple-duotone
   ///
   /// ![mouse-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple-duotone.svg)
-  static const mouseSimple = PiconDuotoneData(
-    0xe645,
-    PiconData(0xe644, 'Duotone'),
-  );
+  static const mouseSimple = PiconDuotoneData(PiconData(IconData(0xe645, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe644, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-note-duotone
   ///
   /// ![music-note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-duotone.svg)
-  static const musicNote = PiconDuotoneData(
-    0xe33d,
-    PiconData(0xe33c, 'Duotone'),
-  );
+  static const musicNote = PiconDuotoneData(PiconData(IconData(0xe33d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe33c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-note-simple-duotone
   ///
   /// ![music-note-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple-duotone.svg)
-  static const musicNoteSimple = PiconDuotoneData(
-    0xe33f,
-    PiconData(0xe33e, 'Duotone'),
-  );
+  static const musicNoteSimple = PiconDuotoneData(PiconData(IconData(0xe33f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe33e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-notes-duotone
   ///
   /// ![music-notes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-duotone.svg)
-  static const musicNotes = PiconDuotoneData(
-    0xe341,
-    PiconData(0xe340, 'Duotone'),
-  );
+  static const musicNotes = PiconDuotoneData(PiconData(IconData(0xe341, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe340, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-notes-minus-duotone
   ///
   /// ![music-notes-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus-duotone.svg)
-  static const musicNotesMinus = PiconDuotoneData(
-    0xee0d,
-    PiconData(0xee0c, 'Duotone'),
-  );
+  static const musicNotesMinus = PiconDuotoneData(PiconData(IconData(0xee0d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee0c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-notes-plus-duotone
   ///
   /// ![music-notes-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus-duotone.svg)
-  static const musicNotesPlus = PiconDuotoneData(
-    0xeb7d,
-    PiconData(0xeb7c, 'Duotone'),
-  );
+  static const musicNotesPlus = PiconDuotoneData(PiconData(IconData(0xeb7d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb7c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// music-notes-simple-duotone
   ///
   /// ![music-notes-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple-duotone.svg)
-  static const musicNotesSimple = PiconDuotoneData(
-    0xe343,
-    PiconData(0xe342, 'Duotone'),
-  );
+  static const musicNotesSimple = PiconDuotoneData(PiconData(IconData(0xe343, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe342, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// navigation-arrow-duotone
   ///
   /// ![navigation-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow-duotone.svg)
-  static const navigationArrow = PiconDuotoneData(
-    0xeadf,
-    PiconData(0xeade, 'Duotone'),
-  );
+  static const navigationArrow = PiconDuotoneData(PiconData(IconData(0xeadf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeade, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// needle-duotone
   ///
   /// ![needle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle-duotone.svg)
-  static const needle = PiconDuotoneData(
-    0xe82f,
-    PiconData(0xe82e, 'Duotone'),
-  );
+  static const needle = PiconDuotoneData(PiconData(IconData(0xe82f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe82e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// network-duotone
   ///
   /// ![network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-duotone.svg)
-  static const network = PiconDuotoneData(
-    0xeddf,
-    PiconData(0xedde, 'Duotone'),
-  );
+  static const network = PiconDuotoneData(PiconData(IconData(0xeddf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedde, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// network-slash-duotone
   ///
   /// ![network-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash-duotone.svg)
-  static const networkSlash = PiconDuotoneData(
-    0xeddd,
-    PiconData(0xeddc, 'Duotone'),
-  );
+  static const networkSlash = PiconDuotoneData(PiconData(IconData(0xeddd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeddc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// network-x-duotone
   ///
   /// ![network-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x-duotone.svg)
-  static const networkX = PiconDuotoneData(
-    0xeddb,
-    PiconData(0xedda, 'Duotone'),
-  );
+  static const networkX = PiconDuotoneData(PiconData(IconData(0xeddb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedda, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// newspaper-duotone
   ///
   /// ![newspaper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-duotone.svg)
-  static const newspaper = PiconDuotoneData(
-    0xe345,
-    PiconData(0xe344, 'Duotone'),
-  );
+  static const newspaper = PiconDuotoneData(PiconData(IconData(0xe345, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe344, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// newspaper-clipping-duotone
   ///
   /// ![newspaper-clipping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping-duotone.svg)
-  static const newspaperClipping = PiconDuotoneData(
-    0xe347,
-    PiconData(0xe346, 'Duotone'),
-  );
+  static const newspaperClipping = PiconDuotoneData(PiconData(IconData(0xe347, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe346, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// not-equals-duotone
   ///
   /// ![not-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals-duotone.svg)
-  static const notEquals = PiconDuotoneData(
-    0xeda7,
-    PiconData(0xeda6, 'Duotone'),
-  );
+  static const notEquals = PiconDuotoneData(PiconData(IconData(0xeda7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeda6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// not-member-of-duotone
   ///
   /// ![not-member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of-duotone.svg)
-  static const notMemberOf = PiconDuotoneData(
-    0xedaf,
-    PiconData(0xedae, 'Duotone'),
-  );
+  static const notMemberOf = PiconDuotoneData(PiconData(IconData(0xedaf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// not-subset-of-duotone
   ///
   /// ![not-subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of-duotone.svg)
-  static const notSubsetOf = PiconDuotoneData(
-    0xedb1,
-    PiconData(0xedb0, 'Duotone'),
-  );
+  static const notSubsetOf = PiconDuotoneData(PiconData(IconData(0xedb1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedb0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// not-superset-of-duotone
   ///
   /// ![not-superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of-duotone.svg)
-  static const notSupersetOf = PiconDuotoneData(
-    0xedb3,
-    PiconData(0xedb2, 'Duotone'),
-  );
+  static const notSupersetOf = PiconDuotoneData(PiconData(IconData(0xedb3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedb2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// notches-duotone
   ///
   /// ![notches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches-duotone.svg)
-  static const notches = PiconDuotoneData(
-    0xed3b,
-    PiconData(0xed3a, 'Duotone'),
-  );
+  static const notches = PiconDuotoneData(PiconData(IconData(0xed3b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed3a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// note-duotone
   ///
   /// ![note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-duotone.svg)
-  static const note = PiconDuotoneData(
-    0xe349,
-    PiconData(0xe348, 'Duotone'),
-  );
+  static const note = PiconDuotoneData(PiconData(IconData(0xe349, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe348, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// note-blank-duotone
   ///
   /// ![note-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank-duotone.svg)
-  static const noteBlank = PiconDuotoneData(
-    0xe34b,
-    PiconData(0xe34a, 'Duotone'),
-  );
+  static const noteBlank = PiconDuotoneData(PiconData(IconData(0xe34b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe34a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// note-pencil-duotone
   ///
   /// ![note-pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil-duotone.svg)
-  static const notePencil = PiconDuotoneData(
-    0xe34d,
-    PiconData(0xe34c, 'Duotone'),
-  );
+  static const notePencil = PiconDuotoneData(PiconData(IconData(0xe34d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe34c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// notebook-duotone
   ///
   /// ![notebook-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook-duotone.svg)
-  static const notebook = PiconDuotoneData(
-    0xe34f,
-    PiconData(0xe34e, 'Duotone'),
-  );
+  static const notebook = PiconDuotoneData(PiconData(IconData(0xe34f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe34e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// notepad-duotone
   ///
   /// ![notepad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad-duotone.svg)
-  static const notepad = PiconDuotoneData(
-    0xe63f,
-    PiconData(0xe63e, 'Duotone'),
-  );
+  static const notepad = PiconDuotoneData(PiconData(IconData(0xe63f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe63e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// notification-duotone
   ///
   /// ![notification-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification-duotone.svg)
-  static const notification = PiconDuotoneData(
-    0xe6fb,
-    PiconData(0xe6fa, 'Duotone'),
-  );
+  static const notification = PiconDuotoneData(PiconData(IconData(0xe6fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// notion-logo-duotone
   ///
   /// ![notion-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo-duotone.svg)
-  static const notionLogo = PiconDuotoneData(
-    0xe9a1,
-    PiconData(0xe9a0, 'Duotone'),
-  );
+  static const notionLogo = PiconDuotoneData(PiconData(IconData(0xe9a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// nuclear-plant-duotone
   ///
   /// ![nuclear-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant-duotone.svg)
-  static const nuclearPlant = PiconDuotoneData(
-    0xed7d,
-    PiconData(0xed7c, 'Duotone'),
-  );
+  static const nuclearPlant = PiconDuotoneData(PiconData(IconData(0xed7d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed7c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-eight-duotone
   ///
   /// ![number-circle-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight-duotone.svg)
-  static const numberCircleEight = PiconDuotoneData(
-    0xe353,
-    PiconData(0xe352, 'Duotone'),
-  );
+  static const numberCircleEight = PiconDuotoneData(PiconData(IconData(0xe353, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe352, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-five-duotone
   ///
   /// ![number-circle-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five-duotone.svg)
-  static const numberCircleFive = PiconDuotoneData(
-    0xe359,
-    PiconData(0xe358, 'Duotone'),
-  );
+  static const numberCircleFive = PiconDuotoneData(PiconData(IconData(0xe359, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe358, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-four-duotone
   ///
   /// ![number-circle-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four-duotone.svg)
-  static const numberCircleFour = PiconDuotoneData(
-    0xe35f,
-    PiconData(0xe35e, 'Duotone'),
-  );
+  static const numberCircleFour = PiconDuotoneData(PiconData(IconData(0xe35f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe35e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-nine-duotone
   ///
   /// ![number-circle-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine-duotone.svg)
-  static const numberCircleNine = PiconDuotoneData(
-    0xe365,
-    PiconData(0xe364, 'Duotone'),
-  );
+  static const numberCircleNine = PiconDuotoneData(PiconData(IconData(0xe365, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe364, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-one-duotone
   ///
   /// ![number-circle-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one-duotone.svg)
-  static const numberCircleOne = PiconDuotoneData(
-    0xe36b,
-    PiconData(0xe36a, 'Duotone'),
-  );
+  static const numberCircleOne = PiconDuotoneData(PiconData(IconData(0xe36b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe36a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-seven-duotone
   ///
   /// ![number-circle-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven-duotone.svg)
-  static const numberCircleSeven = PiconDuotoneData(
-    0xe371,
-    PiconData(0xe370, 'Duotone'),
-  );
+  static const numberCircleSeven = PiconDuotoneData(PiconData(IconData(0xe371, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe370, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-six-duotone
   ///
   /// ![number-circle-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six-duotone.svg)
-  static const numberCircleSix = PiconDuotoneData(
-    0xe377,
-    PiconData(0xe376, 'Duotone'),
-  );
+  static const numberCircleSix = PiconDuotoneData(PiconData(IconData(0xe377, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe376, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-three-duotone
   ///
   /// ![number-circle-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three-duotone.svg)
-  static const numberCircleThree = PiconDuotoneData(
-    0xe37d,
-    PiconData(0xe37c, 'Duotone'),
-  );
+  static const numberCircleThree = PiconDuotoneData(PiconData(IconData(0xe37d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe37c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-two-duotone
   ///
   /// ![number-circle-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two-duotone.svg)
-  static const numberCircleTwo = PiconDuotoneData(
-    0xe383,
-    PiconData(0xe382, 'Duotone'),
-  );
+  static const numberCircleTwo = PiconDuotoneData(PiconData(IconData(0xe383, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe382, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-circle-zero-duotone
   ///
   /// ![number-circle-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero-duotone.svg)
-  static const numberCircleZero = PiconDuotoneData(
-    0xe389,
-    PiconData(0xe388, 'Duotone'),
-  );
+  static const numberCircleZero = PiconDuotoneData(PiconData(IconData(0xe389, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe388, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-eight-duotone
   ///
   /// ![number-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight-duotone.svg)
-  static const numberEight = PiconDuotoneData(
-    0xe351,
-    PiconData(0xe350, 'Duotone'),
-  );
+  static const numberEight = PiconDuotoneData(PiconData(IconData(0xe351, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe350, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-five-duotone
   ///
   /// ![number-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five-duotone.svg)
-  static const numberFive = PiconDuotoneData(
-    0xe357,
-    PiconData(0xe356, 'Duotone'),
-  );
+  static const numberFive = PiconDuotoneData(PiconData(IconData(0xe357, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe356, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-four-duotone
   ///
   /// ![number-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four-duotone.svg)
-  static const numberFour = PiconDuotoneData(
-    0xe35d,
-    PiconData(0xe35c, 'Duotone'),
-  );
+  static const numberFour = PiconDuotoneData(PiconData(IconData(0xe35d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe35c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-nine-duotone
   ///
   /// ![number-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine-duotone.svg)
-  static const numberNine = PiconDuotoneData(
-    0xe363,
-    PiconData(0xe362, 'Duotone'),
-  );
+  static const numberNine = PiconDuotoneData(PiconData(IconData(0xe363, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe362, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-one-duotone
   ///
   /// ![number-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one-duotone.svg)
-  static const numberOne = PiconDuotoneData(
-    0xe369,
-    PiconData(0xe368, 'Duotone'),
-  );
+  static const numberOne = PiconDuotoneData(PiconData(IconData(0xe369, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe368, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-seven-duotone
   ///
   /// ![number-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven-duotone.svg)
-  static const numberSeven = PiconDuotoneData(
-    0xe36f,
-    PiconData(0xe36e, 'Duotone'),
-  );
+  static const numberSeven = PiconDuotoneData(PiconData(IconData(0xe36f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe36e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-six-duotone
   ///
   /// ![number-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six-duotone.svg)
-  static const numberSix = PiconDuotoneData(
-    0xe375,
-    PiconData(0xe374, 'Duotone'),
-  );
+  static const numberSix = PiconDuotoneData(PiconData(IconData(0xe375, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe374, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-eight-duotone
   ///
   /// ![number-square-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight-duotone.svg)
-  static const numberSquareEight = PiconDuotoneData(
-    0xe355,
-    PiconData(0xe354, 'Duotone'),
-  );
+  static const numberSquareEight = PiconDuotoneData(PiconData(IconData(0xe355, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe354, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-five-duotone
   ///
   /// ![number-square-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five-duotone.svg)
-  static const numberSquareFive = PiconDuotoneData(
-    0xe35b,
-    PiconData(0xe35a, 'Duotone'),
-  );
+  static const numberSquareFive = PiconDuotoneData(PiconData(IconData(0xe35b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe35a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-four-duotone
   ///
   /// ![number-square-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four-duotone.svg)
-  static const numberSquareFour = PiconDuotoneData(
-    0xe361,
-    PiconData(0xe360, 'Duotone'),
-  );
+  static const numberSquareFour = PiconDuotoneData(PiconData(IconData(0xe361, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe360, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-nine-duotone
   ///
   /// ![number-square-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine-duotone.svg)
-  static const numberSquareNine = PiconDuotoneData(
-    0xe367,
-    PiconData(0xe366, 'Duotone'),
-  );
+  static const numberSquareNine = PiconDuotoneData(PiconData(IconData(0xe367, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe366, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-one-duotone
   ///
   /// ![number-square-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one-duotone.svg)
-  static const numberSquareOne = PiconDuotoneData(
-    0xe36d,
-    PiconData(0xe36c, 'Duotone'),
-  );
+  static const numberSquareOne = PiconDuotoneData(PiconData(IconData(0xe36d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe36c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-seven-duotone
   ///
   /// ![number-square-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven-duotone.svg)
-  static const numberSquareSeven = PiconDuotoneData(
-    0xe373,
-    PiconData(0xe372, 'Duotone'),
-  );
+  static const numberSquareSeven = PiconDuotoneData(PiconData(IconData(0xe373, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe372, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-six-duotone
   ///
   /// ![number-square-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six-duotone.svg)
-  static const numberSquareSix = PiconDuotoneData(
-    0xe379,
-    PiconData(0xe378, 'Duotone'),
-  );
+  static const numberSquareSix = PiconDuotoneData(PiconData(IconData(0xe379, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe378, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-three-duotone
   ///
   /// ![number-square-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three-duotone.svg)
-  static const numberSquareThree = PiconDuotoneData(
-    0xe37f,
-    PiconData(0xe37e, 'Duotone'),
-  );
+  static const numberSquareThree = PiconDuotoneData(PiconData(IconData(0xe37f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe37e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-two-duotone
   ///
   /// ![number-square-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two-duotone.svg)
-  static const numberSquareTwo = PiconDuotoneData(
-    0xe385,
-    PiconData(0xe384, 'Duotone'),
-  );
+  static const numberSquareTwo = PiconDuotoneData(PiconData(IconData(0xe385, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe384, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-square-zero-duotone
   ///
   /// ![number-square-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero-duotone.svg)
-  static const numberSquareZero = PiconDuotoneData(
-    0xe38b,
-    PiconData(0xe38a, 'Duotone'),
-  );
+  static const numberSquareZero = PiconDuotoneData(PiconData(IconData(0xe38b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe38a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-three-duotone
   ///
   /// ![number-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three-duotone.svg)
-  static const numberThree = PiconDuotoneData(
-    0xe37b,
-    PiconData(0xe37a, 'Duotone'),
-  );
+  static const numberThree = PiconDuotoneData(PiconData(IconData(0xe37b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe37a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-two-duotone
   ///
   /// ![number-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two-duotone.svg)
-  static const numberTwo = PiconDuotoneData(
-    0xe381,
-    PiconData(0xe380, 'Duotone'),
-  );
+  static const numberTwo = PiconDuotoneData(PiconData(IconData(0xe381, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe380, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// number-zero-duotone
   ///
   /// ![number-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero-duotone.svg)
-  static const numberZero = PiconDuotoneData(
-    0xe387,
-    PiconData(0xe386, 'Duotone'),
-  );
+  static const numberZero = PiconDuotoneData(PiconData(IconData(0xe387, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe386, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// numpad-duotone
   ///
   /// ![numpad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad-duotone.svg)
-  static const numpad = PiconDuotoneData(
-    0xe3c9,
-    PiconData(0xe3c8, 'Duotone'),
-  );
+  static const numpad = PiconDuotoneData(PiconData(IconData(0xe3c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// nut-duotone
   ///
   /// ![nut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut-duotone.svg)
-  static const nut = PiconDuotoneData(
-    0xe38d,
-    PiconData(0xe38c, 'Duotone'),
-  );
+  static const nut = PiconDuotoneData(PiconData(IconData(0xe38d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe38c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ny-times-logo-duotone
   ///
   /// ![ny-times-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo-duotone.svg)
-  static const nyTimesLogo = PiconDuotoneData(
-    0xe647,
-    PiconData(0xe646, 'Duotone'),
-  );
+  static const nyTimesLogo = PiconDuotoneData(PiconData(IconData(0xe647, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe646, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// octagon-duotone
   ///
   /// ![octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon-duotone.svg)
-  static const octagon = PiconDuotoneData(
-    0xe38f,
-    PiconData(0xe38e, 'Duotone'),
-  );
+  static const octagon = PiconDuotoneData(PiconData(IconData(0xe38f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe38e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// office-chair-duotone
   ///
   /// ![office-chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair-duotone.svg)
-  static const officeChair = PiconDuotoneData(
-    0xea47,
-    PiconData(0xea46, 'Duotone'),
-  );
+  static const officeChair = PiconDuotoneData(PiconData(IconData(0xea47, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea46, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// onigiri-duotone
   ///
   /// ![onigiri-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri-duotone.svg)
-  static const onigiri = PiconDuotoneData(
-    0xee2d,
-    PiconData(0xee2c, 'Duotone'),
-  );
+  static const onigiri = PiconDuotoneData(PiconData(IconData(0xee2d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee2c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// open-ai-logo-duotone
   ///
   /// ![open-ai-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo-duotone.svg)
-  static const openAiLogo = PiconDuotoneData(
-    0xe7d3,
-    PiconData(0xe7d2, 'Duotone'),
-  );
+  static const openAiLogo = PiconDuotoneData(PiconData(IconData(0xe7d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// option-duotone
   ///
   /// ![option-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option-duotone.svg)
-  static const option = PiconDuotoneData(
-    0xe8a9,
-    PiconData(0xe8a8, 'Duotone'),
-  );
+  static const option = PiconDuotoneData(PiconData(IconData(0xe8a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// orange-duotone
   ///
   /// ![orange-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-duotone.svg)
-  static const orange = PiconDuotoneData(
-    0xee41,
-    PiconData(0xee40, 'Duotone'),
-  );
+  static const orange = PiconDuotoneData(PiconData(IconData(0xee41, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee40, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// orange-slice-duotone
   ///
   /// ![orange-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice-duotone.svg)
-  static const orangeSlice = PiconDuotoneData(
-    0xed37,
-    PiconData(0xed36, 'Duotone'),
-  );
+  static const orangeSlice = PiconDuotoneData(PiconData(IconData(0xed37, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed36, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// oven-duotone
   ///
   /// ![oven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven-duotone.svg)
-  static const oven = PiconDuotoneData(
-    0xed8d,
-    PiconData(0xed8c, 'Duotone'),
-  );
+  static const oven = PiconDuotoneData(PiconData(IconData(0xed8d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed8c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// package-duotone
   ///
   /// ![package-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package-duotone.svg)
-  static const package = PiconDuotoneData(
-    0xe391,
-    PiconData(0xe390, 'Duotone'),
-  );
+  static const package = PiconDuotoneData(PiconData(IconData(0xe391, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe390, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paint-brush-duotone
   ///
   /// ![paint-brush-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-duotone.svg)
-  static const paintBrush = PiconDuotoneData(
-    0xe6f1,
-    PiconData(0xe6f0, 'Duotone'),
-  );
+  static const paintBrush = PiconDuotoneData(PiconData(IconData(0xe6f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paint-brush-broad-duotone
   ///
   /// ![paint-brush-broad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad-duotone.svg)
-  static const paintBrushBroad = PiconDuotoneData(
-    0xe591,
-    PiconData(0xe590, 'Duotone'),
-  );
+  static const paintBrushBroad = PiconDuotoneData(PiconData(IconData(0xe591, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe590, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paint-brush-household-duotone
   ///
   /// ![paint-brush-household-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household-duotone.svg)
-  static const paintBrushHousehold = PiconDuotoneData(
-    0xe6f3,
-    PiconData(0xe6f2, 'Duotone'),
-  );
+  static const paintBrushHousehold = PiconDuotoneData(PiconData(IconData(0xe6f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paint-bucket-duotone
   ///
   /// ![paint-bucket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket-duotone.svg)
-  static const paintBucket = PiconDuotoneData(
-    0xe393,
-    PiconData(0xe392, 'Duotone'),
-  );
+  static const paintBucket = PiconDuotoneData(PiconData(IconData(0xe393, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe392, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paint-roller-duotone
   ///
   /// ![paint-roller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller-duotone.svg)
-  static const paintRoller = PiconDuotoneData(
-    0xe6f5,
-    PiconData(0xe6f4, 'Duotone'),
-  );
+  static const paintRoller = PiconDuotoneData(PiconData(IconData(0xe6f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// palette-duotone
   ///
   /// ![palette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette-duotone.svg)
-  static const palette = PiconDuotoneData(
-    0xe6c9,
-    PiconData(0xe6c8, 'Duotone'),
-  );
+  static const palette = PiconDuotoneData(PiconData(IconData(0xe6c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// panorama-duotone
   ///
   /// ![panorama-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama-duotone.svg)
-  static const panorama = PiconDuotoneData(
-    0xeaa3,
-    PiconData(0xeaa2, 'Duotone'),
-  );
+  static const panorama = PiconDuotoneData(PiconData(IconData(0xeaa3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaa2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pants-duotone
   ///
   /// ![pants-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants-duotone.svg)
-  static const pants = PiconDuotoneData(
-    0xec89,
-    PiconData(0xec88, 'Duotone'),
-  );
+  static const pants = PiconDuotoneData(PiconData(IconData(0xec89, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec88, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paper-plane-duotone
   ///
   /// ![paper-plane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-duotone.svg)
-  static const paperPlane = PiconDuotoneData(
-    0xe395,
-    PiconData(0xe394, 'Duotone'),
-  );
+  static const paperPlane = PiconDuotoneData(PiconData(IconData(0xe395, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe394, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paper-plane-right-duotone
   ///
   /// ![paper-plane-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right-duotone.svg)
-  static const paperPlaneRight = PiconDuotoneData(
-    0xe397,
-    PiconData(0xe396, 'Duotone'),
-  );
+  static const paperPlaneRight = PiconDuotoneData(PiconData(IconData(0xe397, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe396, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paper-plane-tilt-duotone
   ///
   /// ![paper-plane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt-duotone.svg)
-  static const paperPlaneTilt = PiconDuotoneData(
-    0xe399,
-    PiconData(0xe398, 'Duotone'),
-  );
+  static const paperPlaneTilt = PiconDuotoneData(PiconData(IconData(0xe399, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe398, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paperclip-duotone
   ///
   /// ![paperclip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-duotone.svg)
-  static const paperclip = PiconDuotoneData(
-    0xe39b,
-    PiconData(0xe39a, 'Duotone'),
-  );
+  static const paperclip = PiconDuotoneData(PiconData(IconData(0xe39b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe39a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paperclip-horizontal-duotone
   ///
   /// ![paperclip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal-duotone.svg)
-  static const paperclipHorizontal = PiconDuotoneData(
-    0xe593,
-    PiconData(0xe592, 'Duotone'),
-  );
+  static const paperclipHorizontal = PiconDuotoneData(PiconData(IconData(0xe593, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe592, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// parachute-duotone
   ///
   /// ![parachute-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute-duotone.svg)
-  static const parachute = PiconDuotoneData(
-    0xea7d,
-    PiconData(0xea7c, 'Duotone'),
-  );
+  static const parachute = PiconDuotoneData(PiconData(IconData(0xea7d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea7c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paragraph-duotone
   ///
   /// ![paragraph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph-duotone.svg)
-  static const paragraph = PiconDuotoneData(
-    0xe961,
-    PiconData(0xe960, 'Duotone'),
-  );
+  static const paragraph = PiconDuotoneData(PiconData(IconData(0xe961, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe960, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// parallelogram-duotone
   ///
   /// ![parallelogram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram-duotone.svg)
-  static const parallelogram = PiconDuotoneData(
-    0xecc7,
-    PiconData(0xecc6, 'Duotone'),
-  );
+  static const parallelogram = PiconDuotoneData(PiconData(IconData(0xecc7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecc6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// park-duotone
   ///
   /// ![park-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park-duotone.svg)
-  static const park = PiconDuotoneData(
-    0xecb3,
-    PiconData(0xecb2, 'Duotone'),
-  );
+  static const park = PiconDuotoneData(PiconData(IconData(0xecb3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecb2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// password-duotone
   ///
   /// ![password-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password-duotone.svg)
-  static const password = PiconDuotoneData(
-    0xe753,
-    PiconData(0xe752, 'Duotone'),
-  );
+  static const password = PiconDuotoneData(PiconData(IconData(0xe753, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe752, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// path-duotone
   ///
   /// ![path-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path-duotone.svg)
-  static const path = PiconDuotoneData(
-    0xe39d,
-    PiconData(0xe39c, 'Duotone'),
-  );
+  static const path = PiconDuotoneData(PiconData(IconData(0xe39d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe39c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// patreon-logo-duotone
   ///
   /// ![patreon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo-duotone.svg)
-  static const patreonLogo = PiconDuotoneData(
-    0xe98b,
-    PiconData(0xe98a, 'Duotone'),
-  );
+  static const patreonLogo = PiconDuotoneData(PiconData(IconData(0xe98b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe98a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pause-duotone
   ///
   /// ![pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-duotone.svg)
-  static const pause = PiconDuotoneData(
-    0xe39f,
-    PiconData(0xe39e, 'Duotone'),
-  );
+  static const pause = PiconDuotoneData(PiconData(IconData(0xe39f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe39e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pause-circle-duotone
   ///
   /// ![pause-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle-duotone.svg)
-  static const pauseCircle = PiconDuotoneData(
-    0xe3a1,
-    PiconData(0xe3a0, 'Duotone'),
-  );
+  static const pauseCircle = PiconDuotoneData(PiconData(IconData(0xe3a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paw-print-duotone
   ///
   /// ![paw-print-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print-duotone.svg)
-  static const pawPrint = PiconDuotoneData(
-    0xe649,
-    PiconData(0xe648, 'Duotone'),
-  );
+  static const pawPrint = PiconDuotoneData(PiconData(IconData(0xe649, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe648, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// paypal-logo-duotone
   ///
   /// ![paypal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo-duotone.svg)
-  static const paypalLogo = PiconDuotoneData(
-    0xe98d,
-    PiconData(0xe98c, 'Duotone'),
-  );
+  static const paypalLogo = PiconDuotoneData(PiconData(IconData(0xe98d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe98c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// peace-duotone
   ///
   /// ![peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace-duotone.svg)
-  static const peace = PiconDuotoneData(
-    0xe3a3,
-    PiconData(0xe3a2, 'Duotone'),
-  );
+  static const peace = PiconDuotoneData(PiconData(IconData(0xe3a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pen-duotone
   ///
   /// ![pen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-duotone.svg)
-  static const pen = PiconDuotoneData(
-    0xe3ab,
-    PiconData(0xe3aa, 'Duotone'),
-  );
+  static const pen = PiconDuotoneData(PiconData(IconData(0xe3ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pen-nib-duotone
   ///
   /// ![pen-nib-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-duotone.svg)
-  static const penNib = PiconDuotoneData(
-    0xe3ad,
-    PiconData(0xe3ac, 'Duotone'),
-  );
+  static const penNib = PiconDuotoneData(PiconData(IconData(0xe3ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pen-nib-straight-duotone
   ///
   /// ![pen-nib-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight-duotone.svg)
-  static const penNibStraight = PiconDuotoneData(
-    0xe64b,
-    PiconData(0xe64a, 'Duotone'),
-  );
+  static const penNibStraight = PiconDuotoneData(PiconData(IconData(0xe64b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe64a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-duotone
   ///
   /// ![pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-duotone.svg)
-  static const pencil = PiconDuotoneData(
-    0xe3af,
-    PiconData(0xe3ae, 'Duotone'),
-  );
+  static const pencil = PiconDuotoneData(PiconData(IconData(0xe3af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-circle-duotone
   ///
   /// ![pencil-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle-duotone.svg)
-  static const pencilCircle = PiconDuotoneData(
-    0xe3b1,
-    PiconData(0xe3b0, 'Duotone'),
-  );
+  static const pencilCircle = PiconDuotoneData(PiconData(IconData(0xe3b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-line-duotone
   ///
   /// ![pencil-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line-duotone.svg)
-  static const pencilLine = PiconDuotoneData(
-    0xe3b3,
-    PiconData(0xe3b2, 'Duotone'),
-  );
+  static const pencilLine = PiconDuotoneData(PiconData(IconData(0xe3b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-ruler-duotone
   ///
   /// ![pencil-ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler-duotone.svg)
-  static const pencilRuler = PiconDuotoneData(
-    0xe907,
-    PiconData(0xe906, 'Duotone'),
-  );
+  static const pencilRuler = PiconDuotoneData(PiconData(IconData(0xe907, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe906, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-simple-duotone
   ///
   /// ![pencil-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-duotone.svg)
-  static const pencilSimple = PiconDuotoneData(
-    0xe3b5,
-    PiconData(0xe3b4, 'Duotone'),
-  );
+  static const pencilSimple = PiconDuotoneData(PiconData(IconData(0xe3b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-simple-line-duotone
   ///
   /// ![pencil-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line-duotone.svg)
-  static const pencilSimpleLine = PiconDuotoneData(
-    0xebc7,
-    PiconData(0xebc6, 'Duotone'),
-  );
+  static const pencilSimpleLine = PiconDuotoneData(PiconData(IconData(0xebc7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebc6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-simple-slash-duotone
   ///
   /// ![pencil-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash-duotone.svg)
-  static const pencilSimpleSlash = PiconDuotoneData(
-    0xecf7,
-    PiconData(0xecf6, 'Duotone'),
-  );
+  static const pencilSimpleSlash = PiconDuotoneData(PiconData(IconData(0xecf7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecf6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pencil-slash-duotone
   ///
   /// ![pencil-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash-duotone.svg)
-  static const pencilSlash = PiconDuotoneData(
-    0xecf9,
-    PiconData(0xecf8, 'Duotone'),
-  );
+  static const pencilSlash = PiconDuotoneData(PiconData(IconData(0xecf9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecf8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pentagon-duotone
   ///
   /// ![pentagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon-duotone.svg)
-  static const pentagon = PiconDuotoneData(
-    0xec7f,
-    PiconData(0xec7e, 'Duotone'),
-  );
+  static const pentagon = PiconDuotoneData(PiconData(IconData(0xec7f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec7e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pentagram-duotone
   ///
   /// ![pentagram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram-duotone.svg)
-  static const pentagram = PiconDuotoneData(
-    0xec5d,
-    PiconData(0xec5c, 'Duotone'),
-  );
+  static const pentagram = PiconDuotoneData(PiconData(IconData(0xec5d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec5c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pepper-duotone
   ///
   /// ![pepper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper-duotone.svg)
-  static const pepper = PiconDuotoneData(
-    0xe94b,
-    PiconData(0xe94a, 'Duotone'),
-  );
+  static const pepper = PiconDuotoneData(PiconData(IconData(0xe94b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe94a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// percent-duotone
   ///
   /// ![percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent-duotone.svg)
-  static const percent = PiconDuotoneData(
-    0xe3b7,
-    PiconData(0xe3b6, 'Duotone'),
-  );
+  static const percent = PiconDuotoneData(PiconData(IconData(0xe3b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-duotone
   ///
   /// ![person-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-duotone.svg)
-  static const person = PiconDuotoneData(
-    0xe3a9,
-    PiconData(0xe3a8, 'Duotone'),
-  );
+  static const person = PiconDuotoneData(PiconData(IconData(0xe3a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-arms-spread-duotone
   ///
   /// ![person-arms-spread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread-duotone.svg)
-  static const personArmsSpread = PiconDuotoneData(
-    0xecff,
-    PiconData(0xecfe, 'Duotone'),
-  );
+  static const personArmsSpread = PiconDuotoneData(PiconData(IconData(0xecff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecfe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-duotone
   ///
   /// ![person-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-duotone.svg)
-  static const personSimple = PiconDuotoneData(
-    0xe72f,
-    PiconData(0xe72e, 'Duotone'),
-  );
+  static const personSimple = PiconDuotoneData(PiconData(IconData(0xe72f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe72e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-bike-duotone
   ///
   /// ![person-simple-bike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike-duotone.svg)
-  static const personSimpleBike = PiconDuotoneData(
-    0xe735,
-    PiconData(0xe734, 'Duotone'),
-  );
+  static const personSimpleBike = PiconDuotoneData(PiconData(IconData(0xe735, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe734, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-circle-duotone
   ///
   /// ![person-simple-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle-duotone.svg)
-  static const personSimpleCircle = PiconDuotoneData(
-    0xee59,
-    PiconData(0xee58, 'Duotone'),
-  );
+  static const personSimpleCircle = PiconDuotoneData(PiconData(IconData(0xee59, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee58, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-hike-duotone
   ///
   /// ![person-simple-hike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike-duotone.svg)
-  static const personSimpleHike = PiconDuotoneData(
-    0xed55,
-    PiconData(0xed54, 'Duotone'),
-  );
+  static const personSimpleHike = PiconDuotoneData(PiconData(IconData(0xed55, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed54, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-run-duotone
   ///
   /// ![person-simple-run-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run-duotone.svg)
-  static const personSimpleRun = PiconDuotoneData(
-    0xe731,
-    PiconData(0xe730, 'Duotone'),
-  );
+  static const personSimpleRun = PiconDuotoneData(PiconData(IconData(0xe731, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe730, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-ski-duotone
   ///
   /// ![person-simple-ski-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski-duotone.svg)
-  static const personSimpleSki = PiconDuotoneData(
-    0xe71d,
-    PiconData(0xe71c, 'Duotone'),
-  );
+  static const personSimpleSki = PiconDuotoneData(PiconData(IconData(0xe71d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe71c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-snowboard-duotone
   ///
   /// ![person-simple-snowboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard-duotone.svg)
-  static const personSimpleSnowboard = PiconDuotoneData(
-    0xe71f,
-    PiconData(0xe71e, 'Duotone'),
-  );
+  static const personSimpleSnowboard = PiconDuotoneData(PiconData(IconData(0xe71f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe71e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-swim-duotone
   ///
   /// ![person-simple-swim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim-duotone.svg)
-  static const personSimpleSwim = PiconDuotoneData(
-    0xe737,
-    PiconData(0xe736, 'Duotone'),
-  );
+  static const personSimpleSwim = PiconDuotoneData(PiconData(IconData(0xe737, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe736, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-tai-chi-duotone
   ///
   /// ![person-simple-tai-chi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi-duotone.svg)
-  static const personSimpleTaiChi = PiconDuotoneData(
-    0xed5d,
-    PiconData(0xed5c, 'Duotone'),
-  );
+  static const personSimpleTaiChi = PiconDuotoneData(PiconData(IconData(0xed5d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed5c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-throw-duotone
   ///
   /// ![person-simple-throw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw-duotone.svg)
-  static const personSimpleThrow = PiconDuotoneData(
-    0xe733,
-    PiconData(0xe732, 'Duotone'),
-  );
+  static const personSimpleThrow = PiconDuotoneData(PiconData(IconData(0xe733, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe732, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// person-simple-walk-duotone
   ///
   /// ![person-simple-walk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk-duotone.svg)
-  static const personSimpleWalk = PiconDuotoneData(
-    0xe73b,
-    PiconData(0xe73a, 'Duotone'),
-  );
+  static const personSimpleWalk = PiconDuotoneData(PiconData(IconData(0xe73b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe73a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// perspective-duotone
   ///
   /// ![perspective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective-duotone.svg)
-  static const perspective = PiconDuotoneData(
-    0xebe7,
-    PiconData(0xebe6, 'Duotone'),
-  );
+  static const perspective = PiconDuotoneData(PiconData(IconData(0xebe7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebe6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-duotone
   ///
   /// ![phone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-duotone.svg)
-  static const phone = PiconDuotoneData(
-    0xe3b9,
-    PiconData(0xe3b8, 'Duotone'),
-  );
+  static const phone = PiconDuotoneData(PiconData(IconData(0xe3b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-call-duotone
   ///
   /// ![phone-call-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call-duotone.svg)
-  static const phoneCall = PiconDuotoneData(
-    0xe3bb,
-    PiconData(0xe3ba, 'Duotone'),
-  );
+  static const phoneCall = PiconDuotoneData(PiconData(IconData(0xe3bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-disconnect-duotone
   ///
   /// ![phone-disconnect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect-duotone.svg)
-  static const phoneDisconnect = PiconDuotoneData(
-    0xe3bd,
-    PiconData(0xe3bc, 'Duotone'),
-  );
+  static const phoneDisconnect = PiconDuotoneData(PiconData(IconData(0xe3bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-incoming-duotone
   ///
   /// ![phone-incoming-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming-duotone.svg)
-  static const phoneIncoming = PiconDuotoneData(
-    0xe3bf,
-    PiconData(0xe3be, 'Duotone'),
-  );
+  static const phoneIncoming = PiconDuotoneData(PiconData(IconData(0xe3bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-list-duotone
   ///
   /// ![phone-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list-duotone.svg)
-  static const phoneList = PiconDuotoneData(
-    0xe3cd,
-    PiconData(0xe3cc, 'Duotone'),
-  );
+  static const phoneList = PiconDuotoneData(PiconData(IconData(0xe3cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-outgoing-duotone
   ///
   /// ![phone-outgoing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing-duotone.svg)
-  static const phoneOutgoing = PiconDuotoneData(
-    0xe3c1,
-    PiconData(0xe3c0, 'Duotone'),
-  );
+  static const phoneOutgoing = PiconDuotoneData(PiconData(IconData(0xe3c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-pause-duotone
   ///
   /// ![phone-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause-duotone.svg)
-  static const phonePause = PiconDuotoneData(
-    0xe3cb,
-    PiconData(0xe3ca, 'Duotone'),
-  );
+  static const phonePause = PiconDuotoneData(PiconData(IconData(0xe3cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-plus-duotone
   ///
   /// ![phone-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus-duotone.svg)
-  static const phonePlus = PiconDuotoneData(
-    0xec57,
-    PiconData(0xec56, 'Duotone'),
-  );
+  static const phonePlus = PiconDuotoneData(PiconData(IconData(0xec57, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec56, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-slash-duotone
   ///
   /// ![phone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash-duotone.svg)
-  static const phoneSlash = PiconDuotoneData(
-    0xe3c3,
-    PiconData(0xe3c2, 'Duotone'),
-  );
+  static const phoneSlash = PiconDuotoneData(PiconData(IconData(0xe3c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-transfer-duotone
   ///
   /// ![phone-transfer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer-duotone.svg)
-  static const phoneTransfer = PiconDuotoneData(
-    0xe3c7,
-    PiconData(0xe3c6, 'Duotone'),
-  );
+  static const phoneTransfer = PiconDuotoneData(PiconData(IconData(0xe3c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phone-x-duotone
   ///
   /// ![phone-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x-duotone.svg)
-  static const phoneX = PiconDuotoneData(
-    0xe3c5,
-    PiconData(0xe3c4, 'Duotone'),
-  );
+  static const phoneX = PiconDuotoneData(PiconData(IconData(0xe3c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// phosphor-logo-duotone
   ///
   /// ![phosphor-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo-duotone.svg)
-  static const phosphorLogo = PiconDuotoneData(
-    0xe3cf,
-    PiconData(0xe3ce, 'Duotone'),
-  );
+  static const phosphorLogo = PiconDuotoneData(PiconData(IconData(0xe3cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pi-duotone
   ///
   /// ![pi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi-duotone.svg)
-  static const pi = PiconDuotoneData(
-    0xec81,
-    PiconData(0xec80, 'Duotone'),
-  );
+  static const pi = PiconDuotoneData(PiconData(IconData(0xec81, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec80, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// piano-keys-duotone
   ///
   /// ![piano-keys-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys-duotone.svg)
-  static const pianoKeys = PiconDuotoneData(
-    0xe9c9,
-    PiconData(0xe9c8, 'Duotone'),
-  );
+  static const pianoKeys = PiconDuotoneData(PiconData(IconData(0xe9c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// picnic-table-duotone
   ///
   /// ![picnic-table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table-duotone.svg)
-  static const picnicTable = PiconDuotoneData(
-    0xee27,
-    PiconData(0xee26, 'Duotone'),
-  );
+  static const picnicTable = PiconDuotoneData(PiconData(IconData(0xee27, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee26, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// picture-in-picture-duotone
   ///
   /// ![picture-in-picture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture-duotone.svg)
-  static const pictureInpicture = PiconDuotoneData(
-    0xe64d,
-    PiconData(0xe64c, 'Duotone'),
-  );
+  static const pictureInpicture = PiconDuotoneData(PiconData(IconData(0xe64d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe64c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// piggy-bank-duotone
   ///
   /// ![piggy-bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank-duotone.svg)
-  static const piggyBank = PiconDuotoneData(
-    0xea05,
-    PiconData(0xea04, 'Duotone'),
-  );
+  static const piggyBank = PiconDuotoneData(PiconData(IconData(0xea05, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea04, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pill-duotone
   ///
   /// ![pill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill-duotone.svg)
-  static const pill = PiconDuotoneData(
-    0xe701,
-    PiconData(0xe700, 'Duotone'),
-  );
+  static const pill = PiconDuotoneData(PiconData(IconData(0xe701, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe700, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ping-pong-duotone
   ///
   /// ![ping-pong-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong-duotone.svg)
-  static const pingPong = PiconDuotoneData(
-    0xea43,
-    PiconData(0xea42, 'Duotone'),
-  );
+  static const pingPong = PiconDuotoneData(PiconData(IconData(0xea43, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea42, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pint-glass-duotone
   ///
   /// ![pint-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass-duotone.svg)
-  static const pintGlass = PiconDuotoneData(
-    0xedd1,
-    PiconData(0xedd0, 'Duotone'),
-  );
+  static const pintGlass = PiconDuotoneData(PiconData(IconData(0xedd1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedd0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pinterest-logo-duotone
   ///
   /// ![pinterest-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo-duotone.svg)
-  static const pinterestLogo = PiconDuotoneData(
-    0xe64f,
-    PiconData(0xe64e, 'Duotone'),
-  );
+  static const pinterestLogo = PiconDuotoneData(PiconData(IconData(0xe64f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe64e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pinwheel-duotone
   ///
   /// ![pinwheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel-duotone.svg)
-  static const pinwheel = PiconDuotoneData(
-    0xeb9d,
-    PiconData(0xeb9c, 'Duotone'),
-  );
+  static const pinwheel = PiconDuotoneData(PiconData(IconData(0xeb9d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb9c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pipe-duotone
   ///
   /// ![pipe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-duotone.svg)
-  static const pipe = PiconDuotoneData(
-    0xed87,
-    PiconData(0xed86, 'Duotone'),
-  );
+  static const pipe = PiconDuotoneData(PiconData(IconData(0xed87, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed86, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pipe-wrench-duotone
   ///
   /// ![pipe-wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench-duotone.svg)
-  static const pipeWrench = PiconDuotoneData(
-    0xed89,
-    PiconData(0xed88, 'Duotone'),
-  );
+  static const pipeWrench = PiconDuotoneData(PiconData(IconData(0xed89, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed88, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pix-logo-duotone
   ///
   /// ![pix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo-duotone.svg)
-  static const pixLogo = PiconDuotoneData(
-    0xecc3,
-    PiconData(0xecc2, 'Duotone'),
-  );
+  static const pixLogo = PiconDuotoneData(PiconData(IconData(0xecc3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecc2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pizza-duotone
   ///
   /// ![pizza-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza-duotone.svg)
-  static const pizza = PiconDuotoneData(
-    0xe797,
-    PiconData(0xe796, 'Duotone'),
-  );
+  static const pizza = PiconDuotoneData(PiconData(IconData(0xe797, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe796, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// placeholder-duotone
   ///
   /// ![placeholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder-duotone.svg)
-  static const placeholder = PiconDuotoneData(
-    0xe651,
-    PiconData(0xe650, 'Duotone'),
-  );
+  static const placeholder = PiconDuotoneData(PiconData(IconData(0xe651, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe650, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// planet-duotone
   ///
   /// ![planet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet-duotone.svg)
-  static const planet = PiconDuotoneData(
-    0xe653,
-    PiconData(0xe652, 'Duotone'),
-  );
+  static const planet = PiconDuotoneData(PiconData(IconData(0xe653, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe652, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plant-duotone
   ///
   /// ![plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant-duotone.svg)
-  static const plant = PiconDuotoneData(
-    0xebaf,
-    PiconData(0xebae, 'Duotone'),
-  );
+  static const plant = PiconDuotoneData(PiconData(IconData(0xebaf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// play-duotone
   ///
   /// ![play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-duotone.svg)
-  static const play = PiconDuotoneData(
-    0xe3d1,
-    PiconData(0xe3d0, 'Duotone'),
-  );
+  static const play = PiconDuotoneData(PiconData(IconData(0xe3d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// play-circle-duotone
   ///
   /// ![play-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle-duotone.svg)
-  static const playCircle = PiconDuotoneData(
-    0xe3d3,
-    PiconData(0xe3d2, 'Duotone'),
-  );
+  static const playCircle = PiconDuotoneData(PiconData(IconData(0xe3d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// play-pause-duotone
   ///
   /// ![play-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause-duotone.svg)
-  static const playPause = PiconDuotoneData(
-    0xe8bf,
-    PiconData(0xe8be, 'Duotone'),
-  );
+  static const playPause = PiconDuotoneData(PiconData(IconData(0xe8bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// playlist-duotone
   ///
   /// ![playlist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist-duotone.svg)
-  static const playlist = PiconDuotoneData(
-    0xe6ab,
-    PiconData(0xe6aa, 'Duotone'),
-  );
+  static const playlist = PiconDuotoneData(PiconData(IconData(0xe6ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plug-duotone
   ///
   /// ![plug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-duotone.svg)
-  static const plug = PiconDuotoneData(
-    0xe947,
-    PiconData(0xe946, 'Duotone'),
-  );
+  static const plug = PiconDuotoneData(PiconData(IconData(0xe947, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe946, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plug-charging-duotone
   ///
   /// ![plug-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging-duotone.svg)
-  static const plugCharging = PiconDuotoneData(
-    0xeb5d,
-    PiconData(0xeb5c, 'Duotone'),
-  );
+  static const plugCharging = PiconDuotoneData(PiconData(IconData(0xeb5d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb5c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plugs-duotone
   ///
   /// ![plugs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-duotone.svg)
-  static const plugs = PiconDuotoneData(
-    0xeb57,
-    PiconData(0xeb56, 'Duotone'),
-  );
+  static const plugs = PiconDuotoneData(PiconData(IconData(0xeb57, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb56, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plugs-connected-duotone
   ///
   /// ![plugs-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected-duotone.svg)
-  static const plugsConnected = PiconDuotoneData(
-    0xeb5b,
-    PiconData(0xeb5a, 'Duotone'),
-  );
+  static const plugsConnected = PiconDuotoneData(PiconData(IconData(0xeb5b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb5a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plus-duotone
   ///
   /// ![plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-duotone.svg)
-  static const plus = PiconDuotoneData(
-    0xe3d5,
-    PiconData(0xe3d4, 'Duotone'),
-  );
+  static const plus = PiconDuotoneData(PiconData(IconData(0xe3d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plus-circle-duotone
   ///
   /// ![plus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle-duotone.svg)
-  static const plusCircle = PiconDuotoneData(
-    0xe3d7,
-    PiconData(0xe3d6, 'Duotone'),
-  );
+  static const plusCircle = PiconDuotoneData(PiconData(IconData(0xe3d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plus-minus-duotone
   ///
   /// ![plus-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus-duotone.svg)
-  static const plusMinus = PiconDuotoneData(
-    0xe3d9,
-    PiconData(0xe3d8, 'Duotone'),
-  );
+  static const plusMinus = PiconDuotoneData(PiconData(IconData(0xe3d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// plus-square-duotone
   ///
   /// ![plus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square-duotone.svg)
-  static const plusSquare = PiconDuotoneData(
-    0xed56,
-    PiconData(0xed4a, 'Duotone'),
-  );
+  static const plusSquare = PiconDuotoneData(PiconData(IconData(0xed56, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed4a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// poker-chip-duotone
   ///
   /// ![poker-chip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip-duotone.svg)
-  static const pokerChip = PiconDuotoneData(
-    0xe595,
-    PiconData(0xe594, 'Duotone'),
-  );
+  static const pokerChip = PiconDuotoneData(PiconData(IconData(0xe595, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe594, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// police-car-duotone
   ///
   /// ![police-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car-duotone.svg)
-  static const policeCar = PiconDuotoneData(
-    0xec4b,
-    PiconData(0xec4a, 'Duotone'),
-  );
+  static const policeCar = PiconDuotoneData(PiconData(IconData(0xec4b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec4a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// polygon-duotone
   ///
   /// ![polygon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon-duotone.svg)
-  static const polygon = PiconDuotoneData(
-    0xe6d1,
-    PiconData(0xe6d0, 'Duotone'),
-  );
+  static const polygon = PiconDuotoneData(PiconData(IconData(0xe6d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// popcorn-duotone
   ///
   /// ![popcorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn-duotone.svg)
-  static const popcorn = PiconDuotoneData(
-    0xeb4f,
-    PiconData(0xeb4e, 'Duotone'),
-  );
+  static const popcorn = PiconDuotoneData(PiconData(IconData(0xeb4f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb4e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// popsicle-duotone
   ///
   /// ![popsicle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle-duotone.svg)
-  static const popsicle = PiconDuotoneData(
-    0xebbf,
-    PiconData(0xebbe, 'Duotone'),
-  );
+  static const popsicle = PiconDuotoneData(PiconData(IconData(0xebbf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebbe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// potted-plant-duotone
   ///
   /// ![potted-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant-duotone.svg)
-  static const pottedPlant = PiconDuotoneData(
-    0xec23,
-    PiconData(0xec22, 'Duotone'),
-  );
+  static const pottedPlant = PiconDuotoneData(PiconData(IconData(0xec23, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec22, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// power-duotone
   ///
   /// ![power-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power-duotone.svg)
-  static const power = PiconDuotoneData(
-    0xe3db,
-    PiconData(0xe3da, 'Duotone'),
-  );
+  static const power = PiconDuotoneData(PiconData(IconData(0xe3db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// prescription-duotone
   ///
   /// ![prescription-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription-duotone.svg)
-  static const prescription = PiconDuotoneData(
-    0xe7a3,
-    PiconData(0xe7a2, 'Duotone'),
-  );
+  static const prescription = PiconDuotoneData(PiconData(IconData(0xe7a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// presentation-duotone
   ///
   /// ![presentation-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-duotone.svg)
-  static const presentation = PiconDuotoneData(
-    0xe655,
-    PiconData(0xe654, 'Duotone'),
-  );
+  static const presentation = PiconDuotoneData(PiconData(IconData(0xe655, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe654, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// presentation-chart-duotone
   ///
   /// ![presentation-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart-duotone.svg)
-  static const presentationChart = PiconDuotoneData(
-    0xe657,
-    PiconData(0xe656, 'Duotone'),
-  );
+  static const presentationChart = PiconDuotoneData(PiconData(IconData(0xe657, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe656, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// printer-duotone
   ///
   /// ![printer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer-duotone.svg)
-  static const printer = PiconDuotoneData(
-    0xe3dd,
-    PiconData(0xe3dc, 'Duotone'),
-  );
+  static const printer = PiconDuotoneData(PiconData(IconData(0xe3dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// prohibit-duotone
   ///
   /// ![prohibit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-duotone.svg)
-  static const prohibit = PiconDuotoneData(
-    0xe3df,
-    PiconData(0xe3de, 'Duotone'),
-  );
+  static const prohibit = PiconDuotoneData(PiconData(IconData(0xe3df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// prohibit-inset-duotone
   ///
   /// ![prohibit-inset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset-duotone.svg)
-  static const prohibitInset = PiconDuotoneData(
-    0xe3e1,
-    PiconData(0xe3e0, 'Duotone'),
-  );
+  static const prohibitInset = PiconDuotoneData(PiconData(IconData(0xe3e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// projector-screen-duotone
   ///
   /// ![projector-screen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-duotone.svg)
-  static const projectorScreen = PiconDuotoneData(
-    0xe659,
-    PiconData(0xe658, 'Duotone'),
-  );
+  static const projectorScreen = PiconDuotoneData(PiconData(IconData(0xe659, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe658, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// projector-screen-chart-duotone
   ///
   /// ![projector-screen-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart-duotone.svg)
-  static const projectorScreenChart = PiconDuotoneData(
-    0xe65b,
-    PiconData(0xe65a, 'Duotone'),
-  );
+  static const projectorScreenChart = PiconDuotoneData(PiconData(IconData(0xe65b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe65a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// pulse-duotone
   ///
   /// ![pulse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse-duotone.svg)
-  static const pulse = PiconDuotoneData(
-    0xe001,
-    PiconData(0xe000, 'Duotone'),
-  );
+  static const pulse = PiconDuotoneData(PiconData(IconData(0xe001, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe000, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// push-pin-duotone
   ///
   /// ![push-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-duotone.svg)
-  static const pushPin = PiconDuotoneData(
-    0xe3e3,
-    PiconData(0xe3e2, 'Duotone'),
-  );
+  static const pushPin = PiconDuotoneData(PiconData(IconData(0xe3e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// push-pin-simple-duotone
   ///
   /// ![push-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-duotone.svg)
-  static const pushPinSimple = PiconDuotoneData(
-    0xe65d,
-    PiconData(0xe65c, 'Duotone'),
-  );
+  static const pushPinSimple = PiconDuotoneData(PiconData(IconData(0xe65d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe65c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// push-pin-simple-slash-duotone
   ///
   /// ![push-pin-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash-duotone.svg)
-  static const pushPinSimpleSlash = PiconDuotoneData(
-    0xe65f,
-    PiconData(0xe65e, 'Duotone'),
-  );
+  static const pushPinSimpleSlash = PiconDuotoneData(PiconData(IconData(0xe65f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe65e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// push-pin-slash-duotone
   ///
   /// ![push-pin-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash-duotone.svg)
-  static const pushPinSlash = PiconDuotoneData(
-    0xe3e5,
-    PiconData(0xe3e4, 'Duotone'),
-  );
+  static const pushPinSlash = PiconDuotoneData(PiconData(IconData(0xe3e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// puzzle-piece-duotone
   ///
   /// ![puzzle-piece-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece-duotone.svg)
-  static const puzzlePiece = PiconDuotoneData(
-    0xe597,
-    PiconData(0xe596, 'Duotone'),
-  );
+  static const puzzlePiece = PiconDuotoneData(PiconData(IconData(0xe597, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe596, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// qr-code-duotone
   ///
   /// ![qr-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code-duotone.svg)
-  static const qrCode = PiconDuotoneData(
-    0xe3e7,
-    PiconData(0xe3e6, 'Duotone'),
-  );
+  static const qrCode = PiconDuotoneData(PiconData(IconData(0xe3e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// question-duotone
   ///
   /// ![question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-duotone.svg)
-  static const question = PiconDuotoneData(
-    0xe3eb,
-    PiconData(0xe3e8, 'Duotone'),
-  );
+  static const question = PiconDuotoneData(PiconData(IconData(0xe3eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// question-mark-duotone
   ///
   /// ![question-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark-duotone.svg)
-  static const questionMark = PiconDuotoneData(
-    0xe3ed,
-    PiconData(0xe3e9, 'Duotone'),
-  );
+  static const questionMark = PiconDuotoneData(PiconData(IconData(0xe3ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// queue-duotone
   ///
   /// ![queue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue-duotone.svg)
-  static const queue = PiconDuotoneData(
-    0xe6ad,
-    PiconData(0xe6ac, 'Duotone'),
-  );
+  static const queue = PiconDuotoneData(PiconData(IconData(0xe6ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// quotes-duotone
   ///
   /// ![quotes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes-duotone.svg)
-  static const quotes = PiconDuotoneData(
-    0xe661,
-    PiconData(0xe660, 'Duotone'),
-  );
+  static const quotes = PiconDuotoneData(PiconData(IconData(0xe661, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe660, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rabbit-duotone
   ///
   /// ![rabbit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit-duotone.svg)
-  static const rabbit = PiconDuotoneData(
-    0xeac3,
-    PiconData(0xeac2, 'Duotone'),
-  );
+  static const rabbit = PiconDuotoneData(PiconData(IconData(0xeac3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeac2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// racquet-duotone
   ///
   /// ![racquet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet-duotone.svg)
-  static const racquet = PiconDuotoneData(
-    0xee03,
-    PiconData(0xee02, 'Duotone'),
-  );
+  static const racquet = PiconDuotoneData(PiconData(IconData(0xee03, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee02, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// radical-duotone
   ///
   /// ![radical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical-duotone.svg)
-  static const radical = PiconDuotoneData(
-    0xe3ef,
-    PiconData(0xe3ea, 'Duotone'),
-  );
+  static const radical = PiconDuotoneData(PiconData(IconData(0xe3ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// radio-duotone
   ///
   /// ![radio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-duotone.svg)
-  static const radio = PiconDuotoneData(
-    0xe77f,
-    PiconData(0xe77e, 'Duotone'),
-  );
+  static const radio = PiconDuotoneData(PiconData(IconData(0xe77f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe77e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// radio-button-duotone
   ///
   /// ![radio-button-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button-duotone.svg)
-  static const radioButton = PiconDuotoneData(
-    0xeb09,
-    PiconData(0xeb08, 'Duotone'),
-  );
+  static const radioButton = PiconDuotoneData(PiconData(IconData(0xeb09, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb08, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// radioactive-duotone
   ///
   /// ![radioactive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive-duotone.svg)
-  static const radioactive = PiconDuotoneData(
-    0xe9dd,
-    PiconData(0xe9dc, 'Duotone'),
-  );
+  static const radioactive = PiconDuotoneData(PiconData(IconData(0xe9dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rainbow-duotone
   ///
   /// ![rainbow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-duotone.svg)
-  static const rainbow = PiconDuotoneData(
-    0xe599,
-    PiconData(0xe598, 'Duotone'),
-  );
+  static const rainbow = PiconDuotoneData(PiconData(IconData(0xe599, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe598, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rainbow-cloud-duotone
   ///
   /// ![rainbow-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud-duotone.svg)
-  static const rainbowCloud = PiconDuotoneData(
-    0xe59b,
-    PiconData(0xe59a, 'Duotone'),
-  );
+  static const rainbowCloud = PiconDuotoneData(PiconData(IconData(0xe59b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe59a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ranking-duotone
   ///
   /// ![ranking-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking-duotone.svg)
-  static const ranking = PiconDuotoneData(
-    0xed63,
-    PiconData(0xed62, 'Duotone'),
-  );
+  static const ranking = PiconDuotoneData(PiconData(IconData(0xed63, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed62, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// read-cv-logo-duotone
   ///
   /// ![read-cv-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo-duotone.svg)
-  static const readCvLogo = PiconDuotoneData(
-    0xed0d,
-    PiconData(0xed0c, 'Duotone'),
-  );
+  static const readCvLogo = PiconDuotoneData(PiconData(IconData(0xed0d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed0c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// receipt-duotone
   ///
   /// ![receipt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-duotone.svg)
-  static const receipt = PiconDuotoneData(
-    0xe3f1,
-    PiconData(0xe3ec, 'Duotone'),
-  );
+  static const receipt = PiconDuotoneData(PiconData(IconData(0xe3f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// receipt-x-duotone
   ///
   /// ![receipt-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x-duotone.svg)
-  static const receiptX = PiconDuotoneData(
-    0xed41,
-    PiconData(0xed40, 'Duotone'),
-  );
+  static const receiptX = PiconDuotoneData(PiconData(IconData(0xed41, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed40, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// record-duotone
   ///
   /// ![record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record-duotone.svg)
-  static const record = PiconDuotoneData(
-    0xe3f3,
-    PiconData(0xe3ee, 'Duotone'),
-  );
+  static const record = PiconDuotoneData(PiconData(IconData(0xe3f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rectangle-duotone
   ///
   /// ![rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-duotone.svg)
-  static const rectangle = PiconDuotoneData(
-    0xe3f5,
-    PiconData(0xe3f0, 'Duotone'),
-  );
+  static const rectangle = PiconDuotoneData(PiconData(IconData(0xe3f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rectangle-dashed-duotone
   ///
   /// ![rectangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed-duotone.svg)
-  static const rectangleDashed = PiconDuotoneData(
-    0xe3f7,
-    PiconData(0xe3f2, 'Duotone'),
-  );
+  static const rectangleDashed = PiconDuotoneData(PiconData(IconData(0xe3f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// recycle-duotone
   ///
   /// ![recycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle-duotone.svg)
-  static const recycle = PiconDuotoneData(
-    0xe75b,
-    PiconData(0xe75a, 'Duotone'),
-  );
+  static const recycle = PiconDuotoneData(PiconData(IconData(0xe75b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe75a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// reddit-logo-duotone
   ///
   /// ![reddit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo-duotone.svg)
-  static const redditLogo = PiconDuotoneData(
-    0xe59d,
-    PiconData(0xe59c, 'Duotone'),
-  );
+  static const redditLogo = PiconDuotoneData(PiconData(IconData(0xe59d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe59c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// repeat-duotone
   ///
   /// ![repeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-duotone.svg)
-  static const repeat = PiconDuotoneData(
-    0xe3f9,
-    PiconData(0xe3f6, 'Duotone'),
-  );
+  static const repeat = PiconDuotoneData(PiconData(IconData(0xe3f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// repeat-once-duotone
   ///
   /// ![repeat-once-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once-duotone.svg)
-  static const repeatOnce = PiconDuotoneData(
-    0xe3fb,
-    PiconData(0xe3f8, 'Duotone'),
-  );
+  static const repeatOnce = PiconDuotoneData(PiconData(IconData(0xe3fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// replit-logo-duotone
   ///
   /// ![replit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo-duotone.svg)
-  static const replitLogo = PiconDuotoneData(
-    0xeb8b,
-    PiconData(0xeb8a, 'Duotone'),
-  );
+  static const replitLogo = PiconDuotoneData(PiconData(IconData(0xeb8b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb8a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// resize-duotone
   ///
   /// ![resize-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize-duotone.svg)
-  static const resize = PiconDuotoneData(
-    0xed6f,
-    PiconData(0xed6e, 'Duotone'),
-  );
+  static const resize = PiconDuotoneData(PiconData(IconData(0xed6f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed6e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rewind-duotone
   ///
   /// ![rewind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-duotone.svg)
-  static const rewind = PiconDuotoneData(
-    0xe6a9,
-    PiconData(0xe6a8, 'Duotone'),
-  );
+  static const rewind = PiconDuotoneData(PiconData(IconData(0xe6a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rewind-circle-duotone
   ///
   /// ![rewind-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle-duotone.svg)
-  static const rewindCircle = PiconDuotoneData(
-    0xe3fd,
-    PiconData(0xe3fa, 'Duotone'),
-  );
+  static const rewindCircle = PiconDuotoneData(PiconData(IconData(0xe3fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// road-horizon-duotone
   ///
   /// ![road-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon-duotone.svg)
-  static const roadHorizon = PiconDuotoneData(
-    0xe839,
-    PiconData(0xe838, 'Duotone'),
-  );
+  static const roadHorizon = PiconDuotoneData(PiconData(IconData(0xe839, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe838, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// robot-duotone
   ///
   /// ![robot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot-duotone.svg)
-  static const robot = PiconDuotoneData(
-    0xe763,
-    PiconData(0xe762, 'Duotone'),
-  );
+  static const robot = PiconDuotoneData(PiconData(IconData(0xe763, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe762, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rocket-duotone
   ///
   /// ![rocket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-duotone.svg)
-  static const rocket = PiconDuotoneData(
-    0xe3ff,
-    PiconData(0xe3fc, 'Duotone'),
-  );
+  static const rocket = PiconDuotoneData(PiconData(IconData(0xe3ff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rocket-launch-duotone
   ///
   /// ![rocket-launch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch-duotone.svg)
-  static const rocketLaunch = PiconDuotoneData(
-    0xe401,
-    PiconData(0xe3fe, 'Duotone'),
-  );
+  static const rocketLaunch = PiconDuotoneData(PiconData(IconData(0xe401, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3fe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rows-duotone
   ///
   /// ![rows-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-duotone.svg)
-  static const rows = PiconDuotoneData(
-    0xe5a3,
-    PiconData(0xe5a2, 'Duotone'),
-  );
+  static const rows = PiconDuotoneData(PiconData(IconData(0xe5a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rows-plus-bottom-duotone
   ///
   /// ![rows-plus-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom-duotone.svg)
-  static const rowsPlusBottom = PiconDuotoneData(
-    0xe59f,
-    PiconData(0xe59e, 'Duotone'),
-  );
+  static const rowsPlusBottom = PiconDuotoneData(PiconData(IconData(0xe59f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe59e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rows-plus-top-duotone
   ///
   /// ![rows-plus-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top-duotone.svg)
-  static const rowsPlusTop = PiconDuotoneData(
-    0xe5a1,
-    PiconData(0xe5a0, 'Duotone'),
-  );
+  static const rowsPlusTop = PiconDuotoneData(PiconData(IconData(0xe5a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rss-duotone
   ///
   /// ![rss-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-duotone.svg)
-  static const rss = PiconDuotoneData(
-    0xe403,
-    PiconData(0xe400, 'Duotone'),
-  );
+  static const rss = PiconDuotoneData(PiconData(IconData(0xe403, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe400, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rss-simple-duotone
   ///
   /// ![rss-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple-duotone.svg)
-  static const rssSimple = PiconDuotoneData(
-    0xe405,
-    PiconData(0xe402, 'Duotone'),
-  );
+  static const rssSimple = PiconDuotoneData(PiconData(IconData(0xe405, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe402, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// rug-duotone
   ///
   /// ![rug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug-duotone.svg)
-  static const rug = PiconDuotoneData(
-    0xea1b,
-    PiconData(0xea1a, 'Duotone'),
-  );
+  static const rug = PiconDuotoneData(PiconData(IconData(0xea1b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea1a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ruler-duotone
   ///
   /// ![ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler-duotone.svg)
-  static const ruler = PiconDuotoneData(
-    0xe6b9,
-    PiconData(0xe6b8, 'Duotone'),
-  );
+  static const ruler = PiconDuotoneData(PiconData(IconData(0xe6b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sailboat-duotone
   ///
   /// ![sailboat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat-duotone.svg)
-  static const sailboat = PiconDuotoneData(
-    0xe78b,
-    PiconData(0xe78a, 'Duotone'),
-  );
+  static const sailboat = PiconDuotoneData(PiconData(IconData(0xe78b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe78a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scales-duotone
   ///
   /// ![scales-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales-duotone.svg)
-  static const scales = PiconDuotoneData(
-    0xe751,
-    PiconData(0xe750, 'Duotone'),
-  );
+  static const scales = PiconDuotoneData(PiconData(IconData(0xe751, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe750, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scan-duotone
   ///
   /// ![scan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-duotone.svg)
-  static const scan = PiconDuotoneData(
-    0xebb7,
-    PiconData(0xebb6, 'Duotone'),
-  );
+  static const scan = PiconDuotoneData(PiconData(IconData(0xebb7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebb6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scan-smiley-duotone
   ///
   /// ![scan-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley-duotone.svg)
-  static const scanSmiley = PiconDuotoneData(
-    0xebb5,
-    PiconData(0xebb4, 'Duotone'),
-  );
+  static const scanSmiley = PiconDuotoneData(PiconData(IconData(0xebb5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebb4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scissors-duotone
   ///
   /// ![scissors-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors-duotone.svg)
-  static const scissors = PiconDuotoneData(
-    0xeae1,
-    PiconData(0xeae0, 'Duotone'),
-  );
+  static const scissors = PiconDuotoneData(PiconData(IconData(0xeae1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeae0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scooter-duotone
   ///
   /// ![scooter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter-duotone.svg)
-  static const scooter = PiconDuotoneData(
-    0xe821,
-    PiconData(0xe820, 'Duotone'),
-  );
+  static const scooter = PiconDuotoneData(PiconData(IconData(0xe821, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe820, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// screencast-duotone
   ///
   /// ![screencast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast-duotone.svg)
-  static const screencast = PiconDuotoneData(
-    0xe407,
-    PiconData(0xe404, 'Duotone'),
-  );
+  static const screencast = PiconDuotoneData(PiconData(IconData(0xe407, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe404, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// screwdriver-duotone
   ///
   /// ![screwdriver-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver-duotone.svg)
-  static const screwdriver = PiconDuotoneData(
-    0xe86f,
-    PiconData(0xe86e, 'Duotone'),
-  );
+  static const screwdriver = PiconDuotoneData(PiconData(IconData(0xe86f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe86e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scribble-duotone
   ///
   /// ![scribble-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-duotone.svg)
-  static const scribble = PiconDuotoneData(
-    0xe807,
-    PiconData(0xe806, 'Duotone'),
-  );
+  static const scribble = PiconDuotoneData(PiconData(IconData(0xe807, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe806, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scribble-loop-duotone
   ///
   /// ![scribble-loop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop-duotone.svg)
-  static const scribbleLoop = PiconDuotoneData(
-    0xe663,
-    PiconData(0xe662, 'Duotone'),
-  );
+  static const scribbleLoop = PiconDuotoneData(PiconData(IconData(0xe663, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe662, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// scroll-duotone
   ///
   /// ![scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll-duotone.svg)
-  static const scroll = PiconDuotoneData(
-    0xeb7b,
-    PiconData(0xeb7a, 'Duotone'),
-  );
+  static const scroll = PiconDuotoneData(PiconData(IconData(0xeb7b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb7a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seal-duotone
   ///
   /// ![seal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-duotone.svg)
-  static const seal = PiconDuotoneData(
-    0xe605,
-    PiconData(0xe604, 'Duotone'),
-  );
+  static const seal = PiconDuotoneData(PiconData(IconData(0xe605, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe604, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seal-check-duotone
   ///
   /// ![seal-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check-duotone.svg)
-  static const sealCheck = PiconDuotoneData(
-    0xe607,
-    PiconData(0xe606, 'Duotone'),
-  );
+  static const sealCheck = PiconDuotoneData(PiconData(IconData(0xe607, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe606, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seal-percent-duotone
   ///
   /// ![seal-percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent-duotone.svg)
-  static const sealPercent = PiconDuotoneData(
-    0xe60b,
-    PiconData(0xe60a, 'Duotone'),
-  );
+  static const sealPercent = PiconDuotoneData(PiconData(IconData(0xe60b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe60a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seal-question-duotone
   ///
   /// ![seal-question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question-duotone.svg)
-  static const sealQuestion = PiconDuotoneData(
-    0xe609,
-    PiconData(0xe608, 'Duotone'),
-  );
+  static const sealQuestion = PiconDuotoneData(PiconData(IconData(0xe609, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe608, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seal-warning-duotone
   ///
   /// ![seal-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning-duotone.svg)
-  static const sealWarning = PiconDuotoneData(
-    0xe60d,
-    PiconData(0xe60c, 'Duotone'),
-  );
+  static const sealWarning = PiconDuotoneData(PiconData(IconData(0xe60d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe60c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seat-duotone
   ///
   /// ![seat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat-duotone.svg)
-  static const seat = PiconDuotoneData(
-    0xeb8f,
-    PiconData(0xeb8e, 'Duotone'),
-  );
+  static const seat = PiconDuotoneData(PiconData(IconData(0xeb8f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb8e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// seatbelt-duotone
   ///
   /// ![seatbelt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt-duotone.svg)
-  static const seatbelt = PiconDuotoneData(
-    0xedff,
-    PiconData(0xedfe, 'Duotone'),
-  );
+  static const seatbelt = PiconDuotoneData(PiconData(IconData(0xedff, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedfe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// security-camera-duotone
   ///
   /// ![security-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera-duotone.svg)
-  static const securityCamera = PiconDuotoneData(
-    0xeca5,
-    PiconData(0xeca4, 'Duotone'),
-  );
+  static const securityCamera = PiconDuotoneData(PiconData(IconData(0xeca5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeca4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-duotone
   ///
   /// ![selection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-duotone.svg)
-  static const selection = PiconDuotoneData(
-    0xe69b,
-    PiconData(0xe69a, 'Duotone'),
-  );
+  static const selection = PiconDuotoneData(PiconData(IconData(0xe69b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe69a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-all-duotone
   ///
   /// ![selection-all-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all-duotone.svg)
-  static const selectionAll = PiconDuotoneData(
-    0xe747,
-    PiconData(0xe746, 'Duotone'),
-  );
+  static const selectionAll = PiconDuotoneData(PiconData(IconData(0xe747, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe746, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-background-duotone
   ///
   /// ![selection-background-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background-duotone.svg)
-  static const selectionBackground = PiconDuotoneData(
-    0xeaf9,
-    PiconData(0xeaf8, 'Duotone'),
-  );
+  static const selectionBackground = PiconDuotoneData(PiconData(IconData(0xeaf9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaf8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-foreground-duotone
   ///
   /// ![selection-foreground-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground-duotone.svg)
-  static const selectionForeground = PiconDuotoneData(
-    0xeaf7,
-    PiconData(0xeaf6, 'Duotone'),
-  );
+  static const selectionForeground = PiconDuotoneData(PiconData(IconData(0xeaf7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaf6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-inverse-duotone
   ///
   /// ![selection-inverse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse-duotone.svg)
-  static const selectionInverse = PiconDuotoneData(
-    0xe745,
-    PiconData(0xe744, 'Duotone'),
-  );
+  static const selectionInverse = PiconDuotoneData(PiconData(IconData(0xe745, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe744, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-plus-duotone
   ///
   /// ![selection-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus-duotone.svg)
-  static const selectionPlus = PiconDuotoneData(
-    0xe69d,
-    PiconData(0xe69c, 'Duotone'),
-  );
+  static const selectionPlus = PiconDuotoneData(PiconData(IconData(0xe69d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe69c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// selection-slash-duotone
   ///
   /// ![selection-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash-duotone.svg)
-  static const selectionSlash = PiconDuotoneData(
-    0xe69f,
-    PiconData(0xe69e, 'Duotone'),
-  );
+  static const selectionSlash = PiconDuotoneData(PiconData(IconData(0xe69f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe69e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shapes-duotone
   ///
   /// ![shapes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes-duotone.svg)
-  static const shapes = PiconDuotoneData(
-    0xec5f,
-    PiconData(0xec5e, 'Duotone'),
-  );
+  static const shapes = PiconDuotoneData(PiconData(IconData(0xec5f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec5e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// share-duotone
   ///
   /// ![share-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-duotone.svg)
-  static const share = PiconDuotoneData(
-    0xe409,
-    PiconData(0xe406, 'Duotone'),
-  );
+  static const share = PiconDuotoneData(PiconData(IconData(0xe409, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe406, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// share-fat-duotone
   ///
   /// ![share-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat-duotone.svg)
-  static const shareFat = PiconDuotoneData(
-    0xed57,
-    PiconData(0xed52, 'Duotone'),
-  );
+  static const shareFat = PiconDuotoneData(PiconData(IconData(0xed57, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed52, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// share-network-duotone
   ///
   /// ![share-network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network-duotone.svg)
-  static const shareNetwork = PiconDuotoneData(
-    0xe40b,
-    PiconData(0xe408, 'Duotone'),
-  );
+  static const shareNetwork = PiconDuotoneData(PiconData(IconData(0xe40b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe408, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-duotone
   ///
   /// ![shield-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-duotone.svg)
-  static const shield = PiconDuotoneData(
-    0xe40d,
-    PiconData(0xe40a, 'Duotone'),
-  );
+  static const shield = PiconDuotoneData(PiconData(IconData(0xe40d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe40a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-check-duotone
   ///
   /// ![shield-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check-duotone.svg)
-  static const shieldCheck = PiconDuotoneData(
-    0xe40f,
-    PiconData(0xe40c, 'Duotone'),
-  );
+  static const shieldCheck = PiconDuotoneData(PiconData(IconData(0xe40f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe40c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-checkered-duotone
   ///
   /// ![shield-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered-duotone.svg)
-  static const shieldCheckered = PiconDuotoneData(
-    0xe709,
-    PiconData(0xe708, 'Duotone'),
-  );
+  static const shieldCheckered = PiconDuotoneData(PiconData(IconData(0xe709, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe708, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-chevron-duotone
   ///
   /// ![shield-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron-duotone.svg)
-  static const shieldChevron = PiconDuotoneData(
-    0xe411,
-    PiconData(0xe40e, 'Duotone'),
-  );
+  static const shieldChevron = PiconDuotoneData(PiconData(IconData(0xe411, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe40e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-plus-duotone
   ///
   /// ![shield-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus-duotone.svg)
-  static const shieldPlus = PiconDuotoneData(
-    0xe707,
-    PiconData(0xe706, 'Duotone'),
-  );
+  static const shieldPlus = PiconDuotoneData(PiconData(IconData(0xe707, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe706, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-slash-duotone
   ///
   /// ![shield-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash-duotone.svg)
-  static const shieldSlash = PiconDuotoneData(
-    0xe413,
-    PiconData(0xe410, 'Duotone'),
-  );
+  static const shieldSlash = PiconDuotoneData(PiconData(IconData(0xe413, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe410, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-star-duotone
   ///
   /// ![shield-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star-duotone.svg)
-  static const shieldStar = PiconDuotoneData(
-    0xec35,
-    PiconData(0xec34, 'Duotone'),
-  );
+  static const shieldStar = PiconDuotoneData(PiconData(IconData(0xec35, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec34, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shield-warning-duotone
   ///
   /// ![shield-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning-duotone.svg)
-  static const shieldWarning = PiconDuotoneData(
-    0xe414,
-    PiconData(0xe412, 'Duotone'),
-  );
+  static const shieldWarning = PiconDuotoneData(PiconData(IconData(0xe414, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe412, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shipping-container-duotone
   ///
   /// ![shipping-container-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container-duotone.svg)
-  static const shippingContainer = PiconDuotoneData(
-    0xe78d,
-    PiconData(0xe78c, 'Duotone'),
-  );
+  static const shippingContainer = PiconDuotoneData(PiconData(IconData(0xe78d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe78c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shirt-folded-duotone
   ///
   /// ![shirt-folded-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded-duotone.svg)
-  static const shirtFolded = PiconDuotoneData(
-    0xea93,
-    PiconData(0xea92, 'Duotone'),
-  );
+  static const shirtFolded = PiconDuotoneData(PiconData(IconData(0xea93, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea92, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shooting-star-duotone
   ///
   /// ![shooting-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star-duotone.svg)
-  static const shootingStar = PiconDuotoneData(
-    0xecfb,
-    PiconData(0xecfa, 'Duotone'),
-  );
+  static const shootingStar = PiconDuotoneData(PiconData(IconData(0xecfb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecfa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shopping-bag-duotone
   ///
   /// ![shopping-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-duotone.svg)
-  static const shoppingBag = PiconDuotoneData(
-    0xe417,
-    PiconData(0xe416, 'Duotone'),
-  );
+  static const shoppingBag = PiconDuotoneData(PiconData(IconData(0xe417, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe416, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shopping-bag-open-duotone
   ///
   /// ![shopping-bag-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open-duotone.svg)
-  static const shoppingBagOpen = PiconDuotoneData(
-    0xe419,
-    PiconData(0xe418, 'Duotone'),
-  );
+  static const shoppingBagOpen = PiconDuotoneData(PiconData(IconData(0xe419, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe418, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shopping-cart-duotone
   ///
   /// ![shopping-cart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-duotone.svg)
-  static const shoppingCart = PiconDuotoneData(
-    0xe41f,
-    PiconData(0xe41e, 'Duotone'),
-  );
+  static const shoppingCart = PiconDuotoneData(PiconData(IconData(0xe41f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe41e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shopping-cart-simple-duotone
   ///
   /// ![shopping-cart-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple-duotone.svg)
-  static const shoppingCartSimple = PiconDuotoneData(
-    0xe421,
-    PiconData(0xe420, 'Duotone'),
-  );
+  static const shoppingCartSimple = PiconDuotoneData(PiconData(IconData(0xe421, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe420, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shovel-duotone
   ///
   /// ![shovel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel-duotone.svg)
-  static const shovel = PiconDuotoneData(
-    0xe9e7,
-    PiconData(0xe9e6, 'Duotone'),
-  );
+  static const shovel = PiconDuotoneData(PiconData(IconData(0xe9e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shower-duotone
   ///
   /// ![shower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower-duotone.svg)
-  static const shower = PiconDuotoneData(
-    0xe777,
-    PiconData(0xe776, 'Duotone'),
-  );
+  static const shower = PiconDuotoneData(PiconData(IconData(0xe777, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe776, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shrimp-duotone
   ///
   /// ![shrimp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp-duotone.svg)
-  static const shrimp = PiconDuotoneData(
-    0xeab5,
-    PiconData(0xeab4, 'Duotone'),
-  );
+  static const shrimp = PiconDuotoneData(PiconData(IconData(0xeab5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeab4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shuffle-duotone
   ///
   /// ![shuffle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-duotone.svg)
-  static const shuffle = PiconDuotoneData(
-    0xe423,
-    PiconData(0xe422, 'Duotone'),
-  );
+  static const shuffle = PiconDuotoneData(PiconData(IconData(0xe423, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe422, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shuffle-angular-duotone
   ///
   /// ![shuffle-angular-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular-duotone.svg)
-  static const shuffleAngular = PiconDuotoneData(
-    0xe425,
-    PiconData(0xe424, 'Duotone'),
-  );
+  static const shuffleAngular = PiconDuotoneData(PiconData(IconData(0xe425, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe424, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// shuffle-simple-duotone
   ///
   /// ![shuffle-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple-duotone.svg)
-  static const shuffleSimple = PiconDuotoneData(
-    0xe427,
-    PiconData(0xe426, 'Duotone'),
-  );
+  static const shuffleSimple = PiconDuotoneData(PiconData(IconData(0xe427, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe426, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sidebar-duotone
   ///
   /// ![sidebar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-duotone.svg)
-  static const sidebar = PiconDuotoneData(
-    0xeab7,
-    PiconData(0xeab6, 'Duotone'),
-  );
+  static const sidebar = PiconDuotoneData(PiconData(IconData(0xeab7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeab6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sidebar-simple-duotone
   ///
   /// ![sidebar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple-duotone.svg)
-  static const sidebarSimple = PiconDuotoneData(
-    0xec25,
-    PiconData(0xec24, 'Duotone'),
-  );
+  static const sidebarSimple = PiconDuotoneData(PiconData(IconData(0xec25, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec24, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sigma-duotone
   ///
   /// ![sigma-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma-duotone.svg)
-  static const sigma = PiconDuotoneData(
-    0xeab9,
-    PiconData(0xeab8, 'Duotone'),
-  );
+  static const sigma = PiconDuotoneData(PiconData(IconData(0xeab9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeab8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sign-in-duotone
   ///
   /// ![sign-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in-duotone.svg)
-  static const signIn = PiconDuotoneData(
-    0xe429,
-    PiconData(0xe428, 'Duotone'),
-  );
+  static const signIn = PiconDuotoneData(PiconData(IconData(0xe429, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe428, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sign-out-duotone
   ///
   /// ![sign-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out-duotone.svg)
-  static const signOut = PiconDuotoneData(
-    0xe42b,
-    PiconData(0xe42a, 'Duotone'),
-  );
+  static const signOut = PiconDuotoneData(PiconData(IconData(0xe42b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe42a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// signature-duotone
   ///
   /// ![signature-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature-duotone.svg)
-  static const signature = PiconDuotoneData(
-    0xebad,
-    PiconData(0xebac, 'Duotone'),
-  );
+  static const signature = PiconDuotoneData(PiconData(IconData(0xebad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// signpost-duotone
   ///
   /// ![signpost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost-duotone.svg)
-  static const signpost = PiconDuotoneData(
-    0xe89d,
-    PiconData(0xe89c, 'Duotone'),
-  );
+  static const signpost = PiconDuotoneData(PiconData(IconData(0xe89d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe89c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sim-card-duotone
   ///
   /// ![sim-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card-duotone.svg)
-  static const simCard = PiconDuotoneData(
-    0xe665,
-    PiconData(0xe664, 'Duotone'),
-  );
+  static const simCard = PiconDuotoneData(PiconData(IconData(0xe665, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe664, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// siren-duotone
   ///
   /// ![siren-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren-duotone.svg)
-  static const siren = PiconDuotoneData(
-    0xe9b9,
-    PiconData(0xe9b8, 'Duotone'),
-  );
+  static const siren = PiconDuotoneData(PiconData(IconData(0xe9b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sketch-logo-duotone
   ///
   /// ![sketch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo-duotone.svg)
-  static const sketchLogo = PiconDuotoneData(
-    0xe42d,
-    PiconData(0xe42c, 'Duotone'),
-  );
+  static const sketchLogo = PiconDuotoneData(PiconData(IconData(0xe42d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe42c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skip-back-duotone
   ///
   /// ![skip-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-duotone.svg)
-  static const skipBack = PiconDuotoneData(
-    0xe5a5,
-    PiconData(0xe5a4, 'Duotone'),
-  );
+  static const skipBack = PiconDuotoneData(PiconData(IconData(0xe5a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skip-back-circle-duotone
   ///
   /// ![skip-back-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle-duotone.svg)
-  static const skipBackCircle = PiconDuotoneData(
-    0xe42f,
-    PiconData(0xe42e, 'Duotone'),
-  );
+  static const skipBackCircle = PiconDuotoneData(PiconData(IconData(0xe42f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe42e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skip-forward-duotone
   ///
   /// ![skip-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-duotone.svg)
-  static const skipForward = PiconDuotoneData(
-    0xe5a7,
-    PiconData(0xe5a6, 'Duotone'),
-  );
+  static const skipForward = PiconDuotoneData(PiconData(IconData(0xe5a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skip-forward-circle-duotone
   ///
   /// ![skip-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle-duotone.svg)
-  static const skipForwardCircle = PiconDuotoneData(
-    0xe431,
-    PiconData(0xe430, 'Duotone'),
-  );
+  static const skipForwardCircle = PiconDuotoneData(PiconData(IconData(0xe431, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe430, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skull-duotone
   ///
   /// ![skull-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull-duotone.svg)
-  static const skull = PiconDuotoneData(
-    0xe917,
-    PiconData(0xe916, 'Duotone'),
-  );
+  static const skull = PiconDuotoneData(PiconData(IconData(0xe917, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe916, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// skype-logo-duotone
   ///
   /// ![skype-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo-duotone.svg)
-  static const skypeLogo = PiconDuotoneData(
-    0xe8dd,
-    PiconData(0xe8dc, 'Duotone'),
-  );
+  static const skypeLogo = PiconDuotoneData(PiconData(IconData(0xe8dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// slack-logo-duotone
   ///
   /// ![slack-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo-duotone.svg)
-  static const slackLogo = PiconDuotoneData(
-    0xe5a9,
-    PiconData(0xe5a8, 'Duotone'),
-  );
+  static const slackLogo = PiconDuotoneData(PiconData(IconData(0xe5a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sliders-duotone
   ///
   /// ![sliders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-duotone.svg)
-  static const sliders = PiconDuotoneData(
-    0xe433,
-    PiconData(0xe432, 'Duotone'),
-  );
+  static const sliders = PiconDuotoneData(PiconData(IconData(0xe433, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe432, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sliders-horizontal-duotone
   ///
   /// ![sliders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal-duotone.svg)
-  static const slidersHorizontal = PiconDuotoneData(
-    0xe435,
-    PiconData(0xe434, 'Duotone'),
-  );
+  static const slidersHorizontal = PiconDuotoneData(PiconData(IconData(0xe435, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe434, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// slideshow-duotone
   ///
   /// ![slideshow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow-duotone.svg)
-  static const slideshow = PiconDuotoneData(
-    0xed33,
-    PiconData(0xed32, 'Duotone'),
-  );
+  static const slideshow = PiconDuotoneData(PiconData(IconData(0xed33, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed32, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-duotone
   ///
   /// ![smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-duotone.svg)
-  static const smiley = PiconDuotoneData(
-    0xe437,
-    PiconData(0xe436, 'Duotone'),
-  );
+  static const smiley = PiconDuotoneData(PiconData(IconData(0xe437, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe436, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-angry-duotone
   ///
   /// ![smiley-angry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry-duotone.svg)
-  static const smileyAngry = PiconDuotoneData(
-    0xec63,
-    PiconData(0xec62, 'Duotone'),
-  );
+  static const smileyAngry = PiconDuotoneData(PiconData(IconData(0xec63, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec62, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-blank-duotone
   ///
   /// ![smiley-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank-duotone.svg)
-  static const smileyBlank = PiconDuotoneData(
-    0xe439,
-    PiconData(0xe438, 'Duotone'),
-  );
+  static const smileyBlank = PiconDuotoneData(PiconData(IconData(0xe439, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe438, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-meh-duotone
   ///
   /// ![smiley-meh-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh-duotone.svg)
-  static const smileyMeh = PiconDuotoneData(
-    0xe43b,
-    PiconData(0xe43a, 'Duotone'),
-  );
+  static const smileyMeh = PiconDuotoneData(PiconData(IconData(0xe43b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe43a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-melting-duotone
   ///
   /// ![smiley-melting-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting-duotone.svg)
-  static const smileyMelting = PiconDuotoneData(
-    0xee57,
-    PiconData(0xee56, 'Duotone'),
-  );
+  static const smileyMelting = PiconDuotoneData(PiconData(IconData(0xee57, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee56, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-nervous-duotone
   ///
   /// ![smiley-nervous-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous-duotone.svg)
-  static const smileyNervous = PiconDuotoneData(
-    0xe43d,
-    PiconData(0xe43c, 'Duotone'),
-  );
+  static const smileyNervous = PiconDuotoneData(PiconData(IconData(0xe43d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe43c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-sad-duotone
   ///
   /// ![smiley-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad-duotone.svg)
-  static const smileySad = PiconDuotoneData(
-    0xe43f,
-    PiconData(0xe43e, 'Duotone'),
-  );
+  static const smileySad = PiconDuotoneData(PiconData(IconData(0xe43f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe43e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-sticker-duotone
   ///
   /// ![smiley-sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker-duotone.svg)
-  static const smileySticker = PiconDuotoneData(
-    0xe441,
-    PiconData(0xe440, 'Duotone'),
-  );
+  static const smileySticker = PiconDuotoneData(PiconData(IconData(0xe441, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe440, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-wink-duotone
   ///
   /// ![smiley-wink-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink-duotone.svg)
-  static const smileyWink = PiconDuotoneData(
-    0xe667,
-    PiconData(0xe666, 'Duotone'),
-  );
+  static const smileyWink = PiconDuotoneData(PiconData(IconData(0xe667, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe666, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// smiley-x-eyes-duotone
   ///
   /// ![smiley-x-eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes-duotone.svg)
-  static const smileyXEyes = PiconDuotoneData(
-    0xe443,
-    PiconData(0xe442, 'Duotone'),
-  );
+  static const smileyXEyes = PiconDuotoneData(PiconData(IconData(0xe443, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe442, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// snapchat-logo-duotone
   ///
   /// ![snapchat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo-duotone.svg)
-  static const snapchatLogo = PiconDuotoneData(
-    0xe669,
-    PiconData(0xe668, 'Duotone'),
-  );
+  static const snapchatLogo = PiconDuotoneData(PiconData(IconData(0xe669, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe668, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sneaker-duotone
   ///
   /// ![sneaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-duotone.svg)
-  static const sneaker = PiconDuotoneData(
-    0xe80d,
-    PiconData(0xe80c, 'Duotone'),
-  );
+  static const sneaker = PiconDuotoneData(PiconData(IconData(0xe80d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe80c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sneaker-move-duotone
   ///
   /// ![sneaker-move-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move-duotone.svg)
-  static const sneakerMove = PiconDuotoneData(
-    0xed61,
-    PiconData(0xed60, 'Duotone'),
-  );
+  static const sneakerMove = PiconDuotoneData(PiconData(IconData(0xed61, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed60, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// snowflake-duotone
   ///
   /// ![snowflake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake-duotone.svg)
-  static const snowflake = PiconDuotoneData(
-    0xe5ab,
-    PiconData(0xe5aa, 'Duotone'),
-  );
+  static const snowflake = PiconDuotoneData(PiconData(IconData(0xe5ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// soccer-ball-duotone
   ///
   /// ![soccer-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball-duotone.svg)
-  static const soccerBall = PiconDuotoneData(
-    0xe717,
-    PiconData(0xe716, 'Duotone'),
-  );
+  static const soccerBall = PiconDuotoneData(PiconData(IconData(0xe717, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe716, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sock-duotone
   ///
   /// ![sock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock-duotone.svg)
-  static const sock = PiconDuotoneData(
-    0xeccf,
-    PiconData(0xecce, 'Duotone'),
-  );
+  static const sock = PiconDuotoneData(PiconData(IconData(0xeccf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// solar-panel-duotone
   ///
   /// ![solar-panel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel-duotone.svg)
-  static const solarPanel = PiconDuotoneData(
-    0xed7e,
-    PiconData(0xed7a, 'Duotone'),
-  );
+  static const solarPanel = PiconDuotoneData(PiconData(IconData(0xed7e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed7a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// solar-roof-duotone
   ///
   /// ![solar-roof-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof-duotone.svg)
-  static const solarRoof = PiconDuotoneData(
-    0xed7f,
-    PiconData(0xed7b, 'Duotone'),
-  );
+  static const solarRoof = PiconDuotoneData(PiconData(IconData(0xed7f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed7b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sort-ascending-duotone
   ///
   /// ![sort-ascending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending-duotone.svg)
-  static const sortAscending = PiconDuotoneData(
-    0xe445,
-    PiconData(0xe444, 'Duotone'),
-  );
+  static const sortAscending = PiconDuotoneData(PiconData(IconData(0xe445, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe444, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sort-descending-duotone
   ///
   /// ![sort-descending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending-duotone.svg)
-  static const sortDescending = PiconDuotoneData(
-    0xe447,
-    PiconData(0xe446, 'Duotone'),
-  );
+  static const sortDescending = PiconDuotoneData(PiconData(IconData(0xe447, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe446, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// soundcloud-logo-duotone
   ///
   /// ![soundcloud-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo-duotone.svg)
-  static const soundcloudLogo = PiconDuotoneData(
-    0xe8df,
-    PiconData(0xe8de, 'Duotone'),
-  );
+  static const soundcloudLogo = PiconDuotoneData(PiconData(IconData(0xe8df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spade-duotone
   ///
   /// ![spade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade-duotone.svg)
-  static const spade = PiconDuotoneData(
-    0xe449,
-    PiconData(0xe448, 'Duotone'),
-  );
+  static const spade = PiconDuotoneData(PiconData(IconData(0xe449, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe448, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sparkle-duotone
   ///
   /// ![sparkle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle-duotone.svg)
-  static const sparkle = PiconDuotoneData(
-    0xe6a3,
-    PiconData(0xe6a2, 'Duotone'),
-  );
+  static const sparkle = PiconDuotoneData(PiconData(IconData(0xe6a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-hifi-duotone
   ///
   /// ![speaker-hifi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi-duotone.svg)
-  static const speakerHifi = PiconDuotoneData(
-    0xea09,
-    PiconData(0xea08, 'Duotone'),
-  );
+  static const speakerHifi = PiconDuotoneData(PiconData(IconData(0xea09, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea08, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-high-duotone
   ///
   /// ![speaker-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high-duotone.svg)
-  static const speakerHigh = PiconDuotoneData(
-    0xe44b,
-    PiconData(0xe44a, 'Duotone'),
-  );
+  static const speakerHigh = PiconDuotoneData(PiconData(IconData(0xe44b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe44a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-low-duotone
   ///
   /// ![speaker-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low-duotone.svg)
-  static const speakerLow = PiconDuotoneData(
-    0xe44d,
-    PiconData(0xe44c, 'Duotone'),
-  );
+  static const speakerLow = PiconDuotoneData(PiconData(IconData(0xe44d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe44c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-none-duotone
   ///
   /// ![speaker-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none-duotone.svg)
-  static const speakerNone = PiconDuotoneData(
-    0xe44f,
-    PiconData(0xe44e, 'Duotone'),
-  );
+  static const speakerNone = PiconDuotoneData(PiconData(IconData(0xe44f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe44e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-simple-high-duotone
   ///
   /// ![speaker-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high-duotone.svg)
-  static const speakerSimpleHigh = PiconDuotoneData(
-    0xe451,
-    PiconData(0xe450, 'Duotone'),
-  );
+  static const speakerSimpleHigh = PiconDuotoneData(PiconData(IconData(0xe451, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe450, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-simple-low-duotone
   ///
   /// ![speaker-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low-duotone.svg)
-  static const speakerSimpleLow = PiconDuotoneData(
-    0xe453,
-    PiconData(0xe452, 'Duotone'),
-  );
+  static const speakerSimpleLow = PiconDuotoneData(PiconData(IconData(0xe453, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe452, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-simple-none-duotone
   ///
   /// ![speaker-simple-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none-duotone.svg)
-  static const speakerSimpleNone = PiconDuotoneData(
-    0xe455,
-    PiconData(0xe454, 'Duotone'),
-  );
+  static const speakerSimpleNone = PiconDuotoneData(PiconData(IconData(0xe455, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe454, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-simple-slash-duotone
   ///
   /// ![speaker-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash-duotone.svg)
-  static const speakerSimpleSlash = PiconDuotoneData(
-    0xe457,
-    PiconData(0xe456, 'Duotone'),
-  );
+  static const speakerSimpleSlash = PiconDuotoneData(PiconData(IconData(0xe457, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe456, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-simple-x-duotone
   ///
   /// ![speaker-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x-duotone.svg)
-  static const speakerSimpleX = PiconDuotoneData(
-    0xe459,
-    PiconData(0xe458, 'Duotone'),
-  );
+  static const speakerSimpleX = PiconDuotoneData(PiconData(IconData(0xe459, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe458, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-slash-duotone
   ///
   /// ![speaker-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash-duotone.svg)
-  static const speakerSlash = PiconDuotoneData(
-    0xe45b,
-    PiconData(0xe45a, 'Duotone'),
-  );
+  static const speakerSlash = PiconDuotoneData(PiconData(IconData(0xe45b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe45a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speaker-x-duotone
   ///
   /// ![speaker-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x-duotone.svg)
-  static const speakerX = PiconDuotoneData(
-    0xe45d,
-    PiconData(0xe45c, 'Duotone'),
-  );
+  static const speakerX = PiconDuotoneData(PiconData(IconData(0xe45d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe45c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// speedometer-duotone
   ///
   /// ![speedometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer-duotone.svg)
-  static const speedometer = PiconDuotoneData(
-    0xee75,
-    PiconData(0xee74, 'Duotone'),
-  );
+  static const speedometer = PiconDuotoneData(PiconData(IconData(0xee75, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee74, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sphere-duotone
   ///
   /// ![sphere-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere-duotone.svg)
-  static const sphere = PiconDuotoneData(
-    0xee67,
-    PiconData(0xee66, 'Duotone'),
-  );
+  static const sphere = PiconDuotoneData(PiconData(IconData(0xee67, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee66, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spinner-duotone
   ///
   /// ![spinner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-duotone.svg)
-  static const spinner = PiconDuotoneData(
-    0xe66b,
-    PiconData(0xe66a, 'Duotone'),
-  );
+  static const spinner = PiconDuotoneData(PiconData(IconData(0xe66b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe66a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spinner-ball-duotone
   ///
   /// ![spinner-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball-duotone.svg)
-  static const spinnerBall = PiconDuotoneData(
-    0xee29,
-    PiconData(0xee28, 'Duotone'),
-  );
+  static const spinnerBall = PiconDuotoneData(PiconData(IconData(0xee29, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee28, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spinner-gap-duotone
   ///
   /// ![spinner-gap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap-duotone.svg)
-  static const spinnerGap = PiconDuotoneData(
-    0xe66d,
-    PiconData(0xe66c, 'Duotone'),
-  );
+  static const spinnerGap = PiconDuotoneData(PiconData(IconData(0xe66d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe66c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spiral-duotone
   ///
   /// ![spiral-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral-duotone.svg)
-  static const spiral = PiconDuotoneData(
-    0xe9fb,
-    PiconData(0xe9fa, 'Duotone'),
-  );
+  static const spiral = PiconDuotoneData(PiconData(IconData(0xe9fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// split-horizontal-duotone
   ///
   /// ![split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal-duotone.svg)
-  static const splitHorizontal = PiconDuotoneData(
-    0xe873,
-    PiconData(0xe872, 'Duotone'),
-  );
+  static const splitHorizontal = PiconDuotoneData(PiconData(IconData(0xe873, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe872, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// split-vertical-duotone
   ///
   /// ![split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical-duotone.svg)
-  static const splitVertical = PiconDuotoneData(
-    0xe877,
-    PiconData(0xe876, 'Duotone'),
-  );
+  static const splitVertical = PiconDuotoneData(PiconData(IconData(0xe877, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe876, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spotify-logo-duotone
   ///
   /// ![spotify-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo-duotone.svg)
-  static const spotifyLogo = PiconDuotoneData(
-    0xe66f,
-    PiconData(0xe66e, 'Duotone'),
-  );
+  static const spotifyLogo = PiconDuotoneData(PiconData(IconData(0xe66f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe66e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// spray-bottle-duotone
   ///
   /// ![spray-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle-duotone.svg)
-  static const sprayBottle = PiconDuotoneData(
-    0xe7e8,
-    PiconData(0xe7e4, 'Duotone'),
-  );
+  static const sprayBottle = PiconDuotoneData(PiconData(IconData(0xe7e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-duotone
   ///
   /// ![square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-duotone.svg)
-  static const square = PiconDuotoneData(
-    0xe45f,
-    PiconData(0xe45e, 'Duotone'),
-  );
+  static const square = PiconDuotoneData(PiconData(IconData(0xe45f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe45e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-half-duotone
   ///
   /// ![square-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-duotone.svg)
-  static const squareHalf = PiconDuotoneData(
-    0xe463,
-    PiconData(0xe462, 'Duotone'),
-  );
+  static const squareHalf = PiconDuotoneData(PiconData(IconData(0xe463, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe462, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-half-bottom-duotone
   ///
   /// ![square-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom-duotone.svg)
-  static const squareHalfBottom = PiconDuotoneData(
-    0xeb17,
-    PiconData(0xeb16, 'Duotone'),
-  );
+  static const squareHalfBottom = PiconDuotoneData(PiconData(IconData(0xeb17, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb16, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-logo-duotone
   ///
   /// ![square-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo-duotone.svg)
-  static const squareLogo = PiconDuotoneData(
-    0xe691,
-    PiconData(0xe690, 'Duotone'),
-  );
+  static const squareLogo = PiconDuotoneData(PiconData(IconData(0xe691, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe690, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-split-horizontal-duotone
   ///
   /// ![square-split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal-duotone.svg)
-  static const squareSplitHorizontal = PiconDuotoneData(
-    0xe871,
-    PiconData(0xe870, 'Duotone'),
-  );
+  static const squareSplitHorizontal = PiconDuotoneData(PiconData(IconData(0xe871, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe870, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// square-split-vertical-duotone
   ///
   /// ![square-split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical-duotone.svg)
-  static const squareSplitVertical = PiconDuotoneData(
-    0xe875,
-    PiconData(0xe874, 'Duotone'),
-  );
+  static const squareSplitVertical = PiconDuotoneData(PiconData(IconData(0xe875, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe874, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// squares-four-duotone
   ///
   /// ![squares-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four-duotone.svg)
-  static const squaresFour = PiconDuotoneData(
-    0xe465,
-    PiconData(0xe464, 'Duotone'),
-  );
+  static const squaresFour = PiconDuotoneData(PiconData(IconData(0xe465, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe464, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stack-duotone
   ///
   /// ![stack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-duotone.svg)
-  static const stack = PiconDuotoneData(
-    0xe467,
-    PiconData(0xe466, 'Duotone'),
-  );
+  static const stack = PiconDuotoneData(PiconData(IconData(0xe467, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe466, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stack-minus-duotone
   ///
   /// ![stack-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus-duotone.svg)
-  static const stackMinus = PiconDuotoneData(
-    0xedf5,
-    PiconData(0xedf4, 'Duotone'),
-  );
+  static const stackMinus = PiconDuotoneData(PiconData(IconData(0xedf5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedf4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stack-overflow-logo-duotone
   ///
   /// ![stack-overflow-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo-duotone.svg)
-  static const stackOverflowLogo = PiconDuotoneData(
-    0xeb79,
-    PiconData(0xeb78, 'Duotone'),
-  );
+  static const stackOverflowLogo = PiconDuotoneData(PiconData(IconData(0xeb79, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb78, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stack-plus-duotone
   ///
   /// ![stack-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus-duotone.svg)
-  static const stackPlus = PiconDuotoneData(
-    0xedf7,
-    PiconData(0xedf6, 'Duotone'),
-  );
+  static const stackPlus = PiconDuotoneData(PiconData(IconData(0xedf7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedf6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stack-simple-duotone
   ///
   /// ![stack-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple-duotone.svg)
-  static const stackSimple = PiconDuotoneData(
-    0xe469,
-    PiconData(0xe468, 'Duotone'),
-  );
+  static const stackSimple = PiconDuotoneData(PiconData(IconData(0xe469, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe468, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stairs-duotone
   ///
   /// ![stairs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs-duotone.svg)
-  static const stairs = PiconDuotoneData(
-    0xe8ed,
-    PiconData(0xe8ec, 'Duotone'),
-  );
+  static const stairs = PiconDuotoneData(PiconData(IconData(0xe8ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stamp-duotone
   ///
   /// ![stamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp-duotone.svg)
-  static const stamp = PiconDuotoneData(
-    0xea49,
-    PiconData(0xea48, 'Duotone'),
-  );
+  static const stamp = PiconDuotoneData(PiconData(IconData(0xea49, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea48, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// standard-definition-duotone
   ///
   /// ![standard-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition-duotone.svg)
-  static const standardDefinition = PiconDuotoneData(
-    0xea91,
-    PiconData(0xea90, 'Duotone'),
-  );
+  static const standardDefinition = PiconDuotoneData(PiconData(IconData(0xea91, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea90, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// star-duotone
   ///
   /// ![star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-duotone.svg)
-  static const star = PiconDuotoneData(
-    0xe46b,
-    PiconData(0xe46a, 'Duotone'),
-  );
+  static const star = PiconDuotoneData(PiconData(IconData(0xe46b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe46a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// star-and-crescent-duotone
   ///
   /// ![star-and-crescent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent-duotone.svg)
-  static const starAndCrescent = PiconDuotoneData(
-    0xecf5,
-    PiconData(0xecf4, 'Duotone'),
-  );
+  static const starAndCrescent = PiconDuotoneData(PiconData(IconData(0xecf5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecf4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// star-four-duotone
   ///
   /// ![star-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four-duotone.svg)
-  static const starFour = PiconDuotoneData(
-    0xe6a5,
-    PiconData(0xe6a4, 'Duotone'),
-  );
+  static const starFour = PiconDuotoneData(PiconData(IconData(0xe6a5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6a4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// star-half-duotone
   ///
   /// ![star-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half-duotone.svg)
-  static const starHalf = PiconDuotoneData(
-    0xe70b,
-    PiconData(0xe70a, 'Duotone'),
-  );
+  static const starHalf = PiconDuotoneData(PiconData(IconData(0xe70b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe70a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// star-of-david-duotone
   ///
   /// ![star-of-david-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david-duotone.svg)
-  static const starOfDavid = PiconDuotoneData(
-    0xe89f,
-    PiconData(0xe89e, 'Duotone'),
-  );
+  static const starOfDavid = PiconDuotoneData(PiconData(IconData(0xe89f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe89e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// steam-logo-duotone
   ///
   /// ![steam-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo-duotone.svg)
-  static const steamLogo = PiconDuotoneData(
-    0xead5,
-    PiconData(0xead4, 'Duotone'),
-  );
+  static const steamLogo = PiconDuotoneData(PiconData(IconData(0xead5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xead4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// steering-wheel-duotone
   ///
   /// ![steering-wheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel-duotone.svg)
-  static const steeringWheel = PiconDuotoneData(
-    0xe9ad,
-    PiconData(0xe9ac, 'Duotone'),
-  );
+  static const steeringWheel = PiconDuotoneData(PiconData(IconData(0xe9ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// steps-duotone
   ///
   /// ![steps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps-duotone.svg)
-  static const steps = PiconDuotoneData(
-    0xecbf,
-    PiconData(0xecbe, 'Duotone'),
-  );
+  static const steps = PiconDuotoneData(PiconData(IconData(0xecbf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecbe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stethoscope-duotone
   ///
   /// ![stethoscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope-duotone.svg)
-  static const stethoscope = PiconDuotoneData(
-    0xe7eb,
-    PiconData(0xe7ea, 'Duotone'),
-  );
+  static const stethoscope = PiconDuotoneData(PiconData(IconData(0xe7eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sticker-duotone
   ///
   /// ![sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker-duotone.svg)
-  static const sticker = PiconDuotoneData(
-    0xe5ad,
-    PiconData(0xe5ac, 'Duotone'),
-  );
+  static const sticker = PiconDuotoneData(PiconData(IconData(0xe5ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stool-duotone
   ///
   /// ![stool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool-duotone.svg)
-  static const stool = PiconDuotoneData(
-    0xea45,
-    PiconData(0xea44, 'Duotone'),
-  );
+  static const stool = PiconDuotoneData(PiconData(IconData(0xea45, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea44, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stop-duotone
   ///
   /// ![stop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-duotone.svg)
-  static const stop = PiconDuotoneData(
-    0xe46d,
-    PiconData(0xe46c, 'Duotone'),
-  );
+  static const stop = PiconDuotoneData(PiconData(IconData(0xe46d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe46c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stop-circle-duotone
   ///
   /// ![stop-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle-duotone.svg)
-  static const stopCircle = PiconDuotoneData(
-    0xe46f,
-    PiconData(0xe46e, 'Duotone'),
-  );
+  static const stopCircle = PiconDuotoneData(PiconData(IconData(0xe46f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe46e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// storefront-duotone
   ///
   /// ![storefront-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront-duotone.svg)
-  static const storefront = PiconDuotoneData(
-    0xe471,
-    PiconData(0xe470, 'Duotone'),
-  );
+  static const storefront = PiconDuotoneData(PiconData(IconData(0xe471, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe470, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// strategy-duotone
   ///
   /// ![strategy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy-duotone.svg)
-  static const strategy = PiconDuotoneData(
-    0xea3b,
-    PiconData(0xea3a, 'Duotone'),
-  );
+  static const strategy = PiconDuotoneData(PiconData(IconData(0xea3b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea3a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// stripe-logo-duotone
   ///
   /// ![stripe-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo-duotone.svg)
-  static const stripeLogo = PiconDuotoneData(
-    0xe699,
-    PiconData(0xe698, 'Duotone'),
-  );
+  static const stripeLogo = PiconDuotoneData(PiconData(IconData(0xe699, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe698, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// student-duotone
   ///
   /// ![student-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student-duotone.svg)
-  static const student = PiconDuotoneData(
-    0xe73f,
-    PiconData(0xe73e, 'Duotone'),
-  );
+  static const student = PiconDuotoneData(PiconData(IconData(0xe73f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe73e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subset-of-duotone
   ///
   /// ![subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of-duotone.svg)
-  static const subsetOf = PiconDuotoneData(
-    0xedc1,
-    PiconData(0xedc0, 'Duotone'),
-  );
+  static const subsetOf = PiconDuotoneData(PiconData(IconData(0xedc1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedc0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subset-proper-of-duotone
   ///
   /// ![subset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of-duotone.svg)
-  static const subsetProperOf = PiconDuotoneData(
-    0xedb7,
-    PiconData(0xedb6, 'Duotone'),
-  );
+  static const subsetProperOf = PiconDuotoneData(PiconData(IconData(0xedb7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedb6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subtitles-duotone
   ///
   /// ![subtitles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-duotone.svg)
-  static const subtitles = PiconDuotoneData(
-    0xe1a9,
-    PiconData(0xe1a8, 'Duotone'),
-  );
+  static const subtitles = PiconDuotoneData(PiconData(IconData(0xe1a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subtitles-slash-duotone
   ///
   /// ![subtitles-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash-duotone.svg)
-  static const subtitlesSlash = PiconDuotoneData(
-    0xe1a7,
-    PiconData(0xe1a6, 'Duotone'),
-  );
+  static const subtitlesSlash = PiconDuotoneData(PiconData(IconData(0xe1a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe1a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subtract-duotone
   ///
   /// ![subtract-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-duotone.svg)
-  static const subtract = PiconDuotoneData(
-    0xebd7,
-    PiconData(0xebd6, 'Duotone'),
-  );
+  static const subtract = PiconDuotoneData(PiconData(IconData(0xebd7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebd6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subtract-square-duotone
   ///
   /// ![subtract-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square-duotone.svg)
-  static const subtractSquare = PiconDuotoneData(
-    0xebd5,
-    PiconData(0xebd4, 'Duotone'),
-  );
+  static const subtractSquare = PiconDuotoneData(PiconData(IconData(0xebd5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xebd4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// subway-duotone
   ///
   /// ![subway-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway-duotone.svg)
-  static const subway = PiconDuotoneData(
-    0xe499,
-    PiconData(0xe498, 'Duotone'),
-  );
+  static const subway = PiconDuotoneData(PiconData(IconData(0xe499, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe498, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// suitcase-duotone
   ///
   /// ![suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-duotone.svg)
-  static const suitcase = PiconDuotoneData(
-    0xe5af,
-    PiconData(0xe5ae, 'Duotone'),
-  );
+  static const suitcase = PiconDuotoneData(PiconData(IconData(0xe5af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// suitcase-rolling-duotone
   ///
   /// ![suitcase-rolling-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling-duotone.svg)
-  static const suitcaseRolling = PiconDuotoneData(
-    0xe9b1,
-    PiconData(0xe9b0, 'Duotone'),
-  );
+  static const suitcaseRolling = PiconDuotoneData(PiconData(IconData(0xe9b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// suitcase-simple-duotone
   ///
   /// ![suitcase-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple-duotone.svg)
-  static const suitcaseSimple = PiconDuotoneData(
-    0xe5b1,
-    PiconData(0xe5b0, 'Duotone'),
-  );
+  static const suitcaseSimple = PiconDuotoneData(PiconData(IconData(0xe5b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sun-duotone
   ///
   /// ![sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-duotone.svg)
-  static const sun = PiconDuotoneData(
-    0xe473,
-    PiconData(0xe472, 'Duotone'),
-  );
+  static const sun = PiconDuotoneData(PiconData(IconData(0xe473, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe472, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sun-dim-duotone
   ///
   /// ![sun-dim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim-duotone.svg)
-  static const sunDim = PiconDuotoneData(
-    0xe475,
-    PiconData(0xe474, 'Duotone'),
-  );
+  static const sunDim = PiconDuotoneData(PiconData(IconData(0xe475, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe474, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sun-horizon-duotone
   ///
   /// ![sun-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon-duotone.svg)
-  static const sunHorizon = PiconDuotoneData(
-    0xe5b7,
-    PiconData(0xe5b6, 'Duotone'),
-  );
+  static const sunHorizon = PiconDuotoneData(PiconData(IconData(0xe5b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sunglasses-duotone
   ///
   /// ![sunglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses-duotone.svg)
-  static const sunglasses = PiconDuotoneData(
-    0xe817,
-    PiconData(0xe816, 'Duotone'),
-  );
+  static const sunglasses = PiconDuotoneData(PiconData(IconData(0xe817, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe816, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// superset-of-duotone
   ///
   /// ![superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of-duotone.svg)
-  static const supersetOf = PiconDuotoneData(
-    0xedb9,
-    PiconData(0xedb8, 'Duotone'),
-  );
+  static const supersetOf = PiconDuotoneData(PiconData(IconData(0xedb9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedb8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// superset-proper-of-duotone
   ///
   /// ![superset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of-duotone.svg)
-  static const supersetProperOf = PiconDuotoneData(
-    0xedb5,
-    PiconData(0xedb4, 'Duotone'),
-  );
+  static const supersetProperOf = PiconDuotoneData(PiconData(IconData(0xedb5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedb4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// swap-duotone
   ///
   /// ![swap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap-duotone.svg)
-  static const swap = PiconDuotoneData(
-    0xe83d,
-    PiconData(0xe83c, 'Duotone'),
-  );
+  static const swap = PiconDuotoneData(PiconData(IconData(0xe83d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe83c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// swatches-duotone
   ///
   /// ![swatches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches-duotone.svg)
-  static const swatches = PiconDuotoneData(
-    0xe5b9,
-    PiconData(0xe5b8, 'Duotone'),
-  );
+  static const swatches = PiconDuotoneData(PiconData(IconData(0xe5b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// swimming-pool-duotone
   ///
   /// ![swimming-pool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool-duotone.svg)
-  static const swimmingPool = PiconDuotoneData(
-    0xecb7,
-    PiconData(0xecb6, 'Duotone'),
-  );
+  static const swimmingPool = PiconDuotoneData(PiconData(IconData(0xecb7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecb6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// sword-duotone
   ///
   /// ![sword-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword-duotone.svg)
-  static const sword = PiconDuotoneData(
-    0xe5bb,
-    PiconData(0xe5ba, 'Duotone'),
-  );
+  static const sword = PiconDuotoneData(PiconData(IconData(0xe5bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// synagogue-duotone
   ///
   /// ![synagogue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue-duotone.svg)
-  static const synagogue = PiconDuotoneData(
-    0xeced,
-    PiconData(0xecec, 'Duotone'),
-  );
+  static const synagogue = PiconDuotoneData(PiconData(IconData(0xeced, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// syringe-duotone
   ///
   /// ![syringe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe-duotone.svg)
-  static const syringe = PiconDuotoneData(
-    0xe969,
-    PiconData(0xe968, 'Duotone'),
-  );
+  static const syringe = PiconDuotoneData(PiconData(IconData(0xe969, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe968, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// t-shirt-duotone
   ///
   /// ![t-shirt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt-duotone.svg)
-  static const tShirt = PiconDuotoneData(
-    0xe671,
-    PiconData(0xe670, 'Duotone'),
-  );
+  static const tShirt = PiconDuotoneData(PiconData(IconData(0xe671, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe670, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// table-duotone
   ///
   /// ![table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table-duotone.svg)
-  static const table = PiconDuotoneData(
-    0xe477,
-    PiconData(0xe476, 'Duotone'),
-  );
+  static const table = PiconDuotoneData(PiconData(IconData(0xe477, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe476, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tabs-duotone
   ///
   /// ![tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs-duotone.svg)
-  static const tabs = PiconDuotoneData(
-    0xe779,
-    PiconData(0xe778, 'Duotone'),
-  );
+  static const tabs = PiconDuotoneData(PiconData(IconData(0xe779, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe778, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tag-duotone
   ///
   /// ![tag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-duotone.svg)
-  static const tag = PiconDuotoneData(
-    0xe479,
-    PiconData(0xe478, 'Duotone'),
-  );
+  static const tag = PiconDuotoneData(PiconData(IconData(0xe479, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe478, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tag-chevron-duotone
   ///
   /// ![tag-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron-duotone.svg)
-  static const tagChevron = PiconDuotoneData(
-    0xe673,
-    PiconData(0xe672, 'Duotone'),
-  );
+  static const tagChevron = PiconDuotoneData(PiconData(IconData(0xe673, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe672, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tag-simple-duotone
   ///
   /// ![tag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple-duotone.svg)
-  static const tagSimple = PiconDuotoneData(
-    0xe47b,
-    PiconData(0xe47a, 'Duotone'),
-  );
+  static const tagSimple = PiconDuotoneData(PiconData(IconData(0xe47b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe47a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// target-duotone
   ///
   /// ![target-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target-duotone.svg)
-  static const target = PiconDuotoneData(
-    0xe47d,
-    PiconData(0xe47c, 'Duotone'),
-  );
+  static const target = PiconDuotoneData(PiconData(IconData(0xe47d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe47c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// taxi-duotone
   ///
   /// ![taxi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi-duotone.svg)
-  static const taxi = PiconDuotoneData(
-    0xe903,
-    PiconData(0xe902, 'Duotone'),
-  );
+  static const taxi = PiconDuotoneData(PiconData(IconData(0xe903, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe902, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tea-bag-duotone
   ///
   /// ![tea-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag-duotone.svg)
-  static const teaBag = PiconDuotoneData(
-    0xe8e7,
-    PiconData(0xe8e6, 'Duotone'),
-  );
+  static const teaBag = PiconDuotoneData(PiconData(IconData(0xe8e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// telegram-logo-duotone
   ///
   /// ![telegram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo-duotone.svg)
-  static const telegramLogo = PiconDuotoneData(
-    0xe5bd,
-    PiconData(0xe5bc, 'Duotone'),
-  );
+  static const telegramLogo = PiconDuotoneData(PiconData(IconData(0xe5bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// television-duotone
   ///
   /// ![television-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-duotone.svg)
-  static const television = PiconDuotoneData(
-    0xe755,
-    PiconData(0xe754, 'Duotone'),
-  );
+  static const television = PiconDuotoneData(PiconData(IconData(0xe755, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe754, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// television-simple-duotone
   ///
   /// ![television-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple-duotone.svg)
-  static const televisionSimple = PiconDuotoneData(
-    0xeae7,
-    PiconData(0xeae6, 'Duotone'),
-  );
+  static const televisionSimple = PiconDuotoneData(PiconData(IconData(0xeae7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeae6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tennis-ball-duotone
   ///
   /// ![tennis-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball-duotone.svg)
-  static const tennisBall = PiconDuotoneData(
-    0xe721,
-    PiconData(0xe720, 'Duotone'),
-  );
+  static const tennisBall = PiconDuotoneData(PiconData(IconData(0xe721, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe720, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tent-duotone
   ///
   /// ![tent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent-duotone.svg)
-  static const tent = PiconDuotoneData(
-    0xe8bb,
-    PiconData(0xe8ba, 'Duotone'),
-  );
+  static const tent = PiconDuotoneData(PiconData(IconData(0xe8bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// terminal-duotone
   ///
   /// ![terminal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-duotone.svg)
-  static const terminal = PiconDuotoneData(
-    0xe47f,
-    PiconData(0xe47e, 'Duotone'),
-  );
+  static const terminal = PiconDuotoneData(PiconData(IconData(0xe47f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe47e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// terminal-window-duotone
   ///
   /// ![terminal-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window-duotone.svg)
-  static const terminalWindow = PiconDuotoneData(
-    0xeae9,
-    PiconData(0xeae8, 'Duotone'),
-  );
+  static const terminalWindow = PiconDuotoneData(PiconData(IconData(0xeae9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeae8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// test-tube-duotone
   ///
   /// ![test-tube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube-duotone.svg)
-  static const testTube = PiconDuotoneData(
-    0xe7a1,
-    PiconData(0xe7a0, 'Duotone'),
-  );
+  static const testTube = PiconDuotoneData(PiconData(IconData(0xe7a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-a-underline-duotone
   ///
   /// ![text-a-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline-duotone.svg)
-  static const textAUnderline = PiconDuotoneData(
-    0xed35,
-    PiconData(0xed34, 'Duotone'),
-  );
+  static const textAUnderline = PiconDuotoneData(PiconData(IconData(0xed35, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed34, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-aa-duotone
   ///
   /// ![text-aa-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa-duotone.svg)
-  static const textAa = PiconDuotoneData(
-    0xe6ef,
-    PiconData(0xe6ee, 'Duotone'),
-  );
+  static const textAa = PiconDuotoneData(PiconData(IconData(0xe6ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-align-center-duotone
   ///
   /// ![text-align-center-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center-duotone.svg)
-  static const textAlignCenter = PiconDuotoneData(
-    0xe481,
-    PiconData(0xe480, 'Duotone'),
-  );
+  static const textAlignCenter = PiconDuotoneData(PiconData(IconData(0xe481, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe480, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-align-justify-duotone
   ///
   /// ![text-align-justify-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify-duotone.svg)
-  static const textAlignJustify = PiconDuotoneData(
-    0xe483,
-    PiconData(0xe482, 'Duotone'),
-  );
+  static const textAlignJustify = PiconDuotoneData(PiconData(IconData(0xe483, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe482, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-align-left-duotone
   ///
   /// ![text-align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left-duotone.svg)
-  static const textAlignLeft = PiconDuotoneData(
-    0xe485,
-    PiconData(0xe484, 'Duotone'),
-  );
+  static const textAlignLeft = PiconDuotoneData(PiconData(IconData(0xe485, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe484, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-align-right-duotone
   ///
   /// ![text-align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right-duotone.svg)
-  static const textAlignRight = PiconDuotoneData(
-    0xe487,
-    PiconData(0xe486, 'Duotone'),
-  );
+  static const textAlignRight = PiconDuotoneData(PiconData(IconData(0xe487, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe486, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-b-duotone
   ///
   /// ![text-b-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b-duotone.svg)
-  static const textB = PiconDuotoneData(
-    0xe5bf,
-    PiconData(0xe5be, 'Duotone'),
-  );
+  static const textB = PiconDuotoneData(PiconData(IconData(0xe5bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-columns-duotone
   ///
   /// ![text-columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns-duotone.svg)
-  static const textColumns = PiconDuotoneData(
-    0xec97,
-    PiconData(0xec96, 'Duotone'),
-  );
+  static const textColumns = PiconDuotoneData(PiconData(IconData(0xec97, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec96, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-duotone
   ///
   /// ![text-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-duotone.svg)
-  static const textH = PiconDuotoneData(
-    0xe6bb,
-    PiconData(0xe6ba, 'Duotone'),
-  );
+  static const textH = PiconDuotoneData(PiconData(IconData(0xe6bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-five-duotone
   ///
   /// ![text-h-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five-duotone.svg)
-  static const textHFive = PiconDuotoneData(
-    0xe6c5,
-    PiconData(0xe6c4, 'Duotone'),
-  );
+  static const textHFive = PiconDuotoneData(PiconData(IconData(0xe6c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-four-duotone
   ///
   /// ![text-h-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four-duotone.svg)
-  static const textHFour = PiconDuotoneData(
-    0xe6c3,
-    PiconData(0xe6c2, 'Duotone'),
-  );
+  static const textHFour = PiconDuotoneData(PiconData(IconData(0xe6c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-one-duotone
   ///
   /// ![text-h-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one-duotone.svg)
-  static const textHOne = PiconDuotoneData(
-    0xe6bd,
-    PiconData(0xe6bc, 'Duotone'),
-  );
+  static const textHOne = PiconDuotoneData(PiconData(IconData(0xe6bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-six-duotone
   ///
   /// ![text-h-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six-duotone.svg)
-  static const textHSix = PiconDuotoneData(
-    0xe6c7,
-    PiconData(0xe6c6, 'Duotone'),
-  );
+  static const textHSix = PiconDuotoneData(PiconData(IconData(0xe6c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-three-duotone
   ///
   /// ![text-h-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three-duotone.svg)
-  static const textHThree = PiconDuotoneData(
-    0xe6c1,
-    PiconData(0xe6c0, 'Duotone'),
-  );
+  static const textHThree = PiconDuotoneData(PiconData(IconData(0xe6c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-h-two-duotone
   ///
   /// ![text-h-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two-duotone.svg)
-  static const textHTwo = PiconDuotoneData(
-    0xe6bf,
-    PiconData(0xe6be, 'Duotone'),
-  );
+  static const textHTwo = PiconDuotoneData(PiconData(IconData(0xe6bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-indent-duotone
   ///
   /// ![text-indent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent-duotone.svg)
-  static const textIndent = PiconDuotoneData(
-    0xea1f,
-    PiconData(0xea1e, 'Duotone'),
-  );
+  static const textIndent = PiconDuotoneData(PiconData(IconData(0xea1f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea1e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-italic-duotone
   ///
   /// ![text-italic-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic-duotone.svg)
-  static const textItalic = PiconDuotoneData(
-    0xe5c1,
-    PiconData(0xe5c0, 'Duotone'),
-  );
+  static const textItalic = PiconDuotoneData(PiconData(IconData(0xe5c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-outdent-duotone
   ///
   /// ![text-outdent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent-duotone.svg)
-  static const textOutdent = PiconDuotoneData(
-    0xea1d,
-    PiconData(0xea1c, 'Duotone'),
-  );
+  static const textOutdent = PiconDuotoneData(PiconData(IconData(0xea1d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea1c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-strikethrough-duotone
   ///
   /// ![text-strikethrough-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough-duotone.svg)
-  static const textStrikethrough = PiconDuotoneData(
-    0xe5c3,
-    PiconData(0xe5c2, 'Duotone'),
-  );
+  static const textStrikethrough = PiconDuotoneData(PiconData(IconData(0xe5c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-subscript-duotone
   ///
   /// ![text-subscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript-duotone.svg)
-  static const textSubscript = PiconDuotoneData(
-    0xec99,
-    PiconData(0xec98, 'Duotone'),
-  );
+  static const textSubscript = PiconDuotoneData(PiconData(IconData(0xec99, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec98, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-superscript-duotone
   ///
   /// ![text-superscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript-duotone.svg)
-  static const textSuperscript = PiconDuotoneData(
-    0xec9b,
-    PiconData(0xec9a, 'Duotone'),
-  );
+  static const textSuperscript = PiconDuotoneData(PiconData(IconData(0xec9b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec9a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-t-duotone
   ///
   /// ![text-t-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-duotone.svg)
-  static const textT = PiconDuotoneData(
-    0xe48b,
-    PiconData(0xe48a, 'Duotone'),
-  );
+  static const textT = PiconDuotoneData(PiconData(IconData(0xe48b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe48a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-t-slash-duotone
   ///
   /// ![text-t-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash-duotone.svg)
-  static const textTSlash = PiconDuotoneData(
-    0xe489,
-    PiconData(0xe488, 'Duotone'),
-  );
+  static const textTSlash = PiconDuotoneData(PiconData(IconData(0xe489, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe488, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// text-underline-duotone
   ///
   /// ![text-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline-duotone.svg)
-  static const textUnderline = PiconDuotoneData(
-    0xe5c5,
-    PiconData(0xe5c4, 'Duotone'),
-  );
+  static const textUnderline = PiconDuotoneData(PiconData(IconData(0xe5c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// textbox-duotone
   ///
   /// ![textbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox-duotone.svg)
-  static const textbox = PiconDuotoneData(
-    0xeb0b,
-    PiconData(0xeb0a, 'Duotone'),
-  );
+  static const textbox = PiconDuotoneData(PiconData(IconData(0xeb0b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeb0a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thermometer-duotone
   ///
   /// ![thermometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-duotone.svg)
-  static const thermometer = PiconDuotoneData(
-    0xe5c7,
-    PiconData(0xe5c6, 'Duotone'),
-  );
+  static const thermometer = PiconDuotoneData(PiconData(IconData(0xe5c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thermometer-cold-duotone
   ///
   /// ![thermometer-cold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold-duotone.svg)
-  static const thermometerCold = PiconDuotoneData(
-    0xe5c9,
-    PiconData(0xe5c8, 'Duotone'),
-  );
+  static const thermometerCold = PiconDuotoneData(PiconData(IconData(0xe5c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thermometer-hot-duotone
   ///
   /// ![thermometer-hot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot-duotone.svg)
-  static const thermometerHot = PiconDuotoneData(
-    0xe5cb,
-    PiconData(0xe5ca, 'Duotone'),
-  );
+  static const thermometerHot = PiconDuotoneData(PiconData(IconData(0xe5cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thermometer-simple-duotone
   ///
   /// ![thermometer-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple-duotone.svg)
-  static const thermometerSimple = PiconDuotoneData(
-    0xe5cd,
-    PiconData(0xe5cc, 'Duotone'),
-  );
+  static const thermometerSimple = PiconDuotoneData(PiconData(IconData(0xe5cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// threads-logo-duotone
   ///
   /// ![threads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo-duotone.svg)
-  static const threadsLogo = PiconDuotoneData(
-    0xed9f,
-    PiconData(0xed9e, 'Duotone'),
-  );
+  static const threadsLogo = PiconDuotoneData(PiconData(IconData(0xed9f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed9e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// three-d-duotone
   ///
   /// ![three-d-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d-duotone.svg)
-  static const threeD = PiconDuotoneData(
-    0xea5b,
-    PiconData(0xea5a, 'Duotone'),
-  );
+  static const threeD = PiconDuotoneData(PiconData(IconData(0xea5b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea5a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thumbs-down-duotone
   ///
   /// ![thumbs-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down-duotone.svg)
-  static const thumbsDown = PiconDuotoneData(
-    0xe48d,
-    PiconData(0xe48c, 'Duotone'),
-  );
+  static const thumbsDown = PiconDuotoneData(PiconData(IconData(0xe48d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe48c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// thumbs-up-duotone
   ///
   /// ![thumbs-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up-duotone.svg)
-  static const thumbsUp = PiconDuotoneData(
-    0xe48f,
-    PiconData(0xe48e, 'Duotone'),
-  );
+  static const thumbsUp = PiconDuotoneData(PiconData(IconData(0xe48f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe48e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// ticket-duotone
   ///
   /// ![ticket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket-duotone.svg)
-  static const ticket = PiconDuotoneData(
-    0xe491,
-    PiconData(0xe490, 'Duotone'),
-  );
+  static const ticket = PiconDuotoneData(PiconData(IconData(0xe491, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe490, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tidal-logo-duotone
   ///
   /// ![tidal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo-duotone.svg)
-  static const tidalLogo = PiconDuotoneData(
-    0xed1d,
-    PiconData(0xed1c, 'Duotone'),
-  );
+  static const tidalLogo = PiconDuotoneData(PiconData(IconData(0xed1d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed1c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tiktok-logo-duotone
   ///
   /// ![tiktok-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo-duotone.svg)
-  static const tiktokLogo = PiconDuotoneData(
-    0xeaf3,
-    PiconData(0xeaf2, 'Duotone'),
-  );
+  static const tiktokLogo = PiconDuotoneData(PiconData(IconData(0xeaf3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaf2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tilde-duotone
   ///
   /// ![tilde-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde-duotone.svg)
-  static const tilde = PiconDuotoneData(
-    0xeda9,
-    PiconData(0xeda8, 'Duotone'),
-  );
+  static const tilde = PiconDuotoneData(PiconData(IconData(0xeda9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeda8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// timer-duotone
   ///
   /// ![timer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer-duotone.svg)
-  static const timer = PiconDuotoneData(
-    0xe493,
-    PiconData(0xe492, 'Duotone'),
-  );
+  static const timer = PiconDuotoneData(PiconData(IconData(0xe493, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe492, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tip-jar-duotone
   ///
   /// ![tip-jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar-duotone.svg)
-  static const tipJar = PiconDuotoneData(
-    0xe7e9,
-    PiconData(0xe7e2, 'Duotone'),
-  );
+  static const tipJar = PiconDuotoneData(PiconData(IconData(0xe7e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tipi-duotone
   ///
   /// ![tipi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi-duotone.svg)
-  static const tipi = PiconDuotoneData(
-    0xed31,
-    PiconData(0xed30, 'Duotone'),
-  );
+  static const tipi = PiconDuotoneData(PiconData(IconData(0xed31, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed30, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tire-duotone
   ///
   /// ![tire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire-duotone.svg)
-  static const tire = PiconDuotoneData(
-    0xedd3,
-    PiconData(0xedd2, 'Duotone'),
-  );
+  static const tire = PiconDuotoneData(PiconData(IconData(0xedd3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedd2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// toggle-left-duotone
   ///
   /// ![toggle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left-duotone.svg)
-  static const toggleLeft = PiconDuotoneData(
-    0xe675,
-    PiconData(0xe674, 'Duotone'),
-  );
+  static const toggleLeft = PiconDuotoneData(PiconData(IconData(0xe675, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe674, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// toggle-right-duotone
   ///
   /// ![toggle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right-duotone.svg)
-  static const toggleRight = PiconDuotoneData(
-    0xe677,
-    PiconData(0xe676, 'Duotone'),
-  );
+  static const toggleRight = PiconDuotoneData(PiconData(IconData(0xe677, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe676, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// toilet-duotone
   ///
   /// ![toilet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-duotone.svg)
-  static const toilet = PiconDuotoneData(
-    0xe79b,
-    PiconData(0xe79a, 'Duotone'),
-  );
+  static const toilet = PiconDuotoneData(PiconData(IconData(0xe79b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe79a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// toilet-paper-duotone
   ///
   /// ![toilet-paper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper-duotone.svg)
-  static const toiletPaper = PiconDuotoneData(
-    0xe79d,
-    PiconData(0xe79c, 'Duotone'),
-  );
+  static const toiletPaper = PiconDuotoneData(PiconData(IconData(0xe79d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe79c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// toolbox-duotone
   ///
   /// ![toolbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox-duotone.svg)
-  static const toolbox = PiconDuotoneData(
-    0xeca1,
-    PiconData(0xeca0, 'Duotone'),
-  );
+  static const toolbox = PiconDuotoneData(PiconData(IconData(0xeca1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeca0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tooth-duotone
   ///
   /// ![tooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth-duotone.svg)
-  static const tooth = PiconDuotoneData(
-    0xe9cd,
-    PiconData(0xe9cc, 'Duotone'),
-  );
+  static const tooth = PiconDuotoneData(PiconData(IconData(0xe9cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tornado-duotone
   ///
   /// ![tornado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado-duotone.svg)
-  static const tornado = PiconDuotoneData(
-    0xe88d,
-    PiconData(0xe88c, 'Duotone'),
-  );
+  static const tornado = PiconDuotoneData(PiconData(IconData(0xe88d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe88c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tote-duotone
   ///
   /// ![tote-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-duotone.svg)
-  static const tote = PiconDuotoneData(
-    0xe495,
-    PiconData(0xe494, 'Duotone'),
-  );
+  static const tote = PiconDuotoneData(PiconData(IconData(0xe495, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe494, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tote-simple-duotone
   ///
   /// ![tote-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple-duotone.svg)
-  static const toteSimple = PiconDuotoneData(
-    0xe679,
-    PiconData(0xe678, 'Duotone'),
-  );
+  static const toteSimple = PiconDuotoneData(PiconData(IconData(0xe679, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe678, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// towel-duotone
   ///
   /// ![towel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel-duotone.svg)
-  static const towel = PiconDuotoneData(
-    0xede7,
-    PiconData(0xede6, 'Duotone'),
-  );
+  static const towel = PiconDuotoneData(PiconData(IconData(0xede7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xede6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tractor-duotone
   ///
   /// ![tractor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor-duotone.svg)
-  static const tractor = PiconDuotoneData(
-    0xec6f,
-    PiconData(0xec6e, 'Duotone'),
-  );
+  static const tractor = PiconDuotoneData(PiconData(IconData(0xec6f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec6e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trademark-duotone
   ///
   /// ![trademark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-duotone.svg)
-  static const trademark = PiconDuotoneData(
-    0xe9f1,
-    PiconData(0xe9f0, 'Duotone'),
-  );
+  static const trademark = PiconDuotoneData(PiconData(IconData(0xe9f1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trademark-registered-duotone
   ///
   /// ![trademark-registered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered-duotone.svg)
-  static const trademarkRegistered = PiconDuotoneData(
-    0xe415,
-    PiconData(0xe3f4, 'Duotone'),
-  );
+  static const trademarkRegistered = PiconDuotoneData(PiconData(IconData(0xe415, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe3f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// traffic-cone-duotone
   ///
   /// ![traffic-cone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone-duotone.svg)
-  static const trafficCone = PiconDuotoneData(
-    0xe9a9,
-    PiconData(0xe9a8, 'Duotone'),
-  );
+  static const trafficCone = PiconDuotoneData(PiconData(IconData(0xe9a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// traffic-sign-duotone
   ///
   /// ![traffic-sign-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign-duotone.svg)
-  static const trafficSign = PiconDuotoneData(
-    0xe67b,
-    PiconData(0xe67a, 'Duotone'),
-  );
+  static const trafficSign = PiconDuotoneData(PiconData(IconData(0xe67b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe67a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// traffic-signal-duotone
   ///
   /// ![traffic-signal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal-duotone.svg)
-  static const trafficSignal = PiconDuotoneData(
-    0xe9ab,
-    PiconData(0xe9aa, 'Duotone'),
-  );
+  static const trafficSignal = PiconDuotoneData(PiconData(IconData(0xe9ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// train-duotone
   ///
   /// ![train-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-duotone.svg)
-  static const train = PiconDuotoneData(
-    0xe497,
-    PiconData(0xe496, 'Duotone'),
-  );
+  static const train = PiconDuotoneData(PiconData(IconData(0xe497, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe496, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// train-regional-duotone
   ///
   /// ![train-regional-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional-duotone.svg)
-  static const trainRegional = PiconDuotoneData(
-    0xe49f,
-    PiconData(0xe49e, 'Duotone'),
-  );
+  static const trainRegional = PiconDuotoneData(PiconData(IconData(0xe49f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe49e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// train-simple-duotone
   ///
   /// ![train-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple-duotone.svg)
-  static const trainSimple = PiconDuotoneData(
-    0xe4a1,
-    PiconData(0xe4a0, 'Duotone'),
-  );
+  static const trainSimple = PiconDuotoneData(PiconData(IconData(0xe4a1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4a0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tram-duotone
   ///
   /// ![tram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram-duotone.svg)
-  static const tram = PiconDuotoneData(
-    0xe9ed,
-    PiconData(0xe9ec, 'Duotone'),
-  );
+  static const tram = PiconDuotoneData(PiconData(IconData(0xe9ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// translate-duotone
   ///
   /// ![translate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate-duotone.svg)
-  static const translate = PiconDuotoneData(
-    0xe4a3,
-    PiconData(0xe4a2, 'Duotone'),
-  );
+  static const translate = PiconDuotoneData(PiconData(IconData(0xe4a3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4a2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trash-duotone
   ///
   /// ![trash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-duotone.svg)
-  static const trash = PiconDuotoneData(
-    0xe4a7,
-    PiconData(0xe4a6, 'Duotone'),
-  );
+  static const trash = PiconDuotoneData(PiconData(IconData(0xe4a7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4a6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trash-simple-duotone
   ///
   /// ![trash-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple-duotone.svg)
-  static const trashSimple = PiconDuotoneData(
-    0xe4a9,
-    PiconData(0xe4a8, 'Duotone'),
-  );
+  static const trashSimple = PiconDuotoneData(PiconData(IconData(0xe4a9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4a8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tray-duotone
   ///
   /// ![tray-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-duotone.svg)
-  static const tray = PiconDuotoneData(
-    0xe4ab,
-    PiconData(0xe4aa, 'Duotone'),
-  );
+  static const tray = PiconDuotoneData(PiconData(IconData(0xe4ab, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4aa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tray-arrow-down-duotone
   ///
   /// ![tray-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down-duotone.svg)
-  static const trayArrowDown = PiconDuotoneData(
-    0xe011,
-    PiconData(0xe010, 'Duotone'),
-  );
+  static const trayArrowDown = PiconDuotoneData(PiconData(IconData(0xe011, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe010, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tray-arrow-up-duotone
   ///
   /// ![tray-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up-duotone.svg)
-  static const trayArrowUp = PiconDuotoneData(
-    0xee53,
-    PiconData(0xee52, 'Duotone'),
-  );
+  static const trayArrowUp = PiconDuotoneData(PiconData(IconData(0xee53, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee52, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// treasure-chest-duotone
   ///
   /// ![treasure-chest-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest-duotone.svg)
-  static const treasureChest = PiconDuotoneData(
-    0xede3,
-    PiconData(0xede2, 'Duotone'),
-  );
+  static const treasureChest = PiconDuotoneData(PiconData(IconData(0xede3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xede2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tree-duotone
   ///
   /// ![tree-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-duotone.svg)
-  static const tree = PiconDuotoneData(
-    0xe6db,
-    PiconData(0xe6da, 'Duotone'),
-  );
+  static const tree = PiconDuotoneData(PiconData(IconData(0xe6db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tree-evergreen-duotone
   ///
   /// ![tree-evergreen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen-duotone.svg)
-  static const treeEvergreen = PiconDuotoneData(
-    0xe6dd,
-    PiconData(0xe6dc, 'Duotone'),
-  );
+  static const treeEvergreen = PiconDuotoneData(PiconData(IconData(0xe6dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tree-palm-duotone
   ///
   /// ![tree-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm-duotone.svg)
-  static const treePalm = PiconDuotoneData(
-    0xe91b,
-    PiconData(0xe91a, 'Duotone'),
-  );
+  static const treePalm = PiconDuotoneData(PiconData(IconData(0xe91b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe91a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tree-structure-duotone
   ///
   /// ![tree-structure-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure-duotone.svg)
-  static const treeStructure = PiconDuotoneData(
-    0xe67d,
-    PiconData(0xe67c, 'Duotone'),
-  );
+  static const treeStructure = PiconDuotoneData(PiconData(IconData(0xe67d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe67c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tree-view-duotone
   ///
   /// ![tree-view-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view-duotone.svg)
-  static const treeView = PiconDuotoneData(
-    0xee49,
-    PiconData(0xee48, 'Duotone'),
-  );
+  static const treeView = PiconDuotoneData(PiconData(IconData(0xee49, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee48, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trend-down-duotone
   ///
   /// ![trend-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down-duotone.svg)
-  static const trendDown = PiconDuotoneData(
-    0xe4ad,
-    PiconData(0xe4ac, 'Duotone'),
-  );
+  static const trendDown = PiconDuotoneData(PiconData(IconData(0xe4ad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trend-up-duotone
   ///
   /// ![trend-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up-duotone.svg)
-  static const trendUp = PiconDuotoneData(
-    0xe4af,
-    PiconData(0xe4ae, 'Duotone'),
-  );
+  static const trendUp = PiconDuotoneData(PiconData(IconData(0xe4af, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// triangle-duotone
   ///
   /// ![triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-duotone.svg)
-  static const triangle = PiconDuotoneData(
-    0xe4b1,
-    PiconData(0xe4b0, 'Duotone'),
-  );
+  static const triangle = PiconDuotoneData(PiconData(IconData(0xe4b1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4b0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// triangle-dashed-duotone
   ///
   /// ![triangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed-duotone.svg)
-  static const triangleDashed = PiconDuotoneData(
-    0xe4b3,
-    PiconData(0xe4b2, 'Duotone'),
-  );
+  static const triangleDashed = PiconDuotoneData(PiconData(IconData(0xe4b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trolley-duotone
   ///
   /// ![trolley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-duotone.svg)
-  static const trolley = PiconDuotoneData(
-    0xe5b3,
-    PiconData(0xe5b2, 'Duotone'),
-  );
+  static const trolley = PiconDuotoneData(PiconData(IconData(0xe5b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trolley-suitcase-duotone
   ///
   /// ![trolley-suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase-duotone.svg)
-  static const trolleySuitcase = PiconDuotoneData(
-    0xe5b5,
-    PiconData(0xe5b4, 'Duotone'),
-  );
+  static const trolleySuitcase = PiconDuotoneData(PiconData(IconData(0xe5b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// trophy-duotone
   ///
   /// ![trophy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy-duotone.svg)
-  static const trophy = PiconDuotoneData(
-    0xe67f,
-    PiconData(0xe67e, 'Duotone'),
-  );
+  static const trophy = PiconDuotoneData(PiconData(IconData(0xe67f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe67e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// truck-duotone
   ///
   /// ![truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-duotone.svg)
-  static const truck = PiconDuotoneData(
-    0xe4b5,
-    PiconData(0xe4b4, 'Duotone'),
-  );
+  static const truck = PiconDuotoneData(PiconData(IconData(0xe4b5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4b4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// truck-trailer-duotone
   ///
   /// ![truck-trailer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer-duotone.svg)
-  static const truckTrailer = PiconDuotoneData(
-    0xe4b7,
-    PiconData(0xe4b6, 'Duotone'),
-  );
+  static const truckTrailer = PiconDuotoneData(PiconData(IconData(0xe4b7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4b6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// tumblr-logo-duotone
   ///
   /// ![tumblr-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo-duotone.svg)
-  static const tumblrLogo = PiconDuotoneData(
-    0xe8d5,
-    PiconData(0xe8d4, 'Duotone'),
-  );
+  static const tumblrLogo = PiconDuotoneData(PiconData(IconData(0xe8d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// twitch-logo-duotone
   ///
   /// ![twitch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo-duotone.svg)
-  static const twitchLogo = PiconDuotoneData(
-    0xe5cf,
-    PiconData(0xe5ce, 'Duotone'),
-  );
+  static const twitchLogo = PiconDuotoneData(PiconData(IconData(0xe5cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// twitter-logo-duotone
   ///
   /// ![twitter-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo-duotone.svg)
-  static const twitterLogo = PiconDuotoneData(
-    0xe4bb,
-    PiconData(0xe4ba, 'Duotone'),
-  );
+  static const twitterLogo = PiconDuotoneData(PiconData(IconData(0xe4bb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ba, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// umbrella-duotone
   ///
   /// ![umbrella-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-duotone.svg)
-  static const umbrella = PiconDuotoneData(
-    0xe685,
-    PiconData(0xe684, 'Duotone'),
-  );
+  static const umbrella = PiconDuotoneData(PiconData(IconData(0xe685, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe684, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// umbrella-simple-duotone
   ///
   /// ![umbrella-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple-duotone.svg)
-  static const umbrellaSimple = PiconDuotoneData(
-    0xe687,
-    PiconData(0xe686, 'Duotone'),
-  );
+  static const umbrellaSimple = PiconDuotoneData(PiconData(IconData(0xe687, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe686, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// union-duotone
   ///
   /// ![union-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union-duotone.svg)
-  static const union = PiconDuotoneData(
-    0xedbf,
-    PiconData(0xedbe, 'Duotone'),
-  );
+  static const union = PiconDuotoneData(PiconData(IconData(0xedbf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedbe, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// unite-duotone
   ///
   /// ![unite-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-duotone.svg)
-  static const unite = PiconDuotoneData(
-    0xe87f,
-    PiconData(0xe87e, 'Duotone'),
-  );
+  static const unite = PiconDuotoneData(PiconData(IconData(0xe87f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe87e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// unite-square-duotone
   ///
   /// ![unite-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square-duotone.svg)
-  static const uniteSquare = PiconDuotoneData(
-    0xe879,
-    PiconData(0xe878, 'Duotone'),
-  );
+  static const uniteSquare = PiconDuotoneData(PiconData(IconData(0xe879, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe878, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// upload-duotone
   ///
   /// ![upload-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-duotone.svg)
-  static const upload = PiconDuotoneData(
-    0xe4bf,
-    PiconData(0xe4be, 'Duotone'),
-  );
+  static const upload = PiconDuotoneData(PiconData(IconData(0xe4bf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4be, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// upload-simple-duotone
   ///
   /// ![upload-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple-duotone.svg)
-  static const uploadSimple = PiconDuotoneData(
-    0xe4c1,
-    PiconData(0xe4c0, 'Duotone'),
-  );
+  static const uploadSimple = PiconDuotoneData(PiconData(IconData(0xe4c1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4c0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// usb-duotone
   ///
   /// ![usb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb-duotone.svg)
-  static const usb = PiconDuotoneData(
-    0xe957,
-    PiconData(0xe956, 'Duotone'),
-  );
+  static const usb = PiconDuotoneData(PiconData(IconData(0xe957, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe956, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-duotone
   ///
   /// ![user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-duotone.svg)
-  static const user = PiconDuotoneData(
-    0xe4c3,
-    PiconData(0xe4c2, 'Duotone'),
-  );
+  static const user = PiconDuotoneData(PiconData(IconData(0xe4c3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4c2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-check-duotone
   ///
   /// ![user-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check-duotone.svg)
-  static const userCheck = PiconDuotoneData(
-    0xeafb,
-    PiconData(0xeafa, 'Duotone'),
-  );
+  static const userCheck = PiconDuotoneData(PiconData(IconData(0xeafb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeafa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-duotone
   ///
   /// ![user-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-duotone.svg)
-  static const userCircle = PiconDuotoneData(
-    0xe4c5,
-    PiconData(0xe4c4, 'Duotone'),
-  );
+  static const userCircle = PiconDuotoneData(PiconData(IconData(0xe4c5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4c4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-check-duotone
   ///
   /// ![user-circle-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check-duotone.svg)
-  static const userCircleCheck = PiconDuotoneData(
-    0xec39,
-    PiconData(0xec38, 'Duotone'),
-  );
+  static const userCircleCheck = PiconDuotoneData(PiconData(IconData(0xec39, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec38, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-dashed-duotone
   ///
   /// ![user-circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed-duotone.svg)
-  static const userCircleDashed = PiconDuotoneData(
-    0xec37,
-    PiconData(0xec36, 'Duotone'),
-  );
+  static const userCircleDashed = PiconDuotoneData(PiconData(IconData(0xec37, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xec36, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-gear-duotone
   ///
   /// ![user-circle-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear-duotone.svg)
-  static const userCircleGear = PiconDuotoneData(
-    0xe4c7,
-    PiconData(0xe4c6, 'Duotone'),
-  );
+  static const userCircleGear = PiconDuotoneData(PiconData(IconData(0xe4c7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4c6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-minus-duotone
   ///
   /// ![user-circle-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus-duotone.svg)
-  static const userCircleMinus = PiconDuotoneData(
-    0xe4c9,
-    PiconData(0xe4c8, 'Duotone'),
-  );
+  static const userCircleMinus = PiconDuotoneData(PiconData(IconData(0xe4c9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4c8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-circle-plus-duotone
   ///
   /// ![user-circle-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus-duotone.svg)
-  static const userCirclePlus = PiconDuotoneData(
-    0xe4cb,
-    PiconData(0xe4ca, 'Duotone'),
-  );
+  static const userCirclePlus = PiconDuotoneData(PiconData(IconData(0xe4cb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ca, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-focus-duotone
   ///
   /// ![user-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus-duotone.svg)
-  static const userFocus = PiconDuotoneData(
-    0xe6fd,
-    PiconData(0xe6fc, 'Duotone'),
-  );
+  static const userFocus = PiconDuotoneData(PiconData(IconData(0xe6fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-gear-duotone
   ///
   /// ![user-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear-duotone.svg)
-  static const userGear = PiconDuotoneData(
-    0xe4cd,
-    PiconData(0xe4cc, 'Duotone'),
-  );
+  static const userGear = PiconDuotoneData(PiconData(IconData(0xe4cd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4cc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-list-duotone
   ///
   /// ![user-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list-duotone.svg)
-  static const userList = PiconDuotoneData(
-    0xe73d,
-    PiconData(0xe73c, 'Duotone'),
-  );
+  static const userList = PiconDuotoneData(PiconData(IconData(0xe73d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe73c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-minus-duotone
   ///
   /// ![user-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus-duotone.svg)
-  static const userMinus = PiconDuotoneData(
-    0xe4cf,
-    PiconData(0xe4ce, 'Duotone'),
-  );
+  static const userMinus = PiconDuotoneData(PiconData(IconData(0xe4cf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-plus-duotone
   ///
   /// ![user-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus-duotone.svg)
-  static const userPlus = PiconDuotoneData(
-    0xe4d1,
-    PiconData(0xe4d0, 'Duotone'),
-  );
+  static const userPlus = PiconDuotoneData(PiconData(IconData(0xe4d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-rectangle-duotone
   ///
   /// ![user-rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle-duotone.svg)
-  static const userRectangle = PiconDuotoneData(
-    0xe4d3,
-    PiconData(0xe4d2, 'Duotone'),
-  );
+  static const userRectangle = PiconDuotoneData(PiconData(IconData(0xe4d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-sound-duotone
   ///
   /// ![user-sound-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound-duotone.svg)
-  static const userSound = PiconDuotoneData(
-    0xeca9,
-    PiconData(0xeca8, 'Duotone'),
-  );
+  static const userSound = PiconDuotoneData(PiconData(IconData(0xeca9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeca8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-square-duotone
   ///
   /// ![user-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square-duotone.svg)
-  static const userSquare = PiconDuotoneData(
-    0xe4d5,
-    PiconData(0xe4d4, 'Duotone'),
-  );
+  static const userSquare = PiconDuotoneData(PiconData(IconData(0xe4d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// user-switch-duotone
   ///
   /// ![user-switch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch-duotone.svg)
-  static const userSwitch = PiconDuotoneData(
-    0xe757,
-    PiconData(0xe756, 'Duotone'),
-  );
+  static const userSwitch = PiconDuotoneData(PiconData(IconData(0xe757, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe756, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// users-duotone
   ///
   /// ![users-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-duotone.svg)
-  static const users = PiconDuotoneData(
-    0xe4d7,
-    PiconData(0xe4d6, 'Duotone'),
-  );
+  static const users = PiconDuotoneData(PiconData(IconData(0xe4d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// users-four-duotone
   ///
   /// ![users-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four-duotone.svg)
-  static const usersFour = PiconDuotoneData(
-    0xe68d,
-    PiconData(0xe68c, 'Duotone'),
-  );
+  static const usersFour = PiconDuotoneData(PiconData(IconData(0xe68d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe68c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// users-three-duotone
   ///
   /// ![users-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three-duotone.svg)
-  static const usersThree = PiconDuotoneData(
-    0xe68f,
-    PiconData(0xe68e, 'Duotone'),
-  );
+  static const usersThree = PiconDuotoneData(PiconData(IconData(0xe68f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe68e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// van-duotone
   ///
   /// ![van-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van-duotone.svg)
-  static const van = PiconDuotoneData(
-    0xe827,
-    PiconData(0xe826, 'Duotone'),
-  );
+  static const van = PiconDuotoneData(PiconData(IconData(0xe827, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe826, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vault-duotone
   ///
   /// ![vault-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault-duotone.svg)
-  static const vault = PiconDuotoneData(
-    0xe76f,
-    PiconData(0xe76e, 'Duotone'),
-  );
+  static const vault = PiconDuotoneData(PiconData(IconData(0xe76f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe76e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vector-three-duotone
   ///
   /// ![vector-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three-duotone.svg)
-  static const vectorThree = PiconDuotoneData(
-    0xee63,
-    PiconData(0xee62, 'Duotone'),
-  );
+  static const vectorThree = PiconDuotoneData(PiconData(IconData(0xee63, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee62, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vector-two-duotone
   ///
   /// ![vector-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two-duotone.svg)
-  static const vectorTwo = PiconDuotoneData(
-    0xee65,
-    PiconData(0xee64, 'Duotone'),
-  );
+  static const vectorTwo = PiconDuotoneData(PiconData(IconData(0xee65, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee64, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vibrate-duotone
   ///
   /// ![vibrate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate-duotone.svg)
-  static const vibrate = PiconDuotoneData(
-    0xe4d9,
-    PiconData(0xe4d8, 'Duotone'),
-  );
+  static const vibrate = PiconDuotoneData(PiconData(IconData(0xe4d9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4d8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// video-duotone
   ///
   /// ![video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-duotone.svg)
-  static const video = PiconDuotoneData(
-    0xe741,
-    PiconData(0xe740, 'Duotone'),
-  );
+  static const video = PiconDuotoneData(PiconData(IconData(0xe741, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe740, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// video-camera-duotone
   ///
   /// ![video-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-duotone.svg)
-  static const videoCamera = PiconDuotoneData(
-    0xe4db,
-    PiconData(0xe4da, 'Duotone'),
-  );
+  static const videoCamera = PiconDuotoneData(PiconData(IconData(0xe4db, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4da, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// video-camera-slash-duotone
   ///
   /// ![video-camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash-duotone.svg)
-  static const videoCameraSlash = PiconDuotoneData(
-    0xe4dd,
-    PiconData(0xe4dc, 'Duotone'),
-  );
+  static const videoCameraSlash = PiconDuotoneData(PiconData(IconData(0xe4dd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4dc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// video-conference-duotone
   ///
   /// ![video-conference-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference-duotone.svg)
-  static const videoConference = PiconDuotoneData(
-    0xedcf,
-    PiconData(0xedce, 'Duotone'),
-  );
+  static const videoConference = PiconDuotoneData(PiconData(IconData(0xedcf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xedce, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vignette-duotone
   ///
   /// ![vignette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette-duotone.svg)
-  static const vignette = PiconDuotoneData(
-    0xeba3,
-    PiconData(0xeba2, 'Duotone'),
-  );
+  static const vignette = PiconDuotoneData(PiconData(IconData(0xeba3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeba2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// vinyl-record-duotone
   ///
   /// ![vinyl-record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record-duotone.svg)
-  static const vinylRecord = PiconDuotoneData(
-    0xecad,
-    PiconData(0xecac, 'Duotone'),
-  );
+  static const vinylRecord = PiconDuotoneData(PiconData(IconData(0xecad, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecac, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// virtual-reality-duotone
   ///
   /// ![virtual-reality-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality-duotone.svg)
-  static const virtualReality = PiconDuotoneData(
-    0xe7b9,
-    PiconData(0xe7b8, 'Duotone'),
-  );
+  static const virtualReality = PiconDuotoneData(PiconData(IconData(0xe7b9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7b8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// virus-duotone
   ///
   /// ![virus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus-duotone.svg)
-  static const virus = PiconDuotoneData(
-    0xe7d7,
-    PiconData(0xe7d6, 'Duotone'),
-  );
+  static const virus = PiconDuotoneData(PiconData(IconData(0xe7d7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7d6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// visor-duotone
   ///
   /// ![visor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor-duotone.svg)
-  static const visor = PiconDuotoneData(
-    0xee2b,
-    PiconData(0xee2a, 'Duotone'),
-  );
+  static const visor = PiconDuotoneData(PiconData(IconData(0xee2b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xee2a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// voicemail-duotone
   ///
   /// ![voicemail-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail-duotone.svg)
-  static const voicemail = PiconDuotoneData(
-    0xe4df,
-    PiconData(0xe4de, 'Duotone'),
-  );
+  static const voicemail = PiconDuotoneData(PiconData(IconData(0xe4df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// volleyball-duotone
   ///
   /// ![volleyball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball-duotone.svg)
-  static const volleyball = PiconDuotoneData(
-    0xe727,
-    PiconData(0xe726, 'Duotone'),
-  );
+  static const volleyball = PiconDuotoneData(PiconData(IconData(0xe727, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe726, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wall-duotone
   ///
   /// ![wall-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall-duotone.svg)
-  static const wall = PiconDuotoneData(
-    0xe689,
-    PiconData(0xe688, 'Duotone'),
-  );
+  static const wall = PiconDuotoneData(PiconData(IconData(0xe689, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe688, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wallet-duotone
   ///
   /// ![wallet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet-duotone.svg)
-  static const wallet = PiconDuotoneData(
-    0xe68b,
-    PiconData(0xe68a, 'Duotone'),
-  );
+  static const wallet = PiconDuotoneData(PiconData(IconData(0xe68b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe68a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// warehouse-duotone
   ///
   /// ![warehouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse-duotone.svg)
-  static const warehouse = PiconDuotoneData(
-    0xecd5,
-    PiconData(0xecd4, 'Duotone'),
-  );
+  static const warehouse = PiconDuotoneData(PiconData(IconData(0xecd5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecd4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// warning-duotone
   ///
   /// ![warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-duotone.svg)
-  static const warning = PiconDuotoneData(
-    0xe4e1,
-    PiconData(0xe4e0, 'Duotone'),
-  );
+  static const warning = PiconDuotoneData(PiconData(IconData(0xe4e1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4e0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// warning-circle-duotone
   ///
   /// ![warning-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle-duotone.svg)
-  static const warningCircle = PiconDuotoneData(
-    0xe4e3,
-    PiconData(0xe4e2, 'Duotone'),
-  );
+  static const warningCircle = PiconDuotoneData(PiconData(IconData(0xe4e3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4e2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// warning-diamond-duotone
   ///
   /// ![warning-diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond-duotone.svg)
-  static const warningDiamond = PiconDuotoneData(
-    0xe7fd,
-    PiconData(0xe7fc, 'Duotone'),
-  );
+  static const warningDiamond = PiconDuotoneData(PiconData(IconData(0xe7fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe7fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// warning-octagon-duotone
   ///
   /// ![warning-octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon-duotone.svg)
-  static const warningOctagon = PiconDuotoneData(
-    0xe4e5,
-    PiconData(0xe4e4, 'Duotone'),
-  );
+  static const warningOctagon = PiconDuotoneData(PiconData(IconData(0xe4e5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4e4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// washing-machine-duotone
   ///
   /// ![washing-machine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine-duotone.svg)
-  static const washingMachine = PiconDuotoneData(
-    0xede9,
-    PiconData(0xede8, 'Duotone'),
-  );
+  static const washingMachine = PiconDuotoneData(PiconData(IconData(0xede9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xede8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// watch-duotone
   ///
   /// ![watch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch-duotone.svg)
-  static const watch = PiconDuotoneData(
-    0xe4e7,
-    PiconData(0xe4e6, 'Duotone'),
-  );
+  static const watch = PiconDuotoneData(PiconData(IconData(0xe4e7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4e6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wave-sawtooth-duotone
   ///
   /// ![wave-sawtooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth-duotone.svg)
-  static const waveSawtooth = PiconDuotoneData(
-    0xea9d,
-    PiconData(0xea9c, 'Duotone'),
-  );
+  static const waveSawtooth = PiconDuotoneData(PiconData(IconData(0xea9d, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea9c, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wave-sine-duotone
   ///
   /// ![wave-sine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine-duotone.svg)
-  static const waveSine = PiconDuotoneData(
-    0xea9b,
-    PiconData(0xea9a, 'Duotone'),
-  );
+  static const waveSine = PiconDuotoneData(PiconData(IconData(0xea9b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea9a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wave-square-duotone
   ///
   /// ![wave-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square-duotone.svg)
-  static const waveSquare = PiconDuotoneData(
-    0xea9f,
-    PiconData(0xea9e, 'Duotone'),
-  );
+  static const waveSquare = PiconDuotoneData(PiconData(IconData(0xea9f, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xea9e, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wave-triangle-duotone
   ///
   /// ![wave-triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle-duotone.svg)
-  static const waveTriangle = PiconDuotoneData(
-    0xeaa1,
-    PiconData(0xeaa0, 'Duotone'),
-  );
+  static const waveTriangle = PiconDuotoneData(PiconData(IconData(0xeaa1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xeaa0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// waveform-duotone
   ///
   /// ![waveform-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-duotone.svg)
-  static const waveform = PiconDuotoneData(
-    0xe803,
-    PiconData(0xe802, 'Duotone'),
-  );
+  static const waveform = PiconDuotoneData(PiconData(IconData(0xe803, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe802, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// waveform-slash-duotone
   ///
   /// ![waveform-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash-duotone.svg)
-  static const waveformSlash = PiconDuotoneData(
-    0xe801,
-    PiconData(0xe800, 'Duotone'),
-  );
+  static const waveformSlash = PiconDuotoneData(PiconData(IconData(0xe801, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe800, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// waves-duotone
   ///
   /// ![waves-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves-duotone.svg)
-  static const waves = PiconDuotoneData(
-    0xe6df,
-    PiconData(0xe6de, 'Duotone'),
-  );
+  static const waves = PiconDuotoneData(PiconData(IconData(0xe6df, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6de, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// webcam-duotone
   ///
   /// ![webcam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-duotone.svg)
-  static const webcam = PiconDuotoneData(
-    0xe9b3,
-    PiconData(0xe9b2, 'Duotone'),
-  );
+  static const webcam = PiconDuotoneData(PiconData(IconData(0xe9b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// webcam-slash-duotone
   ///
   /// ![webcam-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash-duotone.svg)
-  static const webcamSlash = PiconDuotoneData(
-    0xecdd,
-    PiconData(0xecdc, 'Duotone'),
-  );
+  static const webcamSlash = PiconDuotoneData(PiconData(IconData(0xecdd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecdc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// webhooks-logo-duotone
   ///
   /// ![webhooks-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo-duotone.svg)
-  static const webhooksLogo = PiconDuotoneData(
-    0xecaf,
-    PiconData(0xecae, 'Duotone'),
-  );
+  static const webhooksLogo = PiconDuotoneData(PiconData(IconData(0xecaf, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xecae, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wechat-logo-duotone
   ///
   /// ![wechat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo-duotone.svg)
-  static const wechatLogo = PiconDuotoneData(
-    0xe8d3,
-    PiconData(0xe8d2, 'Duotone'),
-  );
+  static const wechatLogo = PiconDuotoneData(PiconData(IconData(0xe8d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe8d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// whatsapp-logo-duotone
   ///
   /// ![whatsapp-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo-duotone.svg)
-  static const whatsappLogo = PiconDuotoneData(
-    0xe5d1,
-    PiconData(0xe5d0, 'Duotone'),
-  );
+  static const whatsappLogo = PiconDuotoneData(PiconData(IconData(0xe5d1, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5d0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wheelchair-duotone
   ///
   /// ![wheelchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-duotone.svg)
-  static const wheelchair = PiconDuotoneData(
-    0xe4e9,
-    PiconData(0xe4e8, 'Duotone'),
-  );
+  static const wheelchair = PiconDuotoneData(PiconData(IconData(0xe4e9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4e8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wheelchair-motion-duotone
   ///
   /// ![wheelchair-motion-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion-duotone.svg)
-  static const wheelchairMotion = PiconDuotoneData(
-    0xe89b,
-    PiconData(0xe89a, 'Duotone'),
-  );
+  static const wheelchairMotion = PiconDuotoneData(PiconData(IconData(0xe89b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe89a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wifi-high-duotone
   ///
   /// ![wifi-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high-duotone.svg)
-  static const wifiHigh = PiconDuotoneData(
-    0xe4eb,
-    PiconData(0xe4ea, 'Duotone'),
-  );
+  static const wifiHigh = PiconDuotoneData(PiconData(IconData(0xe4eb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ea, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wifi-low-duotone
   ///
   /// ![wifi-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low-duotone.svg)
-  static const wifiLow = PiconDuotoneData(
-    0xe4ed,
-    PiconData(0xe4ec, 'Duotone'),
-  );
+  static const wifiLow = PiconDuotoneData(PiconData(IconData(0xe4ed, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ec, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wifi-medium-duotone
   ///
   /// ![wifi-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium-duotone.svg)
-  static const wifiMedium = PiconDuotoneData(
-    0xe4ef,
-    PiconData(0xe4ee, 'Duotone'),
-  );
+  static const wifiMedium = PiconDuotoneData(PiconData(IconData(0xe4ef, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4ee, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wifi-none-duotone
   ///
   /// ![wifi-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none-duotone.svg)
-  static const wifiNone = PiconFlatData(0xe4f0, 'Duotone');
+  static const wifiNone = PiconFlatData(IconData(0xe4f0, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true));
 
   /// wifi-slash-duotone
   ///
   /// ![wifi-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash-duotone.svg)
-  static const wifiSlash = PiconDuotoneData(
-    0xe4f3,
-    PiconData(0xe4f2, 'Duotone'),
-  );
+  static const wifiSlash = PiconDuotoneData(PiconData(IconData(0xe4f3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4f2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wifi-x-duotone
   ///
   /// ![wifi-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x-duotone.svg)
-  static const wifiX = PiconDuotoneData(
-    0xe4f5,
-    PiconData(0xe4f4, 'Duotone'),
-  );
+  static const wifiX = PiconDuotoneData(PiconData(IconData(0xe4f5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4f4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wind-duotone
   ///
   /// ![wind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind-duotone.svg)
-  static const wind = PiconDuotoneData(
-    0xe5d3,
-    PiconData(0xe5d2, 'Duotone'),
-  );
+  static const wind = PiconDuotoneData(PiconData(IconData(0xe5d3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5d2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// windmill-duotone
   ///
   /// ![windmill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill-duotone.svg)
-  static const windmill = PiconDuotoneData(
-    0xe9f9,
-    PiconData(0xe9f8, 'Duotone'),
-  );
+  static const windmill = PiconDuotoneData(PiconData(IconData(0xe9f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe9f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// windows-logo-duotone
   ///
   /// ![windows-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo-duotone.svg)
-  static const windowsLogo = PiconDuotoneData(
-    0xe693,
-    PiconData(0xe692, 'Duotone'),
-  );
+  static const windowsLogo = PiconDuotoneData(PiconData(IconData(0xe693, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe692, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wine-duotone
   ///
   /// ![wine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine-duotone.svg)
-  static const wine = PiconDuotoneData(
-    0xe6b3,
-    PiconData(0xe6b2, 'Duotone'),
-  );
+  static const wine = PiconDuotoneData(PiconData(IconData(0xe6b3, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe6b2, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// wrench-duotone
   ///
   /// ![wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench-duotone.svg)
-  static const wrench = PiconDuotoneData(
-    0xe5d5,
-    PiconData(0xe5d4, 'Duotone'),
-  );
+  static const wrench = PiconDuotoneData(PiconData(IconData(0xe5d5, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe5d4, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// x-duotone
   ///
   /// ![x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-duotone.svg)
-  static const x = PiconDuotoneData(
-    0xe4f7,
-    PiconData(0xe4f6, 'Duotone'),
-  );
+  static const x = PiconDuotoneData(PiconData(IconData(0xe4f7, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4f6, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// x-circle-duotone
   ///
   /// ![x-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle-duotone.svg)
-  static const xCircle = PiconDuotoneData(
-    0xe4f9,
-    PiconData(0xe4f8, 'Duotone'),
-  );
+  static const xCircle = PiconDuotoneData(PiconData(IconData(0xe4f9, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4f8, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// x-logo-duotone
   ///
   /// ![x-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo-duotone.svg)
-  static const xLogo = PiconDuotoneData(
-    0xe4bd,
-    PiconData(0xe4bc, 'Duotone'),
-  );
+  static const xLogo = PiconDuotoneData(PiconData(IconData(0xe4bd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4bc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// x-square-duotone
   ///
   /// ![x-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square-duotone.svg)
-  static const xSquare = PiconDuotoneData(
-    0xe4fb,
-    PiconData(0xe4fa, 'Duotone'),
-  );
+  static const xSquare = PiconDuotoneData(PiconData(IconData(0xe4fb, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4fa, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// yarn-duotone
   ///
   /// ![yarn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn-duotone.svg)
-  static const yarn = PiconDuotoneData(
-    0xed9b,
-    PiconData(0xed9a, 'Duotone'),
-  );
+  static const yarn = PiconDuotoneData(PiconData(IconData(0xed9b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xed9a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// yin-yang-duotone
   ///
   /// ![yin-yang-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang-duotone.svg)
-  static const yinYang = PiconDuotoneData(
-    0xe92b,
-    PiconData(0xe92a, 'Duotone'),
-  );
+  static const yinYang = PiconDuotoneData(PiconData(IconData(0xe92b, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe92a, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 
   /// youtube-logo-duotone
   ///
   /// ![youtube-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo-duotone.svg)
-  static const youtubeLogo = PiconDuotoneData(
-    0xe4fd,
-    PiconData(0xe4fc, 'Duotone'),
-  );
+  static const youtubeLogo = PiconDuotoneData(PiconData(IconData(0xe4fd, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData(0xe4fc, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)));
 }

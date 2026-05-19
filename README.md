@@ -46,13 +46,12 @@ Icon(PiconsLight.pencil)
 Use `Picon` instead of `Icon` to render the duotone stack:
 
 ```dart
-// explicit
 Picon(PiconsDuotone.pencil)
-
-// via defaultStyle
-Picons.defaultStyle = PiconsStyle.duotone;
-Picon(Picons.pencil)
 ```
+
+> When using `Picons.defaultStyle = PiconsStyle.duotone`, `Picons.x` returns the
+> primary layer as a flat `PiconData`. For full duotone rendering always use
+> `PiconsDuotone` directly.
 
 Custom secondary color:
 

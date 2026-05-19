@@ -124,10 +124,12 @@ class _IconsCatalogState extends State<IconsCatalog> {
               decoration: InputDecoration(
                 hintText: 'Search 1512 icons...',
                 hintStyle: const TextStyle(color: Colors.white38),
-                prefixIcon: const Icon(PiconsRegular.magnifyingGlass, color: Colors.white38),
+                prefixIcon: const Icon(PiconsRegular.magnifyingGlass,
+                    color: Colors.white38),
                 suffixIcon: _query.isNotEmpty
                     ? IconButton(
-                        icon: const Icon(PiconsRegular.x, color: Colors.white38),
+                        icon:
+                            const Icon(PiconsRegular.x, color: Colors.white38),
                         onPressed: () {
                           _searchController.clear();
                           setState(() => _query = '');
@@ -159,8 +161,10 @@ class _IconsCatalogState extends State<IconsCatalog> {
                     onSelected: (_) => _selectStyle(style),
                     selectedColor: const Color(0xFFFFD93D),
                     labelStyle: TextStyle(
-                      color: selected ? const Color(0xFF1E1B26) : Colors.white60,
-                      fontWeight: selected ? FontWeight.bold : FontWeight.normal,
+                      color:
+                          selected ? const Color(0xFF1E1B26) : Colors.white60,
+                      fontWeight:
+                          selected ? FontWeight.bold : FontWeight.normal,
                       fontSize: 13,
                     ),
                     checkmarkColor: const Color(0xFF1E1B26),
@@ -202,7 +206,8 @@ class _IconsCatalogState extends State<IconsCatalog> {
                   )
                 : GridView.builder(
                     padding: const EdgeInsets.all(1),
-                    gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+                    gridDelegate:
+                        const SliverGridDelegateWithMaxCrossAxisExtent(
                       maxCrossAxisExtent: 110,
                       crossAxisSpacing: 1,
                       mainAxisSpacing: 1,

@@ -94,11 +94,14 @@ Method buildBaseFieldIcon(dynamic icon) {
   final fullName = rawName.split(",").first;
   final name = formatName(fullName, style: 'regular');
   final styles = StyleFileData.values;
-  var code = 'switch (AppIcons.defaultStyle) {';
+  var code = 'switch (Picons.defaultStyle) {';
   for (final style in styles) {
+    final returnExpr = style == StyleFileData.duotone
+        ? '${style.className}.$name.primary'
+        : '${style.className}.$name';
     code += '''
-case AppIconsStyle.${style.styleName}:
-  return ${style.className}.$name;
+case PiconsStyle.${style.styleName}:
+  return $returnExpr;
 ''';
   }
   code += '}';
@@ -109,7 +112,7 @@ case AppIconsStyle.${style.styleName}:
     ..docs.addAll(styles.map((style) =>
         '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
     ..body = Code(code)
-    ..returns = Reference('Object'));
+    ..returns = Reference('PiconData'));
 }
 
 /// reads the phosphor json  of one style and generates a dart class

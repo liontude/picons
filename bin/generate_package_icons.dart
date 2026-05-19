@@ -109,8 +109,10 @@ case PiconsStyle.${style.styleName}:
     ..name = name
     ..static = true
     ..type = MethodType.getter
-    ..docs.addAll(styles.map((style) =>
-        '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
+    ..docs.addAll(styles.map((style) {
+        final suffix = style.styleName == 'regular' ? '' : '-${style.styleName}';
+        return '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName$suffix.svg)';
+      }))
     ..body = Code(code)
     ..returns = Reference('PiconData'));
 }
@@ -170,10 +172,11 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
   final firstName = fullName.split(",").first;
   final name = formatName(firstName, style: style.styleName);
 
+  final svgSuffix = style.styleName == 'regular' ? '' : '-${style.styleName}';
   final iconDocLines = [
     '/// $firstName',
     '///',
-    '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName.svg)',
+    '/// ![$firstName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$firstName$svgSuffix.svg)',
   ];
 
   late Code codeStatement;

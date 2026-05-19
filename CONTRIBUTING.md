@@ -82,7 +82,11 @@ The Dart classes in `lib/src/` are auto-generated. To regenerate them:
 cd bin
 dart pub get
 dart run main.dart
+cd ..
 ```
+
+This downloads the latest Phosphor font and JSON from GitHub and regenerates
+all files under `lib/src/` and `example/lib/constants/`.
 
 ### Submitting a PR
 

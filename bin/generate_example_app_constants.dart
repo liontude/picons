@@ -37,7 +37,7 @@ void generateExampleAppConstants(List icons) {
       ..methods.addAll(
         [
           buildGetterMethod(
-            returnType: 'List<AppIconData>',
+            returnType: 'List<PiconIconData>',
             name: 'icons',
             body: 'allFlatIconsAsMap.values.toList()',
           ),
@@ -47,7 +47,7 @@ void generateExampleAppConstants(List icons) {
             body: 'allFlatIconsAsMap.keys.toList()',
           ),
           buildGetterMethod(
-            returnType: 'Map<String, AppIconData>',
+            returnType: 'Map<String, PiconIconData>',
             name: 'allFlatIconsAsMap',
             body: '''{
       ...regularIcons,
@@ -126,7 +126,9 @@ Method buildIconsMapGetterByStyle({
   required List<String> lines,
 }) =>
     buildGetterMethod(
-      returnType: 'Map<String, AppIconData>',
+      returnType: style == StyleFileData.duotone
+          ? 'Map<String, PiconIconData>'
+          : 'Map<String, PiconData>',
       name: '${style.styleName}Icons',
       body: '{${lines.join(',')}}',
     );

@@ -4,11 +4,11 @@
 import 'package:picons/picons.dart';
 
 abstract class AllIcons {
-  static List<PiconData> get icons => allFlatIconsAsMap.values.toList();
+  static List<Object> get icons => allFlatIconsAsMap.values.toList();
 
   static List<String> get names => allFlatIconsAsMap.keys.toList();
 
-  static Map<String, PiconData> get allFlatIconsAsMap => {
+  static Map<String, Object> get allFlatIconsAsMap => {
         ...regularIcons,
         ...thinIcons,
         ...lightIcons,
@@ -9529,7 +9529,7 @@ abstract class AllIcons {
         'youtube-logo': PiconsFill.youtubeLogo
       };
 
-  static Map<String, PiconData> get duotoneIcons => {
+  static Map<String, Object> get duotoneIcons => {
         'acorn': PiconsDuotone.acorn,
         'address-book': PiconsDuotone.addressBook,
         'address-book-tabs':

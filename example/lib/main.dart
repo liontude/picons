@@ -39,7 +39,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
   String _query = '';
   final _searchController = TextEditingController();
 
-  Map<String, PiconData> get _currentIcons => switch (_style) {
+  Map<String, Object> get _currentIcons => switch (_style) {
         PiconsStyle.regular => AllIcons.regularIcons,
         PiconsStyle.thin => AllIcons.thinIcons,
         PiconsStyle.light => AllIcons.lightIcons,
@@ -48,7 +48,7 @@ class _IconsCatalogState extends State<IconsCatalog> {
         PiconsStyle.duotone => AllIcons.duotoneIcons,
       };
 
-  Map<String, PiconData> get _filtered {
+  Map<String, Object> get _filtered {
     if (_query.isEmpty) return _currentIcons;
     return Map.fromEntries(
       _currentIcons.entries.where((e) => e.key.contains(_query)),
@@ -229,7 +229,7 @@ class _IconCell extends StatelessWidget {
     required this.style,
   });
 
-  final PiconData icon;
+  final Object icon;
   final String name;
   final PiconsStyle style;
 

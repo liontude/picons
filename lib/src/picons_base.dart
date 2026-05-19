@@ -1,7 +1,6 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
-import 'package:picons/src/picon_data.dart';
 import 'package:picons/src/picons_regular.dart';
 import 'package:picons/src/picons_thin.dart';
 import 'package:picons/src/picons_light.dart';
@@ -25,7 +24,7 @@ class Picons {
   /// bold: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/acorn.svg)
   /// fill: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/acorn.svg)
   /// duotone: ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn.svg)
-  static PiconData get acorn {
+  static Object get acorn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.acorn;
@@ -48,7 +47,7 @@ class Picons {
   /// bold: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book.svg)
   /// fill: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book.svg)
   /// duotone: ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book.svg)
-  static PiconData get addressBook {
+  static Object get addressBook {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.addressBook;
@@ -71,7 +70,7 @@ class Picons {
   /// bold: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-tabs.svg)
   /// fill: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book-tabs.svg)
   /// duotone: ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs.svg)
-  static PiconData get addressBookTabs {
+  static Object get addressBookTabs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.addressBookTabs;
@@ -94,7 +93,7 @@ class Picons {
   /// bold: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/air-traffic-control.svg)
   /// fill: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/air-traffic-control.svg)
   /// duotone: ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control.svg)
-  static PiconData get airTrafficControl {
+  static Object get airTrafficControl {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airTrafficControl;
@@ -117,7 +116,7 @@ class Picons {
   /// bold: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane.svg)
   /// fill: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane.svg)
   /// duotone: ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane.svg)
-  static PiconData get airplane {
+  static Object get airplane {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplane;
@@ -140,7 +139,7 @@ class Picons {
   /// bold: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-in-flight.svg)
   /// fill: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-in-flight.svg)
   /// duotone: ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight.svg)
-  static PiconData get airplaneInFlight {
+  static Object get airplaneInFlight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplaneInFlight;
@@ -163,7 +162,7 @@ class Picons {
   /// bold: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-landing.svg)
   /// fill: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-landing.svg)
   /// duotone: ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing.svg)
-  static PiconData get airplaneLanding {
+  static Object get airplaneLanding {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplaneLanding;
@@ -186,7 +185,7 @@ class Picons {
   /// bold: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-takeoff.svg)
   /// fill: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-takeoff.svg)
   /// duotone: ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff.svg)
-  static PiconData get airplaneTakeoff {
+  static Object get airplaneTakeoff {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplaneTakeoff;
@@ -209,7 +208,7 @@ class Picons {
   /// bold: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-taxiing.svg)
   /// fill: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-taxiing.svg)
   /// duotone: ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing.svg)
-  static PiconData get airplaneTaxiing {
+  static Object get airplaneTaxiing {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplaneTaxiing;
@@ -232,7 +231,7 @@ class Picons {
   /// bold: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-tilt.svg)
   /// fill: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-tilt.svg)
   /// duotone: ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt.svg)
-  static PiconData get airplaneTilt {
+  static Object get airplaneTilt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplaneTilt;
@@ -255,7 +254,7 @@ class Picons {
   /// bold: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplay.svg)
   /// fill: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplay.svg)
   /// duotone: ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay.svg)
-  static PiconData get airplay {
+  static Object get airplay {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.airplay;
@@ -278,7 +277,7 @@ class Picons {
   /// bold: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alarm.svg)
   /// fill: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alarm.svg)
   /// duotone: ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm.svg)
-  static PiconData get alarm {
+  static Object get alarm {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alarm;
@@ -301,7 +300,7 @@ class Picons {
   /// bold: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alien.svg)
   /// fill: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alien.svg)
   /// duotone: ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien.svg)
-  static PiconData get alien {
+  static Object get alien {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alien;
@@ -324,7 +323,7 @@ class Picons {
   /// bold: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom.svg)
   /// fill: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom.svg)
   /// duotone: ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom.svg)
-  static PiconData get alignBottom {
+  static Object get alignBottom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignBottom;
@@ -347,7 +346,7 @@ class Picons {
   /// bold: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom-simple.svg)
   /// fill: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom-simple.svg)
   /// duotone: ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple.svg)
-  static PiconData get alignBottomSimple {
+  static Object get alignBottomSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignBottomSimple;
@@ -370,7 +369,7 @@ class Picons {
   /// bold: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal.svg)
   /// fill: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal.svg)
   /// duotone: ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal.svg)
-  static PiconData get alignCenterHorizontal {
+  static Object get alignCenterHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignCenterHorizontal;
@@ -393,7 +392,7 @@ class Picons {
   /// bold: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal-simple.svg)
   /// fill: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal-simple.svg)
   /// duotone: ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple.svg)
-  static PiconData get alignCenterHorizontalSimple {
+  static Object get alignCenterHorizontalSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignCenterHorizontalSimple;
@@ -416,7 +415,7 @@ class Picons {
   /// bold: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical.svg)
   /// fill: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical.svg)
   /// duotone: ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical.svg)
-  static PiconData get alignCenterVertical {
+  static Object get alignCenterVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignCenterVertical;
@@ -439,7 +438,7 @@ class Picons {
   /// bold: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical-simple.svg)
   /// fill: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical-simple.svg)
   /// duotone: ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple.svg)
-  static PiconData get alignCenterVerticalSimple {
+  static Object get alignCenterVerticalSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignCenterVerticalSimple;
@@ -462,7 +461,7 @@ class Picons {
   /// bold: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left.svg)
   /// fill: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left.svg)
   /// duotone: ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left.svg)
-  static PiconData get alignLeft {
+  static Object get alignLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignLeft;
@@ -485,7 +484,7 @@ class Picons {
   /// bold: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left-simple.svg)
   /// fill: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left-simple.svg)
   /// duotone: ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple.svg)
-  static PiconData get alignLeftSimple {
+  static Object get alignLeftSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignLeftSimple;
@@ -508,7 +507,7 @@ class Picons {
   /// bold: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right.svg)
   /// fill: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right.svg)
   /// duotone: ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right.svg)
-  static PiconData get alignRight {
+  static Object get alignRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignRight;
@@ -531,7 +530,7 @@ class Picons {
   /// bold: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right-simple.svg)
   /// fill: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right-simple.svg)
   /// duotone: ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple.svg)
-  static PiconData get alignRightSimple {
+  static Object get alignRightSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignRightSimple;
@@ -554,7 +553,7 @@ class Picons {
   /// bold: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top.svg)
   /// fill: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top.svg)
   /// duotone: ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top.svg)
-  static PiconData get alignTop {
+  static Object get alignTop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignTop;
@@ -577,7 +576,7 @@ class Picons {
   /// bold: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top-simple.svg)
   /// fill: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top-simple.svg)
   /// duotone: ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple.svg)
-  static PiconData get alignTopSimple {
+  static Object get alignTopSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.alignTopSimple;
@@ -600,7 +599,7 @@ class Picons {
   /// bold: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/amazon-logo.svg)
   /// fill: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/amazon-logo.svg)
   /// duotone: ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo.svg)
-  static PiconData get amazonLogo {
+  static Object get amazonLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.amazonLogo;
@@ -623,7 +622,7 @@ class Picons {
   /// bold: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ambulance.svg)
   /// fill: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ambulance.svg)
   /// duotone: ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance.svg)
-  static PiconData get ambulance {
+  static Object get ambulance {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ambulance;
@@ -646,7 +645,7 @@ class Picons {
   /// bold: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor.svg)
   /// fill: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor.svg)
   /// duotone: ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor.svg)
-  static PiconData get anchor {
+  static Object get anchor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.anchor;
@@ -669,7 +668,7 @@ class Picons {
   /// bold: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor-simple.svg)
   /// fill: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor-simple.svg)
   /// duotone: ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple.svg)
-  static PiconData get anchorSimple {
+  static Object get anchorSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.anchorSimple;
@@ -692,7 +691,7 @@ class Picons {
   /// bold: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/android-logo.svg)
   /// fill: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/android-logo.svg)
   /// duotone: ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo.svg)
-  static PiconData get androidLogo {
+  static Object get androidLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.androidLogo;
@@ -715,7 +714,7 @@ class Picons {
   /// bold: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angle.svg)
   /// fill: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angle.svg)
   /// duotone: ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle.svg)
-  static PiconData get angle {
+  static Object get angle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.angle;
@@ -738,7 +737,7 @@ class Picons {
   /// bold: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angular-logo.svg)
   /// fill: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angular-logo.svg)
   /// duotone: ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo.svg)
-  static PiconData get angularLogo {
+  static Object get angularLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.angularLogo;
@@ -761,7 +760,7 @@ class Picons {
   /// bold: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/aperture.svg)
   /// fill: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/aperture.svg)
   /// duotone: ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture.svg)
-  static PiconData get aperture {
+  static Object get aperture {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.aperture;
@@ -784,7 +783,7 @@ class Picons {
   /// bold: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-store-logo.svg)
   /// fill: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-store-logo.svg)
   /// duotone: ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo.svg)
-  static PiconData get appStoreLogo {
+  static Object get appStoreLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.appStoreLogo;
@@ -807,7 +806,7 @@ class Picons {
   /// bold: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-window.svg)
   /// fill: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-window.svg)
   /// duotone: ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window.svg)
-  static PiconData get appWindow {
+  static Object get appWindow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.appWindow;
@@ -830,7 +829,7 @@ class Picons {
   /// bold: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-logo.svg)
   /// fill: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-logo.svg)
   /// duotone: ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo.svg)
-  static PiconData get appleLogo {
+  static Object get appleLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.appleLogo;
@@ -853,7 +852,7 @@ class Picons {
   /// bold: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-podcasts-logo.svg)
   /// fill: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-podcasts-logo.svg)
   /// duotone: ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo.svg)
-  static PiconData get applePodcastsLogo {
+  static Object get applePodcastsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.applePodcastsLogo;
@@ -876,7 +875,7 @@ class Picons {
   /// bold: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/approximate-equals.svg)
   /// fill: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/approximate-equals.svg)
   /// duotone: ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals.svg)
-  static PiconData get approximateEquals {
+  static Object get approximateEquals {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.approximateEquals;
@@ -899,7 +898,7 @@ class Picons {
   /// bold: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive.svg)
   /// fill: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/archive.svg)
   /// duotone: ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive.svg)
-  static PiconData get archive {
+  static Object get archive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.archive;
@@ -922,7 +921,7 @@ class Picons {
   /// bold: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/armchair.svg)
   /// fill: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/armchair.svg)
   /// duotone: ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair.svg)
-  static PiconData get armchair {
+  static Object get armchair {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.armchair;
@@ -945,7 +944,7 @@ class Picons {
   /// bold: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-left.svg)
   /// fill: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-left.svg)
   /// duotone: ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left.svg)
-  static PiconData get arrowArcLeft {
+  static Object get arrowArcLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowArcLeft;
@@ -968,7 +967,7 @@ class Picons {
   /// bold: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-right.svg)
   /// fill: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-right.svg)
   /// duotone: ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right.svg)
-  static PiconData get arrowArcRight {
+  static Object get arrowArcRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowArcRight;
@@ -991,7 +990,7 @@ class Picons {
   /// bold: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-left.svg)
   /// fill: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-left.svg)
   /// duotone: ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left.svg)
-  static PiconData get arrowBendDoubleUpLeft {
+  static Object get arrowBendDoubleUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendDoubleUpLeft;
@@ -1014,7 +1013,7 @@ class Picons {
   /// bold: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-right.svg)
   /// fill: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-right.svg)
   /// duotone: ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right.svg)
-  static PiconData get arrowBendDoubleUpRight {
+  static Object get arrowBendDoubleUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendDoubleUpRight;
@@ -1037,7 +1036,7 @@ class Picons {
   /// bold: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-left.svg)
   /// fill: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-left.svg)
   /// duotone: ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left.svg)
-  static PiconData get arrowBendDownLeft {
+  static Object get arrowBendDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendDownLeft;
@@ -1060,7 +1059,7 @@ class Picons {
   /// bold: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-right.svg)
   /// fill: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-right.svg)
   /// duotone: ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right.svg)
-  static PiconData get arrowBendDownRight {
+  static Object get arrowBendDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendDownRight;
@@ -1083,7 +1082,7 @@ class Picons {
   /// bold: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-down.svg)
   /// fill: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-down.svg)
   /// duotone: ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down.svg)
-  static PiconData get arrowBendLeftDown {
+  static Object get arrowBendLeftDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendLeftDown;
@@ -1106,7 +1105,7 @@ class Picons {
   /// bold: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-up.svg)
   /// fill: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-up.svg)
   /// duotone: ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up.svg)
-  static PiconData get arrowBendLeftUp {
+  static Object get arrowBendLeftUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendLeftUp;
@@ -1129,7 +1128,7 @@ class Picons {
   /// bold: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-down.svg)
   /// fill: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-down.svg)
   /// duotone: ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down.svg)
-  static PiconData get arrowBendRightDown {
+  static Object get arrowBendRightDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendRightDown;
@@ -1152,7 +1151,7 @@ class Picons {
   /// bold: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-up.svg)
   /// fill: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-up.svg)
   /// duotone: ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up.svg)
-  static PiconData get arrowBendRightUp {
+  static Object get arrowBendRightUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendRightUp;
@@ -1175,7 +1174,7 @@ class Picons {
   /// bold: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-left.svg)
   /// fill: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-left.svg)
   /// duotone: ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left.svg)
-  static PiconData get arrowBendUpLeft {
+  static Object get arrowBendUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendUpLeft;
@@ -1198,7 +1197,7 @@ class Picons {
   /// bold: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-right.svg)
   /// fill: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-right.svg)
   /// duotone: ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right.svg)
-  static PiconData get arrowBendUpRight {
+  static Object get arrowBendUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowBendUpRight;
@@ -1221,7 +1220,7 @@ class Picons {
   /// bold: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down.svg)
   /// fill: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down.svg)
   /// duotone: ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down.svg)
-  static PiconData get arrowCircleDown {
+  static Object get arrowCircleDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleDown;
@@ -1244,7 +1243,7 @@ class Picons {
   /// bold: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-left.svg)
   /// fill: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-left.svg)
   /// duotone: ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left.svg)
-  static PiconData get arrowCircleDownLeft {
+  static Object get arrowCircleDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleDownLeft;
@@ -1267,7 +1266,7 @@ class Picons {
   /// bold: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-right.svg)
   /// fill: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-right.svg)
   /// duotone: ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right.svg)
-  static PiconData get arrowCircleDownRight {
+  static Object get arrowCircleDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleDownRight;
@@ -1290,7 +1289,7 @@ class Picons {
   /// bold: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-left.svg)
   /// fill: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-left.svg)
   /// duotone: ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left.svg)
-  static PiconData get arrowCircleLeft {
+  static Object get arrowCircleLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleLeft;
@@ -1313,7 +1312,7 @@ class Picons {
   /// bold: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-right.svg)
   /// fill: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-right.svg)
   /// duotone: ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right.svg)
-  static PiconData get arrowCircleRight {
+  static Object get arrowCircleRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleRight;
@@ -1336,7 +1335,7 @@ class Picons {
   /// bold: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up.svg)
   /// fill: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up.svg)
   /// duotone: ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up.svg)
-  static PiconData get arrowCircleUp {
+  static Object get arrowCircleUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleUp;
@@ -1359,7 +1358,7 @@ class Picons {
   /// bold: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-left.svg)
   /// fill: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-left.svg)
   /// duotone: ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left.svg)
-  static PiconData get arrowCircleUpLeft {
+  static Object get arrowCircleUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleUpLeft;
@@ -1382,7 +1381,7 @@ class Picons {
   /// bold: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-right.svg)
   /// fill: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-right.svg)
   /// duotone: ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right.svg)
-  static PiconData get arrowCircleUpRight {
+  static Object get arrowCircleUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCircleUpRight;
@@ -1405,7 +1404,7 @@ class Picons {
   /// bold: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-clockwise.svg)
   /// fill: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-clockwise.svg)
   /// duotone: ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise.svg)
-  static PiconData get arrowClockwise {
+  static Object get arrowClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowClockwise;
@@ -1428,7 +1427,7 @@ class Picons {
   /// bold: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-counter-clockwise.svg)
   /// fill: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-counter-clockwise.svg)
   /// duotone: ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise.svg)
-  static PiconData get arrowCounterClockwise {
+  static Object get arrowCounterClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowCounterClockwise;
@@ -1451,7 +1450,7 @@ class Picons {
   /// bold: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down.svg)
   /// fill: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down.svg)
   /// duotone: ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down.svg)
-  static PiconData get arrowDown {
+  static Object get arrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowDown;
@@ -1474,7 +1473,7 @@ class Picons {
   /// bold: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-left.svg)
   /// fill: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-left.svg)
   /// duotone: ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left.svg)
-  static PiconData get arrowDownLeft {
+  static Object get arrowDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowDownLeft;
@@ -1497,7 +1496,7 @@ class Picons {
   /// bold: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-right.svg)
   /// fill: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-right.svg)
   /// duotone: ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right.svg)
-  static PiconData get arrowDownRight {
+  static Object get arrowDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowDownRight;
@@ -1520,7 +1519,7 @@ class Picons {
   /// bold: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-left.svg)
   /// fill: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-left.svg)
   /// duotone: ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left.svg)
-  static PiconData get arrowElbowDownLeft {
+  static Object get arrowElbowDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowDownLeft;
@@ -1543,7 +1542,7 @@ class Picons {
   /// bold: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-right.svg)
   /// fill: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-right.svg)
   /// duotone: ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right.svg)
-  static PiconData get arrowElbowDownRight {
+  static Object get arrowElbowDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowDownRight;
@@ -1566,7 +1565,7 @@ class Picons {
   /// bold: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left.svg)
   /// fill: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left.svg)
   /// duotone: ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left.svg)
-  static PiconData get arrowElbowLeft {
+  static Object get arrowElbowLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowLeft;
@@ -1589,7 +1588,7 @@ class Picons {
   /// bold: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-down.svg)
   /// fill: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-down.svg)
   /// duotone: ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down.svg)
-  static PiconData get arrowElbowLeftDown {
+  static Object get arrowElbowLeftDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowLeftDown;
@@ -1612,7 +1611,7 @@ class Picons {
   /// bold: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-up.svg)
   /// fill: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-up.svg)
   /// duotone: ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up.svg)
-  static PiconData get arrowElbowLeftUp {
+  static Object get arrowElbowLeftUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowLeftUp;
@@ -1635,7 +1634,7 @@ class Picons {
   /// bold: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right.svg)
   /// fill: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right.svg)
   /// duotone: ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right.svg)
-  static PiconData get arrowElbowRight {
+  static Object get arrowElbowRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowRight;
@@ -1658,7 +1657,7 @@ class Picons {
   /// bold: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-down.svg)
   /// fill: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-down.svg)
   /// duotone: ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down.svg)
-  static PiconData get arrowElbowRightDown {
+  static Object get arrowElbowRightDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowRightDown;
@@ -1681,7 +1680,7 @@ class Picons {
   /// bold: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-up.svg)
   /// fill: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-up.svg)
   /// duotone: ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up.svg)
-  static PiconData get arrowElbowRightUp {
+  static Object get arrowElbowRightUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowRightUp;
@@ -1704,7 +1703,7 @@ class Picons {
   /// bold: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-left.svg)
   /// fill: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-left.svg)
   /// duotone: ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left.svg)
-  static PiconData get arrowElbowUpLeft {
+  static Object get arrowElbowUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowUpLeft;
@@ -1727,7 +1726,7 @@ class Picons {
   /// bold: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-right.svg)
   /// fill: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-right.svg)
   /// duotone: ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right.svg)
-  static PiconData get arrowElbowUpRight {
+  static Object get arrowElbowUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowElbowUpRight;
@@ -1750,7 +1749,7 @@ class Picons {
   /// bold: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-down.svg)
   /// fill: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-down.svg)
   /// duotone: ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down.svg)
-  static PiconData get arrowFatDown {
+  static Object get arrowFatDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatDown;
@@ -1773,7 +1772,7 @@ class Picons {
   /// bold: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-left.svg)
   /// fill: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-left.svg)
   /// duotone: ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left.svg)
-  static PiconData get arrowFatLeft {
+  static Object get arrowFatLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLeft;
@@ -1796,7 +1795,7 @@ class Picons {
   /// bold: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-down.svg)
   /// fill: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-down.svg)
   /// duotone: ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down.svg)
-  static PiconData get arrowFatLineDown {
+  static Object get arrowFatLineDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLineDown;
@@ -1819,7 +1818,7 @@ class Picons {
   /// bold: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-left.svg)
   /// fill: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-left.svg)
   /// duotone: ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left.svg)
-  static PiconData get arrowFatLineLeft {
+  static Object get arrowFatLineLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLineLeft;
@@ -1842,7 +1841,7 @@ class Picons {
   /// bold: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-right.svg)
   /// fill: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-right.svg)
   /// duotone: ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right.svg)
-  static PiconData get arrowFatLineRight {
+  static Object get arrowFatLineRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLineRight;
@@ -1865,7 +1864,7 @@ class Picons {
   /// bold: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-up.svg)
   /// fill: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-up.svg)
   /// duotone: ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up.svg)
-  static PiconData get arrowFatLineUp {
+  static Object get arrowFatLineUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLineUp;
@@ -1888,7 +1887,7 @@ class Picons {
   /// bold: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-down.svg)
   /// fill: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-down.svg)
   /// duotone: ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down.svg)
-  static PiconData get arrowFatLinesDown {
+  static Object get arrowFatLinesDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLinesDown;
@@ -1911,7 +1910,7 @@ class Picons {
   /// bold: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-left.svg)
   /// fill: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-left.svg)
   /// duotone: ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left.svg)
-  static PiconData get arrowFatLinesLeft {
+  static Object get arrowFatLinesLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLinesLeft;
@@ -1934,7 +1933,7 @@ class Picons {
   /// bold: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-right.svg)
   /// fill: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-right.svg)
   /// duotone: ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right.svg)
-  static PiconData get arrowFatLinesRight {
+  static Object get arrowFatLinesRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLinesRight;
@@ -1957,7 +1956,7 @@ class Picons {
   /// bold: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-up.svg)
   /// fill: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-up.svg)
   /// duotone: ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up.svg)
-  static PiconData get arrowFatLinesUp {
+  static Object get arrowFatLinesUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatLinesUp;
@@ -1980,7 +1979,7 @@ class Picons {
   /// bold: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-right.svg)
   /// fill: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-right.svg)
   /// duotone: ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right.svg)
-  static PiconData get arrowFatRight {
+  static Object get arrowFatRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatRight;
@@ -2003,7 +2002,7 @@ class Picons {
   /// bold: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-up.svg)
   /// fill: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-up.svg)
   /// duotone: ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up.svg)
-  static PiconData get arrowFatUp {
+  static Object get arrowFatUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowFatUp;
@@ -2026,7 +2025,7 @@ class Picons {
   /// bold: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-left.svg)
   /// fill: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-left.svg)
   /// duotone: ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left.svg)
-  static PiconData get arrowLeft {
+  static Object get arrowLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLeft;
@@ -2049,7 +2048,7 @@ class Picons {
   /// bold: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down.svg)
   /// fill: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down.svg)
   /// duotone: ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down.svg)
-  static PiconData get arrowLineDown {
+  static Object get arrowLineDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineDown;
@@ -2072,7 +2071,7 @@ class Picons {
   /// bold: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-left.svg)
   /// fill: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-left.svg)
   /// duotone: ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left.svg)
-  static PiconData get arrowLineDownLeft {
+  static Object get arrowLineDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineDownLeft;
@@ -2095,7 +2094,7 @@ class Picons {
   /// bold: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-right.svg)
   /// fill: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-right.svg)
   /// duotone: ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right.svg)
-  static PiconData get arrowLineDownRight {
+  static Object get arrowLineDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineDownRight;
@@ -2118,7 +2117,7 @@ class Picons {
   /// bold: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-left.svg)
   /// fill: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-left.svg)
   /// duotone: ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left.svg)
-  static PiconData get arrowLineLeft {
+  static Object get arrowLineLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineLeft;
@@ -2141,7 +2140,7 @@ class Picons {
   /// bold: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-right.svg)
   /// fill: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-right.svg)
   /// duotone: ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right.svg)
-  static PiconData get arrowLineRight {
+  static Object get arrowLineRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineRight;
@@ -2164,7 +2163,7 @@ class Picons {
   /// bold: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up.svg)
   /// fill: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up.svg)
   /// duotone: ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up.svg)
-  static PiconData get arrowLineUp {
+  static Object get arrowLineUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineUp;
@@ -2187,7 +2186,7 @@ class Picons {
   /// bold: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-left.svg)
   /// fill: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-left.svg)
   /// duotone: ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left.svg)
-  static PiconData get arrowLineUpLeft {
+  static Object get arrowLineUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineUpLeft;
@@ -2210,7 +2209,7 @@ class Picons {
   /// bold: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-right.svg)
   /// fill: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-right.svg)
   /// duotone: ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right.svg)
-  static PiconData get arrowLineUpRight {
+  static Object get arrowLineUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowLineUpRight;
@@ -2233,7 +2232,7 @@ class Picons {
   /// bold: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-right.svg)
   /// fill: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-right.svg)
   /// duotone: ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right.svg)
-  static PiconData get arrowRight {
+  static Object get arrowRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowRight;
@@ -2256,7 +2255,7 @@ class Picons {
   /// bold: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down.svg)
   /// fill: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down.svg)
   /// duotone: ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down.svg)
-  static PiconData get arrowSquareDown {
+  static Object get arrowSquareDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareDown;
@@ -2279,7 +2278,7 @@ class Picons {
   /// bold: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-left.svg)
   /// fill: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-left.svg)
   /// duotone: ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left.svg)
-  static PiconData get arrowSquareDownLeft {
+  static Object get arrowSquareDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareDownLeft;
@@ -2302,7 +2301,7 @@ class Picons {
   /// bold: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-right.svg)
   /// fill: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-right.svg)
   /// duotone: ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right.svg)
-  static PiconData get arrowSquareDownRight {
+  static Object get arrowSquareDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareDownRight;
@@ -2325,7 +2324,7 @@ class Picons {
   /// bold: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-in.svg)
   /// fill: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-in.svg)
   /// duotone: ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in.svg)
-  static PiconData get arrowSquareIn {
+  static Object get arrowSquareIn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareIn;
@@ -2348,7 +2347,7 @@ class Picons {
   /// bold: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-left.svg)
   /// fill: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-left.svg)
   /// duotone: ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left.svg)
-  static PiconData get arrowSquareLeft {
+  static Object get arrowSquareLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareLeft;
@@ -2371,7 +2370,7 @@ class Picons {
   /// bold: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-out.svg)
   /// fill: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-out.svg)
   /// duotone: ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out.svg)
-  static PiconData get arrowSquareOut {
+  static Object get arrowSquareOut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareOut;
@@ -2394,7 +2393,7 @@ class Picons {
   /// bold: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-right.svg)
   /// fill: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-right.svg)
   /// duotone: ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right.svg)
-  static PiconData get arrowSquareRight {
+  static Object get arrowSquareRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareRight;
@@ -2417,7 +2416,7 @@ class Picons {
   /// bold: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up.svg)
   /// fill: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up.svg)
   /// duotone: ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up.svg)
-  static PiconData get arrowSquareUp {
+  static Object get arrowSquareUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareUp;
@@ -2440,7 +2439,7 @@ class Picons {
   /// bold: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-left.svg)
   /// fill: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-left.svg)
   /// duotone: ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left.svg)
-  static PiconData get arrowSquareUpLeft {
+  static Object get arrowSquareUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareUpLeft;
@@ -2463,7 +2462,7 @@ class Picons {
   /// bold: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-right.svg)
   /// fill: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-right.svg)
   /// duotone: ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right.svg)
-  static PiconData get arrowSquareUpRight {
+  static Object get arrowSquareUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowSquareUpRight;
@@ -2486,7 +2485,7 @@ class Picons {
   /// bold: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-left.svg)
   /// fill: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-left.svg)
   /// duotone: ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left.svg)
-  static PiconData get arrowUDownLeft {
+  static Object get arrowUDownLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUDownLeft;
@@ -2509,7 +2508,7 @@ class Picons {
   /// bold: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-right.svg)
   /// fill: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-right.svg)
   /// duotone: ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right.svg)
-  static PiconData get arrowUDownRight {
+  static Object get arrowUDownRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUDownRight;
@@ -2532,7 +2531,7 @@ class Picons {
   /// bold: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-down.svg)
   /// fill: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-down.svg)
   /// duotone: ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down.svg)
-  static PiconData get arrowULeftDown {
+  static Object get arrowULeftDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowULeftDown;
@@ -2555,7 +2554,7 @@ class Picons {
   /// bold: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-up.svg)
   /// fill: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-up.svg)
   /// duotone: ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up.svg)
-  static PiconData get arrowULeftUp {
+  static Object get arrowULeftUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowULeftUp;
@@ -2578,7 +2577,7 @@ class Picons {
   /// bold: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-down.svg)
   /// fill: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-down.svg)
   /// duotone: ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down.svg)
-  static PiconData get arrowURightDown {
+  static Object get arrowURightDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowURightDown;
@@ -2601,7 +2600,7 @@ class Picons {
   /// bold: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-up.svg)
   /// fill: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-up.svg)
   /// duotone: ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up.svg)
-  static PiconData get arrowURightUp {
+  static Object get arrowURightUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowURightUp;
@@ -2624,7 +2623,7 @@ class Picons {
   /// bold: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-left.svg)
   /// fill: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-left.svg)
   /// duotone: ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left.svg)
-  static PiconData get arrowUUpLeft {
+  static Object get arrowUUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUUpLeft;
@@ -2647,7 +2646,7 @@ class Picons {
   /// bold: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-right.svg)
   /// fill: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-right.svg)
   /// duotone: ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right.svg)
-  static PiconData get arrowUUpRight {
+  static Object get arrowUUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUUpRight;
@@ -2670,7 +2669,7 @@ class Picons {
   /// bold: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up.svg)
   /// fill: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up.svg)
   /// duotone: ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up.svg)
-  static PiconData get arrowUp {
+  static Object get arrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUp;
@@ -2693,7 +2692,7 @@ class Picons {
   /// bold: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-left.svg)
   /// fill: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-left.svg)
   /// duotone: ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left.svg)
-  static PiconData get arrowUpLeft {
+  static Object get arrowUpLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUpLeft;
@@ -2716,7 +2715,7 @@ class Picons {
   /// bold: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-right.svg)
   /// fill: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-right.svg)
   /// duotone: ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right.svg)
-  static PiconData get arrowUpRight {
+  static Object get arrowUpRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowUpRight;
@@ -2739,7 +2738,7 @@ class Picons {
   /// bold: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-clockwise.svg)
   /// fill: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-clockwise.svg)
   /// duotone: ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise.svg)
-  static PiconData get arrowsClockwise {
+  static Object get arrowsClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsClockwise;
@@ -2762,7 +2761,7 @@ class Picons {
   /// bold: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-counter-clockwise.svg)
   /// fill: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-counter-clockwise.svg)
   /// duotone: ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise.svg)
-  static PiconData get arrowsCounterClockwise {
+  static Object get arrowsCounterClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsCounterClockwise;
@@ -2785,7 +2784,7 @@ class Picons {
   /// bold: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-down-up.svg)
   /// fill: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-down-up.svg)
   /// duotone: ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up.svg)
-  static PiconData get arrowsDownUp {
+  static Object get arrowsDownUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsDownUp;
@@ -2808,7 +2807,7 @@ class Picons {
   /// bold: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-horizontal.svg)
   /// fill: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-horizontal.svg)
   /// duotone: ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal.svg)
-  static PiconData get arrowsHorizontal {
+  static Object get arrowsHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsHorizontal;
@@ -2831,7 +2830,7 @@ class Picons {
   /// bold: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in.svg)
   /// fill: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in.svg)
   /// duotone: ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in.svg)
-  static PiconData get arrowsIn {
+  static Object get arrowsIn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsIn;
@@ -2854,7 +2853,7 @@ class Picons {
   /// bold: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-cardinal.svg)
   /// fill: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-cardinal.svg)
   /// duotone: ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal.svg)
-  static PiconData get arrowsInCardinal {
+  static Object get arrowsInCardinal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsInCardinal;
@@ -2877,7 +2876,7 @@ class Picons {
   /// bold: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-horizontal.svg)
   /// fill: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-horizontal.svg)
   /// duotone: ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal.svg)
-  static PiconData get arrowsInLineHorizontal {
+  static Object get arrowsInLineHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsInLineHorizontal;
@@ -2900,7 +2899,7 @@ class Picons {
   /// bold: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-vertical.svg)
   /// fill: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-vertical.svg)
   /// duotone: ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical.svg)
-  static PiconData get arrowsInLineVertical {
+  static Object get arrowsInLineVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsInLineVertical;
@@ -2923,7 +2922,7 @@ class Picons {
   /// bold: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-simple.svg)
   /// fill: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-simple.svg)
   /// duotone: ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple.svg)
-  static PiconData get arrowsInSimple {
+  static Object get arrowsInSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsInSimple;
@@ -2946,7 +2945,7 @@ class Picons {
   /// bold: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-left-right.svg)
   /// fill: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-left-right.svg)
   /// duotone: ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right.svg)
-  static PiconData get arrowsLeftRight {
+  static Object get arrowsLeftRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsLeftRight;
@@ -2969,7 +2968,7 @@ class Picons {
   /// bold: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-merge.svg)
   /// fill: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-merge.svg)
   /// duotone: ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge.svg)
-  static PiconData get arrowsMerge {
+  static Object get arrowsMerge {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsMerge;
@@ -2992,7 +2991,7 @@ class Picons {
   /// bold: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out.svg)
   /// fill: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out.svg)
   /// duotone: ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out.svg)
-  static PiconData get arrowsOut {
+  static Object get arrowsOut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsOut;
@@ -3015,7 +3014,7 @@ class Picons {
   /// bold: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-cardinal.svg)
   /// fill: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-cardinal.svg)
   /// duotone: ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal.svg)
-  static PiconData get arrowsOutCardinal {
+  static Object get arrowsOutCardinal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsOutCardinal;
@@ -3038,7 +3037,7 @@ class Picons {
   /// bold: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-horizontal.svg)
   /// fill: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-horizontal.svg)
   /// duotone: ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal.svg)
-  static PiconData get arrowsOutLineHorizontal {
+  static Object get arrowsOutLineHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsOutLineHorizontal;
@@ -3061,7 +3060,7 @@ class Picons {
   /// bold: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-vertical.svg)
   /// fill: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-vertical.svg)
   /// duotone: ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical.svg)
-  static PiconData get arrowsOutLineVertical {
+  static Object get arrowsOutLineVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsOutLineVertical;
@@ -3084,7 +3083,7 @@ class Picons {
   /// bold: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-simple.svg)
   /// fill: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-simple.svg)
   /// duotone: ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple.svg)
-  static PiconData get arrowsOutSimple {
+  static Object get arrowsOutSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsOutSimple;
@@ -3107,7 +3106,7 @@ class Picons {
   /// bold: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-split.svg)
   /// fill: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-split.svg)
   /// duotone: ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split.svg)
-  static PiconData get arrowsSplit {
+  static Object get arrowsSplit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsSplit;
@@ -3130,7 +3129,7 @@ class Picons {
   /// bold: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-vertical.svg)
   /// fill: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-vertical.svg)
   /// duotone: ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical.svg)
-  static PiconData get arrowsVertical {
+  static Object get arrowsVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.arrowsVertical;
@@ -3153,7 +3152,7 @@ class Picons {
   /// bold: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article.svg)
   /// fill: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article.svg)
   /// duotone: ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article.svg)
-  static PiconData get article {
+  static Object get article {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.article;
@@ -3176,7 +3175,7 @@ class Picons {
   /// bold: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-medium.svg)
   /// fill: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-medium.svg)
   /// duotone: ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium.svg)
-  static PiconData get articleMedium {
+  static Object get articleMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.articleMedium;
@@ -3199,7 +3198,7 @@ class Picons {
   /// bold: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-ny-times.svg)
   /// fill: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-ny-times.svg)
   /// duotone: ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times.svg)
-  static PiconData get articleNyTimes {
+  static Object get articleNyTimes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.articleNyTimes;
@@ -3222,7 +3221,7 @@ class Picons {
   /// bold: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asclepius.svg)
   /// fill: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asclepius.svg)
   /// duotone: ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius.svg)
-  static PiconData get asclepius {
+  static Object get asclepius {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.asclepius;
@@ -3245,7 +3244,7 @@ class Picons {
   /// bold: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk.svg)
   /// fill: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk.svg)
   /// duotone: ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk.svg)
-  static PiconData get asterisk {
+  static Object get asterisk {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.asterisk;
@@ -3268,7 +3267,7 @@ class Picons {
   /// bold: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk-simple.svg)
   /// fill: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk-simple.svg)
   /// duotone: ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple.svg)
-  static PiconData get asteriskSimple {
+  static Object get asteriskSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.asteriskSimple;
@@ -3291,7 +3290,7 @@ class Picons {
   /// bold: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/at.svg)
   /// fill: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/at.svg)
   /// duotone: ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at.svg)
-  static PiconData get at {
+  static Object get at {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.at;
@@ -3314,7 +3313,7 @@ class Picons {
   /// bold: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/atom.svg)
   /// fill: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/atom.svg)
   /// duotone: ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom.svg)
-  static PiconData get atom {
+  static Object get atom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.atom;
@@ -3337,7 +3336,7 @@ class Picons {
   /// bold: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/avocado.svg)
   /// fill: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/avocado.svg)
   /// duotone: ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado.svg)
-  static PiconData get avocado {
+  static Object get avocado {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.avocado;
@@ -3360,7 +3359,7 @@ class Picons {
   /// bold: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/axe.svg)
   /// fill: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/axe.svg)
   /// duotone: ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe.svg)
-  static PiconData get axe {
+  static Object get axe {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.axe;
@@ -3383,7 +3382,7 @@ class Picons {
   /// bold: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby.svg)
   /// fill: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby.svg)
   /// duotone: ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby.svg)
-  static PiconData get baby {
+  static Object get baby {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.baby;
@@ -3406,7 +3405,7 @@ class Picons {
   /// bold: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby-carriage.svg)
   /// fill: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby-carriage.svg)
   /// duotone: ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage.svg)
-  static PiconData get babyCarriage {
+  static Object get babyCarriage {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.babyCarriage;
@@ -3429,7 +3428,7 @@ class Picons {
   /// bold: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backpack.svg)
   /// fill: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backpack.svg)
   /// duotone: ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack.svg)
-  static PiconData get backpack {
+  static Object get backpack {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.backpack;
@@ -3452,7 +3451,7 @@ class Picons {
   /// bold: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backspace.svg)
   /// fill: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backspace.svg)
   /// duotone: ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace.svg)
-  static PiconData get backspace {
+  static Object get backspace {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.backspace;
@@ -3475,7 +3474,7 @@ class Picons {
   /// bold: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag.svg)
   /// fill: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag.svg)
   /// duotone: ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag.svg)
-  static PiconData get bag {
+  static Object get bag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bag;
@@ -3498,7 +3497,7 @@ class Picons {
   /// bold: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag-simple.svg)
   /// fill: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag-simple.svg)
   /// duotone: ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple.svg)
-  static PiconData get bagSimple {
+  static Object get bagSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bagSimple;
@@ -3521,7 +3520,7 @@ class Picons {
   /// bold: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/balloon.svg)
   /// fill: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/balloon.svg)
   /// duotone: ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon.svg)
-  static PiconData get balloon {
+  static Object get balloon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.balloon;
@@ -3544,7 +3543,7 @@ class Picons {
   /// bold: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bandaids.svg)
   /// fill: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bandaids.svg)
   /// duotone: ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids.svg)
-  static PiconData get bandaids {
+  static Object get bandaids {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bandaids;
@@ -3567,7 +3566,7 @@ class Picons {
   /// bold: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bank.svg)
   /// fill: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bank.svg)
   /// duotone: ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank.svg)
-  static PiconData get bank {
+  static Object get bank {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bank;
@@ -3590,7 +3589,7 @@ class Picons {
   /// bold: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barbell.svg)
   /// fill: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barbell.svg)
   /// duotone: ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell.svg)
-  static PiconData get barbell {
+  static Object get barbell {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.barbell;
@@ -3613,7 +3612,7 @@ class Picons {
   /// bold: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barcode.svg)
   /// fill: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barcode.svg)
   /// duotone: ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode.svg)
-  static PiconData get barcode {
+  static Object get barcode {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.barcode;
@@ -3636,7 +3635,7 @@ class Picons {
   /// bold: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barn.svg)
   /// fill: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barn.svg)
   /// duotone: ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn.svg)
-  static PiconData get barn {
+  static Object get barn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.barn;
@@ -3659,7 +3658,7 @@ class Picons {
   /// bold: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barricade.svg)
   /// fill: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barricade.svg)
   /// duotone: ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade.svg)
-  static PiconData get barricade {
+  static Object get barricade {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.barricade;
@@ -3682,7 +3681,7 @@ class Picons {
   /// bold: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball.svg)
   /// fill: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball.svg)
   /// duotone: ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball.svg)
-  static PiconData get baseball {
+  static Object get baseball {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.baseball;
@@ -3705,7 +3704,7 @@ class Picons {
   /// bold: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-cap.svg)
   /// fill: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-cap.svg)
   /// duotone: ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap.svg)
-  static PiconData get baseballCap {
+  static Object get baseballCap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.baseballCap;
@@ -3728,7 +3727,7 @@ class Picons {
   /// bold: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-helmet.svg)
   /// fill: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-helmet.svg)
   /// duotone: ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet.svg)
-  static PiconData get baseballHelmet {
+  static Object get baseballHelmet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.baseballHelmet;
@@ -3751,7 +3750,7 @@ class Picons {
   /// bold: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basket.svg)
   /// fill: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basket.svg)
   /// duotone: ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket.svg)
-  static PiconData get basket {
+  static Object get basket {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.basket;
@@ -3774,7 +3773,7 @@ class Picons {
   /// bold: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basketball.svg)
   /// fill: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basketball.svg)
   /// duotone: ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball.svg)
-  static PiconData get basketball {
+  static Object get basketball {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.basketball;
@@ -3797,7 +3796,7 @@ class Picons {
   /// bold: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bathtub.svg)
   /// fill: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bathtub.svg)
   /// duotone: ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub.svg)
-  static PiconData get bathtub {
+  static Object get bathtub {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bathtub;
@@ -3820,7 +3819,7 @@ class Picons {
   /// bold: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging.svg)
   /// fill: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging.svg)
   /// duotone: ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging.svg)
-  static PiconData get batteryCharging {
+  static Object get batteryCharging {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryCharging;
@@ -3843,7 +3842,7 @@ class Picons {
   /// bold: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging-vertical.svg)
   /// fill: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging-vertical.svg)
   /// duotone: ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical.svg)
-  static PiconData get batteryChargingVertical {
+  static Object get batteryChargingVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryChargingVertical;
@@ -3866,7 +3865,7 @@ class Picons {
   /// bold: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-empty.svg)
   /// fill: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-empty.svg)
   /// duotone: ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty.svg)
-  static PiconData get batteryEmpty {
+  static Object get batteryEmpty {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryEmpty;
@@ -3889,7 +3888,7 @@ class Picons {
   /// bold: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-full.svg)
   /// fill: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-full.svg)
   /// duotone: ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full.svg)
-  static PiconData get batteryFull {
+  static Object get batteryFull {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryFull;
@@ -3912,7 +3911,7 @@ class Picons {
   /// bold: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-high.svg)
   /// fill: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-high.svg)
   /// duotone: ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high.svg)
-  static PiconData get batteryHigh {
+  static Object get batteryHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryHigh;
@@ -3935,7 +3934,7 @@ class Picons {
   /// bold: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-low.svg)
   /// fill: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-low.svg)
   /// duotone: ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low.svg)
-  static PiconData get batteryLow {
+  static Object get batteryLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryLow;
@@ -3958,7 +3957,7 @@ class Picons {
   /// bold: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-medium.svg)
   /// fill: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-medium.svg)
   /// duotone: ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium.svg)
-  static PiconData get batteryMedium {
+  static Object get batteryMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryMedium;
@@ -3981,7 +3980,7 @@ class Picons {
   /// bold: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus.svg)
   /// fill: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus.svg)
   /// duotone: ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus.svg)
-  static PiconData get batteryPlus {
+  static Object get batteryPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryPlus;
@@ -4004,7 +4003,7 @@ class Picons {
   /// bold: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus-vertical.svg)
   /// fill: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus-vertical.svg)
   /// duotone: ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical.svg)
-  static PiconData get batteryPlusVertical {
+  static Object get batteryPlusVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryPlusVertical;
@@ -4027,7 +4026,7 @@ class Picons {
   /// bold: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-empty.svg)
   /// fill: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-empty.svg)
   /// duotone: ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty.svg)
-  static PiconData get batteryVerticalEmpty {
+  static Object get batteryVerticalEmpty {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryVerticalEmpty;
@@ -4050,7 +4049,7 @@ class Picons {
   /// bold: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-full.svg)
   /// fill: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-full.svg)
   /// duotone: ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full.svg)
-  static PiconData get batteryVerticalFull {
+  static Object get batteryVerticalFull {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryVerticalFull;
@@ -4073,7 +4072,7 @@ class Picons {
   /// bold: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-high.svg)
   /// fill: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-high.svg)
   /// duotone: ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high.svg)
-  static PiconData get batteryVerticalHigh {
+  static Object get batteryVerticalHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryVerticalHigh;
@@ -4096,7 +4095,7 @@ class Picons {
   /// bold: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-low.svg)
   /// fill: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-low.svg)
   /// duotone: ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low.svg)
-  static PiconData get batteryVerticalLow {
+  static Object get batteryVerticalLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryVerticalLow;
@@ -4119,7 +4118,7 @@ class Picons {
   /// bold: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-medium.svg)
   /// fill: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-medium.svg)
   /// duotone: ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium.svg)
-  static PiconData get batteryVerticalMedium {
+  static Object get batteryVerticalMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryVerticalMedium;
@@ -4142,7 +4141,7 @@ class Picons {
   /// bold: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning.svg)
   /// fill: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning.svg)
   /// duotone: ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning.svg)
-  static PiconData get batteryWarning {
+  static Object get batteryWarning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryWarning;
@@ -4165,7 +4164,7 @@ class Picons {
   /// bold: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning-vertical.svg)
   /// fill: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning-vertical.svg)
   /// duotone: ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical.svg)
-  static PiconData get batteryWarningVertical {
+  static Object get batteryWarningVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.batteryWarningVertical;
@@ -4188,7 +4187,7 @@ class Picons {
   /// bold: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beach-ball.svg)
   /// fill: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beach-ball.svg)
   /// duotone: ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball.svg)
-  static PiconData get beachBall {
+  static Object get beachBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.beachBall;
@@ -4211,7 +4210,7 @@ class Picons {
   /// bold: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beanie.svg)
   /// fill: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beanie.svg)
   /// duotone: ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie.svg)
-  static PiconData get beanie {
+  static Object get beanie {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.beanie;
@@ -4234,7 +4233,7 @@ class Picons {
   /// bold: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bed.svg)
   /// fill: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bed.svg)
   /// duotone: ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed.svg)
-  static PiconData get bed {
+  static Object get bed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bed;
@@ -4257,7 +4256,7 @@ class Picons {
   /// bold: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-bottle.svg)
   /// fill: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-bottle.svg)
   /// duotone: ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle.svg)
-  static PiconData get beerBottle {
+  static Object get beerBottle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.beerBottle;
@@ -4280,7 +4279,7 @@ class Picons {
   /// bold: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-stein.svg)
   /// fill: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-stein.svg)
   /// duotone: ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein.svg)
-  static PiconData get beerStein {
+  static Object get beerStein {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.beerStein;
@@ -4303,7 +4302,7 @@ class Picons {
   /// bold: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/behance-logo.svg)
   /// fill: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/behance-logo.svg)
   /// duotone: ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo.svg)
-  static PiconData get behanceLogo {
+  static Object get behanceLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.behanceLogo;
@@ -4326,7 +4325,7 @@ class Picons {
   /// bold: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell.svg)
   /// fill: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell.svg)
   /// duotone: ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell.svg)
-  static PiconData get bell {
+  static Object get bell {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bell;
@@ -4349,7 +4348,7 @@ class Picons {
   /// bold: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-ringing.svg)
   /// fill: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-ringing.svg)
   /// duotone: ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing.svg)
-  static PiconData get bellRinging {
+  static Object get bellRinging {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellRinging;
@@ -4372,7 +4371,7 @@ class Picons {
   /// bold: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple.svg)
   /// fill: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple.svg)
   /// duotone: ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple.svg)
-  static PiconData get bellSimple {
+  static Object get bellSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellSimple;
@@ -4395,7 +4394,7 @@ class Picons {
   /// bold: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-ringing.svg)
   /// fill: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-ringing.svg)
   /// duotone: ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing.svg)
-  static PiconData get bellSimpleRinging {
+  static Object get bellSimpleRinging {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellSimpleRinging;
@@ -4418,7 +4417,7 @@ class Picons {
   /// bold: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-slash.svg)
   /// fill: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-slash.svg)
   /// duotone: ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash.svg)
-  static PiconData get bellSimpleSlash {
+  static Object get bellSimpleSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellSimpleSlash;
@@ -4441,7 +4440,7 @@ class Picons {
   /// bold: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-z.svg)
   /// fill: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-z.svg)
   /// duotone: ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z.svg)
-  static PiconData get bellSimpleZ {
+  static Object get bellSimpleZ {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellSimpleZ;
@@ -4464,7 +4463,7 @@ class Picons {
   /// bold: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-slash.svg)
   /// fill: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-slash.svg)
   /// duotone: ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash.svg)
-  static PiconData get bellSlash {
+  static Object get bellSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellSlash;
@@ -4487,7 +4486,7 @@ class Picons {
   /// bold: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-z.svg)
   /// fill: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-z.svg)
   /// duotone: ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z.svg)
-  static PiconData get bellZ {
+  static Object get bellZ {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bellZ;
@@ -4510,7 +4509,7 @@ class Picons {
   /// bold: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/belt.svg)
   /// fill: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/belt.svg)
   /// duotone: ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt.svg)
-  static PiconData get belt {
+  static Object get belt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.belt;
@@ -4533,7 +4532,7 @@ class Picons {
   /// bold: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bezier-curve.svg)
   /// fill: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bezier-curve.svg)
   /// duotone: ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve.svg)
-  static PiconData get bezierCurve {
+  static Object get bezierCurve {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bezierCurve;
@@ -4556,7 +4555,7 @@ class Picons {
   /// bold: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bicycle.svg)
   /// fill: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bicycle.svg)
   /// duotone: ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle.svg)
-  static PiconData get bicycle {
+  static Object get bicycle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bicycle;
@@ -4579,7 +4578,7 @@ class Picons {
   /// bold: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binary.svg)
   /// fill: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binary.svg)
   /// duotone: ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary.svg)
-  static PiconData get binary {
+  static Object get binary {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.binary;
@@ -4602,7 +4601,7 @@ class Picons {
   /// bold: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binoculars.svg)
   /// fill: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binoculars.svg)
   /// duotone: ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars.svg)
-  static PiconData get binoculars {
+  static Object get binoculars {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.binoculars;
@@ -4625,7 +4624,7 @@ class Picons {
   /// bold: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/biohazard.svg)
   /// fill: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/biohazard.svg)
   /// duotone: ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard.svg)
-  static PiconData get biohazard {
+  static Object get biohazard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.biohazard;
@@ -4648,7 +4647,7 @@ class Picons {
   /// bold: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bird.svg)
   /// fill: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bird.svg)
   /// duotone: ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird.svg)
-  static PiconData get bird {
+  static Object get bird {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bird;
@@ -4671,7 +4670,7 @@ class Picons {
   /// bold: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/blueprint.svg)
   /// fill: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/blueprint.svg)
   /// duotone: ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint.svg)
-  static PiconData get blueprint {
+  static Object get blueprint {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.blueprint;
@@ -4694,7 +4693,7 @@ class Picons {
   /// bold: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth.svg)
   /// fill: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth.svg)
   /// duotone: ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth.svg)
-  static PiconData get bluetooth {
+  static Object get bluetooth {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bluetooth;
@@ -4717,7 +4716,7 @@ class Picons {
   /// bold: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-connected.svg)
   /// fill: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-connected.svg)
   /// duotone: ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected.svg)
-  static PiconData get bluetoothConnected {
+  static Object get bluetoothConnected {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bluetoothConnected;
@@ -4740,7 +4739,7 @@ class Picons {
   /// bold: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-slash.svg)
   /// fill: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-slash.svg)
   /// duotone: ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash.svg)
-  static PiconData get bluetoothSlash {
+  static Object get bluetoothSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bluetoothSlash;
@@ -4763,7 +4762,7 @@ class Picons {
   /// bold: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-x.svg)
   /// fill: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-x.svg)
   /// duotone: ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x.svg)
-  static PiconData get bluetoothX {
+  static Object get bluetoothX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bluetoothX;
@@ -4786,7 +4785,7 @@ class Picons {
   /// bold: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boat.svg)
   /// fill: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boat.svg)
   /// duotone: ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat.svg)
-  static PiconData get boat {
+  static Object get boat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boat;
@@ -4809,7 +4808,7 @@ class Picons {
   /// bold: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bomb.svg)
   /// fill: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bomb.svg)
   /// duotone: ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb.svg)
-  static PiconData get bomb {
+  static Object get bomb {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bomb;
@@ -4832,7 +4831,7 @@ class Picons {
   /// bold: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bone.svg)
   /// fill: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bone.svg)
   /// duotone: ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone.svg)
-  static PiconData get bone {
+  static Object get bone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bone;
@@ -4855,7 +4854,7 @@ class Picons {
   /// bold: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book.svg)
   /// fill: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book.svg)
   /// duotone: ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book.svg)
-  static PiconData get book {
+  static Object get book {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.book;
@@ -4878,7 +4877,7 @@ class Picons {
   /// bold: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-bookmark.svg)
   /// fill: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-bookmark.svg)
   /// duotone: ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark.svg)
-  static PiconData get bookBookmark {
+  static Object get bookBookmark {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookBookmark;
@@ -4901,7 +4900,7 @@ class Picons {
   /// bold: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open.svg)
   /// fill: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open.svg)
   /// duotone: ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open.svg)
-  static PiconData get bookOpen {
+  static Object get bookOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookOpen;
@@ -4924,7 +4923,7 @@ class Picons {
   /// bold: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-text.svg)
   /// fill: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-text.svg)
   /// duotone: ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text.svg)
-  static PiconData get bookOpenText {
+  static Object get bookOpenText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookOpenText;
@@ -4947,7 +4946,7 @@ class Picons {
   /// bold: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-user.svg)
   /// fill: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-user.svg)
   /// duotone: ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user.svg)
-  static PiconData get bookOpenUser {
+  static Object get bookOpenUser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookOpenUser;
@@ -4970,7 +4969,7 @@ class Picons {
   /// bold: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark.svg)
   /// fill: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark.svg)
   /// duotone: ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark.svg)
-  static PiconData get bookmark {
+  static Object get bookmark {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookmark;
@@ -4993,7 +4992,7 @@ class Picons {
   /// bold: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark-simple.svg)
   /// fill: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark-simple.svg)
   /// duotone: ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple.svg)
-  static PiconData get bookmarkSimple {
+  static Object get bookmarkSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookmarkSimple;
@@ -5016,7 +5015,7 @@ class Picons {
   /// bold: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks.svg)
   /// fill: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks.svg)
   /// duotone: ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks.svg)
-  static PiconData get bookmarks {
+  static Object get bookmarks {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookmarks;
@@ -5039,7 +5038,7 @@ class Picons {
   /// bold: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks-simple.svg)
   /// fill: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks-simple.svg)
   /// duotone: ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple.svg)
-  static PiconData get bookmarksSimple {
+  static Object get bookmarksSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bookmarksSimple;
@@ -5062,7 +5061,7 @@ class Picons {
   /// bold: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/books.svg)
   /// fill: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/books.svg)
   /// duotone: ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books.svg)
-  static PiconData get books {
+  static Object get books {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.books;
@@ -5085,7 +5084,7 @@ class Picons {
   /// bold: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boot.svg)
   /// fill: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boot.svg)
   /// duotone: ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot.svg)
-  static PiconData get boot {
+  static Object get boot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boot;
@@ -5108,7 +5107,7 @@ class Picons {
   /// bold: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boules.svg)
   /// fill: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boules.svg)
   /// duotone: ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules.svg)
-  static PiconData get boules {
+  static Object get boules {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boules;
@@ -5131,7 +5130,7 @@ class Picons {
   /// bold: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bounding-box.svg)
   /// fill: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bounding-box.svg)
   /// duotone: ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box.svg)
-  static PiconData get boundingBox {
+  static Object get boundingBox {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boundingBox;
@@ -5154,7 +5153,7 @@ class Picons {
   /// bold: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-food.svg)
   /// fill: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-food.svg)
   /// duotone: ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food.svg)
-  static PiconData get bowlFood {
+  static Object get bowlFood {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bowlFood;
@@ -5177,7 +5176,7 @@ class Picons {
   /// bold: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-steam.svg)
   /// fill: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-steam.svg)
   /// duotone: ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam.svg)
-  static PiconData get bowlSteam {
+  static Object get bowlSteam {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bowlSteam;
@@ -5200,7 +5199,7 @@ class Picons {
   /// bold: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowling-ball.svg)
   /// fill: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowling-ball.svg)
   /// duotone: ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball.svg)
-  static PiconData get bowlingBall {
+  static Object get bowlingBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bowlingBall;
@@ -5223,7 +5222,7 @@ class Picons {
   /// bold: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-down.svg)
   /// fill: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-down.svg)
   /// duotone: ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down.svg)
-  static PiconData get boxArrowDown {
+  static Object get boxArrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boxArrowDown;
@@ -5246,7 +5245,7 @@ class Picons {
   /// bold: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-up.svg)
   /// fill: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-up.svg)
   /// duotone: ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up.svg)
-  static PiconData get boxArrowUp {
+  static Object get boxArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boxArrowUp;
@@ -5269,7 +5268,7 @@ class Picons {
   /// bold: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boxing-glove.svg)
   /// fill: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boxing-glove.svg)
   /// duotone: ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove.svg)
-  static PiconData get boxingGlove {
+  static Object get boxingGlove {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.boxingGlove;
@@ -5292,7 +5291,7 @@ class Picons {
   /// bold: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-angle.svg)
   /// fill: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-angle.svg)
   /// duotone: ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle.svg)
-  static PiconData get bracketsAngle {
+  static Object get bracketsAngle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bracketsAngle;
@@ -5315,7 +5314,7 @@ class Picons {
   /// bold: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-curly.svg)
   /// fill: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-curly.svg)
   /// duotone: ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly.svg)
-  static PiconData get bracketsCurly {
+  static Object get bracketsCurly {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bracketsCurly;
@@ -5338,7 +5337,7 @@ class Picons {
   /// bold: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-round.svg)
   /// fill: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-round.svg)
   /// duotone: ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round.svg)
-  static PiconData get bracketsRound {
+  static Object get bracketsRound {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bracketsRound;
@@ -5361,7 +5360,7 @@ class Picons {
   /// bold: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-square.svg)
   /// fill: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-square.svg)
   /// duotone: ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square.svg)
-  static PiconData get bracketsSquare {
+  static Object get bracketsSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bracketsSquare;
@@ -5384,7 +5383,7 @@ class Picons {
   /// bold: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brain.svg)
   /// fill: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brain.svg)
   /// duotone: ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain.svg)
-  static PiconData get brain {
+  static Object get brain {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.brain;
@@ -5407,7 +5406,7 @@ class Picons {
   /// bold: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brandy.svg)
   /// fill: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brandy.svg)
   /// duotone: ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy.svg)
-  static PiconData get brandy {
+  static Object get brandy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.brandy;
@@ -5430,7 +5429,7 @@ class Picons {
   /// bold: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bread.svg)
   /// fill: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bread.svg)
   /// duotone: ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread.svg)
-  static PiconData get bread {
+  static Object get bread {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bread;
@@ -5453,7 +5452,7 @@ class Picons {
   /// bold: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bridge.svg)
   /// fill: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bridge.svg)
   /// duotone: ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge.svg)
-  static PiconData get bridge {
+  static Object get bridge {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bridge;
@@ -5476,7 +5475,7 @@ class Picons {
   /// bold: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase.svg)
   /// fill: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase.svg)
   /// duotone: ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase.svg)
-  static PiconData get briefcase {
+  static Object get briefcase {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.briefcase;
@@ -5499,7 +5498,7 @@ class Picons {
   /// bold: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase-metal.svg)
   /// fill: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase-metal.svg)
   /// duotone: ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal.svg)
-  static PiconData get briefcaseMetal {
+  static Object get briefcaseMetal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.briefcaseMetal;
@@ -5522,7 +5521,7 @@ class Picons {
   /// bold: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broadcast.svg)
   /// fill: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broadcast.svg)
   /// duotone: ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast.svg)
-  static PiconData get broadcast {
+  static Object get broadcast {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.broadcast;
@@ -5545,7 +5544,7 @@ class Picons {
   /// bold: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broom.svg)
   /// fill: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broom.svg)
   /// duotone: ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom.svg)
-  static PiconData get broom {
+  static Object get broom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.broom;
@@ -5568,7 +5567,7 @@ class Picons {
   /// bold: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browser.svg)
   /// fill: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browser.svg)
   /// duotone: ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser.svg)
-  static PiconData get browser {
+  static Object get browser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.browser;
@@ -5591,7 +5590,7 @@ class Picons {
   /// bold: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browsers.svg)
   /// fill: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browsers.svg)
   /// duotone: ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers.svg)
-  static PiconData get browsers {
+  static Object get browsers {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.browsers;
@@ -5614,7 +5613,7 @@ class Picons {
   /// bold: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug.svg)
   /// fill: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug.svg)
   /// duotone: ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug.svg)
-  static PiconData get bug {
+  static Object get bug {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bug;
@@ -5637,7 +5636,7 @@ class Picons {
   /// bold: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-beetle.svg)
   /// fill: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-beetle.svg)
   /// duotone: ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle.svg)
-  static PiconData get bugBeetle {
+  static Object get bugBeetle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bugBeetle;
@@ -5660,7 +5659,7 @@ class Picons {
   /// bold: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-droid.svg)
   /// fill: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-droid.svg)
   /// duotone: ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid.svg)
-  static PiconData get bugDroid {
+  static Object get bugDroid {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bugDroid;
@@ -5683,7 +5682,7 @@ class Picons {
   /// bold: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building.svg)
   /// fill: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building.svg)
   /// duotone: ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building.svg)
-  static PiconData get building {
+  static Object get building {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.building;
@@ -5706,7 +5705,7 @@ class Picons {
   /// bold: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-apartment.svg)
   /// fill: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-apartment.svg)
   /// duotone: ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment.svg)
-  static PiconData get buildingApartment {
+  static Object get buildingApartment {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.buildingApartment;
@@ -5729,7 +5728,7 @@ class Picons {
   /// bold: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-office.svg)
   /// fill: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-office.svg)
   /// duotone: ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office.svg)
-  static PiconData get buildingOffice {
+  static Object get buildingOffice {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.buildingOffice;
@@ -5752,7 +5751,7 @@ class Picons {
   /// bold: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/buildings.svg)
   /// fill: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/buildings.svg)
   /// duotone: ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings.svg)
-  static PiconData get buildings {
+  static Object get buildings {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.buildings;
@@ -5775,7 +5774,7 @@ class Picons {
   /// bold: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bulldozer.svg)
   /// fill: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bulldozer.svg)
   /// duotone: ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer.svg)
-  static PiconData get bulldozer {
+  static Object get bulldozer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bulldozer;
@@ -5798,7 +5797,7 @@ class Picons {
   /// bold: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bus.svg)
   /// fill: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bus.svg)
   /// duotone: ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus.svg)
-  static PiconData get bus {
+  static Object get bus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.bus;
@@ -5821,7 +5820,7 @@ class Picons {
   /// bold: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/butterfly.svg)
   /// fill: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/butterfly.svg)
   /// duotone: ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly.svg)
-  static PiconData get butterfly {
+  static Object get butterfly {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.butterfly;
@@ -5844,7 +5843,7 @@ class Picons {
   /// bold: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cable-car.svg)
   /// fill: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cable-car.svg)
   /// duotone: ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car.svg)
-  static PiconData get cableCar {
+  static Object get cableCar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cableCar;
@@ -5867,7 +5866,7 @@ class Picons {
   /// bold: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cactus.svg)
   /// fill: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cactus.svg)
   /// duotone: ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus.svg)
-  static PiconData get cactus {
+  static Object get cactus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cactus;
@@ -5890,7 +5889,7 @@ class Picons {
   /// bold: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cake.svg)
   /// fill: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cake.svg)
   /// duotone: ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake.svg)
-  static PiconData get cake {
+  static Object get cake {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cake;
@@ -5913,7 +5912,7 @@ class Picons {
   /// bold: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calculator.svg)
   /// fill: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calculator.svg)
   /// duotone: ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator.svg)
-  static PiconData get calculator {
+  static Object get calculator {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calculator;
@@ -5936,7 +5935,7 @@ class Picons {
   /// bold: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar.svg)
   /// fill: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar.svg)
   /// duotone: ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar.svg)
-  static PiconData get calendar {
+  static Object get calendar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendar;
@@ -5959,7 +5958,7 @@ class Picons {
   /// bold: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-blank.svg)
   /// fill: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-blank.svg)
   /// duotone: ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank.svg)
-  static PiconData get calendarBlank {
+  static Object get calendarBlank {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarBlank;
@@ -5982,7 +5981,7 @@ class Picons {
   /// bold: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-check.svg)
   /// fill: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-check.svg)
   /// duotone: ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check.svg)
-  static PiconData get calendarCheck {
+  static Object get calendarCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarCheck;
@@ -6005,7 +6004,7 @@ class Picons {
   /// bold: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dot.svg)
   /// fill: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dot.svg)
   /// duotone: ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot.svg)
-  static PiconData get calendarDot {
+  static Object get calendarDot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarDot;
@@ -6028,7 +6027,7 @@ class Picons {
   /// bold: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dots.svg)
   /// fill: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dots.svg)
   /// duotone: ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots.svg)
-  static PiconData get calendarDots {
+  static Object get calendarDots {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarDots;
@@ -6051,7 +6050,7 @@ class Picons {
   /// bold: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-heart.svg)
   /// fill: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-heart.svg)
   /// duotone: ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart.svg)
-  static PiconData get calendarHeart {
+  static Object get calendarHeart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarHeart;
@@ -6074,7 +6073,7 @@ class Picons {
   /// bold: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-minus.svg)
   /// fill: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-minus.svg)
   /// duotone: ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus.svg)
-  static PiconData get calendarMinus {
+  static Object get calendarMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarMinus;
@@ -6097,7 +6096,7 @@ class Picons {
   /// bold: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-plus.svg)
   /// fill: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-plus.svg)
   /// duotone: ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus.svg)
-  static PiconData get calendarPlus {
+  static Object get calendarPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarPlus;
@@ -6120,7 +6119,7 @@ class Picons {
   /// bold: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-slash.svg)
   /// fill: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-slash.svg)
   /// duotone: ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash.svg)
-  static PiconData get calendarSlash {
+  static Object get calendarSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarSlash;
@@ -6143,7 +6142,7 @@ class Picons {
   /// bold: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-star.svg)
   /// fill: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-star.svg)
   /// duotone: ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star.svg)
-  static PiconData get calendarStar {
+  static Object get calendarStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarStar;
@@ -6166,7 +6165,7 @@ class Picons {
   /// bold: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-x.svg)
   /// fill: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-x.svg)
   /// duotone: ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x.svg)
-  static PiconData get calendarX {
+  static Object get calendarX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.calendarX;
@@ -6189,7 +6188,7 @@ class Picons {
   /// bold: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/call-bell.svg)
   /// fill: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/call-bell.svg)
   /// duotone: ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell.svg)
-  static PiconData get callBell {
+  static Object get callBell {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.callBell;
@@ -6212,7 +6211,7 @@ class Picons {
   /// bold: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera.svg)
   /// fill: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera.svg)
   /// duotone: ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera.svg)
-  static PiconData get camera {
+  static Object get camera {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.camera;
@@ -6235,7 +6234,7 @@ class Picons {
   /// bold: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-plus.svg)
   /// fill: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-plus.svg)
   /// duotone: ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus.svg)
-  static PiconData get cameraPlus {
+  static Object get cameraPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cameraPlus;
@@ -6258,7 +6257,7 @@ class Picons {
   /// bold: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-rotate.svg)
   /// fill: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-rotate.svg)
   /// duotone: ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate.svg)
-  static PiconData get cameraRotate {
+  static Object get cameraRotate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cameraRotate;
@@ -6281,7 +6280,7 @@ class Picons {
   /// bold: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-slash.svg)
   /// fill: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-slash.svg)
   /// duotone: ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash.svg)
-  static PiconData get cameraSlash {
+  static Object get cameraSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cameraSlash;
@@ -6304,7 +6303,7 @@ class Picons {
   /// bold: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/campfire.svg)
   /// fill: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/campfire.svg)
   /// duotone: ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire.svg)
-  static PiconData get campfire {
+  static Object get campfire {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.campfire;
@@ -6327,7 +6326,7 @@ class Picons {
   /// bold: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car.svg)
   /// fill: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car.svg)
   /// duotone: ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car.svg)
-  static PiconData get car {
+  static Object get car {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.car;
@@ -6350,7 +6349,7 @@ class Picons {
   /// bold: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-battery.svg)
   /// fill: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-battery.svg)
   /// duotone: ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery.svg)
-  static PiconData get carBattery {
+  static Object get carBattery {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.carBattery;
@@ -6373,7 +6372,7 @@ class Picons {
   /// bold: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-profile.svg)
   /// fill: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-profile.svg)
   /// duotone: ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile.svg)
-  static PiconData get carProfile {
+  static Object get carProfile {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.carProfile;
@@ -6396,7 +6395,7 @@ class Picons {
   /// bold: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-simple.svg)
   /// fill: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-simple.svg)
   /// duotone: ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple.svg)
-  static PiconData get carSimple {
+  static Object get carSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.carSimple;
@@ -6419,7 +6418,7 @@ class Picons {
   /// bold: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cardholder.svg)
   /// fill: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cardholder.svg)
   /// duotone: ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder.svg)
-  static PiconData get cardholder {
+  static Object get cardholder {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cardholder;
@@ -6442,7 +6441,7 @@ class Picons {
   /// bold: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards.svg)
   /// fill: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards.svg)
   /// duotone: ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards.svg)
-  static PiconData get cards {
+  static Object get cards {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cards;
@@ -6465,7 +6464,7 @@ class Picons {
   /// bold: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards-three.svg)
   /// fill: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards-three.svg)
   /// duotone: ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three.svg)
-  static PiconData get cardsThree {
+  static Object get cardsThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cardsThree;
@@ -6488,7 +6487,7 @@ class Picons {
   /// bold: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-down.svg)
   /// fill: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-down.svg)
   /// duotone: ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down.svg)
-  static PiconData get caretCircleDoubleDown {
+  static Object get caretCircleDoubleDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleDoubleDown;
@@ -6511,7 +6510,7 @@ class Picons {
   /// bold: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-left.svg)
   /// fill: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-left.svg)
   /// duotone: ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left.svg)
-  static PiconData get caretCircleDoubleLeft {
+  static Object get caretCircleDoubleLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleDoubleLeft;
@@ -6534,7 +6533,7 @@ class Picons {
   /// bold: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-right.svg)
   /// fill: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-right.svg)
   /// duotone: ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right.svg)
-  static PiconData get caretCircleDoubleRight {
+  static Object get caretCircleDoubleRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleDoubleRight;
@@ -6557,7 +6556,7 @@ class Picons {
   /// bold: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-up.svg)
   /// fill: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-up.svg)
   /// duotone: ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up.svg)
-  static PiconData get caretCircleDoubleUp {
+  static Object get caretCircleDoubleUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleDoubleUp;
@@ -6580,7 +6579,7 @@ class Picons {
   /// bold: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-down.svg)
   /// fill: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-down.svg)
   /// duotone: ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down.svg)
-  static PiconData get caretCircleDown {
+  static Object get caretCircleDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleDown;
@@ -6603,7 +6602,7 @@ class Picons {
   /// bold: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-left.svg)
   /// fill: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-left.svg)
   /// duotone: ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left.svg)
-  static PiconData get caretCircleLeft {
+  static Object get caretCircleLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleLeft;
@@ -6626,7 +6625,7 @@ class Picons {
   /// bold: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-right.svg)
   /// fill: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-right.svg)
   /// duotone: ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right.svg)
-  static PiconData get caretCircleRight {
+  static Object get caretCircleRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleRight;
@@ -6649,7 +6648,7 @@ class Picons {
   /// bold: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up.svg)
   /// fill: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up.svg)
   /// duotone: ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up.svg)
-  static PiconData get caretCircleUp {
+  static Object get caretCircleUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleUp;
@@ -6672,7 +6671,7 @@ class Picons {
   /// bold: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up-down.svg)
   /// fill: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up-down.svg)
   /// duotone: ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down.svg)
-  static PiconData get caretCircleUpDown {
+  static Object get caretCircleUpDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretCircleUpDown;
@@ -6695,7 +6694,7 @@ class Picons {
   /// bold: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-down.svg)
   /// fill: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-down.svg)
   /// duotone: ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down.svg)
-  static PiconData get caretDoubleDown {
+  static Object get caretDoubleDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretDoubleDown;
@@ -6718,7 +6717,7 @@ class Picons {
   /// bold: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-left.svg)
   /// fill: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-left.svg)
   /// duotone: ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left.svg)
-  static PiconData get caretDoubleLeft {
+  static Object get caretDoubleLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretDoubleLeft;
@@ -6741,7 +6740,7 @@ class Picons {
   /// bold: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-right.svg)
   /// fill: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-right.svg)
   /// duotone: ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right.svg)
-  static PiconData get caretDoubleRight {
+  static Object get caretDoubleRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretDoubleRight;
@@ -6764,7 +6763,7 @@ class Picons {
   /// bold: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-up.svg)
   /// fill: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-up.svg)
   /// duotone: ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up.svg)
-  static PiconData get caretDoubleUp {
+  static Object get caretDoubleUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretDoubleUp;
@@ -6787,7 +6786,7 @@ class Picons {
   /// bold: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-down.svg)
   /// fill: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-down.svg)
   /// duotone: ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down.svg)
-  static PiconData get caretDown {
+  static Object get caretDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretDown;
@@ -6810,7 +6809,7 @@ class Picons {
   /// bold: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-left.svg)
   /// fill: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-left.svg)
   /// duotone: ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left.svg)
-  static PiconData get caretLeft {
+  static Object get caretLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretLeft;
@@ -6833,7 +6832,7 @@ class Picons {
   /// bold: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-down.svg)
   /// fill: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-down.svg)
   /// duotone: ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down.svg)
-  static PiconData get caretLineDown {
+  static Object get caretLineDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretLineDown;
@@ -6856,7 +6855,7 @@ class Picons {
   /// bold: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-left.svg)
   /// fill: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-left.svg)
   /// duotone: ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left.svg)
-  static PiconData get caretLineLeft {
+  static Object get caretLineLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretLineLeft;
@@ -6879,7 +6878,7 @@ class Picons {
   /// bold: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-right.svg)
   /// fill: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-right.svg)
   /// duotone: ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right.svg)
-  static PiconData get caretLineRight {
+  static Object get caretLineRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretLineRight;
@@ -6902,7 +6901,7 @@ class Picons {
   /// bold: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-up.svg)
   /// fill: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-up.svg)
   /// duotone: ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up.svg)
-  static PiconData get caretLineUp {
+  static Object get caretLineUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretLineUp;
@@ -6925,7 +6924,7 @@ class Picons {
   /// bold: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-right.svg)
   /// fill: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-right.svg)
   /// duotone: ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right.svg)
-  static PiconData get caretRight {
+  static Object get caretRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretRight;
@@ -6948,7 +6947,7 @@ class Picons {
   /// bold: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up.svg)
   /// fill: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up.svg)
   /// duotone: ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up.svg)
-  static PiconData get caretUp {
+  static Object get caretUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretUp;
@@ -6971,7 +6970,7 @@ class Picons {
   /// bold: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up-down.svg)
   /// fill: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up-down.svg)
   /// duotone: ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down.svg)
-  static PiconData get caretUpDown {
+  static Object get caretUpDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.caretUpDown;
@@ -6994,7 +6993,7 @@ class Picons {
   /// bold: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/carrot.svg)
   /// fill: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/carrot.svg)
   /// duotone: ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot.svg)
-  static PiconData get carrot {
+  static Object get carrot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.carrot;
@@ -7017,7 +7016,7 @@ class Picons {
   /// bold: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cash-register.svg)
   /// fill: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cash-register.svg)
   /// duotone: ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register.svg)
-  static PiconData get cashRegister {
+  static Object get cashRegister {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cashRegister;
@@ -7040,7 +7039,7 @@ class Picons {
   /// bold: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cassette-tape.svg)
   /// fill: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cassette-tape.svg)
   /// duotone: ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape.svg)
-  static PiconData get cassetteTape {
+  static Object get cassetteTape {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cassetteTape;
@@ -7063,7 +7062,7 @@ class Picons {
   /// bold: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/castle-turret.svg)
   /// fill: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/castle-turret.svg)
   /// duotone: ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret.svg)
-  static PiconData get castleTurret {
+  static Object get castleTurret {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.castleTurret;
@@ -7086,7 +7085,7 @@ class Picons {
   /// bold: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cat.svg)
   /// fill: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cat.svg)
   /// duotone: ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat.svg)
-  static PiconData get cat {
+  static Object get cat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cat;
@@ -7109,7 +7108,7 @@ class Picons {
   /// bold: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-full.svg)
   /// fill: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-full.svg)
   /// duotone: ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full.svg)
-  static PiconData get cellSignalFull {
+  static Object get cellSignalFull {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalFull;
@@ -7132,7 +7131,7 @@ class Picons {
   /// bold: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-high.svg)
   /// fill: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-high.svg)
   /// duotone: ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high.svg)
-  static PiconData get cellSignalHigh {
+  static Object get cellSignalHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalHigh;
@@ -7155,7 +7154,7 @@ class Picons {
   /// bold: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-low.svg)
   /// fill: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-low.svg)
   /// duotone: ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low.svg)
-  static PiconData get cellSignalLow {
+  static Object get cellSignalLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalLow;
@@ -7178,7 +7177,7 @@ class Picons {
   /// bold: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-medium.svg)
   /// fill: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-medium.svg)
   /// duotone: ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium.svg)
-  static PiconData get cellSignalMedium {
+  static Object get cellSignalMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalMedium;
@@ -7201,7 +7200,7 @@ class Picons {
   /// bold: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-none.svg)
   /// fill: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-none.svg)
   /// duotone: ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none.svg)
-  static PiconData get cellSignalNone {
+  static Object get cellSignalNone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalNone;
@@ -7224,7 +7223,7 @@ class Picons {
   /// bold: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-slash.svg)
   /// fill: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-slash.svg)
   /// duotone: ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash.svg)
-  static PiconData get cellSignalSlash {
+  static Object get cellSignalSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalSlash;
@@ -7247,7 +7246,7 @@ class Picons {
   /// bold: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-x.svg)
   /// fill: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-x.svg)
   /// duotone: ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x.svg)
-  static PiconData get cellSignalX {
+  static Object get cellSignalX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellSignalX;
@@ -7270,7 +7269,7 @@ class Picons {
   /// bold: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-tower.svg)
   /// fill: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-tower.svg)
   /// duotone: ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower.svg)
-  static PiconData get cellTower {
+  static Object get cellTower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cellTower;
@@ -7293,7 +7292,7 @@ class Picons {
   /// bold: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/certificate.svg)
   /// fill: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/certificate.svg)
   /// duotone: ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate.svg)
-  static PiconData get certificate {
+  static Object get certificate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.certificate;
@@ -7316,7 +7315,7 @@ class Picons {
   /// bold: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chair.svg)
   /// fill: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chair.svg)
   /// duotone: ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair.svg)
-  static PiconData get chair {
+  static Object get chair {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chair;
@@ -7339,7 +7338,7 @@ class Picons {
   /// bold: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard.svg)
   /// fill: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard.svg)
   /// duotone: ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard.svg)
-  static PiconData get chalkboard {
+  static Object get chalkboard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chalkboard;
@@ -7362,7 +7361,7 @@ class Picons {
   /// bold: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-simple.svg)
   /// fill: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-simple.svg)
   /// duotone: ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple.svg)
-  static PiconData get chalkboardSimple {
+  static Object get chalkboardSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chalkboardSimple;
@@ -7385,7 +7384,7 @@ class Picons {
   /// bold: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-teacher.svg)
   /// fill: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-teacher.svg)
   /// duotone: ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher.svg)
-  static PiconData get chalkboardTeacher {
+  static Object get chalkboardTeacher {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chalkboardTeacher;
@@ -7408,7 +7407,7 @@ class Picons {
   /// bold: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/champagne.svg)
   /// fill: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/champagne.svg)
   /// duotone: ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne.svg)
-  static PiconData get champagne {
+  static Object get champagne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.champagne;
@@ -7431,7 +7430,7 @@ class Picons {
   /// bold: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/charging-station.svg)
   /// fill: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/charging-station.svg)
   /// duotone: ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station.svg)
-  static PiconData get chargingStation {
+  static Object get chargingStation {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chargingStation;
@@ -7454,7 +7453,7 @@ class Picons {
   /// bold: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar.svg)
   /// fill: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar.svg)
   /// duotone: ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar.svg)
-  static PiconData get chartBar {
+  static Object get chartBar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartBar;
@@ -7477,7 +7476,7 @@ class Picons {
   /// bold: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar-horizontal.svg)
   /// fill: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar-horizontal.svg)
   /// duotone: ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal.svg)
-  static PiconData get chartBarHorizontal {
+  static Object get chartBarHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartBarHorizontal;
@@ -7500,7 +7499,7 @@ class Picons {
   /// bold: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-donut.svg)
   /// fill: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-donut.svg)
   /// duotone: ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut.svg)
-  static PiconData get chartDonut {
+  static Object get chartDonut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartDonut;
@@ -7523,7 +7522,7 @@ class Picons {
   /// bold: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line.svg)
   /// fill: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line.svg)
   /// duotone: ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line.svg)
-  static PiconData get chartLine {
+  static Object get chartLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartLine;
@@ -7546,7 +7545,7 @@ class Picons {
   /// bold: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-down.svg)
   /// fill: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-down.svg)
   /// duotone: ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down.svg)
-  static PiconData get chartLineDown {
+  static Object get chartLineDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartLineDown;
@@ -7569,7 +7568,7 @@ class Picons {
   /// bold: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-up.svg)
   /// fill: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up.svg)
   /// duotone: ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up.svg)
-  static PiconData get chartLineUp {
+  static Object get chartLineUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartLineUp;
@@ -7592,7 +7591,7 @@ class Picons {
   /// bold: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie.svg)
   /// fill: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie.svg)
   /// duotone: ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie.svg)
-  static PiconData get chartPie {
+  static Object get chartPie {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartPie;
@@ -7615,7 +7614,7 @@ class Picons {
   /// bold: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie-slice.svg)
   /// fill: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie-slice.svg)
   /// duotone: ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice.svg)
-  static PiconData get chartPieSlice {
+  static Object get chartPieSlice {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartPieSlice;
@@ -7638,7 +7637,7 @@ class Picons {
   /// bold: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-polar.svg)
   /// fill: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-polar.svg)
   /// duotone: ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar.svg)
-  static PiconData get chartPolar {
+  static Object get chartPolar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartPolar;
@@ -7661,7 +7660,7 @@ class Picons {
   /// bold: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-scatter.svg)
   /// fill: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-scatter.svg)
   /// duotone: ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter.svg)
-  static PiconData get chartScatter {
+  static Object get chartScatter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chartScatter;
@@ -7684,7 +7683,7 @@ class Picons {
   /// bold: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat.svg)
   /// fill: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat.svg)
   /// duotone: ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat.svg)
-  static PiconData get chat {
+  static Object get chat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chat;
@@ -7707,7 +7706,7 @@ class Picons {
   /// bold: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered.svg)
   /// fill: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered.svg)
   /// duotone: ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered.svg)
-  static PiconData get chatCentered {
+  static Object get chatCentered {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCentered;
@@ -7730,7 +7729,7 @@ class Picons {
   /// bold: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-dots.svg)
   /// fill: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-dots.svg)
   /// duotone: ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots.svg)
-  static PiconData get chatCenteredDots {
+  static Object get chatCenteredDots {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCenteredDots;
@@ -7753,7 +7752,7 @@ class Picons {
   /// bold: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-slash.svg)
   /// fill: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-slash.svg)
   /// duotone: ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash.svg)
-  static PiconData get chatCenteredSlash {
+  static Object get chatCenteredSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCenteredSlash;
@@ -7776,7 +7775,7 @@ class Picons {
   /// bold: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-text.svg)
   /// fill: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-text.svg)
   /// duotone: ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text.svg)
-  static PiconData get chatCenteredText {
+  static Object get chatCenteredText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCenteredText;
@@ -7799,7 +7798,7 @@ class Picons {
   /// bold: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle.svg)
   /// fill: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle.svg)
   /// duotone: ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle.svg)
-  static PiconData get chatCircle {
+  static Object get chatCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCircle;
@@ -7822,7 +7821,7 @@ class Picons {
   /// bold: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-dots.svg)
   /// fill: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-dots.svg)
   /// duotone: ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots.svg)
-  static PiconData get chatCircleDots {
+  static Object get chatCircleDots {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCircleDots;
@@ -7845,7 +7844,7 @@ class Picons {
   /// bold: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-slash.svg)
   /// fill: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-slash.svg)
   /// duotone: ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash.svg)
-  static PiconData get chatCircleSlash {
+  static Object get chatCircleSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCircleSlash;
@@ -7868,7 +7867,7 @@ class Picons {
   /// bold: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-text.svg)
   /// fill: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-text.svg)
   /// duotone: ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text.svg)
-  static PiconData get chatCircleText {
+  static Object get chatCircleText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatCircleText;
@@ -7891,7 +7890,7 @@ class Picons {
   /// bold: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-dots.svg)
   /// fill: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-dots.svg)
   /// duotone: ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots.svg)
-  static PiconData get chatDots {
+  static Object get chatDots {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatDots;
@@ -7914,7 +7913,7 @@ class Picons {
   /// bold: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-slash.svg)
   /// fill: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-slash.svg)
   /// duotone: ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash.svg)
-  static PiconData get chatSlash {
+  static Object get chatSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatSlash;
@@ -7937,7 +7936,7 @@ class Picons {
   /// bold: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop.svg)
   /// fill: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop.svg)
   /// duotone: ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop.svg)
-  static PiconData get chatTeardrop {
+  static Object get chatTeardrop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatTeardrop;
@@ -7960,7 +7959,7 @@ class Picons {
   /// bold: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-dots.svg)
   /// fill: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-dots.svg)
   /// duotone: ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots.svg)
-  static PiconData get chatTeardropDots {
+  static Object get chatTeardropDots {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatTeardropDots;
@@ -7983,7 +7982,7 @@ class Picons {
   /// bold: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-slash.svg)
   /// fill: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-slash.svg)
   /// duotone: ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash.svg)
-  static PiconData get chatTeardropSlash {
+  static Object get chatTeardropSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatTeardropSlash;
@@ -8006,7 +8005,7 @@ class Picons {
   /// bold: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-text.svg)
   /// fill: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-text.svg)
   /// duotone: ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text.svg)
-  static PiconData get chatTeardropText {
+  static Object get chatTeardropText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatTeardropText;
@@ -8029,7 +8028,7 @@ class Picons {
   /// bold: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-text.svg)
   /// fill: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-text.svg)
   /// duotone: ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text.svg)
-  static PiconData get chatText {
+  static Object get chatText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatText;
@@ -8052,7 +8051,7 @@ class Picons {
   /// bold: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats.svg)
   /// fill: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats.svg)
   /// duotone: ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats.svg)
-  static PiconData get chats {
+  static Object get chats {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chats;
@@ -8075,7 +8074,7 @@ class Picons {
   /// bold: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-circle.svg)
   /// fill: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-circle.svg)
   /// duotone: ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle.svg)
-  static PiconData get chatsCircle {
+  static Object get chatsCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatsCircle;
@@ -8098,7 +8097,7 @@ class Picons {
   /// bold: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-teardrop.svg)
   /// fill: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-teardrop.svg)
   /// duotone: ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop.svg)
-  static PiconData get chatsTeardrop {
+  static Object get chatsTeardrop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chatsTeardrop;
@@ -8121,7 +8120,7 @@ class Picons {
   /// bold: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check.svg)
   /// fill: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check.svg)
   /// duotone: ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check.svg)
-  static PiconData get check {
+  static Object get check {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.check;
@@ -8144,7 +8143,7 @@ class Picons {
   /// bold: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-circle.svg)
   /// fill: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-circle.svg)
   /// duotone: ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle.svg)
-  static PiconData get checkCircle {
+  static Object get checkCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checkCircle;
@@ -8167,7 +8166,7 @@ class Picons {
   /// bold: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-fat.svg)
   /// fill: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-fat.svg)
   /// duotone: ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat.svg)
-  static PiconData get checkFat {
+  static Object get checkFat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checkFat;
@@ -8190,7 +8189,7 @@ class Picons {
   /// bold: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square.svg)
   /// fill: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square.svg)
   /// duotone: ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square.svg)
-  static PiconData get checkSquare {
+  static Object get checkSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checkSquare;
@@ -8213,7 +8212,7 @@ class Picons {
   /// bold: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square-offset.svg)
   /// fill: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square-offset.svg)
   /// duotone: ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset.svg)
-  static PiconData get checkSquareOffset {
+  static Object get checkSquareOffset {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checkSquareOffset;
@@ -8236,7 +8235,7 @@ class Picons {
   /// bold: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checkerboard.svg)
   /// fill: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checkerboard.svg)
   /// duotone: ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard.svg)
-  static PiconData get checkerboard {
+  static Object get checkerboard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checkerboard;
@@ -8259,7 +8258,7 @@ class Picons {
   /// bold: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checks.svg)
   /// fill: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checks.svg)
   /// duotone: ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks.svg)
-  static PiconData get checks {
+  static Object get checks {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.checks;
@@ -8282,7 +8281,7 @@ class Picons {
   /// bold: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheers.svg)
   /// fill: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheers.svg)
   /// duotone: ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers.svg)
-  static PiconData get cheers {
+  static Object get cheers {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cheers;
@@ -8305,7 +8304,7 @@ class Picons {
   /// bold: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheese.svg)
   /// fill: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheese.svg)
   /// duotone: ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese.svg)
-  static PiconData get cheese {
+  static Object get cheese {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cheese;
@@ -8328,7 +8327,7 @@ class Picons {
   /// bold: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chef-hat.svg)
   /// fill: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chef-hat.svg)
   /// duotone: ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat.svg)
-  static PiconData get chefHat {
+  static Object get chefHat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.chefHat;
@@ -8351,7 +8350,7 @@ class Picons {
   /// bold: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cherries.svg)
   /// fill: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cherries.svg)
   /// duotone: ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries.svg)
-  static PiconData get cherries {
+  static Object get cherries {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cherries;
@@ -8374,7 +8373,7 @@ class Picons {
   /// bold: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/church.svg)
   /// fill: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/church.svg)
   /// duotone: ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church.svg)
-  static PiconData get church {
+  static Object get church {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.church;
@@ -8397,7 +8396,7 @@ class Picons {
   /// bold: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette.svg)
   /// fill: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette.svg)
   /// duotone: ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette.svg)
-  static PiconData get cigarette {
+  static Object get cigarette {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cigarette;
@@ -8420,7 +8419,7 @@ class Picons {
   /// bold: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette-slash.svg)
   /// fill: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette-slash.svg)
   /// duotone: ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash.svg)
-  static PiconData get cigaretteSlash {
+  static Object get cigaretteSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cigaretteSlash;
@@ -8443,7 +8442,7 @@ class Picons {
   /// bold: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle.svg)
   /// fill: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle.svg)
   /// duotone: ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle.svg)
-  static PiconData get circle {
+  static Object get circle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circle;
@@ -8466,7 +8465,7 @@ class Picons {
   /// bold: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-dashed.svg)
   /// fill: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-dashed.svg)
   /// duotone: ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed.svg)
-  static PiconData get circleDashed {
+  static Object get circleDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circleDashed;
@@ -8489,7 +8488,7 @@ class Picons {
   /// bold: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half.svg)
   /// fill: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half.svg)
   /// duotone: ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half.svg)
-  static PiconData get circleHalf {
+  static Object get circleHalf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circleHalf;
@@ -8512,7 +8511,7 @@ class Picons {
   /// bold: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half-tilt.svg)
   /// fill: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half-tilt.svg)
   /// duotone: ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt.svg)
-  static PiconData get circleHalfTilt {
+  static Object get circleHalfTilt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circleHalfTilt;
@@ -8535,7 +8534,7 @@ class Picons {
   /// bold: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-notch.svg)
   /// fill: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-notch.svg)
   /// duotone: ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch.svg)
-  static PiconData get circleNotch {
+  static Object get circleNotch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circleNotch;
@@ -8558,7 +8557,7 @@ class Picons {
   /// bold: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-four.svg)
   /// fill: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-four.svg)
   /// duotone: ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four.svg)
-  static PiconData get circlesFour {
+  static Object get circlesFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circlesFour;
@@ -8581,7 +8580,7 @@ class Picons {
   /// bold: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three.svg)
   /// fill: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three.svg)
   /// duotone: ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three.svg)
-  static PiconData get circlesThree {
+  static Object get circlesThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circlesThree;
@@ -8604,7 +8603,7 @@ class Picons {
   /// bold: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three-plus.svg)
   /// fill: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three-plus.svg)
   /// duotone: ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus.svg)
-  static PiconData get circlesThreePlus {
+  static Object get circlesThreePlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circlesThreePlus;
@@ -8627,7 +8626,7 @@ class Picons {
   /// bold: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circuitry.svg)
   /// fill: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circuitry.svg)
   /// duotone: ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry.svg)
-  static PiconData get circuitry {
+  static Object get circuitry {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.circuitry;
@@ -8650,7 +8649,7 @@ class Picons {
   /// bold: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/city.svg)
   /// fill: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/city.svg)
   /// duotone: ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city.svg)
-  static PiconData get city {
+  static Object get city {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.city;
@@ -8673,7 +8672,7 @@ class Picons {
   /// bold: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard.svg)
   /// fill: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard.svg)
   /// duotone: ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard.svg)
-  static PiconData get clipboard {
+  static Object get clipboard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clipboard;
@@ -8696,7 +8695,7 @@ class Picons {
   /// bold: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard-text.svg)
   /// fill: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard-text.svg)
   /// duotone: ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text.svg)
-  static PiconData get clipboardText {
+  static Object get clipboardText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clipboardText;
@@ -8719,7 +8718,7 @@ class Picons {
   /// bold: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock.svg)
   /// fill: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock.svg)
   /// duotone: ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock.svg)
-  static PiconData get clock {
+  static Object get clock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clock;
@@ -8742,7 +8741,7 @@ class Picons {
   /// bold: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-afternoon.svg)
   /// fill: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-afternoon.svg)
   /// duotone: ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon.svg)
-  static PiconData get clockAfternoon {
+  static Object get clockAfternoon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clockAfternoon;
@@ -8765,7 +8764,7 @@ class Picons {
   /// bold: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-clockwise.svg)
   /// fill: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-clockwise.svg)
   /// duotone: ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise.svg)
-  static PiconData get clockClockwise {
+  static Object get clockClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clockClockwise;
@@ -8788,7 +8787,7 @@ class Picons {
   /// bold: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-countdown.svg)
   /// fill: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-countdown.svg)
   /// duotone: ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown.svg)
-  static PiconData get clockCountdown {
+  static Object get clockCountdown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clockCountdown;
@@ -8811,7 +8810,7 @@ class Picons {
   /// bold: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-counter-clockwise.svg)
   /// fill: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-counter-clockwise.svg)
   /// duotone: ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise.svg)
-  static PiconData get clockCounterClockwise {
+  static Object get clockCounterClockwise {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clockCounterClockwise;
@@ -8834,7 +8833,7 @@ class Picons {
   /// bold: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-user.svg)
   /// fill: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-user.svg)
   /// duotone: ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user.svg)
-  static PiconData get clockUser {
+  static Object get clockUser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clockUser;
@@ -8857,7 +8856,7 @@ class Picons {
   /// bold: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/closed-captioning.svg)
   /// fill: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/closed-captioning.svg)
   /// duotone: ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning.svg)
-  static PiconData get closedCaptioning {
+  static Object get closedCaptioning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.closedCaptioning;
@@ -8880,7 +8879,7 @@ class Picons {
   /// bold: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud.svg)
   /// fill: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud.svg)
   /// duotone: ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud.svg)
-  static PiconData get cloud {
+  static Object get cloud {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloud;
@@ -8903,7 +8902,7 @@ class Picons {
   /// bold: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-down.svg)
   /// fill: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-down.svg)
   /// duotone: ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down.svg)
-  static PiconData get cloudArrowDown {
+  static Object get cloudArrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudArrowDown;
@@ -8926,7 +8925,7 @@ class Picons {
   /// bold: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-up.svg)
   /// fill: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-up.svg)
   /// duotone: ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up.svg)
-  static PiconData get cloudArrowUp {
+  static Object get cloudArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudArrowUp;
@@ -8949,7 +8948,7 @@ class Picons {
   /// bold: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-check.svg)
   /// fill: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-check.svg)
   /// duotone: ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check.svg)
-  static PiconData get cloudCheck {
+  static Object get cloudCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudCheck;
@@ -8972,7 +8971,7 @@ class Picons {
   /// bold: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-fog.svg)
   /// fill: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-fog.svg)
   /// duotone: ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog.svg)
-  static PiconData get cloudFog {
+  static Object get cloudFog {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudFog;
@@ -8995,7 +8994,7 @@ class Picons {
   /// bold: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-lightning.svg)
   /// fill: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-lightning.svg)
   /// duotone: ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning.svg)
-  static PiconData get cloudLightning {
+  static Object get cloudLightning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudLightning;
@@ -9018,7 +9017,7 @@ class Picons {
   /// bold: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-moon.svg)
   /// fill: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-moon.svg)
   /// duotone: ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon.svg)
-  static PiconData get cloudMoon {
+  static Object get cloudMoon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudMoon;
@@ -9041,7 +9040,7 @@ class Picons {
   /// bold: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-rain.svg)
   /// fill: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-rain.svg)
   /// duotone: ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain.svg)
-  static PiconData get cloudRain {
+  static Object get cloudRain {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudRain;
@@ -9064,7 +9063,7 @@ class Picons {
   /// bold: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-slash.svg)
   /// fill: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-slash.svg)
   /// duotone: ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash.svg)
-  static PiconData get cloudSlash {
+  static Object get cloudSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudSlash;
@@ -9087,7 +9086,7 @@ class Picons {
   /// bold: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-snow.svg)
   /// fill: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-snow.svg)
   /// duotone: ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow.svg)
-  static PiconData get cloudSnow {
+  static Object get cloudSnow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudSnow;
@@ -9110,7 +9109,7 @@ class Picons {
   /// bold: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-sun.svg)
   /// fill: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-sun.svg)
   /// duotone: ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun.svg)
-  static PiconData get cloudSun {
+  static Object get cloudSun {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudSun;
@@ -9133,7 +9132,7 @@ class Picons {
   /// bold: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-warning.svg)
   /// fill: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-warning.svg)
   /// duotone: ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning.svg)
-  static PiconData get cloudWarning {
+  static Object get cloudWarning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudWarning;
@@ -9156,7 +9155,7 @@ class Picons {
   /// bold: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-x.svg)
   /// fill: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-x.svg)
   /// duotone: ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x.svg)
-  static PiconData get cloudX {
+  static Object get cloudX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cloudX;
@@ -9179,7 +9178,7 @@ class Picons {
   /// bold: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clover.svg)
   /// fill: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clover.svg)
   /// duotone: ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover.svg)
-  static PiconData get clover {
+  static Object get clover {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.clover;
@@ -9202,7 +9201,7 @@ class Picons {
   /// bold: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/club.svg)
   /// fill: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/club.svg)
   /// duotone: ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club.svg)
-  static PiconData get club {
+  static Object get club {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.club;
@@ -9225,7 +9224,7 @@ class Picons {
   /// bold: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coat-hanger.svg)
   /// fill: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coat-hanger.svg)
   /// duotone: ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger.svg)
-  static PiconData get coatHanger {
+  static Object get coatHanger {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coatHanger;
@@ -9248,7 +9247,7 @@ class Picons {
   /// bold: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coda-logo.svg)
   /// fill: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coda-logo.svg)
   /// duotone: ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo.svg)
-  static PiconData get codaLogo {
+  static Object get codaLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.codaLogo;
@@ -9271,7 +9270,7 @@ class Picons {
   /// bold: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code.svg)
   /// fill: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code.svg)
   /// duotone: ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code.svg)
-  static PiconData get code {
+  static Object get code {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.code;
@@ -9294,7 +9293,7 @@ class Picons {
   /// bold: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-block.svg)
   /// fill: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-block.svg)
   /// duotone: ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block.svg)
-  static PiconData get codeBlock {
+  static Object get codeBlock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.codeBlock;
@@ -9317,7 +9316,7 @@ class Picons {
   /// bold: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-simple.svg)
   /// fill: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-simple.svg)
   /// duotone: ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple.svg)
-  static PiconData get codeSimple {
+  static Object get codeSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.codeSimple;
@@ -9340,7 +9339,7 @@ class Picons {
   /// bold: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codepen-logo.svg)
   /// fill: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codepen-logo.svg)
   /// duotone: ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo.svg)
-  static PiconData get codepenLogo {
+  static Object get codepenLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.codepenLogo;
@@ -9363,7 +9362,7 @@ class Picons {
   /// bold: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codesandbox-logo.svg)
   /// fill: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codesandbox-logo.svg)
   /// duotone: ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo.svg)
-  static PiconData get codesandboxLogo {
+  static Object get codesandboxLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.codesandboxLogo;
@@ -9386,7 +9385,7 @@ class Picons {
   /// bold: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee.svg)
   /// fill: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee.svg)
   /// duotone: ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee.svg)
-  static PiconData get coffee {
+  static Object get coffee {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coffee;
@@ -9409,7 +9408,7 @@ class Picons {
   /// bold: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee-bean.svg)
   /// fill: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee-bean.svg)
   /// duotone: ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean.svg)
-  static PiconData get coffeeBean {
+  static Object get coffeeBean {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coffeeBean;
@@ -9432,7 +9431,7 @@ class Picons {
   /// bold: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin.svg)
   /// fill: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin.svg)
   /// duotone: ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin.svg)
-  static PiconData get coin {
+  static Object get coin {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coin;
@@ -9455,7 +9454,7 @@ class Picons {
   /// bold: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin-vertical.svg)
   /// fill: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin-vertical.svg)
   /// duotone: ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical.svg)
-  static PiconData get coinVertical {
+  static Object get coinVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coinVertical;
@@ -9478,7 +9477,7 @@ class Picons {
   /// bold: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coins.svg)
   /// fill: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coins.svg)
   /// duotone: ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins.svg)
-  static PiconData get coins {
+  static Object get coins {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.coins;
@@ -9501,7 +9500,7 @@ class Picons {
   /// bold: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns.svg)
   /// fill: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns.svg)
   /// duotone: ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns.svg)
-  static PiconData get columns {
+  static Object get columns {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.columns;
@@ -9524,7 +9523,7 @@ class Picons {
   /// bold: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-left.svg)
   /// fill: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-left.svg)
   /// duotone: ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left.svg)
-  static PiconData get columnsPlusLeft {
+  static Object get columnsPlusLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.columnsPlusLeft;
@@ -9547,7 +9546,7 @@ class Picons {
   /// bold: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-right.svg)
   /// fill: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-right.svg)
   /// duotone: ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right.svg)
-  static PiconData get columnsPlusRight {
+  static Object get columnsPlusRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.columnsPlusRight;
@@ -9570,7 +9569,7 @@ class Picons {
   /// bold: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/command.svg)
   /// fill: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/command.svg)
   /// duotone: ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command.svg)
-  static PiconData get command {
+  static Object get command {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.command;
@@ -9593,7 +9592,7 @@ class Picons {
   /// bold: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass.svg)
   /// fill: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass.svg)
   /// duotone: ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass.svg)
-  static PiconData get compass {
+  static Object get compass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.compass;
@@ -9616,7 +9615,7 @@ class Picons {
   /// bold: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-rose.svg)
   /// fill: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-rose.svg)
   /// duotone: ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose.svg)
-  static PiconData get compassRose {
+  static Object get compassRose {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.compassRose;
@@ -9639,7 +9638,7 @@ class Picons {
   /// bold: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-tool.svg)
   /// fill: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-tool.svg)
   /// duotone: ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool.svg)
-  static PiconData get compassTool {
+  static Object get compassTool {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.compassTool;
@@ -9662,7 +9661,7 @@ class Picons {
   /// bold: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/computer-tower.svg)
   /// fill: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/computer-tower.svg)
   /// duotone: ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower.svg)
-  static PiconData get computerTower {
+  static Object get computerTower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.computerTower;
@@ -9685,7 +9684,7 @@ class Picons {
   /// bold: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/confetti.svg)
   /// fill: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/confetti.svg)
   /// duotone: ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti.svg)
-  static PiconData get confetti {
+  static Object get confetti {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.confetti;
@@ -9708,7 +9707,7 @@ class Picons {
   /// bold: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/contactless-payment.svg)
   /// fill: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/contactless-payment.svg)
   /// duotone: ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment.svg)
-  static PiconData get contactlessPayment {
+  static Object get contactlessPayment {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.contactlessPayment;
@@ -9731,7 +9730,7 @@ class Picons {
   /// bold: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/control.svg)
   /// fill: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/control.svg)
   /// duotone: ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control.svg)
-  static PiconData get control {
+  static Object get control {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.control;
@@ -9754,7 +9753,7 @@ class Picons {
   /// bold: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cookie.svg)
   /// fill: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cookie.svg)
   /// duotone: ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie.svg)
-  static PiconData get cookie {
+  static Object get cookie {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cookie;
@@ -9777,7 +9776,7 @@ class Picons {
   /// bold: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cooking-pot.svg)
   /// fill: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cooking-pot.svg)
   /// duotone: ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot.svg)
-  static PiconData get cookingPot {
+  static Object get cookingPot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cookingPot;
@@ -9800,7 +9799,7 @@ class Picons {
   /// bold: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy.svg)
   /// fill: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy.svg)
   /// duotone: ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy.svg)
-  static PiconData get copy {
+  static Object get copy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.copy;
@@ -9823,7 +9822,7 @@ class Picons {
   /// bold: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy-simple.svg)
   /// fill: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy-simple.svg)
   /// duotone: ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple.svg)
-  static PiconData get copySimple {
+  static Object get copySimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.copySimple;
@@ -9846,7 +9845,7 @@ class Picons {
   /// bold: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyleft.svg)
   /// fill: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyleft.svg)
   /// duotone: ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft.svg)
-  static PiconData get copyleft {
+  static Object get copyleft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.copyleft;
@@ -9869,7 +9868,7 @@ class Picons {
   /// bold: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyright.svg)
   /// fill: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyright.svg)
   /// duotone: ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright.svg)
-  static PiconData get copyright {
+  static Object get copyright {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.copyright;
@@ -9892,7 +9891,7 @@ class Picons {
   /// bold: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-in.svg)
   /// fill: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-in.svg)
   /// duotone: ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in.svg)
-  static PiconData get cornersIn {
+  static Object get cornersIn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cornersIn;
@@ -9915,7 +9914,7 @@ class Picons {
   /// bold: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-out.svg)
   /// fill: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-out.svg)
   /// duotone: ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out.svg)
-  static PiconData get cornersOut {
+  static Object get cornersOut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cornersOut;
@@ -9938,7 +9937,7 @@ class Picons {
   /// bold: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/couch.svg)
   /// fill: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/couch.svg)
   /// duotone: ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch.svg)
-  static PiconData get couch {
+  static Object get couch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.couch;
@@ -9961,7 +9960,7 @@ class Picons {
   /// bold: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/court-basketball.svg)
   /// fill: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/court-basketball.svg)
   /// duotone: ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball.svg)
-  static PiconData get courtBasketball {
+  static Object get courtBasketball {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.courtBasketball;
@@ -9984,7 +9983,7 @@ class Picons {
   /// bold: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cow.svg)
   /// fill: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cow.svg)
   /// duotone: ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow.svg)
-  static PiconData get cow {
+  static Object get cow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cow;
@@ -10007,7 +10006,7 @@ class Picons {
   /// bold: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cowboy-hat.svg)
   /// fill: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cowboy-hat.svg)
   /// duotone: ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat.svg)
-  static PiconData get cowboyHat {
+  static Object get cowboyHat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cowboyHat;
@@ -10030,7 +10029,7 @@ class Picons {
   /// bold: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu.svg)
   /// fill: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cpu.svg)
   /// duotone: ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu.svg)
-  static PiconData get cpu {
+  static Object get cpu {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cpu;
@@ -10053,7 +10052,7 @@ class Picons {
   /// bold: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane.svg)
   /// fill: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane.svg)
   /// duotone: ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane.svg)
-  static PiconData get crane {
+  static Object get crane {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crane;
@@ -10076,7 +10075,7 @@ class Picons {
   /// bold: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane-tower.svg)
   /// fill: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane-tower.svg)
   /// duotone: ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower.svg)
-  static PiconData get craneTower {
+  static Object get craneTower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.craneTower;
@@ -10099,7 +10098,7 @@ class Picons {
   /// bold: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/credit-card.svg)
   /// fill: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/credit-card.svg)
   /// duotone: ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card.svg)
-  static PiconData get creditCard {
+  static Object get creditCard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.creditCard;
@@ -10122,7 +10121,7 @@ class Picons {
   /// bold: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cricket.svg)
   /// fill: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cricket.svg)
   /// duotone: ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket.svg)
-  static PiconData get cricket {
+  static Object get cricket {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cricket;
@@ -10145,7 +10144,7 @@ class Picons {
   /// bold: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crop.svg)
   /// fill: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crop.svg)
   /// duotone: ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop.svg)
-  static PiconData get crop {
+  static Object get crop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crop;
@@ -10168,7 +10167,7 @@ class Picons {
   /// bold: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cross.svg)
   /// fill: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cross.svg)
   /// duotone: ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross.svg)
-  static PiconData get cross {
+  static Object get cross {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cross;
@@ -10191,7 +10190,7 @@ class Picons {
   /// bold: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair.svg)
   /// fill: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair.svg)
   /// duotone: ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair.svg)
-  static PiconData get crosshair {
+  static Object get crosshair {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crosshair;
@@ -10214,7 +10213,7 @@ class Picons {
   /// bold: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair-simple.svg)
   /// fill: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair-simple.svg)
   /// duotone: ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple.svg)
-  static PiconData get crosshairSimple {
+  static Object get crosshairSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crosshairSimple;
@@ -10237,7 +10236,7 @@ class Picons {
   /// bold: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown.svg)
   /// fill: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown.svg)
   /// duotone: ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown.svg)
-  static PiconData get crown {
+  static Object get crown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crown;
@@ -10260,7 +10259,7 @@ class Picons {
   /// bold: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-cross.svg)
   /// fill: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-cross.svg)
   /// duotone: ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross.svg)
-  static PiconData get crownCross {
+  static Object get crownCross {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crownCross;
@@ -10283,7 +10282,7 @@ class Picons {
   /// bold: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-simple.svg)
   /// fill: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-simple.svg)
   /// duotone: ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple.svg)
-  static PiconData get crownSimple {
+  static Object get crownSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.crownSimple;
@@ -10306,7 +10305,7 @@ class Picons {
   /// bold: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube.svg)
   /// fill: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube.svg)
   /// duotone: ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube.svg)
-  static PiconData get cube {
+  static Object get cube {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cube;
@@ -10329,7 +10328,7 @@ class Picons {
   /// bold: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-focus.svg)
   /// fill: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-focus.svg)
   /// duotone: ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus.svg)
-  static PiconData get cubeFocus {
+  static Object get cubeFocus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cubeFocus;
@@ -10352,7 +10351,7 @@ class Picons {
   /// bold: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-transparent.svg)
   /// fill: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-transparent.svg)
   /// duotone: ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent.svg)
-  static PiconData get cubeTransparent {
+  static Object get cubeTransparent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cubeTransparent;
@@ -10375,7 +10374,7 @@ class Picons {
   /// bold: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-btc.svg)
   /// fill: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-btc.svg)
   /// duotone: ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc.svg)
-  static PiconData get currencyBtc {
+  static Object get currencyBtc {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyBtc;
@@ -10398,7 +10397,7 @@ class Picons {
   /// bold: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-circle-dollar.svg)
   /// fill: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-circle-dollar.svg)
   /// duotone: ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar.svg)
-  static PiconData get currencyCircleDollar {
+  static Object get currencyCircleDollar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyCircleDollar;
@@ -10421,7 +10420,7 @@ class Picons {
   /// bold: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-cny.svg)
   /// fill: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-cny.svg)
   /// duotone: ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny.svg)
-  static PiconData get currencyCny {
+  static Object get currencyCny {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyCny;
@@ -10444,7 +10443,7 @@ class Picons {
   /// bold: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar.svg)
   /// fill: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar.svg)
   /// duotone: ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar.svg)
-  static PiconData get currencyDollar {
+  static Object get currencyDollar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyDollar;
@@ -10467,7 +10466,7 @@ class Picons {
   /// bold: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar-simple.svg)
   /// fill: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar-simple.svg)
   /// duotone: ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple.svg)
-  static PiconData get currencyDollarSimple {
+  static Object get currencyDollarSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyDollarSimple;
@@ -10490,7 +10489,7 @@ class Picons {
   /// bold: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eth.svg)
   /// fill: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eth.svg)
   /// duotone: ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth.svg)
-  static PiconData get currencyEth {
+  static Object get currencyEth {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyEth;
@@ -10513,7 +10512,7 @@ class Picons {
   /// bold: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eur.svg)
   /// fill: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eur.svg)
   /// duotone: ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur.svg)
-  static PiconData get currencyEur {
+  static Object get currencyEur {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyEur;
@@ -10536,7 +10535,7 @@ class Picons {
   /// bold: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-gbp.svg)
   /// fill: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-gbp.svg)
   /// duotone: ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp.svg)
-  static PiconData get currencyGbp {
+  static Object get currencyGbp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyGbp;
@@ -10559,7 +10558,7 @@ class Picons {
   /// bold: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-inr.svg)
   /// fill: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-inr.svg)
   /// duotone: ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr.svg)
-  static PiconData get currencyInr {
+  static Object get currencyInr {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyInr;
@@ -10582,7 +10581,7 @@ class Picons {
   /// bold: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-jpy.svg)
   /// fill: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-jpy.svg)
   /// duotone: ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy.svg)
-  static PiconData get currencyJpy {
+  static Object get currencyJpy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyJpy;
@@ -10605,7 +10604,7 @@ class Picons {
   /// bold: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-krw.svg)
   /// fill: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-krw.svg)
   /// duotone: ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw.svg)
-  static PiconData get currencyKrw {
+  static Object get currencyKrw {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyKrw;
@@ -10628,7 +10627,7 @@ class Picons {
   /// bold: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-kzt.svg)
   /// fill: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-kzt.svg)
   /// duotone: ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt.svg)
-  static PiconData get currencyKzt {
+  static Object get currencyKzt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyKzt;
@@ -10651,7 +10650,7 @@ class Picons {
   /// bold: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-ngn.svg)
   /// fill: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-ngn.svg)
   /// duotone: ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn.svg)
-  static PiconData get currencyNgn {
+  static Object get currencyNgn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyNgn;
@@ -10674,7 +10673,7 @@ class Picons {
   /// bold: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-rub.svg)
   /// fill: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-rub.svg)
   /// duotone: ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub.svg)
-  static PiconData get currencyRub {
+  static Object get currencyRub {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.currencyRub;
@@ -10697,7 +10696,7 @@ class Picons {
   /// bold: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor.svg)
   /// fill: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor.svg)
   /// duotone: ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor.svg)
-  static PiconData get cursor {
+  static Object get cursor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cursor;
@@ -10720,7 +10719,7 @@ class Picons {
   /// bold: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-click.svg)
   /// fill: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-click.svg)
   /// duotone: ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click.svg)
-  static PiconData get cursorClick {
+  static Object get cursorClick {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cursorClick;
@@ -10743,7 +10742,7 @@ class Picons {
   /// bold: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-text.svg)
   /// fill: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-text.svg)
   /// duotone: ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text.svg)
-  static PiconData get cursorText {
+  static Object get cursorText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cursorText;
@@ -10766,7 +10765,7 @@ class Picons {
   /// bold: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cylinder.svg)
   /// fill: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cylinder.svg)
   /// duotone: ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder.svg)
-  static PiconData get cylinder {
+  static Object get cylinder {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.cylinder;
@@ -10789,7 +10788,7 @@ class Picons {
   /// bold: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/database.svg)
   /// fill: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/database.svg)
   /// duotone: ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database.svg)
-  static PiconData get database {
+  static Object get database {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.database;
@@ -10812,7 +10811,7 @@ class Picons {
   /// bold: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desk.svg)
   /// fill: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desk.svg)
   /// duotone: ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk.svg)
-  static PiconData get desk {
+  static Object get desk {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.desk;
@@ -10835,7 +10834,7 @@ class Picons {
   /// bold: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop.svg)
   /// fill: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop.svg)
   /// duotone: ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop.svg)
-  static PiconData get desktop {
+  static Object get desktop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.desktop;
@@ -10858,7 +10857,7 @@ class Picons {
   /// bold: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop-tower.svg)
   /// fill: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop-tower.svg)
   /// duotone: ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower.svg)
-  static PiconData get desktopTower {
+  static Object get desktopTower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.desktopTower;
@@ -10881,7 +10880,7 @@ class Picons {
   /// bold: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/detective.svg)
   /// fill: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/detective.svg)
   /// duotone: ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective.svg)
-  static PiconData get detective {
+  static Object get detective {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.detective;
@@ -10904,7 +10903,7 @@ class Picons {
   /// bold: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dev-to-logo.svg)
   /// fill: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dev-to-logo.svg)
   /// duotone: ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo.svg)
-  static PiconData get devToLogo {
+  static Object get devToLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.devToLogo;
@@ -10927,7 +10926,7 @@ class Picons {
   /// bold: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile.svg)
   /// fill: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile.svg)
   /// duotone: ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile.svg)
-  static PiconData get deviceMobile {
+  static Object get deviceMobile {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceMobile;
@@ -10950,7 +10949,7 @@ class Picons {
   /// bold: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-camera.svg)
   /// fill: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-camera.svg)
   /// duotone: ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera.svg)
-  static PiconData get deviceMobileCamera {
+  static Object get deviceMobileCamera {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceMobileCamera;
@@ -10973,7 +10972,7 @@ class Picons {
   /// bold: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-slash.svg)
   /// fill: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-slash.svg)
   /// duotone: ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash.svg)
-  static PiconData get deviceMobileSlash {
+  static Object get deviceMobileSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceMobileSlash;
@@ -10996,7 +10995,7 @@ class Picons {
   /// bold: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-speaker.svg)
   /// fill: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-speaker.svg)
   /// duotone: ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker.svg)
-  static PiconData get deviceMobileSpeaker {
+  static Object get deviceMobileSpeaker {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceMobileSpeaker;
@@ -11019,7 +11018,7 @@ class Picons {
   /// bold: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-rotate.svg)
   /// fill: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-rotate.svg)
   /// duotone: ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate.svg)
-  static PiconData get deviceRotate {
+  static Object get deviceRotate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceRotate;
@@ -11042,7 +11041,7 @@ class Picons {
   /// bold: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet.svg)
   /// fill: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet.svg)
   /// duotone: ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet.svg)
-  static PiconData get deviceTablet {
+  static Object get deviceTablet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceTablet;
@@ -11065,7 +11064,7 @@ class Picons {
   /// bold: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-camera.svg)
   /// fill: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-camera.svg)
   /// duotone: ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera.svg)
-  static PiconData get deviceTabletCamera {
+  static Object get deviceTabletCamera {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceTabletCamera;
@@ -11088,7 +11087,7 @@ class Picons {
   /// bold: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-speaker.svg)
   /// fill: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-speaker.svg)
   /// duotone: ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker.svg)
-  static PiconData get deviceTabletSpeaker {
+  static Object get deviceTabletSpeaker {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.deviceTabletSpeaker;
@@ -11111,7 +11110,7 @@ class Picons {
   /// bold: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/devices.svg)
   /// fill: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/devices.svg)
   /// duotone: ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices.svg)
-  static PiconData get devices {
+  static Object get devices {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.devices;
@@ -11134,7 +11133,7 @@ class Picons {
   /// bold: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamond.svg)
   /// fill: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamond.svg)
   /// duotone: ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond.svg)
-  static PiconData get diamond {
+  static Object get diamond {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diamond;
@@ -11157,7 +11156,7 @@ class Picons {
   /// bold: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamonds-four.svg)
   /// fill: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamonds-four.svg)
   /// duotone: ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four.svg)
-  static PiconData get diamondsFour {
+  static Object get diamondsFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diamondsFour;
@@ -11180,7 +11179,7 @@ class Picons {
   /// bold: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-five.svg)
   /// fill: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-five.svg)
   /// duotone: ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five.svg)
-  static PiconData get diceFive {
+  static Object get diceFive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceFive;
@@ -11203,7 +11202,7 @@ class Picons {
   /// bold: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-four.svg)
   /// fill: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-four.svg)
   /// duotone: ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four.svg)
-  static PiconData get diceFour {
+  static Object get diceFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceFour;
@@ -11226,7 +11225,7 @@ class Picons {
   /// bold: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-one.svg)
   /// fill: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-one.svg)
   /// duotone: ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one.svg)
-  static PiconData get diceOne {
+  static Object get diceOne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceOne;
@@ -11249,7 +11248,7 @@ class Picons {
   /// bold: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-six.svg)
   /// fill: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-six.svg)
   /// duotone: ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six.svg)
-  static PiconData get diceSix {
+  static Object get diceSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceSix;
@@ -11272,7 +11271,7 @@ class Picons {
   /// bold: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-three.svg)
   /// fill: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-three.svg)
   /// duotone: ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three.svg)
-  static PiconData get diceThree {
+  static Object get diceThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceThree;
@@ -11295,7 +11294,7 @@ class Picons {
   /// bold: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-two.svg)
   /// fill: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-two.svg)
   /// duotone: ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two.svg)
-  static PiconData get diceTwo {
+  static Object get diceTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.diceTwo;
@@ -11318,7 +11317,7 @@ class Picons {
   /// bold: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disc.svg)
   /// fill: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disc.svg)
   /// duotone: ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc.svg)
-  static PiconData get disc {
+  static Object get disc {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.disc;
@@ -11341,7 +11340,7 @@ class Picons {
   /// bold: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disco-ball.svg)
   /// fill: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disco-ball.svg)
   /// duotone: ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball.svg)
-  static PiconData get discoBall {
+  static Object get discoBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.discoBall;
@@ -11364,7 +11363,7 @@ class Picons {
   /// bold: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/discord-logo.svg)
   /// fill: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/discord-logo.svg)
   /// duotone: ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo.svg)
-  static PiconData get discordLogo {
+  static Object get discordLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.discordLogo;
@@ -11387,7 +11386,7 @@ class Picons {
   /// bold: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/divide.svg)
   /// fill: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/divide.svg)
   /// duotone: ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide.svg)
-  static PiconData get divide {
+  static Object get divide {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.divide;
@@ -11410,7 +11409,7 @@ class Picons {
   /// bold: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dna.svg)
   /// fill: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dna.svg)
   /// duotone: ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna.svg)
-  static PiconData get dna {
+  static Object get dna {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dna;
@@ -11433,7 +11432,7 @@ class Picons {
   /// bold: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dog.svg)
   /// fill: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dog.svg)
   /// duotone: ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog.svg)
-  static PiconData get dog {
+  static Object get dog {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dog;
@@ -11456,7 +11455,7 @@ class Picons {
   /// bold: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door.svg)
   /// fill: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door.svg)
   /// duotone: ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door.svg)
-  static PiconData get door {
+  static Object get door {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.door;
@@ -11479,7 +11478,7 @@ class Picons {
   /// bold: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door-open.svg)
   /// fill: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door-open.svg)
   /// duotone: ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open.svg)
-  static PiconData get doorOpen {
+  static Object get doorOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.doorOpen;
@@ -11502,7 +11501,7 @@ class Picons {
   /// bold: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot.svg)
   /// fill: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot.svg)
   /// duotone: ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot.svg)
-  static PiconData get dot {
+  static Object get dot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dot;
@@ -11525,7 +11524,7 @@ class Picons {
   /// bold: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot-outline.svg)
   /// fill: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot-outline.svg)
   /// duotone: ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline.svg)
-  static PiconData get dotOutline {
+  static Object get dotOutline {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotOutline;
@@ -11548,7 +11547,7 @@ class Picons {
   /// bold: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-nine.svg)
   /// fill: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-nine.svg)
   /// duotone: ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine.svg)
-  static PiconData get dotsNine {
+  static Object get dotsNine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsNine;
@@ -11571,7 +11570,7 @@ class Picons {
   /// bold: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six.svg)
   /// fill: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six.svg)
   /// duotone: ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six.svg)
-  static PiconData get dotsSix {
+  static Object get dotsSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsSix;
@@ -11594,7 +11593,7 @@ class Picons {
   /// bold: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six-vertical.svg)
   /// fill: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six-vertical.svg)
   /// duotone: ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical.svg)
-  static PiconData get dotsSixVertical {
+  static Object get dotsSixVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsSixVertical;
@@ -11617,7 +11616,7 @@ class Picons {
   /// bold: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three.svg)
   /// fill: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three.svg)
   /// duotone: ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three.svg)
-  static PiconData get dotsThree {
+  static Object get dotsThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThree;
@@ -11640,7 +11639,7 @@ class Picons {
   /// bold: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle.svg)
   /// fill: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle.svg)
   /// duotone: ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle.svg)
-  static PiconData get dotsThreeCircle {
+  static Object get dotsThreeCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThreeCircle;
@@ -11663,7 +11662,7 @@ class Picons {
   /// bold: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle-vertical.svg)
   /// fill: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle-vertical.svg)
   /// duotone: ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical.svg)
-  static PiconData get dotsThreeCircleVertical {
+  static Object get dotsThreeCircleVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThreeCircleVertical;
@@ -11686,7 +11685,7 @@ class Picons {
   /// bold: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline.svg)
   /// fill: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline.svg)
   /// duotone: ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline.svg)
-  static PiconData get dotsThreeOutline {
+  static Object get dotsThreeOutline {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThreeOutline;
@@ -11709,7 +11708,7 @@ class Picons {
   /// bold: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline-vertical.svg)
   /// fill: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline-vertical.svg)
   /// duotone: ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical.svg)
-  static PiconData get dotsThreeOutlineVertical {
+  static Object get dotsThreeOutlineVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThreeOutlineVertical;
@@ -11732,7 +11731,7 @@ class Picons {
   /// bold: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-vertical.svg)
   /// fill: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-vertical.svg)
   /// duotone: ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical.svg)
-  static PiconData get dotsThreeVertical {
+  static Object get dotsThreeVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dotsThreeVertical;
@@ -11755,7 +11754,7 @@ class Picons {
   /// bold: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download.svg)
   /// fill: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download.svg)
   /// duotone: ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download.svg)
-  static PiconData get download {
+  static Object get download {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.download;
@@ -11778,7 +11777,7 @@ class Picons {
   /// bold: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download-simple.svg)
   /// fill: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download-simple.svg)
   /// duotone: ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple.svg)
-  static PiconData get downloadSimple {
+  static Object get downloadSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.downloadSimple;
@@ -11801,7 +11800,7 @@ class Picons {
   /// bold: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dress.svg)
   /// fill: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dress.svg)
   /// duotone: ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress.svg)
-  static PiconData get dress {
+  static Object get dress {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dress;
@@ -11824,7 +11823,7 @@ class Picons {
   /// bold: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dresser.svg)
   /// fill: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dresser.svg)
   /// duotone: ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser.svg)
-  static PiconData get dresser {
+  static Object get dresser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dresser;
@@ -11847,7 +11846,7 @@ class Picons {
   /// bold: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dribbble-logo.svg)
   /// fill: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dribbble-logo.svg)
   /// duotone: ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo.svg)
-  static PiconData get dribbbleLogo {
+  static Object get dribbbleLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dribbbleLogo;
@@ -11870,7 +11869,7 @@ class Picons {
   /// bold: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drone.svg)
   /// fill: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drone.svg)
   /// duotone: ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone.svg)
-  static PiconData get drone {
+  static Object get drone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.drone;
@@ -11893,7 +11892,7 @@ class Picons {
   /// bold: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop.svg)
   /// fill: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop.svg)
   /// duotone: ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop.svg)
-  static PiconData get drop {
+  static Object get drop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.drop;
@@ -11916,7 +11915,7 @@ class Picons {
   /// bold: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half.svg)
   /// fill: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half.svg)
   /// duotone: ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half.svg)
-  static PiconData get dropHalf {
+  static Object get dropHalf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dropHalf;
@@ -11939,7 +11938,7 @@ class Picons {
   /// bold: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half-bottom.svg)
   /// fill: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half-bottom.svg)
   /// duotone: ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom.svg)
-  static PiconData get dropHalfBottom {
+  static Object get dropHalfBottom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dropHalfBottom;
@@ -11962,7 +11961,7 @@ class Picons {
   /// bold: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-simple.svg)
   /// fill: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-simple.svg)
   /// duotone: ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple.svg)
-  static PiconData get dropSimple {
+  static Object get dropSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dropSimple;
@@ -11985,7 +11984,7 @@ class Picons {
   /// bold: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-slash.svg)
   /// fill: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-slash.svg)
   /// duotone: ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash.svg)
-  static PiconData get dropSlash {
+  static Object get dropSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dropSlash;
@@ -12008,7 +12007,7 @@ class Picons {
   /// bold: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dropbox-logo.svg)
   /// fill: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dropbox-logo.svg)
   /// duotone: ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo.svg)
-  static PiconData get dropboxLogo {
+  static Object get dropboxLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.dropboxLogo;
@@ -12031,7 +12030,7 @@ class Picons {
   /// bold: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear.svg)
   /// fill: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear.svg)
   /// duotone: ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear.svg)
-  static PiconData get ear {
+  static Object get ear {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ear;
@@ -12054,7 +12053,7 @@ class Picons {
   /// bold: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear-slash.svg)
   /// fill: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear-slash.svg)
   /// duotone: ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash.svg)
-  static PiconData get earSlash {
+  static Object get earSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.earSlash;
@@ -12077,7 +12076,7 @@ class Picons {
   /// bold: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg.svg)
   /// fill: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg.svg)
   /// duotone: ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg.svg)
-  static PiconData get egg {
+  static Object get egg {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.egg;
@@ -12100,7 +12099,7 @@ class Picons {
   /// bold: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg-crack.svg)
   /// fill: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg-crack.svg)
   /// duotone: ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack.svg)
-  static PiconData get eggCrack {
+  static Object get eggCrack {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eggCrack;
@@ -12123,7 +12122,7 @@ class Picons {
   /// bold: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject.svg)
   /// fill: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject.svg)
   /// duotone: ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject.svg)
-  static PiconData get eject {
+  static Object get eject {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eject;
@@ -12146,7 +12145,7 @@ class Picons {
   /// bold: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject-simple.svg)
   /// fill: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject-simple.svg)
   /// duotone: ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple.svg)
-  static PiconData get ejectSimple {
+  static Object get ejectSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ejectSimple;
@@ -12169,7 +12168,7 @@ class Picons {
   /// bold: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/elevator.svg)
   /// fill: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/elevator.svg)
   /// duotone: ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator.svg)
-  static PiconData get elevator {
+  static Object get elevator {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.elevator;
@@ -12192,7 +12191,7 @@ class Picons {
   /// bold: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/empty.svg)
   /// fill: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/empty.svg)
   /// duotone: ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty.svg)
-  static PiconData get empty {
+  static Object get empty {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.empty;
@@ -12215,7 +12214,7 @@ class Picons {
   /// bold: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/engine.svg)
   /// fill: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/engine.svg)
   /// duotone: ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine.svg)
-  static PiconData get engine {
+  static Object get engine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.engine;
@@ -12238,7 +12237,7 @@ class Picons {
   /// bold: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope.svg)
   /// fill: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope.svg)
   /// duotone: ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope.svg)
-  static PiconData get envelope {
+  static Object get envelope {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.envelope;
@@ -12261,7 +12260,7 @@ class Picons {
   /// bold: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-open.svg)
   /// fill: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-open.svg)
   /// duotone: ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open.svg)
-  static PiconData get envelopeOpen {
+  static Object get envelopeOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.envelopeOpen;
@@ -12284,7 +12283,7 @@ class Picons {
   /// bold: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple.svg)
   /// fill: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple.svg)
   /// duotone: ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple.svg)
-  static PiconData get envelopeSimple {
+  static Object get envelopeSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.envelopeSimple;
@@ -12307,7 +12306,7 @@ class Picons {
   /// bold: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple-open.svg)
   /// fill: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple-open.svg)
   /// duotone: ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open.svg)
-  static PiconData get envelopeSimpleOpen {
+  static Object get envelopeSimpleOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.envelopeSimpleOpen;
@@ -12330,7 +12329,7 @@ class Picons {
   /// bold: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equalizer.svg)
   /// fill: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equalizer.svg)
   /// duotone: ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer.svg)
-  static PiconData get equalizer {
+  static Object get equalizer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.equalizer;
@@ -12353,7 +12352,7 @@ class Picons {
   /// bold: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equals.svg)
   /// fill: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equals.svg)
   /// duotone: ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals.svg)
-  static PiconData get equals {
+  static Object get equals {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.equals;
@@ -12376,7 +12375,7 @@ class Picons {
   /// bold: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eraser.svg)
   /// fill: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eraser.svg)
   /// duotone: ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser.svg)
-  static PiconData get eraser {
+  static Object get eraser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eraser;
@@ -12399,7 +12398,7 @@ class Picons {
   /// bold: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-down.svg)
   /// fill: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-down.svg)
   /// duotone: ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down.svg)
-  static PiconData get escalatorDown {
+  static Object get escalatorDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.escalatorDown;
@@ -12422,7 +12421,7 @@ class Picons {
   /// bold: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-up.svg)
   /// fill: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-up.svg)
   /// duotone: ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up.svg)
-  static PiconData get escalatorUp {
+  static Object get escalatorUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.escalatorUp;
@@ -12445,7 +12444,7 @@ class Picons {
   /// bold: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exam.svg)
   /// fill: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exam.svg)
   /// duotone: ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam.svg)
-  static PiconData get exam {
+  static Object get exam {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.exam;
@@ -12468,7 +12467,7 @@ class Picons {
   /// bold: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclamation-mark.svg)
   /// fill: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclamation-mark.svg)
   /// duotone: ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark.svg)
-  static PiconData get exclamationMark {
+  static Object get exclamationMark {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.exclamationMark;
@@ -12491,7 +12490,7 @@ class Picons {
   /// bold: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude.svg)
   /// fill: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude.svg)
   /// duotone: ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude.svg)
-  static PiconData get exclude {
+  static Object get exclude {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.exclude;
@@ -12514,7 +12513,7 @@ class Picons {
   /// bold: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude-square.svg)
   /// fill: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude-square.svg)
   /// duotone: ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square.svg)
-  static PiconData get excludeSquare {
+  static Object get excludeSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.excludeSquare;
@@ -12537,7 +12536,7 @@ class Picons {
   /// bold: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/export.svg)
   /// fill: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/export.svg)
   /// duotone: ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export.svg)
-  static PiconData get export {
+  static Object get export {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.export;
@@ -12560,7 +12559,7 @@ class Picons {
   /// bold: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye.svg)
   /// fill: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye.svg)
   /// duotone: ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye.svg)
-  static PiconData get eye {
+  static Object get eye {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eye;
@@ -12583,7 +12582,7 @@ class Picons {
   /// bold: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-closed.svg)
   /// fill: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-closed.svg)
   /// duotone: ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed.svg)
-  static PiconData get eyeClosed {
+  static Object get eyeClosed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyeClosed;
@@ -12606,7 +12605,7 @@ class Picons {
   /// bold: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-slash.svg)
   /// fill: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-slash.svg)
   /// duotone: ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash.svg)
-  static PiconData get eyeSlash {
+  static Object get eyeSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyeSlash;
@@ -12629,7 +12628,7 @@ class Picons {
   /// bold: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper.svg)
   /// fill: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper.svg)
   /// duotone: ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper.svg)
-  static PiconData get eyedropper {
+  static Object get eyedropper {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyedropper;
@@ -12652,7 +12651,7 @@ class Picons {
   /// bold: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper-sample.svg)
   /// fill: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper-sample.svg)
   /// duotone: ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample.svg)
-  static PiconData get eyedropperSample {
+  static Object get eyedropperSample {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyedropperSample;
@@ -12675,7 +12674,7 @@ class Picons {
   /// bold: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyeglasses.svg)
   /// fill: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyeglasses.svg)
   /// duotone: ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses.svg)
-  static PiconData get eyeglasses {
+  static Object get eyeglasses {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyeglasses;
@@ -12698,7 +12697,7 @@ class Picons {
   /// bold: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyes.svg)
   /// fill: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyes.svg)
   /// duotone: ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes.svg)
-  static PiconData get eyes {
+  static Object get eyes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.eyes;
@@ -12721,7 +12720,7 @@ class Picons {
   /// bold: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/face-mask.svg)
   /// fill: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/face-mask.svg)
   /// duotone: ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask.svg)
-  static PiconData get faceMask {
+  static Object get faceMask {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.faceMask;
@@ -12744,7 +12743,7 @@ class Picons {
   /// bold: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/facebook-logo.svg)
   /// fill: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/facebook-logo.svg)
   /// duotone: ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo.svg)
-  static PiconData get facebookLogo {
+  static Object get facebookLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.facebookLogo;
@@ -12767,7 +12766,7 @@ class Picons {
   /// bold: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/factory.svg)
   /// fill: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/factory.svg)
   /// duotone: ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory.svg)
-  static PiconData get factory {
+  static Object get factory {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.factory;
@@ -12790,7 +12789,7 @@ class Picons {
   /// bold: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders.svg)
   /// fill: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders.svg)
   /// duotone: ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders.svg)
-  static PiconData get faders {
+  static Object get faders {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.faders;
@@ -12813,7 +12812,7 @@ class Picons {
   /// bold: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders-horizontal.svg)
   /// fill: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders-horizontal.svg)
   /// duotone: ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal.svg)
-  static PiconData get fadersHorizontal {
+  static Object get fadersHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fadersHorizontal;
@@ -12836,7 +12835,7 @@ class Picons {
   /// bold: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fallout-shelter.svg)
   /// fill: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fallout-shelter.svg)
   /// duotone: ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter.svg)
-  static PiconData get falloutShelter {
+  static Object get falloutShelter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.falloutShelter;
@@ -12859,7 +12858,7 @@ class Picons {
   /// bold: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fan.svg)
   /// fill: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fan.svg)
   /// duotone: ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan.svg)
-  static PiconData get fan {
+  static Object get fan {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fan;
@@ -12882,7 +12881,7 @@ class Picons {
   /// bold: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/farm.svg)
   /// fill: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/farm.svg)
   /// duotone: ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm.svg)
-  static PiconData get farm {
+  static Object get farm {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.farm;
@@ -12905,7 +12904,7 @@ class Picons {
   /// bold: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward.svg)
   /// fill: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward.svg)
   /// duotone: ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward.svg)
-  static PiconData get fastForward {
+  static Object get fastForward {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fastForward;
@@ -12928,7 +12927,7 @@ class Picons {
   /// bold: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward-circle.svg)
   /// fill: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward-circle.svg)
   /// duotone: ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle.svg)
-  static PiconData get fastForwardCircle {
+  static Object get fastForwardCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fastForwardCircle;
@@ -12951,7 +12950,7 @@ class Picons {
   /// bold: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/feather.svg)
   /// fill: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/feather.svg)
   /// duotone: ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather.svg)
-  static PiconData get feather {
+  static Object get feather {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.feather;
@@ -12974,7 +12973,7 @@ class Picons {
   /// bold: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fediverse-logo.svg)
   /// fill: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fediverse-logo.svg)
   /// duotone: ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo.svg)
-  static PiconData get fediverseLogo {
+  static Object get fediverseLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fediverseLogo;
@@ -12997,7 +12996,7 @@ class Picons {
   /// bold: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/figma-logo.svg)
   /// fill: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/figma-logo.svg)
   /// duotone: ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo.svg)
-  static PiconData get figmaLogo {
+  static Object get figmaLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.figmaLogo;
@@ -13020,7 +13019,7 @@ class Picons {
   /// bold: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file.svg)
   /// fill: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file.svg)
   /// duotone: ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file.svg)
-  static PiconData get file {
+  static Object get file {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.file;
@@ -13043,7 +13042,7 @@ class Picons {
   /// bold: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-archive.svg)
   /// fill: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-archive.svg)
   /// duotone: ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive.svg)
-  static PiconData get fileArchive {
+  static Object get fileArchive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileArchive;
@@ -13066,7 +13065,7 @@ class Picons {
   /// bold: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-down.svg)
   /// fill: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-down.svg)
   /// duotone: ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down.svg)
-  static PiconData get fileArrowDown {
+  static Object get fileArrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileArrowDown;
@@ -13089,7 +13088,7 @@ class Picons {
   /// bold: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-up.svg)
   /// fill: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-up.svg)
   /// duotone: ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up.svg)
-  static PiconData get fileArrowUp {
+  static Object get fileArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileArrowUp;
@@ -13112,7 +13111,7 @@ class Picons {
   /// bold: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-audio.svg)
   /// fill: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-audio.svg)
   /// duotone: ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio.svg)
-  static PiconData get fileAudio {
+  static Object get fileAudio {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileAudio;
@@ -13135,7 +13134,7 @@ class Picons {
   /// bold: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c.svg)
   /// fill: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c.svg)
   /// duotone: ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c.svg)
-  static PiconData get fileC {
+  static Object get fileC {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileC;
@@ -13158,7 +13157,7 @@ class Picons {
   /// bold: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c-sharp.svg)
   /// fill: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c-sharp.svg)
   /// duotone: ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp.svg)
-  static PiconData get fileCSharp {
+  static Object get fileCSharp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCSharp;
@@ -13181,7 +13180,7 @@ class Picons {
   /// bold: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cloud.svg)
   /// fill: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cloud.svg)
   /// duotone: ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud.svg)
-  static PiconData get fileCloud {
+  static Object get fileCloud {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCloud;
@@ -13204,7 +13203,7 @@ class Picons {
   /// bold: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-code.svg)
   /// fill: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-code.svg)
   /// duotone: ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code.svg)
-  static PiconData get fileCode {
+  static Object get fileCode {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCode;
@@ -13227,7 +13226,7 @@ class Picons {
   /// bold: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cpp.svg)
   /// fill: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cpp.svg)
   /// duotone: ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp.svg)
-  static PiconData get fileCpp {
+  static Object get fileCpp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCpp;
@@ -13250,7 +13249,7 @@ class Picons {
   /// bold: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-css.svg)
   /// fill: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-css.svg)
   /// duotone: ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css.svg)
-  static PiconData get fileCss {
+  static Object get fileCss {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCss;
@@ -13273,7 +13272,7 @@ class Picons {
   /// bold: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-csv.svg)
   /// fill: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-csv.svg)
   /// duotone: ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv.svg)
-  static PiconData get fileCsv {
+  static Object get fileCsv {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileCsv;
@@ -13296,7 +13295,7 @@ class Picons {
   /// bold: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-dashed.svg)
   /// fill: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-dashed.svg)
   /// duotone: ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed.svg)
-  static PiconData get fileDashed {
+  static Object get fileDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileDashed;
@@ -13319,7 +13318,7 @@ class Picons {
   /// bold: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-doc.svg)
   /// fill: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-doc.svg)
   /// duotone: ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc.svg)
-  static PiconData get fileDoc {
+  static Object get fileDoc {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileDoc;
@@ -13342,7 +13341,7 @@ class Picons {
   /// bold: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-html.svg)
   /// fill: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-html.svg)
   /// duotone: ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html.svg)
-  static PiconData get fileHtml {
+  static Object get fileHtml {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileHtml;
@@ -13365,7 +13364,7 @@ class Picons {
   /// bold: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-image.svg)
   /// fill: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-image.svg)
   /// duotone: ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image.svg)
-  static PiconData get fileImage {
+  static Object get fileImage {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileImage;
@@ -13388,7 +13387,7 @@ class Picons {
   /// bold: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ini.svg)
   /// fill: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ini.svg)
   /// duotone: ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini.svg)
-  static PiconData get fileIni {
+  static Object get fileIni {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileIni;
@@ -13411,7 +13410,7 @@ class Picons {
   /// bold: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jpg.svg)
   /// fill: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jpg.svg)
   /// duotone: ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg.svg)
-  static PiconData get fileJpg {
+  static Object get fileJpg {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileJpg;
@@ -13434,7 +13433,7 @@ class Picons {
   /// bold: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-js.svg)
   /// fill: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-js.svg)
   /// duotone: ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js.svg)
-  static PiconData get fileJs {
+  static Object get fileJs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileJs;
@@ -13457,7 +13456,7 @@ class Picons {
   /// bold: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jsx.svg)
   /// fill: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jsx.svg)
   /// duotone: ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx.svg)
-  static PiconData get fileJsx {
+  static Object get fileJsx {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileJsx;
@@ -13480,7 +13479,7 @@ class Picons {
   /// bold: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-lock.svg)
   /// fill: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-lock.svg)
   /// duotone: ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock.svg)
-  static PiconData get fileLock {
+  static Object get fileLock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileLock;
@@ -13503,7 +13502,7 @@ class Picons {
   /// bold: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-magnifying-glass.svg)
   /// fill: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-magnifying-glass.svg)
   /// duotone: ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass.svg)
-  static PiconData get fileMagnifyingGlass {
+  static Object get fileMagnifyingGlass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileMagnifyingGlass;
@@ -13526,7 +13525,7 @@ class Picons {
   /// bold: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-md.svg)
   /// fill: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-md.svg)
   /// duotone: ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md.svg)
-  static PiconData get fileMd {
+  static Object get fileMd {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileMd;
@@ -13549,7 +13548,7 @@ class Picons {
   /// bold: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-minus.svg)
   /// fill: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-minus.svg)
   /// duotone: ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus.svg)
-  static PiconData get fileMinus {
+  static Object get fileMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileMinus;
@@ -13572,7 +13571,7 @@ class Picons {
   /// bold: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-pdf.svg)
   /// fill: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-pdf.svg)
   /// duotone: ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf.svg)
-  static PiconData get filePdf {
+  static Object get filePdf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filePdf;
@@ -13595,7 +13594,7 @@ class Picons {
   /// bold: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-plus.svg)
   /// fill: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-plus.svg)
   /// duotone: ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus.svg)
-  static PiconData get filePlus {
+  static Object get filePlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filePlus;
@@ -13618,7 +13617,7 @@ class Picons {
   /// bold: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-png.svg)
   /// fill: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-png.svg)
   /// duotone: ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png.svg)
-  static PiconData get filePng {
+  static Object get filePng {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filePng;
@@ -13641,7 +13640,7 @@ class Picons {
   /// bold: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ppt.svg)
   /// fill: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ppt.svg)
   /// duotone: ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt.svg)
-  static PiconData get filePpt {
+  static Object get filePpt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filePpt;
@@ -13664,7 +13663,7 @@ class Picons {
   /// bold: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-py.svg)
   /// fill: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-py.svg)
   /// duotone: ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py.svg)
-  static PiconData get filePy {
+  static Object get filePy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filePy;
@@ -13687,7 +13686,7 @@ class Picons {
   /// bold: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-rs.svg)
   /// fill: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-rs.svg)
   /// duotone: ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs.svg)
-  static PiconData get fileRs {
+  static Object get fileRs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileRs;
@@ -13710,7 +13709,7 @@ class Picons {
   /// bold: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-sql.svg)
   /// fill: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-sql.svg)
   /// duotone: ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql.svg)
-  static PiconData get fileSql {
+  static Object get fileSql {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileSql;
@@ -13733,7 +13732,7 @@ class Picons {
   /// bold: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-svg.svg)
   /// fill: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-svg.svg)
   /// duotone: ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg.svg)
-  static PiconData get fileSvg {
+  static Object get fileSvg {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileSvg;
@@ -13756,7 +13755,7 @@ class Picons {
   /// bold: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-text.svg)
   /// fill: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-text.svg)
   /// duotone: ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text.svg)
-  static PiconData get fileText {
+  static Object get fileText {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileText;
@@ -13779,7 +13778,7 @@ class Picons {
   /// bold: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ts.svg)
   /// fill: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ts.svg)
   /// duotone: ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts.svg)
-  static PiconData get fileTs {
+  static Object get fileTs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileTs;
@@ -13802,7 +13801,7 @@ class Picons {
   /// bold: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-tsx.svg)
   /// fill: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-tsx.svg)
   /// duotone: ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx.svg)
-  static PiconData get fileTsx {
+  static Object get fileTsx {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileTsx;
@@ -13825,7 +13824,7 @@ class Picons {
   /// bold: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-txt.svg)
   /// fill: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-txt.svg)
   /// duotone: ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt.svg)
-  static PiconData get fileTxt {
+  static Object get fileTxt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileTxt;
@@ -13848,7 +13847,7 @@ class Picons {
   /// bold: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-video.svg)
   /// fill: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-video.svg)
   /// duotone: ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video.svg)
-  static PiconData get fileVideo {
+  static Object get fileVideo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileVideo;
@@ -13871,7 +13870,7 @@ class Picons {
   /// bold: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-vue.svg)
   /// fill: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-vue.svg)
   /// duotone: ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue.svg)
-  static PiconData get fileVue {
+  static Object get fileVue {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileVue;
@@ -13894,7 +13893,7 @@ class Picons {
   /// bold: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-x.svg)
   /// fill: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-x.svg)
   /// duotone: ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x.svg)
-  static PiconData get fileX {
+  static Object get fileX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileX;
@@ -13917,7 +13916,7 @@ class Picons {
   /// bold: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-xls.svg)
   /// fill: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-xls.svg)
   /// duotone: ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls.svg)
-  static PiconData get fileXls {
+  static Object get fileXls {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileXls;
@@ -13940,7 +13939,7 @@ class Picons {
   /// bold: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-zip.svg)
   /// fill: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-zip.svg)
   /// duotone: ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip.svg)
-  static PiconData get fileZip {
+  static Object get fileZip {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fileZip;
@@ -13963,7 +13962,7 @@ class Picons {
   /// bold: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/files.svg)
   /// fill: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/files.svg)
   /// duotone: ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files.svg)
-  static PiconData get files {
+  static Object get files {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.files;
@@ -13986,7 +13985,7 @@ class Picons {
   /// bold: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-reel.svg)
   /// fill: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-reel.svg)
   /// duotone: ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel.svg)
-  static PiconData get filmReel {
+  static Object get filmReel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filmReel;
@@ -14009,7 +14008,7 @@ class Picons {
   /// bold: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-script.svg)
   /// fill: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-script.svg)
   /// duotone: ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script.svg)
-  static PiconData get filmScript {
+  static Object get filmScript {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filmScript;
@@ -14032,7 +14031,7 @@ class Picons {
   /// bold: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-slate.svg)
   /// fill: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-slate.svg)
   /// duotone: ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate.svg)
-  static PiconData get filmSlate {
+  static Object get filmSlate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filmSlate;
@@ -14055,7 +14054,7 @@ class Picons {
   /// bold: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-strip.svg)
   /// fill: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-strip.svg)
   /// duotone: ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip.svg)
-  static PiconData get filmStrip {
+  static Object get filmStrip {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.filmStrip;
@@ -14078,7 +14077,7 @@ class Picons {
   /// bold: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint.svg)
   /// fill: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint.svg)
   /// duotone: ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint.svg)
-  static PiconData get fingerprint {
+  static Object get fingerprint {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fingerprint;
@@ -14101,7 +14100,7 @@ class Picons {
   /// bold: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint-simple.svg)
   /// fill: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint-simple.svg)
   /// duotone: ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple.svg)
-  static PiconData get fingerprintSimple {
+  static Object get fingerprintSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fingerprintSimple;
@@ -14124,7 +14123,7 @@ class Picons {
   /// bold: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/finn-the-human.svg)
   /// fill: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/finn-the-human.svg)
   /// duotone: ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human.svg)
-  static PiconData get finnTheHuman {
+  static Object get finnTheHuman {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.finnTheHuman;
@@ -14147,7 +14146,7 @@ class Picons {
   /// bold: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire.svg)
   /// fill: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire.svg)
   /// duotone: ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire.svg)
-  static PiconData get fire {
+  static Object get fire {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fire;
@@ -14170,7 +14169,7 @@ class Picons {
   /// bold: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-extinguisher.svg)
   /// fill: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-extinguisher.svg)
   /// duotone: ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher.svg)
-  static PiconData get fireExtinguisher {
+  static Object get fireExtinguisher {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fireExtinguisher;
@@ -14193,7 +14192,7 @@ class Picons {
   /// bold: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-simple.svg)
   /// fill: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-simple.svg)
   /// duotone: ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple.svg)
-  static PiconData get fireSimple {
+  static Object get fireSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fireSimple;
@@ -14216,7 +14215,7 @@ class Picons {
   /// bold: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-truck.svg)
   /// fill: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-truck.svg)
   /// duotone: ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck.svg)
-  static PiconData get fireTruck {
+  static Object get fireTruck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fireTruck;
@@ -14239,7 +14238,7 @@ class Picons {
   /// bold: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid.svg)
   /// fill: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid.svg)
   /// duotone: ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid.svg)
-  static PiconData get firstAid {
+  static Object get firstAid {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.firstAid;
@@ -14262,7 +14261,7 @@ class Picons {
   /// bold: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid-kit.svg)
   /// fill: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid-kit.svg)
   /// duotone: ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit.svg)
-  static PiconData get firstAidKit {
+  static Object get firstAidKit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.firstAidKit;
@@ -14285,7 +14284,7 @@ class Picons {
   /// bold: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish.svg)
   /// fill: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish.svg)
   /// duotone: ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish.svg)
-  static PiconData get fish {
+  static Object get fish {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fish;
@@ -14308,7 +14307,7 @@ class Picons {
   /// bold: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish-simple.svg)
   /// fill: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish-simple.svg)
   /// duotone: ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple.svg)
-  static PiconData get fishSimple {
+  static Object get fishSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fishSimple;
@@ -14331,7 +14330,7 @@ class Picons {
   /// bold: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag.svg)
   /// fill: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag.svg)
   /// duotone: ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag.svg)
-  static PiconData get flag {
+  static Object get flag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flag;
@@ -14354,7 +14353,7 @@ class Picons {
   /// bold: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner.svg)
   /// fill: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner.svg)
   /// duotone: ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner.svg)
-  static PiconData get flagBanner {
+  static Object get flagBanner {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flagBanner;
@@ -14377,7 +14376,7 @@ class Picons {
   /// bold: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner-fold.svg)
   /// fill: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner-fold.svg)
   /// duotone: ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold.svg)
-  static PiconData get flagBannerFold {
+  static Object get flagBannerFold {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flagBannerFold;
@@ -14400,7 +14399,7 @@ class Picons {
   /// bold: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-checkered.svg)
   /// fill: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-checkered.svg)
   /// duotone: ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered.svg)
-  static PiconData get flagCheckered {
+  static Object get flagCheckered {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flagCheckered;
@@ -14423,7 +14422,7 @@ class Picons {
   /// bold: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-pennant.svg)
   /// fill: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-pennant.svg)
   /// duotone: ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant.svg)
-  static PiconData get flagPennant {
+  static Object get flagPennant {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flagPennant;
@@ -14446,7 +14445,7 @@ class Picons {
   /// bold: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flame.svg)
   /// fill: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flame.svg)
   /// duotone: ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame.svg)
-  static PiconData get flame {
+  static Object get flame {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flame;
@@ -14469,7 +14468,7 @@ class Picons {
   /// bold: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flashlight.svg)
   /// fill: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flashlight.svg)
   /// duotone: ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight.svg)
-  static PiconData get flashlight {
+  static Object get flashlight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flashlight;
@@ -14492,7 +14491,7 @@ class Picons {
   /// bold: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flask.svg)
   /// fill: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flask.svg)
   /// duotone: ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask.svg)
-  static PiconData get flask {
+  static Object get flask {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flask;
@@ -14515,7 +14514,7 @@ class Picons {
   /// bold: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-horizontal.svg)
   /// fill: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-horizontal.svg)
   /// duotone: ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal.svg)
-  static PiconData get flipHorizontal {
+  static Object get flipHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flipHorizontal;
@@ -14538,7 +14537,7 @@ class Picons {
   /// bold: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-vertical.svg)
   /// fill: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-vertical.svg)
   /// duotone: ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical.svg)
-  static PiconData get flipVertical {
+  static Object get flipVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flipVertical;
@@ -14561,7 +14560,7 @@ class Picons {
   /// bold: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk.svg)
   /// fill: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk.svg)
   /// duotone: ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk.svg)
-  static PiconData get floppyDisk {
+  static Object get floppyDisk {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.floppyDisk;
@@ -14584,7 +14583,7 @@ class Picons {
   /// bold: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk-back.svg)
   /// fill: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk-back.svg)
   /// duotone: ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back.svg)
-  static PiconData get floppyDiskBack {
+  static Object get floppyDiskBack {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.floppyDiskBack;
@@ -14607,7 +14606,7 @@ class Picons {
   /// bold: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flow-arrow.svg)
   /// fill: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flow-arrow.svg)
   /// duotone: ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow.svg)
-  static PiconData get flowArrow {
+  static Object get flowArrow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flowArrow;
@@ -14630,7 +14629,7 @@ class Picons {
   /// bold: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower.svg)
   /// fill: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower.svg)
   /// duotone: ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower.svg)
-  static PiconData get flower {
+  static Object get flower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flower;
@@ -14653,7 +14652,7 @@ class Picons {
   /// bold: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-lotus.svg)
   /// fill: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-lotus.svg)
   /// duotone: ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus.svg)
-  static PiconData get flowerLotus {
+  static Object get flowerLotus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flowerLotus;
@@ -14676,7 +14675,7 @@ class Picons {
   /// bold: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-tulip.svg)
   /// fill: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-tulip.svg)
   /// duotone: ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip.svg)
-  static PiconData get flowerTulip {
+  static Object get flowerTulip {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flowerTulip;
@@ -14699,7 +14698,7 @@ class Picons {
   /// bold: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flying-saucer.svg)
   /// fill: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flying-saucer.svg)
   /// duotone: ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer.svg)
-  static PiconData get flyingSaucer {
+  static Object get flyingSaucer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.flyingSaucer;
@@ -14722,7 +14721,7 @@ class Picons {
   /// bold: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder.svg)
   /// fill: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder.svg)
   /// duotone: ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder.svg)
-  static PiconData get folder {
+  static Object get folder {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folder;
@@ -14745,7 +14744,7 @@ class Picons {
   /// bold: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-dashed.svg)
   /// fill: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-dashed.svg)
   /// duotone: ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed.svg)
-  static PiconData get folderDashed {
+  static Object get folderDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderDashed;
@@ -14768,7 +14767,7 @@ class Picons {
   /// bold: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-lock.svg)
   /// fill: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-lock.svg)
   /// duotone: ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock.svg)
-  static PiconData get folderLock {
+  static Object get folderLock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderLock;
@@ -14791,7 +14790,7 @@ class Picons {
   /// bold: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-minus.svg)
   /// fill: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-minus.svg)
   /// duotone: ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus.svg)
-  static PiconData get folderMinus {
+  static Object get folderMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderMinus;
@@ -14814,7 +14813,7 @@ class Picons {
   /// bold: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-open.svg)
   /// fill: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-open.svg)
   /// duotone: ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open.svg)
-  static PiconData get folderOpen {
+  static Object get folderOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderOpen;
@@ -14837,7 +14836,7 @@ class Picons {
   /// bold: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-plus.svg)
   /// fill: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-plus.svg)
   /// duotone: ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus.svg)
-  static PiconData get folderPlus {
+  static Object get folderPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderPlus;
@@ -14860,7 +14859,7 @@ class Picons {
   /// bold: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple.svg)
   /// fill: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple.svg)
   /// duotone: ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple.svg)
-  static PiconData get folderSimple {
+  static Object get folderSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimple;
@@ -14883,7 +14882,7 @@ class Picons {
   /// bold: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-dashed.svg)
   /// fill: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-dashed.svg)
   /// duotone: ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed.svg)
-  static PiconData get folderSimpleDashed {
+  static Object get folderSimpleDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimpleDashed;
@@ -14906,7 +14905,7 @@ class Picons {
   /// bold: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-lock.svg)
   /// fill: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-lock.svg)
   /// duotone: ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock.svg)
-  static PiconData get folderSimpleLock {
+  static Object get folderSimpleLock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimpleLock;
@@ -14929,7 +14928,7 @@ class Picons {
   /// bold: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-minus.svg)
   /// fill: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-minus.svg)
   /// duotone: ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus.svg)
-  static PiconData get folderSimpleMinus {
+  static Object get folderSimpleMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimpleMinus;
@@ -14952,7 +14951,7 @@ class Picons {
   /// bold: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-plus.svg)
   /// fill: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-plus.svg)
   /// duotone: ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus.svg)
-  static PiconData get folderSimplePlus {
+  static Object get folderSimplePlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimplePlus;
@@ -14975,7 +14974,7 @@ class Picons {
   /// bold: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-star.svg)
   /// fill: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-star.svg)
   /// duotone: ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star.svg)
-  static PiconData get folderSimpleStar {
+  static Object get folderSimpleStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimpleStar;
@@ -14998,7 +14997,7 @@ class Picons {
   /// bold: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-user.svg)
   /// fill: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-user.svg)
   /// duotone: ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user.svg)
-  static PiconData get folderSimpleUser {
+  static Object get folderSimpleUser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderSimpleUser;
@@ -15021,7 +15020,7 @@ class Picons {
   /// bold: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-star.svg)
   /// fill: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-star.svg)
   /// duotone: ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star.svg)
-  static PiconData get folderStar {
+  static Object get folderStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderStar;
@@ -15044,7 +15043,7 @@ class Picons {
   /// bold: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-user.svg)
   /// fill: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-user.svg)
   /// duotone: ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user.svg)
-  static PiconData get folderUser {
+  static Object get folderUser {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folderUser;
@@ -15067,7 +15066,7 @@ class Picons {
   /// bold: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folders.svg)
   /// fill: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folders.svg)
   /// duotone: ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders.svg)
-  static PiconData get folders {
+  static Object get folders {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.folders;
@@ -15090,7 +15089,7 @@ class Picons {
   /// bold: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football.svg)
   /// fill: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football.svg)
   /// duotone: ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football.svg)
-  static PiconData get football {
+  static Object get football {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.football;
@@ -15113,7 +15112,7 @@ class Picons {
   /// bold: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football-helmet.svg)
   /// fill: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football-helmet.svg)
   /// duotone: ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet.svg)
-  static PiconData get footballHelmet {
+  static Object get footballHelmet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.footballHelmet;
@@ -15136,7 +15135,7 @@ class Picons {
   /// bold: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/footprints.svg)
   /// fill: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/footprints.svg)
   /// duotone: ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints.svg)
-  static PiconData get footprints {
+  static Object get footprints {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.footprints;
@@ -15159,7 +15158,7 @@ class Picons {
   /// bold: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fork-knife.svg)
   /// fill: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fork-knife.svg)
   /// duotone: ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife.svg)
-  static PiconData get forkKnife {
+  static Object get forkKnife {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.forkKnife;
@@ -15182,7 +15181,7 @@ class Picons {
   /// bold: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/four-k.svg)
   /// fill: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/four-k.svg)
   /// duotone: ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k.svg)
-  static PiconData get fourK {
+  static Object get fourK {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.fourK;
@@ -15205,7 +15204,7 @@ class Picons {
   /// bold: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/frame-corners.svg)
   /// fill: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/frame-corners.svg)
   /// duotone: ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners.svg)
-  static PiconData get frameCorners {
+  static Object get frameCorners {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.frameCorners;
@@ -15228,7 +15227,7 @@ class Picons {
   /// bold: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/framer-logo.svg)
   /// fill: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/framer-logo.svg)
   /// duotone: ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo.svg)
-  static PiconData get framerLogo {
+  static Object get framerLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.framerLogo;
@@ -15251,7 +15250,7 @@ class Picons {
   /// bold: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/function.svg)
   /// fill: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/function.svg)
   /// duotone: ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function.svg)
-  static PiconData get function {
+  static Object get function {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.function;
@@ -15274,7 +15273,7 @@ class Picons {
   /// bold: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel.svg)
   /// fill: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel.svg)
   /// duotone: ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel.svg)
-  static PiconData get funnel {
+  static Object get funnel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.funnel;
@@ -15297,7 +15296,7 @@ class Picons {
   /// bold: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple.svg)
   /// fill: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple.svg)
   /// duotone: ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple.svg)
-  static PiconData get funnelSimple {
+  static Object get funnelSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.funnelSimple;
@@ -15320,7 +15319,7 @@ class Picons {
   /// bold: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple-x.svg)
   /// fill: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple-x.svg)
   /// duotone: ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x.svg)
-  static PiconData get funnelSimpleX {
+  static Object get funnelSimpleX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.funnelSimpleX;
@@ -15343,7 +15342,7 @@ class Picons {
   /// bold: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-x.svg)
   /// fill: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-x.svg)
   /// duotone: ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x.svg)
-  static PiconData get funnelX {
+  static Object get funnelX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.funnelX;
@@ -15366,7 +15365,7 @@ class Picons {
   /// bold: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/game-controller.svg)
   /// fill: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/game-controller.svg)
   /// duotone: ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller.svg)
-  static PiconData get gameController {
+  static Object get gameController {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gameController;
@@ -15389,7 +15388,7 @@ class Picons {
   /// bold: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/garage.svg)
   /// fill: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/garage.svg)
   /// duotone: ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage.svg)
-  static PiconData get garage {
+  static Object get garage {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.garage;
@@ -15412,7 +15411,7 @@ class Picons {
   /// bold: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-can.svg)
   /// fill: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-can.svg)
   /// duotone: ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can.svg)
-  static PiconData get gasCan {
+  static Object get gasCan {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gasCan;
@@ -15435,7 +15434,7 @@ class Picons {
   /// bold: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-pump.svg)
   /// fill: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-pump.svg)
   /// duotone: ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump.svg)
-  static PiconData get gasPump {
+  static Object get gasPump {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gasPump;
@@ -15458,7 +15457,7 @@ class Picons {
   /// bold: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gauge.svg)
   /// fill: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gauge.svg)
   /// duotone: ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge.svg)
-  static PiconData get gauge {
+  static Object get gauge {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gauge;
@@ -15481,7 +15480,7 @@ class Picons {
   /// bold: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gavel.svg)
   /// fill: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gavel.svg)
   /// duotone: ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel.svg)
-  static PiconData get gavel {
+  static Object get gavel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gavel;
@@ -15504,7 +15503,7 @@ class Picons {
   /// bold: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear.svg)
   /// fill: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear.svg)
   /// duotone: ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear.svg)
-  static PiconData get gear {
+  static Object get gear {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gear;
@@ -15527,7 +15526,7 @@ class Picons {
   /// bold: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-fine.svg)
   /// fill: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-fine.svg)
   /// duotone: ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine.svg)
-  static PiconData get gearFine {
+  static Object get gearFine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gearFine;
@@ -15550,7 +15549,7 @@ class Picons {
   /// bold: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-six.svg)
   /// fill: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-six.svg)
   /// duotone: ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six.svg)
-  static PiconData get gearSix {
+  static Object get gearSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gearSix;
@@ -15573,7 +15572,7 @@ class Picons {
   /// bold: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-female.svg)
   /// fill: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-female.svg)
   /// duotone: ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female.svg)
-  static PiconData get genderFemale {
+  static Object get genderFemale {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderFemale;
@@ -15596,7 +15595,7 @@ class Picons {
   /// bold: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-intersex.svg)
   /// fill: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-intersex.svg)
   /// duotone: ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex.svg)
-  static PiconData get genderIntersex {
+  static Object get genderIntersex {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderIntersex;
@@ -15619,7 +15618,7 @@ class Picons {
   /// bold: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-male.svg)
   /// fill: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-male.svg)
   /// duotone: ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male.svg)
-  static PiconData get genderMale {
+  static Object get genderMale {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderMale;
@@ -15642,7 +15641,7 @@ class Picons {
   /// bold: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-neuter.svg)
   /// fill: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-neuter.svg)
   /// duotone: ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter.svg)
-  static PiconData get genderNeuter {
+  static Object get genderNeuter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderNeuter;
@@ -15665,7 +15664,7 @@ class Picons {
   /// bold: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-nonbinary.svg)
   /// fill: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-nonbinary.svg)
   /// duotone: ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary.svg)
-  static PiconData get genderNonbinary {
+  static Object get genderNonbinary {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderNonbinary;
@@ -15688,7 +15687,7 @@ class Picons {
   /// bold: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-transgender.svg)
   /// fill: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-transgender.svg)
   /// duotone: ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender.svg)
-  static PiconData get genderTransgender {
+  static Object get genderTransgender {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.genderTransgender;
@@ -15711,7 +15710,7 @@ class Picons {
   /// bold: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ghost.svg)
   /// fill: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ghost.svg)
   /// duotone: ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost.svg)
-  static PiconData get ghost {
+  static Object get ghost {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ghost;
@@ -15734,7 +15733,7 @@ class Picons {
   /// bold: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gif.svg)
   /// fill: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gif.svg)
   /// duotone: ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif.svg)
-  static PiconData get gif {
+  static Object get gif {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gif;
@@ -15757,7 +15756,7 @@ class Picons {
   /// bold: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gift.svg)
   /// fill: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gift.svg)
   /// duotone: ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift.svg)
-  static PiconData get gift {
+  static Object get gift {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gift;
@@ -15780,7 +15779,7 @@ class Picons {
   /// bold: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-branch.svg)
   /// fill: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-branch.svg)
   /// duotone: ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch.svg)
-  static PiconData get gitBranch {
+  static Object get gitBranch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitBranch;
@@ -15803,7 +15802,7 @@ class Picons {
   /// bold: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-commit.svg)
   /// fill: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-commit.svg)
   /// duotone: ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit.svg)
-  static PiconData get gitCommit {
+  static Object get gitCommit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitCommit;
@@ -15826,7 +15825,7 @@ class Picons {
   /// bold: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-diff.svg)
   /// fill: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-diff.svg)
   /// duotone: ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff.svg)
-  static PiconData get gitDiff {
+  static Object get gitDiff {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitDiff;
@@ -15849,7 +15848,7 @@ class Picons {
   /// bold: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-fork.svg)
   /// fill: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-fork.svg)
   /// duotone: ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork.svg)
-  static PiconData get gitFork {
+  static Object get gitFork {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitFork;
@@ -15872,7 +15871,7 @@ class Picons {
   /// bold: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-merge.svg)
   /// fill: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-merge.svg)
   /// duotone: ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge.svg)
-  static PiconData get gitMerge {
+  static Object get gitMerge {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitMerge;
@@ -15895,7 +15894,7 @@ class Picons {
   /// bold: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-pull-request.svg)
   /// fill: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-pull-request.svg)
   /// duotone: ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request.svg)
-  static PiconData get gitPullRequest {
+  static Object get gitPullRequest {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitPullRequest;
@@ -15918,7 +15917,7 @@ class Picons {
   /// bold: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/github-logo.svg)
   /// fill: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/github-logo.svg)
   /// duotone: ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo.svg)
-  static PiconData get githubLogo {
+  static Object get githubLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.githubLogo;
@@ -15941,7 +15940,7 @@ class Picons {
   /// bold: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo.svg)
   /// fill: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo.svg)
   /// duotone: ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo.svg)
-  static PiconData get gitlabLogo {
+  static Object get gitlabLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitlabLogo;
@@ -15964,7 +15963,7 @@ class Picons {
   /// bold: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo-simple.svg)
   /// fill: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo-simple.svg)
   /// duotone: ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple.svg)
-  static PiconData get gitlabLogoSimple {
+  static Object get gitlabLogoSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gitlabLogoSimple;
@@ -15987,7 +15986,7 @@ class Picons {
   /// bold: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe.svg)
   /// fill: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe.svg)
   /// duotone: ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe.svg)
-  static PiconData get globe {
+  static Object get globe {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globe;
@@ -16010,7 +16009,7 @@ class Picons {
   /// bold: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-east.svg)
   /// fill: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-east.svg)
   /// duotone: ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east.svg)
-  static PiconData get globeHemisphereEast {
+  static Object get globeHemisphereEast {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeHemisphereEast;
@@ -16033,7 +16032,7 @@ class Picons {
   /// bold: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-west.svg)
   /// fill: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-west.svg)
   /// duotone: ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west.svg)
-  static PiconData get globeHemisphereWest {
+  static Object get globeHemisphereWest {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeHemisphereWest;
@@ -16056,7 +16055,7 @@ class Picons {
   /// bold: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple.svg)
   /// fill: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple.svg)
   /// duotone: ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple.svg)
-  static PiconData get globeSimple {
+  static Object get globeSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeSimple;
@@ -16079,7 +16078,7 @@ class Picons {
   /// bold: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple-x.svg)
   /// fill: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple-x.svg)
   /// duotone: ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x.svg)
-  static PiconData get globeSimpleX {
+  static Object get globeSimpleX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeSimpleX;
@@ -16102,7 +16101,7 @@ class Picons {
   /// bold: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-stand.svg)
   /// fill: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-stand.svg)
   /// duotone: ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand.svg)
-  static PiconData get globeStand {
+  static Object get globeStand {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeStand;
@@ -16125,7 +16124,7 @@ class Picons {
   /// bold: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-x.svg)
   /// fill: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-x.svg)
   /// duotone: ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x.svg)
-  static PiconData get globeX {
+  static Object get globeX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.globeX;
@@ -16148,7 +16147,7 @@ class Picons {
   /// bold: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goggles.svg)
   /// fill: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goggles.svg)
   /// duotone: ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles.svg)
-  static PiconData get goggles {
+  static Object get goggles {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.goggles;
@@ -16171,7 +16170,7 @@ class Picons {
   /// bold: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/golf.svg)
   /// fill: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/golf.svg)
   /// duotone: ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf.svg)
-  static PiconData get golf {
+  static Object get golf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.golf;
@@ -16194,7 +16193,7 @@ class Picons {
   /// bold: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goodreads-logo.svg)
   /// fill: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goodreads-logo.svg)
   /// duotone: ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo.svg)
-  static PiconData get goodreadsLogo {
+  static Object get goodreadsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.goodreadsLogo;
@@ -16217,7 +16216,7 @@ class Picons {
   /// bold: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-cardboard-logo.svg)
   /// fill: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-cardboard-logo.svg)
   /// duotone: ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo.svg)
-  static PiconData get googleCardboardLogo {
+  static Object get googleCardboardLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googleCardboardLogo;
@@ -16240,7 +16239,7 @@ class Picons {
   /// bold: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-chrome-logo.svg)
   /// fill: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-chrome-logo.svg)
   /// duotone: ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo.svg)
-  static PiconData get googleChromeLogo {
+  static Object get googleChromeLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googleChromeLogo;
@@ -16263,7 +16262,7 @@ class Picons {
   /// bold: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-drive-logo.svg)
   /// fill: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-drive-logo.svg)
   /// duotone: ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo.svg)
-  static PiconData get googleDriveLogo {
+  static Object get googleDriveLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googleDriveLogo;
@@ -16286,7 +16285,7 @@ class Picons {
   /// bold: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-logo.svg)
   /// fill: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-logo.svg)
   /// duotone: ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo.svg)
-  static PiconData get googleLogo {
+  static Object get googleLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googleLogo;
@@ -16309,7 +16308,7 @@ class Picons {
   /// bold: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-photos-logo.svg)
   /// fill: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-photos-logo.svg)
   /// duotone: ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo.svg)
-  static PiconData get googlePhotosLogo {
+  static Object get googlePhotosLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googlePhotosLogo;
@@ -16332,7 +16331,7 @@ class Picons {
   /// bold: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-play-logo.svg)
   /// fill: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-play-logo.svg)
   /// duotone: ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo.svg)
-  static PiconData get googlePlayLogo {
+  static Object get googlePlayLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googlePlayLogo;
@@ -16355,7 +16354,7 @@ class Picons {
   /// bold: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-podcasts-logo.svg)
   /// fill: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-podcasts-logo.svg)
   /// duotone: ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo.svg)
-  static PiconData get googlePodcastsLogo {
+  static Object get googlePodcastsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.googlePodcastsLogo;
@@ -16378,7 +16377,7 @@ class Picons {
   /// bold: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps.svg)
   /// fill: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps.svg)
   /// duotone: ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps.svg)
-  static PiconData get gps {
+  static Object get gps {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gps;
@@ -16401,7 +16400,7 @@ class Picons {
   /// bold: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-fix.svg)
   /// fill: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-fix.svg)
   /// duotone: ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix.svg)
-  static PiconData get gpsFix {
+  static Object get gpsFix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gpsFix;
@@ -16424,7 +16423,7 @@ class Picons {
   /// bold: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-slash.svg)
   /// fill: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-slash.svg)
   /// duotone: ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash.svg)
-  static PiconData get gpsSlash {
+  static Object get gpsSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gpsSlash;
@@ -16447,7 +16446,7 @@ class Picons {
   /// bold: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gradient.svg)
   /// fill: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gradient.svg)
   /// duotone: ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient.svg)
-  static PiconData get gradient {
+  static Object get gradient {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gradient;
@@ -16470,7 +16469,7 @@ class Picons {
   /// bold: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graduation-cap.svg)
   /// fill: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graduation-cap.svg)
   /// duotone: ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap.svg)
-  static PiconData get graduationCap {
+  static Object get graduationCap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.graduationCap;
@@ -16493,7 +16492,7 @@ class Picons {
   /// bold: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains.svg)
   /// fill: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains.svg)
   /// duotone: ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains.svg)
-  static PiconData get grains {
+  static Object get grains {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.grains;
@@ -16516,7 +16515,7 @@ class Picons {
   /// bold: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains-slash.svg)
   /// fill: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains-slash.svg)
   /// duotone: ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash.svg)
-  static PiconData get grainsSlash {
+  static Object get grainsSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.grainsSlash;
@@ -16539,7 +16538,7 @@ class Picons {
   /// bold: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graph.svg)
   /// fill: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graph.svg)
   /// duotone: ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph.svg)
-  static PiconData get graph {
+  static Object get graph {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.graph;
@@ -16562,7 +16561,7 @@ class Picons {
   /// bold: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graphics-card.svg)
   /// fill: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graphics-card.svg)
   /// duotone: ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card.svg)
-  static PiconData get graphicsCard {
+  static Object get graphicsCard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.graphicsCard;
@@ -16585,7 +16584,7 @@ class Picons {
   /// bold: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than.svg)
   /// fill: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than.svg)
   /// duotone: ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than.svg)
-  static PiconData get greaterThan {
+  static Object get greaterThan {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.greaterThan;
@@ -16608,7 +16607,7 @@ class Picons {
   /// bold: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than-or-equal.svg)
   /// fill: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than-or-equal.svg)
   /// duotone: ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal.svg)
-  static PiconData get greaterThanOrEqual {
+  static Object get greaterThanOrEqual {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.greaterThanOrEqual;
@@ -16631,7 +16630,7 @@ class Picons {
   /// bold: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-four.svg)
   /// fill: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-four.svg)
   /// duotone: ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four.svg)
-  static PiconData get gridFour {
+  static Object get gridFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gridFour;
@@ -16654,7 +16653,7 @@ class Picons {
   /// bold: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-nine.svg)
   /// fill: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-nine.svg)
   /// duotone: ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine.svg)
-  static PiconData get gridNine {
+  static Object get gridNine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.gridNine;
@@ -16677,7 +16676,7 @@ class Picons {
   /// bold: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/guitar.svg)
   /// fill: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/guitar.svg)
   /// duotone: ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar.svg)
-  static PiconData get guitar {
+  static Object get guitar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.guitar;
@@ -16700,7 +16699,7 @@ class Picons {
   /// bold: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hair-dryer.svg)
   /// fill: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hair-dryer.svg)
   /// duotone: ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer.svg)
-  static PiconData get hairDryer {
+  static Object get hairDryer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hairDryer;
@@ -16723,7 +16722,7 @@ class Picons {
   /// bold: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hamburger.svg)
   /// fill: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hamburger.svg)
   /// duotone: ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger.svg)
-  static PiconData get hamburger {
+  static Object get hamburger {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hamburger;
@@ -16746,7 +16745,7 @@ class Picons {
   /// bold: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hammer.svg)
   /// fill: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hammer.svg)
   /// duotone: ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer.svg)
-  static PiconData get hammer {
+  static Object get hammer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hammer;
@@ -16769,7 +16768,7 @@ class Picons {
   /// bold: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand.svg)
   /// fill: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand.svg)
   /// duotone: ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand.svg)
-  static PiconData get hand {
+  static Object get hand {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hand;
@@ -16792,7 +16791,7 @@ class Picons {
   /// bold: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-down.svg)
   /// fill: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-down.svg)
   /// duotone: ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down.svg)
-  static PiconData get handArrowDown {
+  static Object get handArrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handArrowDown;
@@ -16815,7 +16814,7 @@ class Picons {
   /// bold: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-up.svg)
   /// fill: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-up.svg)
   /// duotone: ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up.svg)
-  static PiconData get handArrowUp {
+  static Object get handArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handArrowUp;
@@ -16838,7 +16837,7 @@ class Picons {
   /// bold: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-coins.svg)
   /// fill: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-coins.svg)
   /// duotone: ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins.svg)
-  static PiconData get handCoins {
+  static Object get handCoins {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handCoins;
@@ -16861,7 +16860,7 @@ class Picons {
   /// bold: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-deposit.svg)
   /// fill: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-deposit.svg)
   /// duotone: ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit.svg)
-  static PiconData get handDeposit {
+  static Object get handDeposit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handDeposit;
@@ -16884,7 +16883,7 @@ class Picons {
   /// bold: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-eye.svg)
   /// fill: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-eye.svg)
   /// duotone: ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye.svg)
-  static PiconData get handEye {
+  static Object get handEye {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handEye;
@@ -16907,7 +16906,7 @@ class Picons {
   /// bold: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-fist.svg)
   /// fill: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-fist.svg)
   /// duotone: ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist.svg)
-  static PiconData get handFist {
+  static Object get handFist {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handFist;
@@ -16930,7 +16929,7 @@ class Picons {
   /// bold: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-grabbing.svg)
   /// fill: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-grabbing.svg)
   /// duotone: ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing.svg)
-  static PiconData get handGrabbing {
+  static Object get handGrabbing {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handGrabbing;
@@ -16953,7 +16952,7 @@ class Picons {
   /// bold: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-heart.svg)
   /// fill: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-heart.svg)
   /// duotone: ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart.svg)
-  static PiconData get handHeart {
+  static Object get handHeart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handHeart;
@@ -16976,7 +16975,7 @@ class Picons {
   /// bold: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-palm.svg)
   /// fill: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-palm.svg)
   /// duotone: ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm.svg)
-  static PiconData get handPalm {
+  static Object get handPalm {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handPalm;
@@ -16999,7 +16998,7 @@ class Picons {
   /// bold: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-peace.svg)
   /// fill: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-peace.svg)
   /// duotone: ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace.svg)
-  static PiconData get handPeace {
+  static Object get handPeace {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handPeace;
@@ -17022,7 +17021,7 @@ class Picons {
   /// bold: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-pointing.svg)
   /// fill: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-pointing.svg)
   /// duotone: ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing.svg)
-  static PiconData get handPointing {
+  static Object get handPointing {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handPointing;
@@ -17045,7 +17044,7 @@ class Picons {
   /// bold: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-soap.svg)
   /// fill: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-soap.svg)
   /// duotone: ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap.svg)
-  static PiconData get handSoap {
+  static Object get handSoap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handSoap;
@@ -17068,7 +17067,7 @@ class Picons {
   /// bold: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-left.svg)
   /// fill: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-left.svg)
   /// duotone: ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left.svg)
-  static PiconData get handSwipeLeft {
+  static Object get handSwipeLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handSwipeLeft;
@@ -17091,7 +17090,7 @@ class Picons {
   /// bold: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-right.svg)
   /// fill: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-right.svg)
   /// duotone: ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right.svg)
-  static PiconData get handSwipeRight {
+  static Object get handSwipeRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handSwipeRight;
@@ -17114,7 +17113,7 @@ class Picons {
   /// bold: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-tap.svg)
   /// fill: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-tap.svg)
   /// duotone: ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap.svg)
-  static PiconData get handTap {
+  static Object get handTap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handTap;
@@ -17137,7 +17136,7 @@ class Picons {
   /// bold: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-waving.svg)
   /// fill: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-waving.svg)
   /// duotone: ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving.svg)
-  static PiconData get handWaving {
+  static Object get handWaving {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handWaving;
@@ -17160,7 +17159,7 @@ class Picons {
   /// bold: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-withdraw.svg)
   /// fill: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-withdraw.svg)
   /// duotone: ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw.svg)
-  static PiconData get handWithdraw {
+  static Object get handWithdraw {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handWithdraw;
@@ -17183,7 +17182,7 @@ class Picons {
   /// bold: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag.svg)
   /// fill: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag.svg)
   /// duotone: ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag.svg)
-  static PiconData get handbag {
+  static Object get handbag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handbag;
@@ -17206,7 +17205,7 @@ class Picons {
   /// bold: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag-simple.svg)
   /// fill: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag-simple.svg)
   /// duotone: ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple.svg)
-  static PiconData get handbagSimple {
+  static Object get handbagSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handbagSimple;
@@ -17229,7 +17228,7 @@ class Picons {
   /// bold: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-clapping.svg)
   /// fill: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-clapping.svg)
   /// duotone: ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping.svg)
-  static PiconData get handsClapping {
+  static Object get handsClapping {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handsClapping;
@@ -17252,7 +17251,7 @@ class Picons {
   /// bold: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-praying.svg)
   /// fill: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-praying.svg)
   /// duotone: ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying.svg)
-  static PiconData get handsPraying {
+  static Object get handsPraying {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handsPraying;
@@ -17275,7 +17274,7 @@ class Picons {
   /// bold: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handshake.svg)
   /// fill: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handshake.svg)
   /// duotone: ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake.svg)
-  static PiconData get handshake {
+  static Object get handshake {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.handshake;
@@ -17298,7 +17297,7 @@ class Picons {
   /// bold: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drive.svg)
   /// fill: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drive.svg)
   /// duotone: ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive.svg)
-  static PiconData get hardDrive {
+  static Object get hardDrive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hardDrive;
@@ -17321,7 +17320,7 @@ class Picons {
   /// bold: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drives.svg)
   /// fill: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drives.svg)
   /// duotone: ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives.svg)
-  static PiconData get hardDrives {
+  static Object get hardDrives {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hardDrives;
@@ -17344,7 +17343,7 @@ class Picons {
   /// bold: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-hat.svg)
   /// fill: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-hat.svg)
   /// duotone: ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat.svg)
-  static PiconData get hardHat {
+  static Object get hardHat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hardHat;
@@ -17367,7 +17366,7 @@ class Picons {
   /// bold: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash.svg)
   /// fill: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash.svg)
   /// duotone: ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash.svg)
-  static PiconData get hash {
+  static Object get hash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hash;
@@ -17390,7 +17389,7 @@ class Picons {
   /// bold: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash-straight.svg)
   /// fill: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash-straight.svg)
   /// duotone: ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight.svg)
-  static PiconData get hashStraight {
+  static Object get hashStraight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hashStraight;
@@ -17413,7 +17412,7 @@ class Picons {
   /// bold: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/head-circuit.svg)
   /// fill: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/head-circuit.svg)
   /// duotone: ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit.svg)
-  static PiconData get headCircuit {
+  static Object get headCircuit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.headCircuit;
@@ -17436,7 +17435,7 @@ class Picons {
   /// bold: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headlights.svg)
   /// fill: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headlights.svg)
   /// duotone: ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights.svg)
-  static PiconData get headlights {
+  static Object get headlights {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.headlights;
@@ -17459,7 +17458,7 @@ class Picons {
   /// bold: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headphones.svg)
   /// fill: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headphones.svg)
   /// duotone: ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones.svg)
-  static PiconData get headphones {
+  static Object get headphones {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.headphones;
@@ -17482,7 +17481,7 @@ class Picons {
   /// bold: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headset.svg)
   /// fill: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headset.svg)
   /// duotone: ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset.svg)
-  static PiconData get headset {
+  static Object get headset {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.headset;
@@ -17505,7 +17504,7 @@ class Picons {
   /// bold: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart.svg)
   /// fill: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart.svg)
   /// duotone: ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart.svg)
-  static PiconData get heart {
+  static Object get heart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heart;
@@ -17528,7 +17527,7 @@ class Picons {
   /// bold: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-break.svg)
   /// fill: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-break.svg)
   /// duotone: ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break.svg)
-  static PiconData get heartBreak {
+  static Object get heartBreak {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heartBreak;
@@ -17551,7 +17550,7 @@ class Picons {
   /// bold: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-half.svg)
   /// fill: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-half.svg)
   /// duotone: ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half.svg)
-  static PiconData get heartHalf {
+  static Object get heartHalf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heartHalf;
@@ -17574,7 +17573,7 @@ class Picons {
   /// bold: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight.svg)
   /// fill: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight.svg)
   /// duotone: ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight.svg)
-  static PiconData get heartStraight {
+  static Object get heartStraight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heartStraight;
@@ -17597,7 +17596,7 @@ class Picons {
   /// bold: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight-break.svg)
   /// fill: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight-break.svg)
   /// duotone: ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break.svg)
-  static PiconData get heartStraightBreak {
+  static Object get heartStraightBreak {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heartStraightBreak;
@@ -17620,7 +17619,7 @@ class Picons {
   /// bold: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heartbeat.svg)
   /// fill: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heartbeat.svg)
   /// duotone: ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat.svg)
-  static PiconData get heartbeat {
+  static Object get heartbeat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.heartbeat;
@@ -17643,7 +17642,7 @@ class Picons {
   /// bold: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hexagon.svg)
   /// fill: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hexagon.svg)
   /// duotone: ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon.svg)
-  static PiconData get hexagon {
+  static Object get hexagon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hexagon;
@@ -17666,7 +17665,7 @@ class Picons {
   /// bold: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-definition.svg)
   /// fill: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-definition.svg)
   /// duotone: ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition.svg)
-  static PiconData get highDefinition {
+  static Object get highDefinition {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.highDefinition;
@@ -17689,7 +17688,7 @@ class Picons {
   /// bold: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-heel.svg)
   /// fill: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-heel.svg)
   /// duotone: ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel.svg)
-  static PiconData get highHeel {
+  static Object get highHeel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.highHeel;
@@ -17712,7 +17711,7 @@ class Picons {
   /// bold: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter.svg)
   /// fill: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter.svg)
   /// duotone: ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter.svg)
-  static PiconData get highlighter {
+  static Object get highlighter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.highlighter;
@@ -17735,7 +17734,7 @@ class Picons {
   /// bold: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter-circle.svg)
   /// fill: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter-circle.svg)
   /// duotone: ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle.svg)
-  static PiconData get highlighterCircle {
+  static Object get highlighterCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.highlighterCircle;
@@ -17758,7 +17757,7 @@ class Picons {
   /// bold: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hockey.svg)
   /// fill: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hockey.svg)
   /// duotone: ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey.svg)
-  static PiconData get hockey {
+  static Object get hockey {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hockey;
@@ -17781,7 +17780,7 @@ class Picons {
   /// bold: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hoodie.svg)
   /// fill: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hoodie.svg)
   /// duotone: ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie.svg)
-  static PiconData get hoodie {
+  static Object get hoodie {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hoodie;
@@ -17804,7 +17803,7 @@ class Picons {
   /// bold: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/horse.svg)
   /// fill: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/horse.svg)
   /// duotone: ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse.svg)
-  static PiconData get horse {
+  static Object get horse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.horse;
@@ -17827,7 +17826,7 @@ class Picons {
   /// bold: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hospital.svg)
   /// fill: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hospital.svg)
   /// duotone: ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital.svg)
-  static PiconData get hospital {
+  static Object get hospital {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hospital;
@@ -17850,7 +17849,7 @@ class Picons {
   /// bold: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass.svg)
   /// fill: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass.svg)
   /// duotone: ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass.svg)
-  static PiconData get hourglass {
+  static Object get hourglass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglass;
@@ -17873,7 +17872,7 @@ class Picons {
   /// bold: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-high.svg)
   /// fill: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-high.svg)
   /// duotone: ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high.svg)
-  static PiconData get hourglassHigh {
+  static Object get hourglassHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassHigh;
@@ -17896,7 +17895,7 @@ class Picons {
   /// bold: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-low.svg)
   /// fill: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-low.svg)
   /// duotone: ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low.svg)
-  static PiconData get hourglassLow {
+  static Object get hourglassLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassLow;
@@ -17919,7 +17918,7 @@ class Picons {
   /// bold: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-medium.svg)
   /// fill: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-medium.svg)
   /// duotone: ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium.svg)
-  static PiconData get hourglassMedium {
+  static Object get hourglassMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassMedium;
@@ -17942,7 +17941,7 @@ class Picons {
   /// bold: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple.svg)
   /// fill: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple.svg)
   /// duotone: ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple.svg)
-  static PiconData get hourglassSimple {
+  static Object get hourglassSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassSimple;
@@ -17965,7 +17964,7 @@ class Picons {
   /// bold: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-high.svg)
   /// fill: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-high.svg)
   /// duotone: ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high.svg)
-  static PiconData get hourglassSimpleHigh {
+  static Object get hourglassSimpleHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassSimpleHigh;
@@ -17988,7 +17987,7 @@ class Picons {
   /// bold: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-low.svg)
   /// fill: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-low.svg)
   /// duotone: ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low.svg)
-  static PiconData get hourglassSimpleLow {
+  static Object get hourglassSimpleLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassSimpleLow;
@@ -18011,7 +18010,7 @@ class Picons {
   /// bold: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-medium.svg)
   /// fill: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-medium.svg)
   /// duotone: ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium.svg)
-  static PiconData get hourglassSimpleMedium {
+  static Object get hourglassSimpleMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hourglassSimpleMedium;
@@ -18034,7 +18033,7 @@ class Picons {
   /// bold: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house.svg)
   /// fill: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house.svg)
   /// duotone: ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house.svg)
-  static PiconData get house {
+  static Object get house {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.house;
@@ -18057,7 +18056,7 @@ class Picons {
   /// bold: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-line.svg)
   /// fill: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-line.svg)
   /// duotone: ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line.svg)
-  static PiconData get houseLine {
+  static Object get houseLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.houseLine;
@@ -18080,7 +18079,7 @@ class Picons {
   /// bold: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-simple.svg)
   /// fill: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-simple.svg)
   /// duotone: ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple.svg)
-  static PiconData get houseSimple {
+  static Object get houseSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.houseSimple;
@@ -18103,7 +18102,7 @@ class Picons {
   /// bold: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hurricane.svg)
   /// fill: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hurricane.svg)
   /// duotone: ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane.svg)
-  static PiconData get hurricane {
+  static Object get hurricane {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.hurricane;
@@ -18126,7 +18125,7 @@ class Picons {
   /// bold: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ice-cream.svg)
   /// fill: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ice-cream.svg)
   /// duotone: ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream.svg)
-  static PiconData get iceCream {
+  static Object get iceCream {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.iceCream;
@@ -18149,7 +18148,7 @@ class Picons {
   /// bold: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-badge.svg)
   /// fill: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-badge.svg)
   /// duotone: ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge.svg)
-  static PiconData get identificationBadge {
+  static Object get identificationBadge {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.identificationBadge;
@@ -18172,7 +18171,7 @@ class Picons {
   /// bold: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-card.svg)
   /// fill: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-card.svg)
   /// duotone: ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card.svg)
-  static PiconData get identificationCard {
+  static Object get identificationCard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.identificationCard;
@@ -18195,7 +18194,7 @@ class Picons {
   /// bold: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image.svg)
   /// fill: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image.svg)
   /// duotone: ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image.svg)
-  static PiconData get image {
+  static Object get image {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.image;
@@ -18218,7 +18217,7 @@ class Picons {
   /// bold: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-broken.svg)
   /// fill: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-broken.svg)
   /// duotone: ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken.svg)
-  static PiconData get imageBroken {
+  static Object get imageBroken {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.imageBroken;
@@ -18241,7 +18240,7 @@ class Picons {
   /// bold: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-square.svg)
   /// fill: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-square.svg)
   /// duotone: ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square.svg)
-  static PiconData get imageSquare {
+  static Object get imageSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.imageSquare;
@@ -18264,7 +18263,7 @@ class Picons {
   /// bold: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images.svg)
   /// fill: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images.svg)
   /// duotone: ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images.svg)
-  static PiconData get images {
+  static Object get images {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.images;
@@ -18287,7 +18286,7 @@ class Picons {
   /// bold: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images-square.svg)
   /// fill: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images-square.svg)
   /// duotone: ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square.svg)
-  static PiconData get imagesSquare {
+  static Object get imagesSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.imagesSquare;
@@ -18310,7 +18309,7 @@ class Picons {
   /// bold: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/infinity.svg)
   /// fill: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/infinity.svg)
   /// duotone: ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity.svg)
-  static PiconData get infinity {
+  static Object get infinity {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.infinity;
@@ -18333,7 +18332,7 @@ class Picons {
   /// bold: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/info.svg)
   /// fill: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/info.svg)
   /// duotone: ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info.svg)
-  static PiconData get info {
+  static Object get info {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.info;
@@ -18356,7 +18355,7 @@ class Picons {
   /// bold: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/instagram-logo.svg)
   /// fill: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/instagram-logo.svg)
   /// duotone: ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo.svg)
-  static PiconData get instagramLogo {
+  static Object get instagramLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.instagramLogo;
@@ -18379,7 +18378,7 @@ class Picons {
   /// bold: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect.svg)
   /// fill: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect.svg)
   /// duotone: ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect.svg)
-  static PiconData get intersect {
+  static Object get intersect {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.intersect;
@@ -18402,7 +18401,7 @@ class Picons {
   /// bold: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-square.svg)
   /// fill: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-square.svg)
   /// duotone: ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square.svg)
-  static PiconData get intersectSquare {
+  static Object get intersectSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.intersectSquare;
@@ -18425,7 +18424,7 @@ class Picons {
   /// bold: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-three.svg)
   /// fill: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-three.svg)
   /// duotone: ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three.svg)
-  static PiconData get intersectThree {
+  static Object get intersectThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.intersectThree;
@@ -18448,7 +18447,7 @@ class Picons {
   /// bold: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersection.svg)
   /// fill: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersection.svg)
   /// duotone: ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection.svg)
-  static PiconData get intersection {
+  static Object get intersection {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.intersection;
@@ -18471,7 +18470,7 @@ class Picons {
   /// bold: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/invoice.svg)
   /// fill: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/invoice.svg)
   /// duotone: ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice.svg)
-  static PiconData get invoice {
+  static Object get invoice {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.invoice;
@@ -18494,7 +18493,7 @@ class Picons {
   /// bold: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/island.svg)
   /// fill: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/island.svg)
   /// duotone: ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island.svg)
-  static PiconData get island {
+  static Object get island {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.island;
@@ -18517,7 +18516,7 @@ class Picons {
   /// bold: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar.svg)
   /// fill: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar.svg)
   /// duotone: ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar.svg)
-  static PiconData get jar {
+  static Object get jar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.jar;
@@ -18540,7 +18539,7 @@ class Picons {
   /// bold: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar-label.svg)
   /// fill: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar-label.svg)
   /// duotone: ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label.svg)
-  static PiconData get jarLabel {
+  static Object get jarLabel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.jarLabel;
@@ -18563,7 +18562,7 @@ class Picons {
   /// bold: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jeep.svg)
   /// fill: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jeep.svg)
   /// duotone: ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep.svg)
-  static PiconData get jeep {
+  static Object get jeep {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.jeep;
@@ -18586,7 +18585,7 @@ class Picons {
   /// bold: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/joystick.svg)
   /// fill: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/joystick.svg)
   /// duotone: ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick.svg)
-  static PiconData get joystick {
+  static Object get joystick {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.joystick;
@@ -18609,7 +18608,7 @@ class Picons {
   /// bold: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/kanban.svg)
   /// fill: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/kanban.svg)
   /// duotone: ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban.svg)
-  static PiconData get kanban {
+  static Object get kanban {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.kanban;
@@ -18632,7 +18631,7 @@ class Picons {
   /// bold: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key.svg)
   /// fill: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key.svg)
   /// duotone: ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key.svg)
-  static PiconData get key {
+  static Object get key {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.key;
@@ -18655,7 +18654,7 @@ class Picons {
   /// bold: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key-return.svg)
   /// fill: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key-return.svg)
   /// duotone: ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return.svg)
-  static PiconData get keyReturn {
+  static Object get keyReturn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.keyReturn;
@@ -18678,7 +18677,7 @@ class Picons {
   /// bold: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyboard.svg)
   /// fill: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyboard.svg)
   /// duotone: ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard.svg)
-  static PiconData get keyboard {
+  static Object get keyboard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.keyboard;
@@ -18701,7 +18700,7 @@ class Picons {
   /// bold: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyhole.svg)
   /// fill: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyhole.svg)
   /// duotone: ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole.svg)
-  static PiconData get keyhole {
+  static Object get keyhole {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.keyhole;
@@ -18724,7 +18723,7 @@ class Picons {
   /// bold: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/knife.svg)
   /// fill: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/knife.svg)
   /// duotone: ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife.svg)
-  static PiconData get knife {
+  static Object get knife {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.knife;
@@ -18747,7 +18746,7 @@ class Picons {
   /// bold: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder.svg)
   /// fill: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder.svg)
   /// duotone: ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder.svg)
-  static PiconData get ladder {
+  static Object get ladder {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ladder;
@@ -18770,7 +18769,7 @@ class Picons {
   /// bold: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder-simple.svg)
   /// fill: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder-simple.svg)
   /// duotone: ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple.svg)
-  static PiconData get ladderSimple {
+  static Object get ladderSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ladderSimple;
@@ -18793,7 +18792,7 @@ class Picons {
   /// bold: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp.svg)
   /// fill: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp.svg)
   /// duotone: ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp.svg)
-  static PiconData get lamp {
+  static Object get lamp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lamp;
@@ -18816,7 +18815,7 @@ class Picons {
   /// bold: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp-pendant.svg)
   /// fill: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp-pendant.svg)
   /// duotone: ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant.svg)
-  static PiconData get lampPendant {
+  static Object get lampPendant {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lampPendant;
@@ -18839,7 +18838,7 @@ class Picons {
   /// bold: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/laptop.svg)
   /// fill: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/laptop.svg)
   /// duotone: ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop.svg)
-  static PiconData get laptop {
+  static Object get laptop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.laptop;
@@ -18862,7 +18861,7 @@ class Picons {
   /// bold: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lasso.svg)
   /// fill: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lasso.svg)
   /// duotone: ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso.svg)
-  static PiconData get lasso {
+  static Object get lasso {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lasso;
@@ -18885,7 +18884,7 @@ class Picons {
   /// bold: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lastfm-logo.svg)
   /// fill: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lastfm-logo.svg)
   /// duotone: ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo.svg)
-  static PiconData get lastfmLogo {
+  static Object get lastfmLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lastfmLogo;
@@ -18908,7 +18907,7 @@ class Picons {
   /// bold: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/layout.svg)
   /// fill: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/layout.svg)
   /// duotone: ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout.svg)
-  static PiconData get layout {
+  static Object get layout {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.layout;
@@ -18931,7 +18930,7 @@ class Picons {
   /// bold: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/leaf.svg)
   /// fill: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/leaf.svg)
   /// duotone: ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf.svg)
-  static PiconData get leaf {
+  static Object get leaf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.leaf;
@@ -18954,7 +18953,7 @@ class Picons {
   /// bold: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lectern.svg)
   /// fill: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lectern.svg)
   /// duotone: ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern.svg)
-  static PiconData get lectern {
+  static Object get lectern {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lectern;
@@ -18977,7 +18976,7 @@ class Picons {
   /// bold: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego.svg)
   /// fill: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego.svg)
   /// duotone: ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego.svg)
-  static PiconData get lego {
+  static Object get lego {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lego;
@@ -19000,7 +18999,7 @@ class Picons {
   /// bold: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego-smiley.svg)
   /// fill: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego-smiley.svg)
   /// duotone: ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley.svg)
-  static PiconData get legoSmiley {
+  static Object get legoSmiley {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.legoSmiley;
@@ -19023,7 +19022,7 @@ class Picons {
   /// bold: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than.svg)
   /// fill: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than.svg)
   /// duotone: ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than.svg)
-  static PiconData get lessThan {
+  static Object get lessThan {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lessThan;
@@ -19046,7 +19045,7 @@ class Picons {
   /// bold: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than-or-equal.svg)
   /// fill: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than-or-equal.svg)
   /// duotone: ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal.svg)
-  static PiconData get lessThanOrEqual {
+  static Object get lessThanOrEqual {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lessThanOrEqual;
@@ -19069,7 +19068,7 @@ class Picons {
   /// bold: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-h.svg)
   /// fill: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-h.svg)
   /// duotone: ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h.svg)
-  static PiconData get letterCircleH {
+  static Object get letterCircleH {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.letterCircleH;
@@ -19092,7 +19091,7 @@ class Picons {
   /// bold: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-p.svg)
   /// fill: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-p.svg)
   /// duotone: ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p.svg)
-  static PiconData get letterCircleP {
+  static Object get letterCircleP {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.letterCircleP;
@@ -19115,7 +19114,7 @@ class Picons {
   /// bold: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-v.svg)
   /// fill: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-v.svg)
   /// duotone: ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v.svg)
-  static PiconData get letterCircleV {
+  static Object get letterCircleV {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.letterCircleV;
@@ -19138,7 +19137,7 @@ class Picons {
   /// bold: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lifebuoy.svg)
   /// fill: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lifebuoy.svg)
   /// duotone: ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy.svg)
-  static PiconData get lifebuoy {
+  static Object get lifebuoy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lifebuoy;
@@ -19161,7 +19160,7 @@ class Picons {
   /// bold: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb.svg)
   /// fill: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb.svg)
   /// duotone: ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb.svg)
-  static PiconData get lightbulb {
+  static Object get lightbulb {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lightbulb;
@@ -19184,7 +19183,7 @@ class Picons {
   /// bold: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb-filament.svg)
   /// fill: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb-filament.svg)
   /// duotone: ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament.svg)
-  static PiconData get lightbulbFilament {
+  static Object get lightbulbFilament {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lightbulbFilament;
@@ -19207,7 +19206,7 @@ class Picons {
   /// bold: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lighthouse.svg)
   /// fill: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lighthouse.svg)
   /// duotone: ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse.svg)
-  static PiconData get lighthouse {
+  static Object get lighthouse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lighthouse;
@@ -19230,7 +19229,7 @@ class Picons {
   /// bold: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning.svg)
   /// fill: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning.svg)
   /// duotone: ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning.svg)
-  static PiconData get lightning {
+  static Object get lightning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lightning;
@@ -19253,7 +19252,7 @@ class Picons {
   /// bold: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-a.svg)
   /// fill: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-a.svg)
   /// duotone: ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a.svg)
-  static PiconData get lightningA {
+  static Object get lightningA {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lightningA;
@@ -19276,7 +19275,7 @@ class Picons {
   /// bold: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-slash.svg)
   /// fill: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-slash.svg)
   /// duotone: ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash.svg)
-  static PiconData get lightningSlash {
+  static Object get lightningSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lightningSlash;
@@ -19299,7 +19298,7 @@ class Picons {
   /// bold: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segment.svg)
   /// fill: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segment.svg)
   /// duotone: ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment.svg)
-  static PiconData get lineSegment {
+  static Object get lineSegment {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lineSegment;
@@ -19322,7 +19321,7 @@ class Picons {
   /// bold: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segments.svg)
   /// fill: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segments.svg)
   /// duotone: ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments.svg)
-  static PiconData get lineSegments {
+  static Object get lineSegments {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lineSegments;
@@ -19345,7 +19344,7 @@ class Picons {
   /// bold: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-vertical.svg)
   /// fill: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-vertical.svg)
   /// duotone: ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical.svg)
-  static PiconData get lineVertical {
+  static Object get lineVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lineVertical;
@@ -19368,7 +19367,7 @@ class Picons {
   /// bold: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link.svg)
   /// fill: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link.svg)
   /// duotone: ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link.svg)
-  static PiconData get link {
+  static Object get link {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.link;
@@ -19391,7 +19390,7 @@ class Picons {
   /// bold: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-break.svg)
   /// fill: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-break.svg)
   /// duotone: ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break.svg)
-  static PiconData get linkBreak {
+  static Object get linkBreak {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkBreak;
@@ -19414,7 +19413,7 @@ class Picons {
   /// bold: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple.svg)
   /// fill: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple.svg)
   /// duotone: ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple.svg)
-  static PiconData get linkSimple {
+  static Object get linkSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkSimple;
@@ -19437,7 +19436,7 @@ class Picons {
   /// bold: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-break.svg)
   /// fill: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-break.svg)
   /// duotone: ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break.svg)
-  static PiconData get linkSimpleBreak {
+  static Object get linkSimpleBreak {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkSimpleBreak;
@@ -19460,7 +19459,7 @@ class Picons {
   /// bold: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal.svg)
   /// fill: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal.svg)
   /// duotone: ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal.svg)
-  static PiconData get linkSimpleHorizontal {
+  static Object get linkSimpleHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkSimpleHorizontal;
@@ -19483,7 +19482,7 @@ class Picons {
   /// bold: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal-break.svg)
   /// fill: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal-break.svg)
   /// duotone: ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break.svg)
-  static PiconData get linkSimpleHorizontalBreak {
+  static Object get linkSimpleHorizontalBreak {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkSimpleHorizontalBreak;
@@ -19506,7 +19505,7 @@ class Picons {
   /// bold: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linkedin-logo.svg)
   /// fill: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linkedin-logo.svg)
   /// duotone: ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo.svg)
-  static PiconData get linkedinLogo {
+  static Object get linkedinLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linkedinLogo;
@@ -19529,7 +19528,7 @@ class Picons {
   /// bold: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linktree-logo.svg)
   /// fill: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linktree-logo.svg)
   /// duotone: ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo.svg)
-  static PiconData get linktreeLogo {
+  static Object get linktreeLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linktreeLogo;
@@ -19552,7 +19551,7 @@ class Picons {
   /// bold: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linux-logo.svg)
   /// fill: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linux-logo.svg)
   /// duotone: ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo.svg)
-  static PiconData get linuxLogo {
+  static Object get linuxLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.linuxLogo;
@@ -19575,7 +19574,7 @@ class Picons {
   /// bold: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list.svg)
   /// fill: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list.svg)
   /// duotone: ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list.svg)
-  static PiconData get list {
+  static Object get list {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.list;
@@ -19598,7 +19597,7 @@ class Picons {
   /// bold: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-bullets.svg)
   /// fill: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-bullets.svg)
   /// duotone: ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets.svg)
-  static PiconData get listBullets {
+  static Object get listBullets {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listBullets;
@@ -19621,7 +19620,7 @@ class Picons {
   /// bold: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-checks.svg)
   /// fill: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-checks.svg)
   /// duotone: ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks.svg)
-  static PiconData get listChecks {
+  static Object get listChecks {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listChecks;
@@ -19644,7 +19643,7 @@ class Picons {
   /// bold: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-dashes.svg)
   /// fill: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-dashes.svg)
   /// duotone: ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes.svg)
-  static PiconData get listDashes {
+  static Object get listDashes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listDashes;
@@ -19667,7 +19666,7 @@ class Picons {
   /// bold: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-heart.svg)
   /// fill: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-heart.svg)
   /// duotone: ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart.svg)
-  static PiconData get listHeart {
+  static Object get listHeart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listHeart;
@@ -19690,7 +19689,7 @@ class Picons {
   /// bold: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-magnifying-glass.svg)
   /// fill: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-magnifying-glass.svg)
   /// duotone: ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass.svg)
-  static PiconData get listMagnifyingGlass {
+  static Object get listMagnifyingGlass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listMagnifyingGlass;
@@ -19713,7 +19712,7 @@ class Picons {
   /// bold: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-numbers.svg)
   /// fill: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-numbers.svg)
   /// duotone: ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers.svg)
-  static PiconData get listNumbers {
+  static Object get listNumbers {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listNumbers;
@@ -19736,7 +19735,7 @@ class Picons {
   /// bold: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-plus.svg)
   /// fill: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-plus.svg)
   /// duotone: ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus.svg)
-  static PiconData get listPlus {
+  static Object get listPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listPlus;
@@ -19759,7 +19758,7 @@ class Picons {
   /// bold: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-star.svg)
   /// fill: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-star.svg)
   /// duotone: ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star.svg)
-  static PiconData get listStar {
+  static Object get listStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.listStar;
@@ -19782,7 +19781,7 @@ class Picons {
   /// bold: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock.svg)
   /// fill: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock.svg)
   /// duotone: ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock.svg)
-  static PiconData get lock {
+  static Object get lock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lock;
@@ -19805,7 +19804,7 @@ class Picons {
   /// bold: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key.svg)
   /// fill: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key.svg)
   /// duotone: ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key.svg)
-  static PiconData get lockKey {
+  static Object get lockKey {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockKey;
@@ -19828,7 +19827,7 @@ class Picons {
   /// bold: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key-open.svg)
   /// fill: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key-open.svg)
   /// duotone: ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open.svg)
-  static PiconData get lockKeyOpen {
+  static Object get lockKeyOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockKeyOpen;
@@ -19851,7 +19850,7 @@ class Picons {
   /// bold: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated.svg)
   /// fill: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated.svg)
   /// duotone: ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated.svg)
-  static PiconData get lockLaminated {
+  static Object get lockLaminated {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockLaminated;
@@ -19874,7 +19873,7 @@ class Picons {
   /// bold: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated-open.svg)
   /// fill: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated-open.svg)
   /// duotone: ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open.svg)
-  static PiconData get lockLaminatedOpen {
+  static Object get lockLaminatedOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockLaminatedOpen;
@@ -19897,7 +19896,7 @@ class Picons {
   /// bold: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-open.svg)
   /// fill: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-open.svg)
   /// duotone: ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open.svg)
-  static PiconData get lockOpen {
+  static Object get lockOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockOpen;
@@ -19920,7 +19919,7 @@ class Picons {
   /// bold: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple.svg)
   /// fill: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple.svg)
   /// duotone: ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple.svg)
-  static PiconData get lockSimple {
+  static Object get lockSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockSimple;
@@ -19943,7 +19942,7 @@ class Picons {
   /// bold: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple-open.svg)
   /// fill: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple-open.svg)
   /// duotone: ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open.svg)
-  static PiconData get lockSimpleOpen {
+  static Object get lockSimpleOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockSimpleOpen;
@@ -19966,7 +19965,7 @@ class Picons {
   /// bold: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lockers.svg)
   /// fill: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lockers.svg)
   /// duotone: ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers.svg)
-  static PiconData get lockers {
+  static Object get lockers {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.lockers;
@@ -19989,7 +19988,7 @@ class Picons {
   /// bold: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/log.svg)
   /// fill: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/log.svg)
   /// duotone: ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log.svg)
-  static PiconData get log {
+  static Object get log {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.log;
@@ -20012,7 +20011,7 @@ class Picons {
   /// bold: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magic-wand.svg)
   /// fill: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magic-wand.svg)
   /// duotone: ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand.svg)
-  static PiconData get magicWand {
+  static Object get magicWand {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magicWand;
@@ -20035,7 +20034,7 @@ class Picons {
   /// bold: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet.svg)
   /// fill: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet.svg)
   /// duotone: ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet.svg)
-  static PiconData get magnet {
+  static Object get magnet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magnet;
@@ -20058,7 +20057,7 @@ class Picons {
   /// bold: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet-straight.svg)
   /// fill: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet-straight.svg)
   /// duotone: ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight.svg)
-  static PiconData get magnetStraight {
+  static Object get magnetStraight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magnetStraight;
@@ -20081,7 +20080,7 @@ class Picons {
   /// bold: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass.svg)
   /// fill: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass.svg)
   /// duotone: ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass.svg)
-  static PiconData get magnifyingGlass {
+  static Object get magnifyingGlass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magnifyingGlass;
@@ -20104,7 +20103,7 @@ class Picons {
   /// bold: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-minus.svg)
   /// fill: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-minus.svg)
   /// duotone: ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus.svg)
-  static PiconData get magnifyingGlassMinus {
+  static Object get magnifyingGlassMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magnifyingGlassMinus;
@@ -20127,7 +20126,7 @@ class Picons {
   /// bold: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-plus.svg)
   /// fill: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-plus.svg)
   /// duotone: ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus.svg)
-  static PiconData get magnifyingGlassPlus {
+  static Object get magnifyingGlassPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.magnifyingGlassPlus;
@@ -20150,7 +20149,7 @@ class Picons {
   /// bold: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mailbox.svg)
   /// fill: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mailbox.svg)
   /// duotone: ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox.svg)
-  static PiconData get mailbox {
+  static Object get mailbox {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mailbox;
@@ -20173,7 +20172,7 @@ class Picons {
   /// bold: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin.svg)
   /// fill: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin.svg)
   /// duotone: ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin.svg)
-  static PiconData get mapPin {
+  static Object get mapPin {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPin;
@@ -20196,7 +20195,7 @@ class Picons {
   /// bold: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-area.svg)
   /// fill: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-area.svg)
   /// duotone: ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area.svg)
-  static PiconData get mapPinArea {
+  static Object get mapPinArea {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinArea;
@@ -20219,7 +20218,7 @@ class Picons {
   /// bold: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-line.svg)
   /// fill: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-line.svg)
   /// duotone: ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line.svg)
-  static PiconData get mapPinLine {
+  static Object get mapPinLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinLine;
@@ -20242,7 +20241,7 @@ class Picons {
   /// bold: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-plus.svg)
   /// fill: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-plus.svg)
   /// duotone: ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus.svg)
-  static PiconData get mapPinPlus {
+  static Object get mapPinPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinPlus;
@@ -20265,7 +20264,7 @@ class Picons {
   /// bold: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple.svg)
   /// fill: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple.svg)
   /// duotone: ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple.svg)
-  static PiconData get mapPinSimple {
+  static Object get mapPinSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinSimple;
@@ -20288,7 +20287,7 @@ class Picons {
   /// bold: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-area.svg)
   /// fill: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-area.svg)
   /// duotone: ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area.svg)
-  static PiconData get mapPinSimpleArea {
+  static Object get mapPinSimpleArea {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinSimpleArea;
@@ -20311,7 +20310,7 @@ class Picons {
   /// bold: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-line.svg)
   /// fill: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-line.svg)
   /// duotone: ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line.svg)
-  static PiconData get mapPinSimpleLine {
+  static Object get mapPinSimpleLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapPinSimpleLine;
@@ -20334,7 +20333,7 @@ class Picons {
   /// bold: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-trifold.svg)
   /// fill: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-trifold.svg)
   /// duotone: ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold.svg)
-  static PiconData get mapTrifold {
+  static Object get mapTrifold {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mapTrifold;
@@ -20357,7 +20356,7 @@ class Picons {
   /// bold: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/markdown-logo.svg)
   /// fill: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/markdown-logo.svg)
   /// duotone: ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo.svg)
-  static PiconData get markdownLogo {
+  static Object get markdownLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.markdownLogo;
@@ -20380,7 +20379,7 @@ class Picons {
   /// bold: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/marker-circle.svg)
   /// fill: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/marker-circle.svg)
   /// duotone: ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle.svg)
-  static PiconData get markerCircle {
+  static Object get markerCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.markerCircle;
@@ -20403,7 +20402,7 @@ class Picons {
   /// bold: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/martini.svg)
   /// fill: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/martini.svg)
   /// duotone: ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini.svg)
-  static PiconData get martini {
+  static Object get martini {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.martini;
@@ -20426,7 +20425,7 @@ class Picons {
   /// bold: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-happy.svg)
   /// fill: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-happy.svg)
   /// duotone: ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy.svg)
-  static PiconData get maskHappy {
+  static Object get maskHappy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.maskHappy;
@@ -20449,7 +20448,7 @@ class Picons {
   /// bold: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-sad.svg)
   /// fill: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-sad.svg)
   /// duotone: ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad.svg)
-  static PiconData get maskSad {
+  static Object get maskSad {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.maskSad;
@@ -20472,7 +20471,7 @@ class Picons {
   /// bold: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mastodon-logo.svg)
   /// fill: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mastodon-logo.svg)
   /// duotone: ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo.svg)
-  static PiconData get mastodonLogo {
+  static Object get mastodonLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mastodonLogo;
@@ -20495,7 +20494,7 @@ class Picons {
   /// bold: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/math-operations.svg)
   /// fill: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/math-operations.svg)
   /// duotone: ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations.svg)
-  static PiconData get mathOperations {
+  static Object get mathOperations {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mathOperations;
@@ -20518,7 +20517,7 @@ class Picons {
   /// bold: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/matrix-logo.svg)
   /// fill: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/matrix-logo.svg)
   /// duotone: ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo.svg)
-  static PiconData get matrixLogo {
+  static Object get matrixLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.matrixLogo;
@@ -20541,7 +20540,7 @@ class Picons {
   /// bold: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal.svg)
   /// fill: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal.svg)
   /// duotone: ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal.svg)
-  static PiconData get medal {
+  static Object get medal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.medal;
@@ -20564,7 +20563,7 @@ class Picons {
   /// bold: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal-military.svg)
   /// fill: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal-military.svg)
   /// duotone: ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military.svg)
-  static PiconData get medalMilitary {
+  static Object get medalMilitary {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.medalMilitary;
@@ -20587,7 +20586,7 @@ class Picons {
   /// bold: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medium-logo.svg)
   /// fill: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medium-logo.svg)
   /// duotone: ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo.svg)
-  static PiconData get mediumLogo {
+  static Object get mediumLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mediumLogo;
@@ -20610,7 +20609,7 @@ class Picons {
   /// bold: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone.svg)
   /// fill: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone.svg)
   /// duotone: ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone.svg)
-  static PiconData get megaphone {
+  static Object get megaphone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.megaphone;
@@ -20633,7 +20632,7 @@ class Picons {
   /// bold: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone-simple.svg)
   /// fill: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone-simple.svg)
   /// duotone: ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple.svg)
-  static PiconData get megaphoneSimple {
+  static Object get megaphoneSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.megaphoneSimple;
@@ -20656,7 +20655,7 @@ class Picons {
   /// bold: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/member-of.svg)
   /// fill: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/member-of.svg)
   /// duotone: ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of.svg)
-  static PiconData get memberOf {
+  static Object get memberOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.memberOf;
@@ -20679,7 +20678,7 @@ class Picons {
   /// bold: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/memory.svg)
   /// fill: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/memory.svg)
   /// duotone: ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory.svg)
-  static PiconData get memory {
+  static Object get memory {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.memory;
@@ -20702,7 +20701,7 @@ class Picons {
   /// bold: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/messenger-logo.svg)
   /// fill: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/messenger-logo.svg)
   /// duotone: ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo.svg)
-  static PiconData get messengerLogo {
+  static Object get messengerLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.messengerLogo;
@@ -20725,7 +20724,7 @@ class Picons {
   /// bold: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meta-logo.svg)
   /// fill: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meta-logo.svg)
   /// duotone: ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo.svg)
-  static PiconData get metaLogo {
+  static Object get metaLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.metaLogo;
@@ -20748,7 +20747,7 @@ class Picons {
   /// bold: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meteor.svg)
   /// fill: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meteor.svg)
   /// duotone: ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor.svg)
-  static PiconData get meteor {
+  static Object get meteor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.meteor;
@@ -20771,7 +20770,7 @@ class Picons {
   /// bold: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/metronome.svg)
   /// fill: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/metronome.svg)
   /// duotone: ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome.svg)
-  static PiconData get metronome {
+  static Object get metronome {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.metronome;
@@ -20794,7 +20793,7 @@ class Picons {
   /// bold: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone.svg)
   /// fill: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone.svg)
   /// duotone: ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone.svg)
-  static PiconData get microphone {
+  static Object get microphone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microphone;
@@ -20817,7 +20816,7 @@ class Picons {
   /// bold: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-slash.svg)
   /// fill: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-slash.svg)
   /// duotone: ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash.svg)
-  static PiconData get microphoneSlash {
+  static Object get microphoneSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microphoneSlash;
@@ -20840,7 +20839,7 @@ class Picons {
   /// bold: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-stage.svg)
   /// fill: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-stage.svg)
   /// duotone: ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage.svg)
-  static PiconData get microphoneStage {
+  static Object get microphoneStage {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microphoneStage;
@@ -20863,7 +20862,7 @@ class Picons {
   /// bold: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microscope.svg)
   /// fill: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microscope.svg)
   /// duotone: ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope.svg)
-  static PiconData get microscope {
+  static Object get microscope {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microscope;
@@ -20886,7 +20885,7 @@ class Picons {
   /// bold: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-excel-logo.svg)
   /// fill: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-excel-logo.svg)
   /// duotone: ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo.svg)
-  static PiconData get microsoftExcelLogo {
+  static Object get microsoftExcelLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microsoftExcelLogo;
@@ -20909,7 +20908,7 @@ class Picons {
   /// bold: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-outlook-logo.svg)
   /// fill: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-outlook-logo.svg)
   /// duotone: ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo.svg)
-  static PiconData get microsoftOutlookLogo {
+  static Object get microsoftOutlookLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microsoftOutlookLogo;
@@ -20932,7 +20931,7 @@ class Picons {
   /// bold: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-powerpoint-logo.svg)
   /// fill: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-powerpoint-logo.svg)
   /// duotone: ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo.svg)
-  static PiconData get microsoftPowerpointLogo {
+  static Object get microsoftPowerpointLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microsoftPowerpointLogo;
@@ -20955,7 +20954,7 @@ class Picons {
   /// bold: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-teams-logo.svg)
   /// fill: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-teams-logo.svg)
   /// duotone: ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo.svg)
-  static PiconData get microsoftTeamsLogo {
+  static Object get microsoftTeamsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microsoftTeamsLogo;
@@ -20978,7 +20977,7 @@ class Picons {
   /// bold: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-word-logo.svg)
   /// fill: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-word-logo.svg)
   /// duotone: ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo.svg)
-  static PiconData get microsoftWordLogo {
+  static Object get microsoftWordLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.microsoftWordLogo;
@@ -21001,7 +21000,7 @@ class Picons {
   /// bold: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus.svg)
   /// fill: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus.svg)
   /// duotone: ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus.svg)
-  static PiconData get minus {
+  static Object get minus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.minus;
@@ -21024,7 +21023,7 @@ class Picons {
   /// bold: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-circle.svg)
   /// fill: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-circle.svg)
   /// duotone: ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle.svg)
-  static PiconData get minusCircle {
+  static Object get minusCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.minusCircle;
@@ -21047,7 +21046,7 @@ class Picons {
   /// bold: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-square.svg)
   /// fill: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-square.svg)
   /// duotone: ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square.svg)
-  static PiconData get minusSquare {
+  static Object get minusSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.minusSquare;
@@ -21070,7 +21069,7 @@ class Picons {
   /// bold: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money.svg)
   /// fill: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money.svg)
   /// duotone: ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money.svg)
-  static PiconData get money {
+  static Object get money {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.money;
@@ -21093,7 +21092,7 @@ class Picons {
   /// bold: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money-wavy.svg)
   /// fill: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money-wavy.svg)
   /// duotone: ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy.svg)
-  static PiconData get moneyWavy {
+  static Object get moneyWavy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.moneyWavy;
@@ -21116,7 +21115,7 @@ class Picons {
   /// bold: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor.svg)
   /// fill: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor.svg)
   /// duotone: ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor.svg)
-  static PiconData get monitor {
+  static Object get monitor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.monitor;
@@ -21139,7 +21138,7 @@ class Picons {
   /// bold: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-arrow-up.svg)
   /// fill: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-arrow-up.svg)
   /// duotone: ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up.svg)
-  static PiconData get monitorArrowUp {
+  static Object get monitorArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.monitorArrowUp;
@@ -21162,7 +21161,7 @@ class Picons {
   /// bold: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-play.svg)
   /// fill: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-play.svg)
   /// duotone: ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play.svg)
-  static PiconData get monitorPlay {
+  static Object get monitorPlay {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.monitorPlay;
@@ -21185,7 +21184,7 @@ class Picons {
   /// bold: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon.svg)
   /// fill: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon.svg)
   /// duotone: ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon.svg)
-  static PiconData get moon {
+  static Object get moon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.moon;
@@ -21208,7 +21207,7 @@ class Picons {
   /// bold: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon-stars.svg)
   /// fill: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon-stars.svg)
   /// duotone: ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars.svg)
-  static PiconData get moonStars {
+  static Object get moonStars {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.moonStars;
@@ -21231,7 +21230,7 @@ class Picons {
   /// bold: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped.svg)
   /// fill: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped.svg)
   /// duotone: ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped.svg)
-  static PiconData get moped {
+  static Object get moped {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.moped;
@@ -21254,7 +21253,7 @@ class Picons {
   /// bold: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped-front.svg)
   /// fill: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped-front.svg)
   /// duotone: ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front.svg)
-  static PiconData get mopedFront {
+  static Object get mopedFront {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mopedFront;
@@ -21277,7 +21276,7 @@ class Picons {
   /// bold: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mosque.svg)
   /// fill: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mosque.svg)
   /// duotone: ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque.svg)
-  static PiconData get mosque {
+  static Object get mosque {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mosque;
@@ -21300,7 +21299,7 @@ class Picons {
   /// bold: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/motorcycle.svg)
   /// fill: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/motorcycle.svg)
   /// duotone: ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle.svg)
-  static PiconData get motorcycle {
+  static Object get motorcycle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.motorcycle;
@@ -21323,7 +21322,7 @@ class Picons {
   /// bold: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mountains.svg)
   /// fill: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mountains.svg)
   /// duotone: ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains.svg)
-  static PiconData get mountains {
+  static Object get mountains {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mountains;
@@ -21346,7 +21345,7 @@ class Picons {
   /// bold: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse.svg)
   /// fill: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse.svg)
   /// duotone: ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse.svg)
-  static PiconData get mouse {
+  static Object get mouse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouse;
@@ -21369,7 +21368,7 @@ class Picons {
   /// bold: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-left-click.svg)
   /// fill: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-left-click.svg)
   /// duotone: ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click.svg)
-  static PiconData get mouseLeftClick {
+  static Object get mouseLeftClick {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouseLeftClick;
@@ -21392,7 +21391,7 @@ class Picons {
   /// bold: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-middle-click.svg)
   /// fill: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-middle-click.svg)
   /// duotone: ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click.svg)
-  static PiconData get mouseMiddleClick {
+  static Object get mouseMiddleClick {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouseMiddleClick;
@@ -21415,7 +21414,7 @@ class Picons {
   /// bold: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-right-click.svg)
   /// fill: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-right-click.svg)
   /// duotone: ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click.svg)
-  static PiconData get mouseRightClick {
+  static Object get mouseRightClick {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouseRightClick;
@@ -21438,7 +21437,7 @@ class Picons {
   /// bold: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-scroll.svg)
   /// fill: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-scroll.svg)
   /// duotone: ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll.svg)
-  static PiconData get mouseScroll {
+  static Object get mouseScroll {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouseScroll;
@@ -21461,7 +21460,7 @@ class Picons {
   /// bold: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-simple.svg)
   /// fill: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-simple.svg)
   /// duotone: ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple.svg)
-  static PiconData get mouseSimple {
+  static Object get mouseSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.mouseSimple;
@@ -21484,7 +21483,7 @@ class Picons {
   /// bold: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note.svg)
   /// fill: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note.svg)
   /// duotone: ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note.svg)
-  static PiconData get musicNote {
+  static Object get musicNote {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNote;
@@ -21507,7 +21506,7 @@ class Picons {
   /// bold: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note-simple.svg)
   /// fill: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note-simple.svg)
   /// duotone: ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple.svg)
-  static PiconData get musicNoteSimple {
+  static Object get musicNoteSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNoteSimple;
@@ -21530,7 +21529,7 @@ class Picons {
   /// bold: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes.svg)
   /// fill: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes.svg)
   /// duotone: ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes.svg)
-  static PiconData get musicNotes {
+  static Object get musicNotes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNotes;
@@ -21553,7 +21552,7 @@ class Picons {
   /// bold: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-minus.svg)
   /// fill: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-minus.svg)
   /// duotone: ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus.svg)
-  static PiconData get musicNotesMinus {
+  static Object get musicNotesMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNotesMinus;
@@ -21576,7 +21575,7 @@ class Picons {
   /// bold: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-plus.svg)
   /// fill: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-plus.svg)
   /// duotone: ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus.svg)
-  static PiconData get musicNotesPlus {
+  static Object get musicNotesPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNotesPlus;
@@ -21599,7 +21598,7 @@ class Picons {
   /// bold: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-simple.svg)
   /// fill: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-simple.svg)
   /// duotone: ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple.svg)
-  static PiconData get musicNotesSimple {
+  static Object get musicNotesSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.musicNotesSimple;
@@ -21622,7 +21621,7 @@ class Picons {
   /// bold: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/navigation-arrow.svg)
   /// fill: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/navigation-arrow.svg)
   /// duotone: ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow.svg)
-  static PiconData get navigationArrow {
+  static Object get navigationArrow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.navigationArrow;
@@ -21645,7 +21644,7 @@ class Picons {
   /// bold: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/needle.svg)
   /// fill: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/needle.svg)
   /// duotone: ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle.svg)
-  static PiconData get needle {
+  static Object get needle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.needle;
@@ -21668,7 +21667,7 @@ class Picons {
   /// bold: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network.svg)
   /// fill: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network.svg)
   /// duotone: ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network.svg)
-  static PiconData get network {
+  static Object get network {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.network;
@@ -21691,7 +21690,7 @@ class Picons {
   /// bold: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-slash.svg)
   /// fill: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-slash.svg)
   /// duotone: ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash.svg)
-  static PiconData get networkSlash {
+  static Object get networkSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.networkSlash;
@@ -21714,7 +21713,7 @@ class Picons {
   /// bold: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-x.svg)
   /// fill: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-x.svg)
   /// duotone: ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x.svg)
-  static PiconData get networkX {
+  static Object get networkX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.networkX;
@@ -21737,7 +21736,7 @@ class Picons {
   /// bold: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper.svg)
   /// fill: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper.svg)
   /// duotone: ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper.svg)
-  static PiconData get newspaper {
+  static Object get newspaper {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.newspaper;
@@ -21760,7 +21759,7 @@ class Picons {
   /// bold: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper-clipping.svg)
   /// fill: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper-clipping.svg)
   /// duotone: ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping.svg)
-  static PiconData get newspaperClipping {
+  static Object get newspaperClipping {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.newspaperClipping;
@@ -21783,7 +21782,7 @@ class Picons {
   /// bold: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-equals.svg)
   /// fill: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-equals.svg)
   /// duotone: ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals.svg)
-  static PiconData get notEquals {
+  static Object get notEquals {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notEquals;
@@ -21806,7 +21805,7 @@ class Picons {
   /// bold: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-member-of.svg)
   /// fill: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-member-of.svg)
   /// duotone: ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of.svg)
-  static PiconData get notMemberOf {
+  static Object get notMemberOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notMemberOf;
@@ -21829,7 +21828,7 @@ class Picons {
   /// bold: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-subset-of.svg)
   /// fill: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-subset-of.svg)
   /// duotone: ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of.svg)
-  static PiconData get notSubsetOf {
+  static Object get notSubsetOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notSubsetOf;
@@ -21852,7 +21851,7 @@ class Picons {
   /// bold: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-superset-of.svg)
   /// fill: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-superset-of.svg)
   /// duotone: ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of.svg)
-  static PiconData get notSupersetOf {
+  static Object get notSupersetOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notSupersetOf;
@@ -21875,7 +21874,7 @@ class Picons {
   /// bold: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notches.svg)
   /// fill: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notches.svg)
   /// duotone: ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches.svg)
-  static PiconData get notches {
+  static Object get notches {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notches;
@@ -21898,7 +21897,7 @@ class Picons {
   /// bold: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note.svg)
   /// fill: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note.svg)
   /// duotone: ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note.svg)
-  static PiconData get note {
+  static Object get note {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.note;
@@ -21921,7 +21920,7 @@ class Picons {
   /// bold: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-blank.svg)
   /// fill: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-blank.svg)
   /// duotone: ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank.svg)
-  static PiconData get noteBlank {
+  static Object get noteBlank {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.noteBlank;
@@ -21944,7 +21943,7 @@ class Picons {
   /// bold: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-pencil.svg)
   /// fill: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-pencil.svg)
   /// duotone: ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil.svg)
-  static PiconData get notePencil {
+  static Object get notePencil {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notePencil;
@@ -21967,7 +21966,7 @@ class Picons {
   /// bold: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notebook.svg)
   /// fill: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notebook.svg)
   /// duotone: ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook.svg)
-  static PiconData get notebook {
+  static Object get notebook {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notebook;
@@ -21990,7 +21989,7 @@ class Picons {
   /// bold: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notepad.svg)
   /// fill: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notepad.svg)
   /// duotone: ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad.svg)
-  static PiconData get notepad {
+  static Object get notepad {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notepad;
@@ -22013,7 +22012,7 @@ class Picons {
   /// bold: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notification.svg)
   /// fill: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notification.svg)
   /// duotone: ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification.svg)
-  static PiconData get notification {
+  static Object get notification {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notification;
@@ -22036,7 +22035,7 @@ class Picons {
   /// bold: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notion-logo.svg)
   /// fill: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notion-logo.svg)
   /// duotone: ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo.svg)
-  static PiconData get notionLogo {
+  static Object get notionLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.notionLogo;
@@ -22059,7 +22058,7 @@ class Picons {
   /// bold: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nuclear-plant.svg)
   /// fill: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nuclear-plant.svg)
   /// duotone: ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant.svg)
-  static PiconData get nuclearPlant {
+  static Object get nuclearPlant {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.nuclearPlant;
@@ -22082,7 +22081,7 @@ class Picons {
   /// bold: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-eight.svg)
   /// fill: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-eight.svg)
   /// duotone: ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight.svg)
-  static PiconData get numberCircleEight {
+  static Object get numberCircleEight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleEight;
@@ -22105,7 +22104,7 @@ class Picons {
   /// bold: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-five.svg)
   /// fill: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-five.svg)
   /// duotone: ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five.svg)
-  static PiconData get numberCircleFive {
+  static Object get numberCircleFive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleFive;
@@ -22128,7 +22127,7 @@ class Picons {
   /// bold: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-four.svg)
   /// fill: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-four.svg)
   /// duotone: ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four.svg)
-  static PiconData get numberCircleFour {
+  static Object get numberCircleFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleFour;
@@ -22151,7 +22150,7 @@ class Picons {
   /// bold: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-nine.svg)
   /// fill: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-nine.svg)
   /// duotone: ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine.svg)
-  static PiconData get numberCircleNine {
+  static Object get numberCircleNine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleNine;
@@ -22174,7 +22173,7 @@ class Picons {
   /// bold: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-one.svg)
   /// fill: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-one.svg)
   /// duotone: ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one.svg)
-  static PiconData get numberCircleOne {
+  static Object get numberCircleOne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleOne;
@@ -22197,7 +22196,7 @@ class Picons {
   /// bold: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-seven.svg)
   /// fill: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-seven.svg)
   /// duotone: ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven.svg)
-  static PiconData get numberCircleSeven {
+  static Object get numberCircleSeven {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleSeven;
@@ -22220,7 +22219,7 @@ class Picons {
   /// bold: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-six.svg)
   /// fill: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-six.svg)
   /// duotone: ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six.svg)
-  static PiconData get numberCircleSix {
+  static Object get numberCircleSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleSix;
@@ -22243,7 +22242,7 @@ class Picons {
   /// bold: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-three.svg)
   /// fill: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-three.svg)
   /// duotone: ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three.svg)
-  static PiconData get numberCircleThree {
+  static Object get numberCircleThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleThree;
@@ -22266,7 +22265,7 @@ class Picons {
   /// bold: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-two.svg)
   /// fill: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-two.svg)
   /// duotone: ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two.svg)
-  static PiconData get numberCircleTwo {
+  static Object get numberCircleTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleTwo;
@@ -22289,7 +22288,7 @@ class Picons {
   /// bold: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-zero.svg)
   /// fill: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-zero.svg)
   /// duotone: ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero.svg)
-  static PiconData get numberCircleZero {
+  static Object get numberCircleZero {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberCircleZero;
@@ -22312,7 +22311,7 @@ class Picons {
   /// bold: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-eight.svg)
   /// fill: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-eight.svg)
   /// duotone: ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight.svg)
-  static PiconData get numberEight {
+  static Object get numberEight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberEight;
@@ -22335,7 +22334,7 @@ class Picons {
   /// bold: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-five.svg)
   /// fill: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-five.svg)
   /// duotone: ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five.svg)
-  static PiconData get numberFive {
+  static Object get numberFive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberFive;
@@ -22358,7 +22357,7 @@ class Picons {
   /// bold: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-four.svg)
   /// fill: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-four.svg)
   /// duotone: ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four.svg)
-  static PiconData get numberFour {
+  static Object get numberFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberFour;
@@ -22381,7 +22380,7 @@ class Picons {
   /// bold: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-nine.svg)
   /// fill: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-nine.svg)
   /// duotone: ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine.svg)
-  static PiconData get numberNine {
+  static Object get numberNine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberNine;
@@ -22404,7 +22403,7 @@ class Picons {
   /// bold: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-one.svg)
   /// fill: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-one.svg)
   /// duotone: ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one.svg)
-  static PiconData get numberOne {
+  static Object get numberOne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberOne;
@@ -22427,7 +22426,7 @@ class Picons {
   /// bold: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-seven.svg)
   /// fill: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-seven.svg)
   /// duotone: ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven.svg)
-  static PiconData get numberSeven {
+  static Object get numberSeven {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSeven;
@@ -22450,7 +22449,7 @@ class Picons {
   /// bold: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-six.svg)
   /// fill: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-six.svg)
   /// duotone: ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six.svg)
-  static PiconData get numberSix {
+  static Object get numberSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSix;
@@ -22473,7 +22472,7 @@ class Picons {
   /// bold: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-eight.svg)
   /// fill: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-eight.svg)
   /// duotone: ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight.svg)
-  static PiconData get numberSquareEight {
+  static Object get numberSquareEight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareEight;
@@ -22496,7 +22495,7 @@ class Picons {
   /// bold: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-five.svg)
   /// fill: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-five.svg)
   /// duotone: ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five.svg)
-  static PiconData get numberSquareFive {
+  static Object get numberSquareFive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareFive;
@@ -22519,7 +22518,7 @@ class Picons {
   /// bold: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-four.svg)
   /// fill: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-four.svg)
   /// duotone: ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four.svg)
-  static PiconData get numberSquareFour {
+  static Object get numberSquareFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareFour;
@@ -22542,7 +22541,7 @@ class Picons {
   /// bold: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-nine.svg)
   /// fill: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-nine.svg)
   /// duotone: ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine.svg)
-  static PiconData get numberSquareNine {
+  static Object get numberSquareNine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareNine;
@@ -22565,7 +22564,7 @@ class Picons {
   /// bold: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-one.svg)
   /// fill: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-one.svg)
   /// duotone: ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one.svg)
-  static PiconData get numberSquareOne {
+  static Object get numberSquareOne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareOne;
@@ -22588,7 +22587,7 @@ class Picons {
   /// bold: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-seven.svg)
   /// fill: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-seven.svg)
   /// duotone: ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven.svg)
-  static PiconData get numberSquareSeven {
+  static Object get numberSquareSeven {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareSeven;
@@ -22611,7 +22610,7 @@ class Picons {
   /// bold: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-six.svg)
   /// fill: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-six.svg)
   /// duotone: ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six.svg)
-  static PiconData get numberSquareSix {
+  static Object get numberSquareSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareSix;
@@ -22634,7 +22633,7 @@ class Picons {
   /// bold: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-three.svg)
   /// fill: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-three.svg)
   /// duotone: ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three.svg)
-  static PiconData get numberSquareThree {
+  static Object get numberSquareThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareThree;
@@ -22657,7 +22656,7 @@ class Picons {
   /// bold: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-two.svg)
   /// fill: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-two.svg)
   /// duotone: ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two.svg)
-  static PiconData get numberSquareTwo {
+  static Object get numberSquareTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareTwo;
@@ -22680,7 +22679,7 @@ class Picons {
   /// bold: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-zero.svg)
   /// fill: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-zero.svg)
   /// duotone: ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero.svg)
-  static PiconData get numberSquareZero {
+  static Object get numberSquareZero {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberSquareZero;
@@ -22703,7 +22702,7 @@ class Picons {
   /// bold: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-three.svg)
   /// fill: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-three.svg)
   /// duotone: ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three.svg)
-  static PiconData get numberThree {
+  static Object get numberThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberThree;
@@ -22726,7 +22725,7 @@ class Picons {
   /// bold: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-two.svg)
   /// fill: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-two.svg)
   /// duotone: ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two.svg)
-  static PiconData get numberTwo {
+  static Object get numberTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberTwo;
@@ -22749,7 +22748,7 @@ class Picons {
   /// bold: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-zero.svg)
   /// fill: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-zero.svg)
   /// duotone: ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero.svg)
-  static PiconData get numberZero {
+  static Object get numberZero {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numberZero;
@@ -22772,7 +22771,7 @@ class Picons {
   /// bold: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/numpad.svg)
   /// fill: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/numpad.svg)
   /// duotone: ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad.svg)
-  static PiconData get numpad {
+  static Object get numpad {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.numpad;
@@ -22795,7 +22794,7 @@ class Picons {
   /// bold: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nut.svg)
   /// fill: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nut.svg)
   /// duotone: ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut.svg)
-  static PiconData get nut {
+  static Object get nut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.nut;
@@ -22818,7 +22817,7 @@ class Picons {
   /// bold: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ny-times-logo.svg)
   /// fill: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ny-times-logo.svg)
   /// duotone: ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo.svg)
-  static PiconData get nyTimesLogo {
+  static Object get nyTimesLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.nyTimesLogo;
@@ -22841,7 +22840,7 @@ class Picons {
   /// bold: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/octagon.svg)
   /// fill: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/octagon.svg)
   /// duotone: ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon.svg)
-  static PiconData get octagon {
+  static Object get octagon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.octagon;
@@ -22864,7 +22863,7 @@ class Picons {
   /// bold: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/office-chair.svg)
   /// fill: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/office-chair.svg)
   /// duotone: ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair.svg)
-  static PiconData get officeChair {
+  static Object get officeChair {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.officeChair;
@@ -22887,7 +22886,7 @@ class Picons {
   /// bold: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/onigiri.svg)
   /// fill: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/onigiri.svg)
   /// duotone: ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri.svg)
-  static PiconData get onigiri {
+  static Object get onigiri {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.onigiri;
@@ -22910,7 +22909,7 @@ class Picons {
   /// bold: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/open-ai-logo.svg)
   /// fill: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/open-ai-logo.svg)
   /// duotone: ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo.svg)
-  static PiconData get openAiLogo {
+  static Object get openAiLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.openAiLogo;
@@ -22933,7 +22932,7 @@ class Picons {
   /// bold: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/option.svg)
   /// fill: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/option.svg)
   /// duotone: ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option.svg)
-  static PiconData get option {
+  static Object get option {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.option;
@@ -22956,7 +22955,7 @@ class Picons {
   /// bold: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange.svg)
   /// fill: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange.svg)
   /// duotone: ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange.svg)
-  static PiconData get orange {
+  static Object get orange {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.orange;
@@ -22979,7 +22978,7 @@ class Picons {
   /// bold: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange-slice.svg)
   /// fill: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange-slice.svg)
   /// duotone: ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice.svg)
-  static PiconData get orangeSlice {
+  static Object get orangeSlice {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.orangeSlice;
@@ -23002,7 +23001,7 @@ class Picons {
   /// bold: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/oven.svg)
   /// fill: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/oven.svg)
   /// duotone: ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven.svg)
-  static PiconData get oven {
+  static Object get oven {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.oven;
@@ -23025,7 +23024,7 @@ class Picons {
   /// bold: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/package.svg)
   /// fill: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/package.svg)
   /// duotone: ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package.svg)
-  static PiconData get package {
+  static Object get package {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.package;
@@ -23048,7 +23047,7 @@ class Picons {
   /// bold: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush.svg)
   /// fill: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush.svg)
   /// duotone: ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush.svg)
-  static PiconData get paintBrush {
+  static Object get paintBrush {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paintBrush;
@@ -23071,7 +23070,7 @@ class Picons {
   /// bold: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-broad.svg)
   /// fill: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-broad.svg)
   /// duotone: ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad.svg)
-  static PiconData get paintBrushBroad {
+  static Object get paintBrushBroad {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paintBrushBroad;
@@ -23094,7 +23093,7 @@ class Picons {
   /// bold: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-household.svg)
   /// fill: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-household.svg)
   /// duotone: ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household.svg)
-  static PiconData get paintBrushHousehold {
+  static Object get paintBrushHousehold {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paintBrushHousehold;
@@ -23117,7 +23116,7 @@ class Picons {
   /// bold: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-bucket.svg)
   /// fill: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-bucket.svg)
   /// duotone: ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket.svg)
-  static PiconData get paintBucket {
+  static Object get paintBucket {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paintBucket;
@@ -23140,7 +23139,7 @@ class Picons {
   /// bold: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-roller.svg)
   /// fill: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-roller.svg)
   /// duotone: ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller.svg)
-  static PiconData get paintRoller {
+  static Object get paintRoller {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paintRoller;
@@ -23163,7 +23162,7 @@ class Picons {
   /// bold: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/palette.svg)
   /// fill: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/palette.svg)
   /// duotone: ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette.svg)
-  static PiconData get palette {
+  static Object get palette {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.palette;
@@ -23186,7 +23185,7 @@ class Picons {
   /// bold: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/panorama.svg)
   /// fill: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/panorama.svg)
   /// duotone: ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama.svg)
-  static PiconData get panorama {
+  static Object get panorama {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.panorama;
@@ -23209,7 +23208,7 @@ class Picons {
   /// bold: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pants.svg)
   /// fill: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pants.svg)
   /// duotone: ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants.svg)
-  static PiconData get pants {
+  static Object get pants {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pants;
@@ -23232,7 +23231,7 @@ class Picons {
   /// bold: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane.svg)
   /// fill: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane.svg)
   /// duotone: ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane.svg)
-  static PiconData get paperPlane {
+  static Object get paperPlane {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paperPlane;
@@ -23255,7 +23254,7 @@ class Picons {
   /// bold: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-right.svg)
   /// fill: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-right.svg)
   /// duotone: ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right.svg)
-  static PiconData get paperPlaneRight {
+  static Object get paperPlaneRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paperPlaneRight;
@@ -23278,7 +23277,7 @@ class Picons {
   /// bold: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-tilt.svg)
   /// fill: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-tilt.svg)
   /// duotone: ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt.svg)
-  static PiconData get paperPlaneTilt {
+  static Object get paperPlaneTilt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paperPlaneTilt;
@@ -23301,7 +23300,7 @@ class Picons {
   /// bold: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip.svg)
   /// fill: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip.svg)
   /// duotone: ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip.svg)
-  static PiconData get paperclip {
+  static Object get paperclip {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paperclip;
@@ -23324,7 +23323,7 @@ class Picons {
   /// bold: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip-horizontal.svg)
   /// fill: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip-horizontal.svg)
   /// duotone: ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal.svg)
-  static PiconData get paperclipHorizontal {
+  static Object get paperclipHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paperclipHorizontal;
@@ -23347,7 +23346,7 @@ class Picons {
   /// bold: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parachute.svg)
   /// fill: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parachute.svg)
   /// duotone: ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute.svg)
-  static PiconData get parachute {
+  static Object get parachute {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.parachute;
@@ -23370,7 +23369,7 @@ class Picons {
   /// bold: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paragraph.svg)
   /// fill: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paragraph.svg)
   /// duotone: ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph.svg)
-  static PiconData get paragraph {
+  static Object get paragraph {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paragraph;
@@ -23393,7 +23392,7 @@ class Picons {
   /// bold: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parallelogram.svg)
   /// fill: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parallelogram.svg)
   /// duotone: ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram.svg)
-  static PiconData get parallelogram {
+  static Object get parallelogram {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.parallelogram;
@@ -23416,7 +23415,7 @@ class Picons {
   /// bold: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/park.svg)
   /// fill: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/park.svg)
   /// duotone: ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park.svg)
-  static PiconData get park {
+  static Object get park {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.park;
@@ -23439,7 +23438,7 @@ class Picons {
   /// bold: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/password.svg)
   /// fill: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/password.svg)
   /// duotone: ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password.svg)
-  static PiconData get password {
+  static Object get password {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.password;
@@ -23462,7 +23461,7 @@ class Picons {
   /// bold: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/path.svg)
   /// fill: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/path.svg)
   /// duotone: ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path.svg)
-  static PiconData get path {
+  static Object get path {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.path;
@@ -23485,7 +23484,7 @@ class Picons {
   /// bold: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/patreon-logo.svg)
   /// fill: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/patreon-logo.svg)
   /// duotone: ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo.svg)
-  static PiconData get patreonLogo {
+  static Object get patreonLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.patreonLogo;
@@ -23508,7 +23507,7 @@ class Picons {
   /// bold: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause.svg)
   /// fill: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause.svg)
   /// duotone: ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause.svg)
-  static PiconData get pause {
+  static Object get pause {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pause;
@@ -23531,7 +23530,7 @@ class Picons {
   /// bold: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause-circle.svg)
   /// fill: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause-circle.svg)
   /// duotone: ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle.svg)
-  static PiconData get pauseCircle {
+  static Object get pauseCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pauseCircle;
@@ -23554,7 +23553,7 @@ class Picons {
   /// bold: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paw-print.svg)
   /// fill: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paw-print.svg)
   /// duotone: ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print.svg)
-  static PiconData get pawPrint {
+  static Object get pawPrint {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pawPrint;
@@ -23577,7 +23576,7 @@ class Picons {
   /// bold: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paypal-logo.svg)
   /// fill: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paypal-logo.svg)
   /// duotone: ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo.svg)
-  static PiconData get paypalLogo {
+  static Object get paypalLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.paypalLogo;
@@ -23600,7 +23599,7 @@ class Picons {
   /// bold: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/peace.svg)
   /// fill: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/peace.svg)
   /// duotone: ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace.svg)
-  static PiconData get peace {
+  static Object get peace {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.peace;
@@ -23623,7 +23622,7 @@ class Picons {
   /// bold: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen.svg)
   /// fill: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen.svg)
   /// duotone: ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen.svg)
-  static PiconData get pen {
+  static Object get pen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pen;
@@ -23646,7 +23645,7 @@ class Picons {
   /// bold: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib.svg)
   /// fill: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib.svg)
   /// duotone: ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib.svg)
-  static PiconData get penNib {
+  static Object get penNib {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.penNib;
@@ -23669,7 +23668,7 @@ class Picons {
   /// bold: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib-straight.svg)
   /// fill: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib-straight.svg)
   /// duotone: ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight.svg)
-  static PiconData get penNibStraight {
+  static Object get penNibStraight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.penNibStraight;
@@ -23692,7 +23691,7 @@ class Picons {
   /// bold: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil.svg)
   /// fill: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil.svg)
   /// duotone: ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil.svg)
-  static PiconData get pencil {
+  static Object get pencil {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencil;
@@ -23715,7 +23714,7 @@ class Picons {
   /// bold: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-circle.svg)
   /// fill: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-circle.svg)
   /// duotone: ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle.svg)
-  static PiconData get pencilCircle {
+  static Object get pencilCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilCircle;
@@ -23738,7 +23737,7 @@ class Picons {
   /// bold: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-line.svg)
   /// fill: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-line.svg)
   /// duotone: ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line.svg)
-  static PiconData get pencilLine {
+  static Object get pencilLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilLine;
@@ -23761,7 +23760,7 @@ class Picons {
   /// bold: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-ruler.svg)
   /// fill: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-ruler.svg)
   /// duotone: ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler.svg)
-  static PiconData get pencilRuler {
+  static Object get pencilRuler {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilRuler;
@@ -23784,7 +23783,7 @@ class Picons {
   /// bold: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple.svg)
   /// fill: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple.svg)
   /// duotone: ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple.svg)
-  static PiconData get pencilSimple {
+  static Object get pencilSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilSimple;
@@ -23807,7 +23806,7 @@ class Picons {
   /// bold: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-line.svg)
   /// fill: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-line.svg)
   /// duotone: ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line.svg)
-  static PiconData get pencilSimpleLine {
+  static Object get pencilSimpleLine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilSimpleLine;
@@ -23830,7 +23829,7 @@ class Picons {
   /// bold: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-slash.svg)
   /// fill: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-slash.svg)
   /// duotone: ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash.svg)
-  static PiconData get pencilSimpleSlash {
+  static Object get pencilSimpleSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilSimpleSlash;
@@ -23853,7 +23852,7 @@ class Picons {
   /// bold: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-slash.svg)
   /// fill: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-slash.svg)
   /// duotone: ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash.svg)
-  static PiconData get pencilSlash {
+  static Object get pencilSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pencilSlash;
@@ -23876,7 +23875,7 @@ class Picons {
   /// bold: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagon.svg)
   /// fill: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagon.svg)
   /// duotone: ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon.svg)
-  static PiconData get pentagon {
+  static Object get pentagon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pentagon;
@@ -23899,7 +23898,7 @@ class Picons {
   /// bold: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagram.svg)
   /// fill: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagram.svg)
   /// duotone: ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram.svg)
-  static PiconData get pentagram {
+  static Object get pentagram {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pentagram;
@@ -23922,7 +23921,7 @@ class Picons {
   /// bold: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pepper.svg)
   /// fill: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pepper.svg)
   /// duotone: ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper.svg)
-  static PiconData get pepper {
+  static Object get pepper {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pepper;
@@ -23945,7 +23944,7 @@ class Picons {
   /// bold: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/percent.svg)
   /// fill: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/percent.svg)
   /// duotone: ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent.svg)
-  static PiconData get percent {
+  static Object get percent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.percent;
@@ -23968,7 +23967,7 @@ class Picons {
   /// bold: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person.svg)
   /// fill: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person.svg)
   /// duotone: ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person.svg)
-  static PiconData get person {
+  static Object get person {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.person;
@@ -23991,7 +23990,7 @@ class Picons {
   /// bold: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-arms-spread.svg)
   /// fill: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-arms-spread.svg)
   /// duotone: ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread.svg)
-  static PiconData get personArmsSpread {
+  static Object get personArmsSpread {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personArmsSpread;
@@ -24014,7 +24013,7 @@ class Picons {
   /// bold: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple.svg)
   /// fill: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple.svg)
   /// duotone: ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple.svg)
-  static PiconData get personSimple {
+  static Object get personSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimple;
@@ -24037,7 +24036,7 @@ class Picons {
   /// bold: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-bike.svg)
   /// fill: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-bike.svg)
   /// duotone: ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike.svg)
-  static PiconData get personSimpleBike {
+  static Object get personSimpleBike {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleBike;
@@ -24060,7 +24059,7 @@ class Picons {
   /// bold: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-circle.svg)
   /// fill: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-circle.svg)
   /// duotone: ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle.svg)
-  static PiconData get personSimpleCircle {
+  static Object get personSimpleCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleCircle;
@@ -24083,7 +24082,7 @@ class Picons {
   /// bold: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-hike.svg)
   /// fill: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-hike.svg)
   /// duotone: ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike.svg)
-  static PiconData get personSimpleHike {
+  static Object get personSimpleHike {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleHike;
@@ -24106,7 +24105,7 @@ class Picons {
   /// bold: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-run.svg)
   /// fill: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-run.svg)
   /// duotone: ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run.svg)
-  static PiconData get personSimpleRun {
+  static Object get personSimpleRun {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleRun;
@@ -24129,7 +24128,7 @@ class Picons {
   /// bold: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-ski.svg)
   /// fill: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-ski.svg)
   /// duotone: ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski.svg)
-  static PiconData get personSimpleSki {
+  static Object get personSimpleSki {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleSki;
@@ -24152,7 +24151,7 @@ class Picons {
   /// bold: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-snowboard.svg)
   /// fill: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-snowboard.svg)
   /// duotone: ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard.svg)
-  static PiconData get personSimpleSnowboard {
+  static Object get personSimpleSnowboard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleSnowboard;
@@ -24175,7 +24174,7 @@ class Picons {
   /// bold: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-swim.svg)
   /// fill: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-swim.svg)
   /// duotone: ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim.svg)
-  static PiconData get personSimpleSwim {
+  static Object get personSimpleSwim {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleSwim;
@@ -24198,7 +24197,7 @@ class Picons {
   /// bold: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-tai-chi.svg)
   /// fill: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-tai-chi.svg)
   /// duotone: ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi.svg)
-  static PiconData get personSimpleTaiChi {
+  static Object get personSimpleTaiChi {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleTaiChi;
@@ -24221,7 +24220,7 @@ class Picons {
   /// bold: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-throw.svg)
   /// fill: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-throw.svg)
   /// duotone: ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw.svg)
-  static PiconData get personSimpleThrow {
+  static Object get personSimpleThrow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleThrow;
@@ -24244,7 +24243,7 @@ class Picons {
   /// bold: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-walk.svg)
   /// fill: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-walk.svg)
   /// duotone: ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk.svg)
-  static PiconData get personSimpleWalk {
+  static Object get personSimpleWalk {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.personSimpleWalk;
@@ -24267,7 +24266,7 @@ class Picons {
   /// bold: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/perspective.svg)
   /// fill: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/perspective.svg)
   /// duotone: ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective.svg)
-  static PiconData get perspective {
+  static Object get perspective {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.perspective;
@@ -24290,7 +24289,7 @@ class Picons {
   /// bold: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone.svg)
   /// fill: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone.svg)
   /// duotone: ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone.svg)
-  static PiconData get phone {
+  static Object get phone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phone;
@@ -24313,7 +24312,7 @@ class Picons {
   /// bold: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-call.svg)
   /// fill: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-call.svg)
   /// duotone: ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call.svg)
-  static PiconData get phoneCall {
+  static Object get phoneCall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneCall;
@@ -24336,7 +24335,7 @@ class Picons {
   /// bold: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-disconnect.svg)
   /// fill: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-disconnect.svg)
   /// duotone: ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect.svg)
-  static PiconData get phoneDisconnect {
+  static Object get phoneDisconnect {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneDisconnect;
@@ -24359,7 +24358,7 @@ class Picons {
   /// bold: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-incoming.svg)
   /// fill: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-incoming.svg)
   /// duotone: ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming.svg)
-  static PiconData get phoneIncoming {
+  static Object get phoneIncoming {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneIncoming;
@@ -24382,7 +24381,7 @@ class Picons {
   /// bold: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-list.svg)
   /// fill: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-list.svg)
   /// duotone: ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list.svg)
-  static PiconData get phoneList {
+  static Object get phoneList {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneList;
@@ -24405,7 +24404,7 @@ class Picons {
   /// bold: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-outgoing.svg)
   /// fill: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-outgoing.svg)
   /// duotone: ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing.svg)
-  static PiconData get phoneOutgoing {
+  static Object get phoneOutgoing {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneOutgoing;
@@ -24428,7 +24427,7 @@ class Picons {
   /// bold: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-pause.svg)
   /// fill: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-pause.svg)
   /// duotone: ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause.svg)
-  static PiconData get phonePause {
+  static Object get phonePause {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phonePause;
@@ -24451,7 +24450,7 @@ class Picons {
   /// bold: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-plus.svg)
   /// fill: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-plus.svg)
   /// duotone: ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus.svg)
-  static PiconData get phonePlus {
+  static Object get phonePlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phonePlus;
@@ -24474,7 +24473,7 @@ class Picons {
   /// bold: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-slash.svg)
   /// fill: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-slash.svg)
   /// duotone: ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash.svg)
-  static PiconData get phoneSlash {
+  static Object get phoneSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneSlash;
@@ -24497,7 +24496,7 @@ class Picons {
   /// bold: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-transfer.svg)
   /// fill: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-transfer.svg)
   /// duotone: ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer.svg)
-  static PiconData get phoneTransfer {
+  static Object get phoneTransfer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneTransfer;
@@ -24520,7 +24519,7 @@ class Picons {
   /// bold: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-x.svg)
   /// fill: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-x.svg)
   /// duotone: ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x.svg)
-  static PiconData get phoneX {
+  static Object get phoneX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phoneX;
@@ -24543,7 +24542,7 @@ class Picons {
   /// bold: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phosphor-logo.svg)
   /// fill: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phosphor-logo.svg)
   /// duotone: ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo.svg)
-  static PiconData get phosphorLogo {
+  static Object get phosphorLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.phosphorLogo;
@@ -24566,7 +24565,7 @@ class Picons {
   /// bold: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pi.svg)
   /// fill: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pi.svg)
   /// duotone: ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi.svg)
-  static PiconData get pi {
+  static Object get pi {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pi;
@@ -24589,7 +24588,7 @@ class Picons {
   /// bold: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piano-keys.svg)
   /// fill: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piano-keys.svg)
   /// duotone: ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys.svg)
-  static PiconData get pianoKeys {
+  static Object get pianoKeys {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pianoKeys;
@@ -24612,7 +24611,7 @@ class Picons {
   /// bold: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picnic-table.svg)
   /// fill: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picnic-table.svg)
   /// duotone: ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table.svg)
-  static PiconData get picnicTable {
+  static Object get picnicTable {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.picnicTable;
@@ -24635,7 +24634,7 @@ class Picons {
   /// bold: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picture-in-picture.svg)
   /// fill: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picture-in-picture.svg)
   /// duotone: ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture.svg)
-  static PiconData get pictureInpicture {
+  static Object get pictureInpicture {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pictureInpicture;
@@ -24658,7 +24657,7 @@ class Picons {
   /// bold: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piggy-bank.svg)
   /// fill: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piggy-bank.svg)
   /// duotone: ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank.svg)
-  static PiconData get piggyBank {
+  static Object get piggyBank {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.piggyBank;
@@ -24681,7 +24680,7 @@ class Picons {
   /// bold: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pill.svg)
   /// fill: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pill.svg)
   /// duotone: ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill.svg)
-  static PiconData get pill {
+  static Object get pill {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pill;
@@ -24704,7 +24703,7 @@ class Picons {
   /// bold: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ping-pong.svg)
   /// fill: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ping-pong.svg)
   /// duotone: ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong.svg)
-  static PiconData get pingPong {
+  static Object get pingPong {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pingPong;
@@ -24727,7 +24726,7 @@ class Picons {
   /// bold: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pint-glass.svg)
   /// fill: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pint-glass.svg)
   /// duotone: ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass.svg)
-  static PiconData get pintGlass {
+  static Object get pintGlass {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pintGlass;
@@ -24750,7 +24749,7 @@ class Picons {
   /// bold: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinterest-logo.svg)
   /// fill: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinterest-logo.svg)
   /// duotone: ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo.svg)
-  static PiconData get pinterestLogo {
+  static Object get pinterestLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pinterestLogo;
@@ -24773,7 +24772,7 @@ class Picons {
   /// bold: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinwheel.svg)
   /// fill: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinwheel.svg)
   /// duotone: ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel.svg)
-  static PiconData get pinwheel {
+  static Object get pinwheel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pinwheel;
@@ -24796,7 +24795,7 @@ class Picons {
   /// bold: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe.svg)
   /// fill: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe.svg)
   /// duotone: ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe.svg)
-  static PiconData get pipe {
+  static Object get pipe {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pipe;
@@ -24819,7 +24818,7 @@ class Picons {
   /// bold: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe-wrench.svg)
   /// fill: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe-wrench.svg)
   /// duotone: ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench.svg)
-  static PiconData get pipeWrench {
+  static Object get pipeWrench {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pipeWrench;
@@ -24842,7 +24841,7 @@ class Picons {
   /// bold: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pix-logo.svg)
   /// fill: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pix-logo.svg)
   /// duotone: ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo.svg)
-  static PiconData get pixLogo {
+  static Object get pixLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pixLogo;
@@ -24865,7 +24864,7 @@ class Picons {
   /// bold: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pizza.svg)
   /// fill: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pizza.svg)
   /// duotone: ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza.svg)
-  static PiconData get pizza {
+  static Object get pizza {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pizza;
@@ -24888,7 +24887,7 @@ class Picons {
   /// bold: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/placeholder.svg)
   /// fill: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/placeholder.svg)
   /// duotone: ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder.svg)
-  static PiconData get placeholder {
+  static Object get placeholder {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.placeholder;
@@ -24911,7 +24910,7 @@ class Picons {
   /// bold: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/planet.svg)
   /// fill: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/planet.svg)
   /// duotone: ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet.svg)
-  static PiconData get planet {
+  static Object get planet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.planet;
@@ -24934,7 +24933,7 @@ class Picons {
   /// bold: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plant.svg)
   /// fill: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plant.svg)
   /// duotone: ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant.svg)
-  static PiconData get plant {
+  static Object get plant {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plant;
@@ -24957,7 +24956,7 @@ class Picons {
   /// bold: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play.svg)
   /// fill: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play.svg)
   /// duotone: ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play.svg)
-  static PiconData get play {
+  static Object get play {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.play;
@@ -24980,7 +24979,7 @@ class Picons {
   /// bold: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-circle.svg)
   /// fill: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-circle.svg)
   /// duotone: ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle.svg)
-  static PiconData get playCircle {
+  static Object get playCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.playCircle;
@@ -25003,7 +25002,7 @@ class Picons {
   /// bold: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-pause.svg)
   /// fill: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-pause.svg)
   /// duotone: ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause.svg)
-  static PiconData get playPause {
+  static Object get playPause {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.playPause;
@@ -25026,7 +25025,7 @@ class Picons {
   /// bold: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/playlist.svg)
   /// fill: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/playlist.svg)
   /// duotone: ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist.svg)
-  static PiconData get playlist {
+  static Object get playlist {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.playlist;
@@ -25049,7 +25048,7 @@ class Picons {
   /// bold: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug.svg)
   /// fill: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug.svg)
   /// duotone: ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug.svg)
-  static PiconData get plug {
+  static Object get plug {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plug;
@@ -25072,7 +25071,7 @@ class Picons {
   /// bold: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug-charging.svg)
   /// fill: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug-charging.svg)
   /// duotone: ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging.svg)
-  static PiconData get plugCharging {
+  static Object get plugCharging {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plugCharging;
@@ -25095,7 +25094,7 @@ class Picons {
   /// bold: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs.svg)
   /// fill: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs.svg)
   /// duotone: ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs.svg)
-  static PiconData get plugs {
+  static Object get plugs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plugs;
@@ -25118,7 +25117,7 @@ class Picons {
   /// bold: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs-connected.svg)
   /// fill: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs-connected.svg)
   /// duotone: ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected.svg)
-  static PiconData get plugsConnected {
+  static Object get plugsConnected {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plugsConnected;
@@ -25141,7 +25140,7 @@ class Picons {
   /// bold: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus.svg)
   /// fill: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus.svg)
   /// duotone: ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus.svg)
-  static PiconData get plus {
+  static Object get plus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plus;
@@ -25164,7 +25163,7 @@ class Picons {
   /// bold: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-circle.svg)
   /// fill: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-circle.svg)
   /// duotone: ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle.svg)
-  static PiconData get plusCircle {
+  static Object get plusCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plusCircle;
@@ -25187,7 +25186,7 @@ class Picons {
   /// bold: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-minus.svg)
   /// fill: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-minus.svg)
   /// duotone: ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus.svg)
-  static PiconData get plusMinus {
+  static Object get plusMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plusMinus;
@@ -25210,7 +25209,7 @@ class Picons {
   /// bold: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-square.svg)
   /// fill: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-square.svg)
   /// duotone: ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square.svg)
-  static PiconData get plusSquare {
+  static Object get plusSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.plusSquare;
@@ -25233,7 +25232,7 @@ class Picons {
   /// bold: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/poker-chip.svg)
   /// fill: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/poker-chip.svg)
   /// duotone: ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip.svg)
-  static PiconData get pokerChip {
+  static Object get pokerChip {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pokerChip;
@@ -25256,7 +25255,7 @@ class Picons {
   /// bold: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/police-car.svg)
   /// fill: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/police-car.svg)
   /// duotone: ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car.svg)
-  static PiconData get policeCar {
+  static Object get policeCar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.policeCar;
@@ -25279,7 +25278,7 @@ class Picons {
   /// bold: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/polygon.svg)
   /// fill: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/polygon.svg)
   /// duotone: ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon.svg)
-  static PiconData get polygon {
+  static Object get polygon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.polygon;
@@ -25302,7 +25301,7 @@ class Picons {
   /// bold: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popcorn.svg)
   /// fill: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popcorn.svg)
   /// duotone: ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn.svg)
-  static PiconData get popcorn {
+  static Object get popcorn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.popcorn;
@@ -25325,7 +25324,7 @@ class Picons {
   /// bold: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popsicle.svg)
   /// fill: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popsicle.svg)
   /// duotone: ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle.svg)
-  static PiconData get popsicle {
+  static Object get popsicle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.popsicle;
@@ -25348,7 +25347,7 @@ class Picons {
   /// bold: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/potted-plant.svg)
   /// fill: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/potted-plant.svg)
   /// duotone: ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant.svg)
-  static PiconData get pottedPlant {
+  static Object get pottedPlant {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pottedPlant;
@@ -25371,7 +25370,7 @@ class Picons {
   /// bold: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/power.svg)
   /// fill: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/power.svg)
   /// duotone: ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power.svg)
-  static PiconData get power {
+  static Object get power {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.power;
@@ -25394,7 +25393,7 @@ class Picons {
   /// bold: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prescription.svg)
   /// fill: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prescription.svg)
   /// duotone: ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription.svg)
-  static PiconData get prescription {
+  static Object get prescription {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.prescription;
@@ -25417,7 +25416,7 @@ class Picons {
   /// bold: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation.svg)
   /// fill: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation.svg)
   /// duotone: ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation.svg)
-  static PiconData get presentation {
+  static Object get presentation {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.presentation;
@@ -25440,7 +25439,7 @@ class Picons {
   /// bold: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation-chart.svg)
   /// fill: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation-chart.svg)
   /// duotone: ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart.svg)
-  static PiconData get presentationChart {
+  static Object get presentationChart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.presentationChart;
@@ -25463,7 +25462,7 @@ class Picons {
   /// bold: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/printer.svg)
   /// fill: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/printer.svg)
   /// duotone: ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer.svg)
-  static PiconData get printer {
+  static Object get printer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.printer;
@@ -25486,7 +25485,7 @@ class Picons {
   /// bold: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit.svg)
   /// fill: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit.svg)
   /// duotone: ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit.svg)
-  static PiconData get prohibit {
+  static Object get prohibit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.prohibit;
@@ -25509,7 +25508,7 @@ class Picons {
   /// bold: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit-inset.svg)
   /// fill: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit-inset.svg)
   /// duotone: ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset.svg)
-  static PiconData get prohibitInset {
+  static Object get prohibitInset {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.prohibitInset;
@@ -25532,7 +25531,7 @@ class Picons {
   /// bold: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen.svg)
   /// fill: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen.svg)
   /// duotone: ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen.svg)
-  static PiconData get projectorScreen {
+  static Object get projectorScreen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.projectorScreen;
@@ -25555,7 +25554,7 @@ class Picons {
   /// bold: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen-chart.svg)
   /// fill: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen-chart.svg)
   /// duotone: ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart.svg)
-  static PiconData get projectorScreenChart {
+  static Object get projectorScreenChart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.projectorScreenChart;
@@ -25578,7 +25577,7 @@ class Picons {
   /// bold: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pulse.svg)
   /// fill: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pulse.svg)
   /// duotone: ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse.svg)
-  static PiconData get pulse {
+  static Object get pulse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pulse;
@@ -25601,7 +25600,7 @@ class Picons {
   /// bold: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin.svg)
   /// fill: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin.svg)
   /// duotone: ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin.svg)
-  static PiconData get pushPin {
+  static Object get pushPin {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pushPin;
@@ -25624,7 +25623,7 @@ class Picons {
   /// bold: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple.svg)
   /// fill: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple.svg)
   /// duotone: ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple.svg)
-  static PiconData get pushPinSimple {
+  static Object get pushPinSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pushPinSimple;
@@ -25647,7 +25646,7 @@ class Picons {
   /// bold: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple-slash.svg)
   /// fill: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple-slash.svg)
   /// duotone: ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash.svg)
-  static PiconData get pushPinSimpleSlash {
+  static Object get pushPinSimpleSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pushPinSimpleSlash;
@@ -25670,7 +25669,7 @@ class Picons {
   /// bold: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-slash.svg)
   /// fill: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-slash.svg)
   /// duotone: ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash.svg)
-  static PiconData get pushPinSlash {
+  static Object get pushPinSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.pushPinSlash;
@@ -25693,7 +25692,7 @@ class Picons {
   /// bold: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/puzzle-piece.svg)
   /// fill: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/puzzle-piece.svg)
   /// duotone: ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece.svg)
-  static PiconData get puzzlePiece {
+  static Object get puzzlePiece {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.puzzlePiece;
@@ -25716,7 +25715,7 @@ class Picons {
   /// bold: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/qr-code.svg)
   /// fill: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/qr-code.svg)
   /// duotone: ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code.svg)
-  static PiconData get qrCode {
+  static Object get qrCode {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.qrCode;
@@ -25739,7 +25738,7 @@ class Picons {
   /// bold: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question.svg)
   /// fill: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question.svg)
   /// duotone: ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question.svg)
-  static PiconData get question {
+  static Object get question {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.question;
@@ -25762,7 +25761,7 @@ class Picons {
   /// bold: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question-mark.svg)
   /// fill: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question-mark.svg)
   /// duotone: ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark.svg)
-  static PiconData get questionMark {
+  static Object get questionMark {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.questionMark;
@@ -25785,7 +25784,7 @@ class Picons {
   /// bold: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/queue.svg)
   /// fill: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/queue.svg)
   /// duotone: ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue.svg)
-  static PiconData get queue {
+  static Object get queue {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.queue;
@@ -25808,7 +25807,7 @@ class Picons {
   /// bold: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/quotes.svg)
   /// fill: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/quotes.svg)
   /// duotone: ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes.svg)
-  static PiconData get quotes {
+  static Object get quotes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.quotes;
@@ -25831,7 +25830,7 @@ class Picons {
   /// bold: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rabbit.svg)
   /// fill: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rabbit.svg)
   /// duotone: ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit.svg)
-  static PiconData get rabbit {
+  static Object get rabbit {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rabbit;
@@ -25854,7 +25853,7 @@ class Picons {
   /// bold: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/racquet.svg)
   /// fill: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/racquet.svg)
   /// duotone: ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet.svg)
-  static PiconData get racquet {
+  static Object get racquet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.racquet;
@@ -25877,7 +25876,7 @@ class Picons {
   /// bold: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radical.svg)
   /// fill: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radical.svg)
   /// duotone: ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical.svg)
-  static PiconData get radical {
+  static Object get radical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.radical;
@@ -25900,7 +25899,7 @@ class Picons {
   /// bold: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio.svg)
   /// fill: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio.svg)
   /// duotone: ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio.svg)
-  static PiconData get radio {
+  static Object get radio {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.radio;
@@ -25923,7 +25922,7 @@ class Picons {
   /// bold: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio-button.svg)
   /// fill: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio-button.svg)
   /// duotone: ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button.svg)
-  static PiconData get radioButton {
+  static Object get radioButton {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.radioButton;
@@ -25946,7 +25945,7 @@ class Picons {
   /// bold: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radioactive.svg)
   /// fill: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radioactive.svg)
   /// duotone: ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive.svg)
-  static PiconData get radioactive {
+  static Object get radioactive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.radioactive;
@@ -25969,7 +25968,7 @@ class Picons {
   /// bold: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow.svg)
   /// fill: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow.svg)
   /// duotone: ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow.svg)
-  static PiconData get rainbow {
+  static Object get rainbow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rainbow;
@@ -25992,7 +25991,7 @@ class Picons {
   /// bold: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow-cloud.svg)
   /// fill: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow-cloud.svg)
   /// duotone: ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud.svg)
-  static PiconData get rainbowCloud {
+  static Object get rainbowCloud {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rainbowCloud;
@@ -26015,7 +26014,7 @@ class Picons {
   /// bold: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ranking.svg)
   /// fill: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ranking.svg)
   /// duotone: ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking.svg)
-  static PiconData get ranking {
+  static Object get ranking {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ranking;
@@ -26038,7 +26037,7 @@ class Picons {
   /// bold: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/read-cv-logo.svg)
   /// fill: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/read-cv-logo.svg)
   /// duotone: ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo.svg)
-  static PiconData get readCvLogo {
+  static Object get readCvLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.readCvLogo;
@@ -26061,7 +26060,7 @@ class Picons {
   /// bold: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt.svg)
   /// fill: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt.svg)
   /// duotone: ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt.svg)
-  static PiconData get receipt {
+  static Object get receipt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.receipt;
@@ -26084,7 +26083,7 @@ class Picons {
   /// bold: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt-x.svg)
   /// fill: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt-x.svg)
   /// duotone: ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x.svg)
-  static PiconData get receiptX {
+  static Object get receiptX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.receiptX;
@@ -26107,7 +26106,7 @@ class Picons {
   /// bold: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/record.svg)
   /// fill: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/record.svg)
   /// duotone: ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record.svg)
-  static PiconData get record {
+  static Object get record {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.record;
@@ -26130,7 +26129,7 @@ class Picons {
   /// bold: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle.svg)
   /// fill: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle.svg)
   /// duotone: ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle.svg)
-  static PiconData get rectangle {
+  static Object get rectangle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rectangle;
@@ -26153,7 +26152,7 @@ class Picons {
   /// bold: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle-dashed.svg)
   /// fill: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle-dashed.svg)
   /// duotone: ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed.svg)
-  static PiconData get rectangleDashed {
+  static Object get rectangleDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rectangleDashed;
@@ -26176,7 +26175,7 @@ class Picons {
   /// bold: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/recycle.svg)
   /// fill: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/recycle.svg)
   /// duotone: ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle.svg)
-  static PiconData get recycle {
+  static Object get recycle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.recycle;
@@ -26199,7 +26198,7 @@ class Picons {
   /// bold: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/reddit-logo.svg)
   /// fill: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/reddit-logo.svg)
   /// duotone: ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo.svg)
-  static PiconData get redditLogo {
+  static Object get redditLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.redditLogo;
@@ -26222,7 +26221,7 @@ class Picons {
   /// bold: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat.svg)
   /// fill: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat.svg)
   /// duotone: ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat.svg)
-  static PiconData get repeat {
+  static Object get repeat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.repeat;
@@ -26245,7 +26244,7 @@ class Picons {
   /// bold: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat-once.svg)
   /// fill: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat-once.svg)
   /// duotone: ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once.svg)
-  static PiconData get repeatOnce {
+  static Object get repeatOnce {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.repeatOnce;
@@ -26268,7 +26267,7 @@ class Picons {
   /// bold: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/replit-logo.svg)
   /// fill: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/replit-logo.svg)
   /// duotone: ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo.svg)
-  static PiconData get replitLogo {
+  static Object get replitLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.replitLogo;
@@ -26291,7 +26290,7 @@ class Picons {
   /// bold: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/resize.svg)
   /// fill: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/resize.svg)
   /// duotone: ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize.svg)
-  static PiconData get resize {
+  static Object get resize {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.resize;
@@ -26314,7 +26313,7 @@ class Picons {
   /// bold: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind.svg)
   /// fill: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind.svg)
   /// duotone: ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind.svg)
-  static PiconData get rewind {
+  static Object get rewind {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rewind;
@@ -26337,7 +26336,7 @@ class Picons {
   /// bold: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind-circle.svg)
   /// fill: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind-circle.svg)
   /// duotone: ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle.svg)
-  static PiconData get rewindCircle {
+  static Object get rewindCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rewindCircle;
@@ -26360,7 +26359,7 @@ class Picons {
   /// bold: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/road-horizon.svg)
   /// fill: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/road-horizon.svg)
   /// duotone: ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon.svg)
-  static PiconData get roadHorizon {
+  static Object get roadHorizon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.roadHorizon;
@@ -26383,7 +26382,7 @@ class Picons {
   /// bold: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/robot.svg)
   /// fill: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/robot.svg)
   /// duotone: ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot.svg)
-  static PiconData get robot {
+  static Object get robot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.robot;
@@ -26406,7 +26405,7 @@ class Picons {
   /// bold: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket.svg)
   /// fill: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket.svg)
   /// duotone: ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket.svg)
-  static PiconData get rocket {
+  static Object get rocket {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rocket;
@@ -26429,7 +26428,7 @@ class Picons {
   /// bold: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket-launch.svg)
   /// fill: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket-launch.svg)
   /// duotone: ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch.svg)
-  static PiconData get rocketLaunch {
+  static Object get rocketLaunch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rocketLaunch;
@@ -26452,7 +26451,7 @@ class Picons {
   /// bold: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows.svg)
   /// fill: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows.svg)
   /// duotone: ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows.svg)
-  static PiconData get rows {
+  static Object get rows {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rows;
@@ -26475,7 +26474,7 @@ class Picons {
   /// bold: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-bottom.svg)
   /// fill: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-bottom.svg)
   /// duotone: ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom.svg)
-  static PiconData get rowsPlusBottom {
+  static Object get rowsPlusBottom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rowsPlusBottom;
@@ -26498,7 +26497,7 @@ class Picons {
   /// bold: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-top.svg)
   /// fill: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-top.svg)
   /// duotone: ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top.svg)
-  static PiconData get rowsPlusTop {
+  static Object get rowsPlusTop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rowsPlusTop;
@@ -26521,7 +26520,7 @@ class Picons {
   /// bold: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss.svg)
   /// fill: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss.svg)
   /// duotone: ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss.svg)
-  static PiconData get rss {
+  static Object get rss {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rss;
@@ -26544,7 +26543,7 @@ class Picons {
   /// bold: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss-simple.svg)
   /// fill: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss-simple.svg)
   /// duotone: ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple.svg)
-  static PiconData get rssSimple {
+  static Object get rssSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rssSimple;
@@ -26567,7 +26566,7 @@ class Picons {
   /// bold: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rug.svg)
   /// fill: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rug.svg)
   /// duotone: ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug.svg)
-  static PiconData get rug {
+  static Object get rug {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.rug;
@@ -26590,7 +26589,7 @@ class Picons {
   /// bold: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ruler.svg)
   /// fill: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ruler.svg)
   /// duotone: ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler.svg)
-  static PiconData get ruler {
+  static Object get ruler {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ruler;
@@ -26613,7 +26612,7 @@ class Picons {
   /// bold: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sailboat.svg)
   /// fill: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sailboat.svg)
   /// duotone: ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat.svg)
-  static PiconData get sailboat {
+  static Object get sailboat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sailboat;
@@ -26636,7 +26635,7 @@ class Picons {
   /// bold: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scales.svg)
   /// fill: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scales.svg)
   /// duotone: ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales.svg)
-  static PiconData get scales {
+  static Object get scales {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scales;
@@ -26659,7 +26658,7 @@ class Picons {
   /// bold: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan.svg)
   /// fill: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan.svg)
   /// duotone: ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan.svg)
-  static PiconData get scan {
+  static Object get scan {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scan;
@@ -26682,7 +26681,7 @@ class Picons {
   /// bold: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan-smiley.svg)
   /// fill: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan-smiley.svg)
   /// duotone: ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley.svg)
-  static PiconData get scanSmiley {
+  static Object get scanSmiley {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scanSmiley;
@@ -26705,7 +26704,7 @@ class Picons {
   /// bold: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scissors.svg)
   /// fill: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scissors.svg)
   /// duotone: ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors.svg)
-  static PiconData get scissors {
+  static Object get scissors {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scissors;
@@ -26728,7 +26727,7 @@ class Picons {
   /// bold: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scooter.svg)
   /// fill: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scooter.svg)
   /// duotone: ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter.svg)
-  static PiconData get scooter {
+  static Object get scooter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scooter;
@@ -26751,7 +26750,7 @@ class Picons {
   /// bold: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screencast.svg)
   /// fill: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screencast.svg)
   /// duotone: ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast.svg)
-  static PiconData get screencast {
+  static Object get screencast {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.screencast;
@@ -26774,7 +26773,7 @@ class Picons {
   /// bold: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screwdriver.svg)
   /// fill: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screwdriver.svg)
   /// duotone: ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver.svg)
-  static PiconData get screwdriver {
+  static Object get screwdriver {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.screwdriver;
@@ -26797,7 +26796,7 @@ class Picons {
   /// bold: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble.svg)
   /// fill: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble.svg)
   /// duotone: ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble.svg)
-  static PiconData get scribble {
+  static Object get scribble {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scribble;
@@ -26820,7 +26819,7 @@ class Picons {
   /// bold: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble-loop.svg)
   /// fill: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble-loop.svg)
   /// duotone: ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop.svg)
-  static PiconData get scribbleLoop {
+  static Object get scribbleLoop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scribbleLoop;
@@ -26843,7 +26842,7 @@ class Picons {
   /// bold: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scroll.svg)
   /// fill: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scroll.svg)
   /// duotone: ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll.svg)
-  static PiconData get scroll {
+  static Object get scroll {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.scroll;
@@ -26866,7 +26865,7 @@ class Picons {
   /// bold: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal.svg)
   /// fill: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal.svg)
   /// duotone: ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal.svg)
-  static PiconData get seal {
+  static Object get seal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.seal;
@@ -26889,7 +26888,7 @@ class Picons {
   /// bold: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-check.svg)
   /// fill: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-check.svg)
   /// duotone: ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check.svg)
-  static PiconData get sealCheck {
+  static Object get sealCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sealCheck;
@@ -26912,7 +26911,7 @@ class Picons {
   /// bold: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-percent.svg)
   /// fill: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-percent.svg)
   /// duotone: ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent.svg)
-  static PiconData get sealPercent {
+  static Object get sealPercent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sealPercent;
@@ -26935,7 +26934,7 @@ class Picons {
   /// bold: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-question.svg)
   /// fill: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-question.svg)
   /// duotone: ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question.svg)
-  static PiconData get sealQuestion {
+  static Object get sealQuestion {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sealQuestion;
@@ -26958,7 +26957,7 @@ class Picons {
   /// bold: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-warning.svg)
   /// fill: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-warning.svg)
   /// duotone: ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning.svg)
-  static PiconData get sealWarning {
+  static Object get sealWarning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sealWarning;
@@ -26981,7 +26980,7 @@ class Picons {
   /// bold: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seat.svg)
   /// fill: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seat.svg)
   /// duotone: ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat.svg)
-  static PiconData get seat {
+  static Object get seat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.seat;
@@ -27004,7 +27003,7 @@ class Picons {
   /// bold: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seatbelt.svg)
   /// fill: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seatbelt.svg)
   /// duotone: ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt.svg)
-  static PiconData get seatbelt {
+  static Object get seatbelt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.seatbelt;
@@ -27027,7 +27026,7 @@ class Picons {
   /// bold: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/security-camera.svg)
   /// fill: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/security-camera.svg)
   /// duotone: ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera.svg)
-  static PiconData get securityCamera {
+  static Object get securityCamera {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.securityCamera;
@@ -27050,7 +27049,7 @@ class Picons {
   /// bold: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection.svg)
   /// fill: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection.svg)
   /// duotone: ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection.svg)
-  static PiconData get selection {
+  static Object get selection {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selection;
@@ -27073,7 +27072,7 @@ class Picons {
   /// bold: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-all.svg)
   /// fill: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-all.svg)
   /// duotone: ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all.svg)
-  static PiconData get selectionAll {
+  static Object get selectionAll {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionAll;
@@ -27096,7 +27095,7 @@ class Picons {
   /// bold: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-background.svg)
   /// fill: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-background.svg)
   /// duotone: ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background.svg)
-  static PiconData get selectionBackground {
+  static Object get selectionBackground {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionBackground;
@@ -27119,7 +27118,7 @@ class Picons {
   /// bold: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-foreground.svg)
   /// fill: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-foreground.svg)
   /// duotone: ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground.svg)
-  static PiconData get selectionForeground {
+  static Object get selectionForeground {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionForeground;
@@ -27142,7 +27141,7 @@ class Picons {
   /// bold: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-inverse.svg)
   /// fill: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-inverse.svg)
   /// duotone: ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse.svg)
-  static PiconData get selectionInverse {
+  static Object get selectionInverse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionInverse;
@@ -27165,7 +27164,7 @@ class Picons {
   /// bold: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-plus.svg)
   /// fill: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-plus.svg)
   /// duotone: ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus.svg)
-  static PiconData get selectionPlus {
+  static Object get selectionPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionPlus;
@@ -27188,7 +27187,7 @@ class Picons {
   /// bold: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-slash.svg)
   /// fill: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-slash.svg)
   /// duotone: ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash.svg)
-  static PiconData get selectionSlash {
+  static Object get selectionSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.selectionSlash;
@@ -27211,7 +27210,7 @@ class Picons {
   /// bold: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shapes.svg)
   /// fill: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shapes.svg)
   /// duotone: ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes.svg)
-  static PiconData get shapes {
+  static Object get shapes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shapes;
@@ -27234,7 +27233,7 @@ class Picons {
   /// bold: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share.svg)
   /// fill: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share.svg)
   /// duotone: ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share.svg)
-  static PiconData get share {
+  static Object get share {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.share;
@@ -27257,7 +27256,7 @@ class Picons {
   /// bold: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-fat.svg)
   /// fill: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-fat.svg)
   /// duotone: ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat.svg)
-  static PiconData get shareFat {
+  static Object get shareFat {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shareFat;
@@ -27280,7 +27279,7 @@ class Picons {
   /// bold: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-network.svg)
   /// fill: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-network.svg)
   /// duotone: ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network.svg)
-  static PiconData get shareNetwork {
+  static Object get shareNetwork {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shareNetwork;
@@ -27303,7 +27302,7 @@ class Picons {
   /// bold: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield.svg)
   /// fill: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield.svg)
   /// duotone: ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield.svg)
-  static PiconData get shield {
+  static Object get shield {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shield;
@@ -27326,7 +27325,7 @@ class Picons {
   /// bold: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-check.svg)
   /// fill: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check.svg)
   /// duotone: ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check.svg)
-  static PiconData get shieldCheck {
+  static Object get shieldCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldCheck;
@@ -27349,7 +27348,7 @@ class Picons {
   /// bold: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-checkered.svg)
   /// fill: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-checkered.svg)
   /// duotone: ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered.svg)
-  static PiconData get shieldCheckered {
+  static Object get shieldCheckered {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldCheckered;
@@ -27372,7 +27371,7 @@ class Picons {
   /// bold: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-chevron.svg)
   /// fill: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-chevron.svg)
   /// duotone: ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron.svg)
-  static PiconData get shieldChevron {
+  static Object get shieldChevron {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldChevron;
@@ -27395,7 +27394,7 @@ class Picons {
   /// bold: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-plus.svg)
   /// fill: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-plus.svg)
   /// duotone: ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus.svg)
-  static PiconData get shieldPlus {
+  static Object get shieldPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldPlus;
@@ -27418,7 +27417,7 @@ class Picons {
   /// bold: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-slash.svg)
   /// fill: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-slash.svg)
   /// duotone: ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash.svg)
-  static PiconData get shieldSlash {
+  static Object get shieldSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldSlash;
@@ -27441,7 +27440,7 @@ class Picons {
   /// bold: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-star.svg)
   /// fill: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-star.svg)
   /// duotone: ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star.svg)
-  static PiconData get shieldStar {
+  static Object get shieldStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldStar;
@@ -27464,7 +27463,7 @@ class Picons {
   /// bold: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-warning.svg)
   /// fill: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-warning.svg)
   /// duotone: ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning.svg)
-  static PiconData get shieldWarning {
+  static Object get shieldWarning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shieldWarning;
@@ -27487,7 +27486,7 @@ class Picons {
   /// bold: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shipping-container.svg)
   /// fill: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shipping-container.svg)
   /// duotone: ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container.svg)
-  static PiconData get shippingContainer {
+  static Object get shippingContainer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shippingContainer;
@@ -27510,7 +27509,7 @@ class Picons {
   /// bold: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shirt-folded.svg)
   /// fill: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shirt-folded.svg)
   /// duotone: ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded.svg)
-  static PiconData get shirtFolded {
+  static Object get shirtFolded {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shirtFolded;
@@ -27533,7 +27532,7 @@ class Picons {
   /// bold: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shooting-star.svg)
   /// fill: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shooting-star.svg)
   /// duotone: ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star.svg)
-  static PiconData get shootingStar {
+  static Object get shootingStar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shootingStar;
@@ -27556,7 +27555,7 @@ class Picons {
   /// bold: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag.svg)
   /// fill: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag.svg)
   /// duotone: ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag.svg)
-  static PiconData get shoppingBag {
+  static Object get shoppingBag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shoppingBag;
@@ -27579,7 +27578,7 @@ class Picons {
   /// bold: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag-open.svg)
   /// fill: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag-open.svg)
   /// duotone: ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open.svg)
-  static PiconData get shoppingBagOpen {
+  static Object get shoppingBagOpen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shoppingBagOpen;
@@ -27602,7 +27601,7 @@ class Picons {
   /// bold: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart.svg)
   /// fill: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart.svg)
   /// duotone: ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart.svg)
-  static PiconData get shoppingCart {
+  static Object get shoppingCart {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shoppingCart;
@@ -27625,7 +27624,7 @@ class Picons {
   /// bold: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart-simple.svg)
   /// fill: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart-simple.svg)
   /// duotone: ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple.svg)
-  static PiconData get shoppingCartSimple {
+  static Object get shoppingCartSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shoppingCartSimple;
@@ -27648,7 +27647,7 @@ class Picons {
   /// bold: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shovel.svg)
   /// fill: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shovel.svg)
   /// duotone: ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel.svg)
-  static PiconData get shovel {
+  static Object get shovel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shovel;
@@ -27671,7 +27670,7 @@ class Picons {
   /// bold: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shower.svg)
   /// fill: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shower.svg)
   /// duotone: ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower.svg)
-  static PiconData get shower {
+  static Object get shower {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shower;
@@ -27694,7 +27693,7 @@ class Picons {
   /// bold: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shrimp.svg)
   /// fill: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shrimp.svg)
   /// duotone: ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp.svg)
-  static PiconData get shrimp {
+  static Object get shrimp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shrimp;
@@ -27717,7 +27716,7 @@ class Picons {
   /// bold: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle.svg)
   /// fill: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle.svg)
   /// duotone: ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle.svg)
-  static PiconData get shuffle {
+  static Object get shuffle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shuffle;
@@ -27740,7 +27739,7 @@ class Picons {
   /// bold: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-angular.svg)
   /// fill: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-angular.svg)
   /// duotone: ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular.svg)
-  static PiconData get shuffleAngular {
+  static Object get shuffleAngular {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shuffleAngular;
@@ -27763,7 +27762,7 @@ class Picons {
   /// bold: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-simple.svg)
   /// fill: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-simple.svg)
   /// duotone: ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple.svg)
-  static PiconData get shuffleSimple {
+  static Object get shuffleSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.shuffleSimple;
@@ -27786,7 +27785,7 @@ class Picons {
   /// bold: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar.svg)
   /// fill: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar.svg)
   /// duotone: ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar.svg)
-  static PiconData get sidebar {
+  static Object get sidebar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sidebar;
@@ -27809,7 +27808,7 @@ class Picons {
   /// bold: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar-simple.svg)
   /// fill: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar-simple.svg)
   /// duotone: ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple.svg)
-  static PiconData get sidebarSimple {
+  static Object get sidebarSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sidebarSimple;
@@ -27832,7 +27831,7 @@ class Picons {
   /// bold: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sigma.svg)
   /// fill: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sigma.svg)
   /// duotone: ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma.svg)
-  static PiconData get sigma {
+  static Object get sigma {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sigma;
@@ -27855,7 +27854,7 @@ class Picons {
   /// bold: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-in.svg)
   /// fill: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-in.svg)
   /// duotone: ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in.svg)
-  static PiconData get signIn {
+  static Object get signIn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.signIn;
@@ -27878,7 +27877,7 @@ class Picons {
   /// bold: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-out.svg)
   /// fill: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-out.svg)
   /// duotone: ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out.svg)
-  static PiconData get signOut {
+  static Object get signOut {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.signOut;
@@ -27901,7 +27900,7 @@ class Picons {
   /// bold: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signature.svg)
   /// fill: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signature.svg)
   /// duotone: ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature.svg)
-  static PiconData get signature {
+  static Object get signature {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.signature;
@@ -27924,7 +27923,7 @@ class Picons {
   /// bold: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signpost.svg)
   /// fill: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signpost.svg)
   /// duotone: ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost.svg)
-  static PiconData get signpost {
+  static Object get signpost {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.signpost;
@@ -27947,7 +27946,7 @@ class Picons {
   /// bold: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sim-card.svg)
   /// fill: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sim-card.svg)
   /// duotone: ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card.svg)
-  static PiconData get simCard {
+  static Object get simCard {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.simCard;
@@ -27970,7 +27969,7 @@ class Picons {
   /// bold: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/siren.svg)
   /// fill: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/siren.svg)
   /// duotone: ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren.svg)
-  static PiconData get siren {
+  static Object get siren {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.siren;
@@ -27993,7 +27992,7 @@ class Picons {
   /// bold: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sketch-logo.svg)
   /// fill: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sketch-logo.svg)
   /// duotone: ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo.svg)
-  static PiconData get sketchLogo {
+  static Object get sketchLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sketchLogo;
@@ -28016,7 +28015,7 @@ class Picons {
   /// bold: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back.svg)
   /// fill: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back.svg)
   /// duotone: ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back.svg)
-  static PiconData get skipBack {
+  static Object get skipBack {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skipBack;
@@ -28039,7 +28038,7 @@ class Picons {
   /// bold: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back-circle.svg)
   /// fill: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back-circle.svg)
   /// duotone: ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle.svg)
-  static PiconData get skipBackCircle {
+  static Object get skipBackCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skipBackCircle;
@@ -28062,7 +28061,7 @@ class Picons {
   /// bold: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward.svg)
   /// fill: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward.svg)
   /// duotone: ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward.svg)
-  static PiconData get skipForward {
+  static Object get skipForward {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skipForward;
@@ -28085,7 +28084,7 @@ class Picons {
   /// bold: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward-circle.svg)
   /// fill: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward-circle.svg)
   /// duotone: ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle.svg)
-  static PiconData get skipForwardCircle {
+  static Object get skipForwardCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skipForwardCircle;
@@ -28108,7 +28107,7 @@ class Picons {
   /// bold: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skull.svg)
   /// fill: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skull.svg)
   /// duotone: ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull.svg)
-  static PiconData get skull {
+  static Object get skull {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skull;
@@ -28131,7 +28130,7 @@ class Picons {
   /// bold: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skype-logo.svg)
   /// fill: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skype-logo.svg)
   /// duotone: ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo.svg)
-  static PiconData get skypeLogo {
+  static Object get skypeLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.skypeLogo;
@@ -28154,7 +28153,7 @@ class Picons {
   /// bold: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slack-logo.svg)
   /// fill: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slack-logo.svg)
   /// duotone: ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo.svg)
-  static PiconData get slackLogo {
+  static Object get slackLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.slackLogo;
@@ -28177,7 +28176,7 @@ class Picons {
   /// bold: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders.svg)
   /// fill: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders.svg)
   /// duotone: ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders.svg)
-  static PiconData get sliders {
+  static Object get sliders {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sliders;
@@ -28200,7 +28199,7 @@ class Picons {
   /// bold: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders-horizontal.svg)
   /// fill: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders-horizontal.svg)
   /// duotone: ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal.svg)
-  static PiconData get slidersHorizontal {
+  static Object get slidersHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.slidersHorizontal;
@@ -28223,7 +28222,7 @@ class Picons {
   /// bold: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slideshow.svg)
   /// fill: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slideshow.svg)
   /// duotone: ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow.svg)
-  static PiconData get slideshow {
+  static Object get slideshow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.slideshow;
@@ -28246,7 +28245,7 @@ class Picons {
   /// bold: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley.svg)
   /// fill: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley.svg)
   /// duotone: ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley.svg)
-  static PiconData get smiley {
+  static Object get smiley {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smiley;
@@ -28269,7 +28268,7 @@ class Picons {
   /// bold: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-angry.svg)
   /// fill: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-angry.svg)
   /// duotone: ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry.svg)
-  static PiconData get smileyAngry {
+  static Object get smileyAngry {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyAngry;
@@ -28292,7 +28291,7 @@ class Picons {
   /// bold: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-blank.svg)
   /// fill: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-blank.svg)
   /// duotone: ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank.svg)
-  static PiconData get smileyBlank {
+  static Object get smileyBlank {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyBlank;
@@ -28315,7 +28314,7 @@ class Picons {
   /// bold: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-meh.svg)
   /// fill: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-meh.svg)
   /// duotone: ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh.svg)
-  static PiconData get smileyMeh {
+  static Object get smileyMeh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyMeh;
@@ -28338,7 +28337,7 @@ class Picons {
   /// bold: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-melting.svg)
   /// fill: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-melting.svg)
   /// duotone: ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting.svg)
-  static PiconData get smileyMelting {
+  static Object get smileyMelting {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyMelting;
@@ -28361,7 +28360,7 @@ class Picons {
   /// bold: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-nervous.svg)
   /// fill: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-nervous.svg)
   /// duotone: ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous.svg)
-  static PiconData get smileyNervous {
+  static Object get smileyNervous {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyNervous;
@@ -28384,7 +28383,7 @@ class Picons {
   /// bold: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sad.svg)
   /// fill: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sad.svg)
   /// duotone: ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad.svg)
-  static PiconData get smileySad {
+  static Object get smileySad {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileySad;
@@ -28407,7 +28406,7 @@ class Picons {
   /// bold: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sticker.svg)
   /// fill: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sticker.svg)
   /// duotone: ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker.svg)
-  static PiconData get smileySticker {
+  static Object get smileySticker {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileySticker;
@@ -28430,7 +28429,7 @@ class Picons {
   /// bold: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-wink.svg)
   /// fill: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-wink.svg)
   /// duotone: ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink.svg)
-  static PiconData get smileyWink {
+  static Object get smileyWink {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyWink;
@@ -28453,7 +28452,7 @@ class Picons {
   /// bold: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-x-eyes.svg)
   /// fill: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-x-eyes.svg)
   /// duotone: ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes.svg)
-  static PiconData get smileyXEyes {
+  static Object get smileyXEyes {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.smileyXEyes;
@@ -28476,7 +28475,7 @@ class Picons {
   /// bold: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snapchat-logo.svg)
   /// fill: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snapchat-logo.svg)
   /// duotone: ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo.svg)
-  static PiconData get snapchatLogo {
+  static Object get snapchatLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.snapchatLogo;
@@ -28499,7 +28498,7 @@ class Picons {
   /// bold: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker.svg)
   /// fill: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker.svg)
   /// duotone: ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker.svg)
-  static PiconData get sneaker {
+  static Object get sneaker {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sneaker;
@@ -28522,7 +28521,7 @@ class Picons {
   /// bold: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker-move.svg)
   /// fill: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker-move.svg)
   /// duotone: ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move.svg)
-  static PiconData get sneakerMove {
+  static Object get sneakerMove {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sneakerMove;
@@ -28545,7 +28544,7 @@ class Picons {
   /// bold: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snowflake.svg)
   /// fill: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snowflake.svg)
   /// duotone: ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake.svg)
-  static PiconData get snowflake {
+  static Object get snowflake {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.snowflake;
@@ -28568,7 +28567,7 @@ class Picons {
   /// bold: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soccer-ball.svg)
   /// fill: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soccer-ball.svg)
   /// duotone: ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball.svg)
-  static PiconData get soccerBall {
+  static Object get soccerBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.soccerBall;
@@ -28591,7 +28590,7 @@ class Picons {
   /// bold: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sock.svg)
   /// fill: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sock.svg)
   /// duotone: ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock.svg)
-  static PiconData get sock {
+  static Object get sock {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sock;
@@ -28614,7 +28613,7 @@ class Picons {
   /// bold: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-panel.svg)
   /// fill: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-panel.svg)
   /// duotone: ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel.svg)
-  static PiconData get solarPanel {
+  static Object get solarPanel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.solarPanel;
@@ -28637,7 +28636,7 @@ class Picons {
   /// bold: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-roof.svg)
   /// fill: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-roof.svg)
   /// duotone: ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof.svg)
-  static PiconData get solarRoof {
+  static Object get solarRoof {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.solarRoof;
@@ -28660,7 +28659,7 @@ class Picons {
   /// bold: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-ascending.svg)
   /// fill: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-ascending.svg)
   /// duotone: ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending.svg)
-  static PiconData get sortAscending {
+  static Object get sortAscending {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sortAscending;
@@ -28683,7 +28682,7 @@ class Picons {
   /// bold: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-descending.svg)
   /// fill: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-descending.svg)
   /// duotone: ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending.svg)
-  static PiconData get sortDescending {
+  static Object get sortDescending {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sortDescending;
@@ -28706,7 +28705,7 @@ class Picons {
   /// bold: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soundcloud-logo.svg)
   /// fill: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soundcloud-logo.svg)
   /// duotone: ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo.svg)
-  static PiconData get soundcloudLogo {
+  static Object get soundcloudLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.soundcloudLogo;
@@ -28729,7 +28728,7 @@ class Picons {
   /// bold: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spade.svg)
   /// fill: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spade.svg)
   /// duotone: ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade.svg)
-  static PiconData get spade {
+  static Object get spade {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spade;
@@ -28752,7 +28751,7 @@ class Picons {
   /// bold: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sparkle.svg)
   /// fill: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sparkle.svg)
   /// duotone: ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle.svg)
-  static PiconData get sparkle {
+  static Object get sparkle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sparkle;
@@ -28775,7 +28774,7 @@ class Picons {
   /// bold: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-hifi.svg)
   /// fill: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-hifi.svg)
   /// duotone: ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi.svg)
-  static PiconData get speakerHifi {
+  static Object get speakerHifi {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerHifi;
@@ -28798,7 +28797,7 @@ class Picons {
   /// bold: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-high.svg)
   /// fill: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-high.svg)
   /// duotone: ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high.svg)
-  static PiconData get speakerHigh {
+  static Object get speakerHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerHigh;
@@ -28821,7 +28820,7 @@ class Picons {
   /// bold: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-low.svg)
   /// fill: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-low.svg)
   /// duotone: ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low.svg)
-  static PiconData get speakerLow {
+  static Object get speakerLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerLow;
@@ -28844,7 +28843,7 @@ class Picons {
   /// bold: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-none.svg)
   /// fill: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-none.svg)
   /// duotone: ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none.svg)
-  static PiconData get speakerNone {
+  static Object get speakerNone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerNone;
@@ -28867,7 +28866,7 @@ class Picons {
   /// bold: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-high.svg)
   /// fill: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-high.svg)
   /// duotone: ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high.svg)
-  static PiconData get speakerSimpleHigh {
+  static Object get speakerSimpleHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSimpleHigh;
@@ -28890,7 +28889,7 @@ class Picons {
   /// bold: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-low.svg)
   /// fill: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-low.svg)
   /// duotone: ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low.svg)
-  static PiconData get speakerSimpleLow {
+  static Object get speakerSimpleLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSimpleLow;
@@ -28913,7 +28912,7 @@ class Picons {
   /// bold: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-none.svg)
   /// fill: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-none.svg)
   /// duotone: ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none.svg)
-  static PiconData get speakerSimpleNone {
+  static Object get speakerSimpleNone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSimpleNone;
@@ -28936,7 +28935,7 @@ class Picons {
   /// bold: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-slash.svg)
   /// fill: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-slash.svg)
   /// duotone: ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash.svg)
-  static PiconData get speakerSimpleSlash {
+  static Object get speakerSimpleSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSimpleSlash;
@@ -28959,7 +28958,7 @@ class Picons {
   /// bold: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-x.svg)
   /// fill: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-x.svg)
   /// duotone: ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x.svg)
-  static PiconData get speakerSimpleX {
+  static Object get speakerSimpleX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSimpleX;
@@ -28982,7 +28981,7 @@ class Picons {
   /// bold: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-slash.svg)
   /// fill: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-slash.svg)
   /// duotone: ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash.svg)
-  static PiconData get speakerSlash {
+  static Object get speakerSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerSlash;
@@ -29005,7 +29004,7 @@ class Picons {
   /// bold: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-x.svg)
   /// fill: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-x.svg)
   /// duotone: ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x.svg)
-  static PiconData get speakerX {
+  static Object get speakerX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speakerX;
@@ -29028,7 +29027,7 @@ class Picons {
   /// bold: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speedometer.svg)
   /// fill: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speedometer.svg)
   /// duotone: ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer.svg)
-  static PiconData get speedometer {
+  static Object get speedometer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.speedometer;
@@ -29051,7 +29050,7 @@ class Picons {
   /// bold: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sphere.svg)
   /// fill: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sphere.svg)
   /// duotone: ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere.svg)
-  static PiconData get sphere {
+  static Object get sphere {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sphere;
@@ -29074,7 +29073,7 @@ class Picons {
   /// bold: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner.svg)
   /// fill: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner.svg)
   /// duotone: ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner.svg)
-  static PiconData get spinner {
+  static Object get spinner {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spinner;
@@ -29097,7 +29096,7 @@ class Picons {
   /// bold: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-ball.svg)
   /// fill: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-ball.svg)
   /// duotone: ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball.svg)
-  static PiconData get spinnerBall {
+  static Object get spinnerBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spinnerBall;
@@ -29120,7 +29119,7 @@ class Picons {
   /// bold: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-gap.svg)
   /// fill: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-gap.svg)
   /// duotone: ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap.svg)
-  static PiconData get spinnerGap {
+  static Object get spinnerGap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spinnerGap;
@@ -29143,7 +29142,7 @@ class Picons {
   /// bold: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spiral.svg)
   /// fill: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spiral.svg)
   /// duotone: ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral.svg)
-  static PiconData get spiral {
+  static Object get spiral {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spiral;
@@ -29166,7 +29165,7 @@ class Picons {
   /// bold: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-horizontal.svg)
   /// fill: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-horizontal.svg)
   /// duotone: ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal.svg)
-  static PiconData get splitHorizontal {
+  static Object get splitHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.splitHorizontal;
@@ -29189,7 +29188,7 @@ class Picons {
   /// bold: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-vertical.svg)
   /// fill: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-vertical.svg)
   /// duotone: ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical.svg)
-  static PiconData get splitVertical {
+  static Object get splitVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.splitVertical;
@@ -29212,7 +29211,7 @@ class Picons {
   /// bold: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spotify-logo.svg)
   /// fill: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spotify-logo.svg)
   /// duotone: ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo.svg)
-  static PiconData get spotifyLogo {
+  static Object get spotifyLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.spotifyLogo;
@@ -29235,7 +29234,7 @@ class Picons {
   /// bold: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spray-bottle.svg)
   /// fill: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spray-bottle.svg)
   /// duotone: ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle.svg)
-  static PiconData get sprayBottle {
+  static Object get sprayBottle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sprayBottle;
@@ -29258,7 +29257,7 @@ class Picons {
   /// bold: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square.svg)
   /// fill: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square.svg)
   /// duotone: ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square.svg)
-  static PiconData get square {
+  static Object get square {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.square;
@@ -29281,7 +29280,7 @@ class Picons {
   /// bold: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half.svg)
   /// fill: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half.svg)
   /// duotone: ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half.svg)
-  static PiconData get squareHalf {
+  static Object get squareHalf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squareHalf;
@@ -29304,7 +29303,7 @@ class Picons {
   /// bold: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half-bottom.svg)
   /// fill: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half-bottom.svg)
   /// duotone: ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom.svg)
-  static PiconData get squareHalfBottom {
+  static Object get squareHalfBottom {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squareHalfBottom;
@@ -29327,7 +29326,7 @@ class Picons {
   /// bold: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-logo.svg)
   /// fill: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-logo.svg)
   /// duotone: ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo.svg)
-  static PiconData get squareLogo {
+  static Object get squareLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squareLogo;
@@ -29350,7 +29349,7 @@ class Picons {
   /// bold: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-horizontal.svg)
   /// fill: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-horizontal.svg)
   /// duotone: ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal.svg)
-  static PiconData get squareSplitHorizontal {
+  static Object get squareSplitHorizontal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squareSplitHorizontal;
@@ -29373,7 +29372,7 @@ class Picons {
   /// bold: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-vertical.svg)
   /// fill: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-vertical.svg)
   /// duotone: ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical.svg)
-  static PiconData get squareSplitVertical {
+  static Object get squareSplitVertical {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squareSplitVertical;
@@ -29396,7 +29395,7 @@ class Picons {
   /// bold: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/squares-four.svg)
   /// fill: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/squares-four.svg)
   /// duotone: ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four.svg)
-  static PiconData get squaresFour {
+  static Object get squaresFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.squaresFour;
@@ -29419,7 +29418,7 @@ class Picons {
   /// bold: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack.svg)
   /// fill: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack.svg)
   /// duotone: ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack.svg)
-  static PiconData get stack {
+  static Object get stack {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stack;
@@ -29442,7 +29441,7 @@ class Picons {
   /// bold: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-minus.svg)
   /// fill: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-minus.svg)
   /// duotone: ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus.svg)
-  static PiconData get stackMinus {
+  static Object get stackMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stackMinus;
@@ -29465,7 +29464,7 @@ class Picons {
   /// bold: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-overflow-logo.svg)
   /// fill: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-overflow-logo.svg)
   /// duotone: ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo.svg)
-  static PiconData get stackOverflowLogo {
+  static Object get stackOverflowLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stackOverflowLogo;
@@ -29488,7 +29487,7 @@ class Picons {
   /// bold: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-plus.svg)
   /// fill: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-plus.svg)
   /// duotone: ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus.svg)
-  static PiconData get stackPlus {
+  static Object get stackPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stackPlus;
@@ -29511,7 +29510,7 @@ class Picons {
   /// bold: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-simple.svg)
   /// fill: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-simple.svg)
   /// duotone: ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple.svg)
-  static PiconData get stackSimple {
+  static Object get stackSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stackSimple;
@@ -29534,7 +29533,7 @@ class Picons {
   /// bold: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stairs.svg)
   /// fill: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stairs.svg)
   /// duotone: ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs.svg)
-  static PiconData get stairs {
+  static Object get stairs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stairs;
@@ -29557,7 +29556,7 @@ class Picons {
   /// bold: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stamp.svg)
   /// fill: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stamp.svg)
   /// duotone: ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp.svg)
-  static PiconData get stamp {
+  static Object get stamp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stamp;
@@ -29580,7 +29579,7 @@ class Picons {
   /// bold: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/standard-definition.svg)
   /// fill: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/standard-definition.svg)
   /// duotone: ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition.svg)
-  static PiconData get standardDefinition {
+  static Object get standardDefinition {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.standardDefinition;
@@ -29603,7 +29602,7 @@ class Picons {
   /// bold: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star.svg)
   /// fill: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star.svg)
   /// duotone: ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star.svg)
-  static PiconData get star {
+  static Object get star {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.star;
@@ -29626,7 +29625,7 @@ class Picons {
   /// bold: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-and-crescent.svg)
   /// fill: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-and-crescent.svg)
   /// duotone: ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent.svg)
-  static PiconData get starAndCrescent {
+  static Object get starAndCrescent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.starAndCrescent;
@@ -29649,7 +29648,7 @@ class Picons {
   /// bold: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-four.svg)
   /// fill: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-four.svg)
   /// duotone: ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four.svg)
-  static PiconData get starFour {
+  static Object get starFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.starFour;
@@ -29672,7 +29671,7 @@ class Picons {
   /// bold: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-half.svg)
   /// fill: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-half.svg)
   /// duotone: ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half.svg)
-  static PiconData get starHalf {
+  static Object get starHalf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.starHalf;
@@ -29695,7 +29694,7 @@ class Picons {
   /// bold: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-of-david.svg)
   /// fill: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-of-david.svg)
   /// duotone: ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david.svg)
-  static PiconData get starOfDavid {
+  static Object get starOfDavid {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.starOfDavid;
@@ -29718,7 +29717,7 @@ class Picons {
   /// bold: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steam-logo.svg)
   /// fill: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steam-logo.svg)
   /// duotone: ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo.svg)
-  static PiconData get steamLogo {
+  static Object get steamLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.steamLogo;
@@ -29741,7 +29740,7 @@ class Picons {
   /// bold: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steering-wheel.svg)
   /// fill: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steering-wheel.svg)
   /// duotone: ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel.svg)
-  static PiconData get steeringWheel {
+  static Object get steeringWheel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.steeringWheel;
@@ -29764,7 +29763,7 @@ class Picons {
   /// bold: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steps.svg)
   /// fill: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steps.svg)
   /// duotone: ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps.svg)
-  static PiconData get steps {
+  static Object get steps {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.steps;
@@ -29787,7 +29786,7 @@ class Picons {
   /// bold: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stethoscope.svg)
   /// fill: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stethoscope.svg)
   /// duotone: ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope.svg)
-  static PiconData get stethoscope {
+  static Object get stethoscope {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stethoscope;
@@ -29810,7 +29809,7 @@ class Picons {
   /// bold: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sticker.svg)
   /// fill: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sticker.svg)
   /// duotone: ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker.svg)
-  static PiconData get sticker {
+  static Object get sticker {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sticker;
@@ -29833,7 +29832,7 @@ class Picons {
   /// bold: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stool.svg)
   /// fill: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stool.svg)
   /// duotone: ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool.svg)
-  static PiconData get stool {
+  static Object get stool {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stool;
@@ -29856,7 +29855,7 @@ class Picons {
   /// bold: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop.svg)
   /// fill: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop.svg)
   /// duotone: ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop.svg)
-  static PiconData get stop {
+  static Object get stop {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stop;
@@ -29879,7 +29878,7 @@ class Picons {
   /// bold: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop-circle.svg)
   /// fill: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop-circle.svg)
   /// duotone: ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle.svg)
-  static PiconData get stopCircle {
+  static Object get stopCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stopCircle;
@@ -29902,7 +29901,7 @@ class Picons {
   /// bold: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/storefront.svg)
   /// fill: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/storefront.svg)
   /// duotone: ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront.svg)
-  static PiconData get storefront {
+  static Object get storefront {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.storefront;
@@ -29925,7 +29924,7 @@ class Picons {
   /// bold: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/strategy.svg)
   /// fill: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/strategy.svg)
   /// duotone: ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy.svg)
-  static PiconData get strategy {
+  static Object get strategy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.strategy;
@@ -29948,7 +29947,7 @@ class Picons {
   /// bold: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stripe-logo.svg)
   /// fill: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stripe-logo.svg)
   /// duotone: ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo.svg)
-  static PiconData get stripeLogo {
+  static Object get stripeLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.stripeLogo;
@@ -29971,7 +29970,7 @@ class Picons {
   /// bold: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/student.svg)
   /// fill: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/student.svg)
   /// duotone: ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student.svg)
-  static PiconData get student {
+  static Object get student {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.student;
@@ -29994,7 +29993,7 @@ class Picons {
   /// bold: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-of.svg)
   /// fill: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-of.svg)
   /// duotone: ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of.svg)
-  static PiconData get subsetOf {
+  static Object get subsetOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subsetOf;
@@ -30017,7 +30016,7 @@ class Picons {
   /// bold: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-proper-of.svg)
   /// fill: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-proper-of.svg)
   /// duotone: ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of.svg)
-  static PiconData get subsetProperOf {
+  static Object get subsetProperOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subsetProperOf;
@@ -30040,7 +30039,7 @@ class Picons {
   /// bold: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles.svg)
   /// fill: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles.svg)
   /// duotone: ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles.svg)
-  static PiconData get subtitles {
+  static Object get subtitles {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subtitles;
@@ -30063,7 +30062,7 @@ class Picons {
   /// bold: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles-slash.svg)
   /// fill: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles-slash.svg)
   /// duotone: ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash.svg)
-  static PiconData get subtitlesSlash {
+  static Object get subtitlesSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subtitlesSlash;
@@ -30086,7 +30085,7 @@ class Picons {
   /// bold: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract.svg)
   /// fill: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract.svg)
   /// duotone: ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract.svg)
-  static PiconData get subtract {
+  static Object get subtract {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subtract;
@@ -30109,7 +30108,7 @@ class Picons {
   /// bold: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract-square.svg)
   /// fill: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract-square.svg)
   /// duotone: ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square.svg)
-  static PiconData get subtractSquare {
+  static Object get subtractSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subtractSquare;
@@ -30132,7 +30131,7 @@ class Picons {
   /// bold: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subway.svg)
   /// fill: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subway.svg)
   /// duotone: ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway.svg)
-  static PiconData get subway {
+  static Object get subway {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.subway;
@@ -30155,7 +30154,7 @@ class Picons {
   /// bold: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase.svg)
   /// fill: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase.svg)
   /// duotone: ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase.svg)
-  static PiconData get suitcase {
+  static Object get suitcase {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.suitcase;
@@ -30178,7 +30177,7 @@ class Picons {
   /// bold: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-rolling.svg)
   /// fill: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-rolling.svg)
   /// duotone: ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling.svg)
-  static PiconData get suitcaseRolling {
+  static Object get suitcaseRolling {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.suitcaseRolling;
@@ -30201,7 +30200,7 @@ class Picons {
   /// bold: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-simple.svg)
   /// fill: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-simple.svg)
   /// duotone: ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple.svg)
-  static PiconData get suitcaseSimple {
+  static Object get suitcaseSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.suitcaseSimple;
@@ -30224,7 +30223,7 @@ class Picons {
   /// bold: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun.svg)
   /// fill: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun.svg)
   /// duotone: ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun.svg)
-  static PiconData get sun {
+  static Object get sun {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sun;
@@ -30247,7 +30246,7 @@ class Picons {
   /// bold: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-dim.svg)
   /// fill: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-dim.svg)
   /// duotone: ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim.svg)
-  static PiconData get sunDim {
+  static Object get sunDim {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sunDim;
@@ -30270,7 +30269,7 @@ class Picons {
   /// bold: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-horizon.svg)
   /// fill: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-horizon.svg)
   /// duotone: ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon.svg)
-  static PiconData get sunHorizon {
+  static Object get sunHorizon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sunHorizon;
@@ -30293,7 +30292,7 @@ class Picons {
   /// bold: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sunglasses.svg)
   /// fill: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sunglasses.svg)
   /// duotone: ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses.svg)
-  static PiconData get sunglasses {
+  static Object get sunglasses {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sunglasses;
@@ -30316,7 +30315,7 @@ class Picons {
   /// bold: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-of.svg)
   /// fill: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-of.svg)
   /// duotone: ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of.svg)
-  static PiconData get supersetOf {
+  static Object get supersetOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.supersetOf;
@@ -30339,7 +30338,7 @@ class Picons {
   /// bold: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-proper-of.svg)
   /// fill: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-proper-of.svg)
   /// duotone: ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of.svg)
-  static PiconData get supersetProperOf {
+  static Object get supersetProperOf {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.supersetProperOf;
@@ -30362,7 +30361,7 @@ class Picons {
   /// bold: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swap.svg)
   /// fill: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swap.svg)
   /// duotone: ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap.svg)
-  static PiconData get swap {
+  static Object get swap {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.swap;
@@ -30385,7 +30384,7 @@ class Picons {
   /// bold: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swatches.svg)
   /// fill: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swatches.svg)
   /// duotone: ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches.svg)
-  static PiconData get swatches {
+  static Object get swatches {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.swatches;
@@ -30408,7 +30407,7 @@ class Picons {
   /// bold: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swimming-pool.svg)
   /// fill: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swimming-pool.svg)
   /// duotone: ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool.svg)
-  static PiconData get swimmingPool {
+  static Object get swimmingPool {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.swimmingPool;
@@ -30431,7 +30430,7 @@ class Picons {
   /// bold: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sword.svg)
   /// fill: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sword.svg)
   /// duotone: ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword.svg)
-  static PiconData get sword {
+  static Object get sword {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.sword;
@@ -30454,7 +30453,7 @@ class Picons {
   /// bold: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/synagogue.svg)
   /// fill: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/synagogue.svg)
   /// duotone: ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue.svg)
-  static PiconData get synagogue {
+  static Object get synagogue {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.synagogue;
@@ -30477,7 +30476,7 @@ class Picons {
   /// bold: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/syringe.svg)
   /// fill: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/syringe.svg)
   /// duotone: ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe.svg)
-  static PiconData get syringe {
+  static Object get syringe {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.syringe;
@@ -30500,7 +30499,7 @@ class Picons {
   /// bold: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/t-shirt.svg)
   /// fill: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/t-shirt.svg)
   /// duotone: ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt.svg)
-  static PiconData get tShirt {
+  static Object get tShirt {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tShirt;
@@ -30523,7 +30522,7 @@ class Picons {
   /// bold: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/table.svg)
   /// fill: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/table.svg)
   /// duotone: ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table.svg)
-  static PiconData get table {
+  static Object get table {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.table;
@@ -30546,7 +30545,7 @@ class Picons {
   /// bold: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tabs.svg)
   /// fill: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tabs.svg)
   /// duotone: ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs.svg)
-  static PiconData get tabs {
+  static Object get tabs {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tabs;
@@ -30569,7 +30568,7 @@ class Picons {
   /// bold: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag.svg)
   /// fill: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag.svg)
   /// duotone: ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag.svg)
-  static PiconData get tag {
+  static Object get tag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tag;
@@ -30592,7 +30591,7 @@ class Picons {
   /// bold: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-chevron.svg)
   /// fill: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-chevron.svg)
   /// duotone: ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron.svg)
-  static PiconData get tagChevron {
+  static Object get tagChevron {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tagChevron;
@@ -30615,7 +30614,7 @@ class Picons {
   /// bold: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-simple.svg)
   /// fill: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-simple.svg)
   /// duotone: ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple.svg)
-  static PiconData get tagSimple {
+  static Object get tagSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tagSimple;
@@ -30638,7 +30637,7 @@ class Picons {
   /// bold: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/target.svg)
   /// fill: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/target.svg)
   /// duotone: ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target.svg)
-  static PiconData get target {
+  static Object get target {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.target;
@@ -30661,7 +30660,7 @@ class Picons {
   /// bold: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/taxi.svg)
   /// fill: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/taxi.svg)
   /// duotone: ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi.svg)
-  static PiconData get taxi {
+  static Object get taxi {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.taxi;
@@ -30684,7 +30683,7 @@ class Picons {
   /// bold: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tea-bag.svg)
   /// fill: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tea-bag.svg)
   /// duotone: ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag.svg)
-  static PiconData get teaBag {
+  static Object get teaBag {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.teaBag;
@@ -30707,7 +30706,7 @@ class Picons {
   /// bold: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/telegram-logo.svg)
   /// fill: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/telegram-logo.svg)
   /// duotone: ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo.svg)
-  static PiconData get telegramLogo {
+  static Object get telegramLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.telegramLogo;
@@ -30730,7 +30729,7 @@ class Picons {
   /// bold: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television.svg)
   /// fill: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television.svg)
   /// duotone: ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television.svg)
-  static PiconData get television {
+  static Object get television {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.television;
@@ -30753,7 +30752,7 @@ class Picons {
   /// bold: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television-simple.svg)
   /// fill: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television-simple.svg)
   /// duotone: ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple.svg)
-  static PiconData get televisionSimple {
+  static Object get televisionSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.televisionSimple;
@@ -30776,7 +30775,7 @@ class Picons {
   /// bold: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tennis-ball.svg)
   /// fill: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tennis-ball.svg)
   /// duotone: ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball.svg)
-  static PiconData get tennisBall {
+  static Object get tennisBall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tennisBall;
@@ -30799,7 +30798,7 @@ class Picons {
   /// bold: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tent.svg)
   /// fill: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tent.svg)
   /// duotone: ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent.svg)
-  static PiconData get tent {
+  static Object get tent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tent;
@@ -30822,7 +30821,7 @@ class Picons {
   /// bold: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal.svg)
   /// fill: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal.svg)
   /// duotone: ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal.svg)
-  static PiconData get terminal {
+  static Object get terminal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.terminal;
@@ -30845,7 +30844,7 @@ class Picons {
   /// bold: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-window.svg)
   /// fill: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal-window.svg)
   /// duotone: ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window.svg)
-  static PiconData get terminalWindow {
+  static Object get terminalWindow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.terminalWindow;
@@ -30868,7 +30867,7 @@ class Picons {
   /// bold: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/test-tube.svg)
   /// fill: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/test-tube.svg)
   /// duotone: ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube.svg)
-  static PiconData get testTube {
+  static Object get testTube {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.testTube;
@@ -30891,7 +30890,7 @@ class Picons {
   /// bold: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-a-underline.svg)
   /// fill: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-a-underline.svg)
   /// duotone: ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline.svg)
-  static PiconData get textAUnderline {
+  static Object get textAUnderline {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAUnderline;
@@ -30914,7 +30913,7 @@ class Picons {
   /// bold: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-aa.svg)
   /// fill: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-aa.svg)
   /// duotone: ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa.svg)
-  static PiconData get textAa {
+  static Object get textAa {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAa;
@@ -30937,7 +30936,7 @@ class Picons {
   /// bold: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-center.svg)
   /// fill: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-center.svg)
   /// duotone: ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center.svg)
-  static PiconData get textAlignCenter {
+  static Object get textAlignCenter {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAlignCenter;
@@ -30960,7 +30959,7 @@ class Picons {
   /// bold: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-justify.svg)
   /// fill: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-justify.svg)
   /// duotone: ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify.svg)
-  static PiconData get textAlignJustify {
+  static Object get textAlignJustify {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAlignJustify;
@@ -30983,7 +30982,7 @@ class Picons {
   /// bold: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-left.svg)
   /// fill: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-left.svg)
   /// duotone: ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left.svg)
-  static PiconData get textAlignLeft {
+  static Object get textAlignLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAlignLeft;
@@ -31006,7 +31005,7 @@ class Picons {
   /// bold: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-right.svg)
   /// fill: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-right.svg)
   /// duotone: ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right.svg)
-  static PiconData get textAlignRight {
+  static Object get textAlignRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textAlignRight;
@@ -31029,7 +31028,7 @@ class Picons {
   /// bold: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-b.svg)
   /// fill: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-b.svg)
   /// duotone: ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b.svg)
-  static PiconData get textB {
+  static Object get textB {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textB;
@@ -31052,7 +31051,7 @@ class Picons {
   /// bold: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-columns.svg)
   /// fill: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-columns.svg)
   /// duotone: ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns.svg)
-  static PiconData get textColumns {
+  static Object get textColumns {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textColumns;
@@ -31075,7 +31074,7 @@ class Picons {
   /// bold: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h.svg)
   /// fill: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h.svg)
   /// duotone: ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h.svg)
-  static PiconData get textH {
+  static Object get textH {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textH;
@@ -31098,7 +31097,7 @@ class Picons {
   /// bold: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-five.svg)
   /// fill: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-five.svg)
   /// duotone: ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five.svg)
-  static PiconData get textHFive {
+  static Object get textHFive {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHFive;
@@ -31121,7 +31120,7 @@ class Picons {
   /// bold: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-four.svg)
   /// fill: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-four.svg)
   /// duotone: ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four.svg)
-  static PiconData get textHFour {
+  static Object get textHFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHFour;
@@ -31144,7 +31143,7 @@ class Picons {
   /// bold: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-one.svg)
   /// fill: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-one.svg)
   /// duotone: ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one.svg)
-  static PiconData get textHOne {
+  static Object get textHOne {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHOne;
@@ -31167,7 +31166,7 @@ class Picons {
   /// bold: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-six.svg)
   /// fill: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-six.svg)
   /// duotone: ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six.svg)
-  static PiconData get textHSix {
+  static Object get textHSix {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHSix;
@@ -31190,7 +31189,7 @@ class Picons {
   /// bold: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-three.svg)
   /// fill: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-three.svg)
   /// duotone: ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three.svg)
-  static PiconData get textHThree {
+  static Object get textHThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHThree;
@@ -31213,7 +31212,7 @@ class Picons {
   /// bold: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-two.svg)
   /// fill: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-two.svg)
   /// duotone: ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two.svg)
-  static PiconData get textHTwo {
+  static Object get textHTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textHTwo;
@@ -31236,7 +31235,7 @@ class Picons {
   /// bold: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-indent.svg)
   /// fill: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-indent.svg)
   /// duotone: ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent.svg)
-  static PiconData get textIndent {
+  static Object get textIndent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textIndent;
@@ -31259,7 +31258,7 @@ class Picons {
   /// bold: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-italic.svg)
   /// fill: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-italic.svg)
   /// duotone: ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic.svg)
-  static PiconData get textItalic {
+  static Object get textItalic {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textItalic;
@@ -31282,7 +31281,7 @@ class Picons {
   /// bold: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-outdent.svg)
   /// fill: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-outdent.svg)
   /// duotone: ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent.svg)
-  static PiconData get textOutdent {
+  static Object get textOutdent {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textOutdent;
@@ -31305,7 +31304,7 @@ class Picons {
   /// bold: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-strikethrough.svg)
   /// fill: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-strikethrough.svg)
   /// duotone: ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough.svg)
-  static PiconData get textStrikethrough {
+  static Object get textStrikethrough {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textStrikethrough;
@@ -31328,7 +31327,7 @@ class Picons {
   /// bold: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-subscript.svg)
   /// fill: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-subscript.svg)
   /// duotone: ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript.svg)
-  static PiconData get textSubscript {
+  static Object get textSubscript {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textSubscript;
@@ -31351,7 +31350,7 @@ class Picons {
   /// bold: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-superscript.svg)
   /// fill: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-superscript.svg)
   /// duotone: ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript.svg)
-  static PiconData get textSuperscript {
+  static Object get textSuperscript {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textSuperscript;
@@ -31374,7 +31373,7 @@ class Picons {
   /// bold: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t.svg)
   /// fill: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t.svg)
   /// duotone: ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t.svg)
-  static PiconData get textT {
+  static Object get textT {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textT;
@@ -31397,7 +31396,7 @@ class Picons {
   /// bold: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t-slash.svg)
   /// fill: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t-slash.svg)
   /// duotone: ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash.svg)
-  static PiconData get textTSlash {
+  static Object get textTSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textTSlash;
@@ -31420,7 +31419,7 @@ class Picons {
   /// bold: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-underline.svg)
   /// fill: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-underline.svg)
   /// duotone: ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline.svg)
-  static PiconData get textUnderline {
+  static Object get textUnderline {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textUnderline;
@@ -31443,7 +31442,7 @@ class Picons {
   /// bold: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/textbox.svg)
   /// fill: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/textbox.svg)
   /// duotone: ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox.svg)
-  static PiconData get textbox {
+  static Object get textbox {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.textbox;
@@ -31466,7 +31465,7 @@ class Picons {
   /// bold: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer.svg)
   /// fill: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer.svg)
   /// duotone: ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer.svg)
-  static PiconData get thermometer {
+  static Object get thermometer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thermometer;
@@ -31489,7 +31488,7 @@ class Picons {
   /// bold: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-cold.svg)
   /// fill: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-cold.svg)
   /// duotone: ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold.svg)
-  static PiconData get thermometerCold {
+  static Object get thermometerCold {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thermometerCold;
@@ -31512,7 +31511,7 @@ class Picons {
   /// bold: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-hot.svg)
   /// fill: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-hot.svg)
   /// duotone: ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot.svg)
-  static PiconData get thermometerHot {
+  static Object get thermometerHot {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thermometerHot;
@@ -31535,7 +31534,7 @@ class Picons {
   /// bold: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-simple.svg)
   /// fill: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-simple.svg)
   /// duotone: ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple.svg)
-  static PiconData get thermometerSimple {
+  static Object get thermometerSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thermometerSimple;
@@ -31558,7 +31557,7 @@ class Picons {
   /// bold: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/threads-logo.svg)
   /// fill: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/threads-logo.svg)
   /// duotone: ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo.svg)
-  static PiconData get threadsLogo {
+  static Object get threadsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.threadsLogo;
@@ -31581,7 +31580,7 @@ class Picons {
   /// bold: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/three-d.svg)
   /// fill: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/three-d.svg)
   /// duotone: ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d.svg)
-  static PiconData get threeD {
+  static Object get threeD {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.threeD;
@@ -31604,7 +31603,7 @@ class Picons {
   /// bold: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-down.svg)
   /// fill: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-down.svg)
   /// duotone: ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down.svg)
-  static PiconData get thumbsDown {
+  static Object get thumbsDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thumbsDown;
@@ -31627,7 +31626,7 @@ class Picons {
   /// bold: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-up.svg)
   /// fill: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-up.svg)
   /// duotone: ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up.svg)
-  static PiconData get thumbsUp {
+  static Object get thumbsUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.thumbsUp;
@@ -31650,7 +31649,7 @@ class Picons {
   /// bold: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ticket.svg)
   /// fill: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ticket.svg)
   /// duotone: ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket.svg)
-  static PiconData get ticket {
+  static Object get ticket {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.ticket;
@@ -31673,7 +31672,7 @@ class Picons {
   /// bold: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tidal-logo.svg)
   /// fill: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tidal-logo.svg)
   /// duotone: ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo.svg)
-  static PiconData get tidalLogo {
+  static Object get tidalLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tidalLogo;
@@ -31696,7 +31695,7 @@ class Picons {
   /// bold: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tiktok-logo.svg)
   /// fill: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tiktok-logo.svg)
   /// duotone: ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo.svg)
-  static PiconData get tiktokLogo {
+  static Object get tiktokLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tiktokLogo;
@@ -31719,7 +31718,7 @@ class Picons {
   /// bold: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tilde.svg)
   /// fill: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tilde.svg)
   /// duotone: ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde.svg)
-  static PiconData get tilde {
+  static Object get tilde {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tilde;
@@ -31742,7 +31741,7 @@ class Picons {
   /// bold: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/timer.svg)
   /// fill: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/timer.svg)
   /// duotone: ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer.svg)
-  static PiconData get timer {
+  static Object get timer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.timer;
@@ -31765,7 +31764,7 @@ class Picons {
   /// bold: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tip-jar.svg)
   /// fill: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tip-jar.svg)
   /// duotone: ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar.svg)
-  static PiconData get tipJar {
+  static Object get tipJar {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tipJar;
@@ -31788,7 +31787,7 @@ class Picons {
   /// bold: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tipi.svg)
   /// fill: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tipi.svg)
   /// duotone: ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi.svg)
-  static PiconData get tipi {
+  static Object get tipi {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tipi;
@@ -31811,7 +31810,7 @@ class Picons {
   /// bold: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tire.svg)
   /// fill: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tire.svg)
   /// duotone: ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire.svg)
-  static PiconData get tire {
+  static Object get tire {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tire;
@@ -31834,7 +31833,7 @@ class Picons {
   /// bold: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-left.svg)
   /// fill: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-left.svg)
   /// duotone: ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left.svg)
-  static PiconData get toggleLeft {
+  static Object get toggleLeft {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toggleLeft;
@@ -31857,7 +31856,7 @@ class Picons {
   /// bold: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-right.svg)
   /// fill: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-right.svg)
   /// duotone: ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right.svg)
-  static PiconData get toggleRight {
+  static Object get toggleRight {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toggleRight;
@@ -31880,7 +31879,7 @@ class Picons {
   /// bold: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet.svg)
   /// fill: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet.svg)
   /// duotone: ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet.svg)
-  static PiconData get toilet {
+  static Object get toilet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toilet;
@@ -31903,7 +31902,7 @@ class Picons {
   /// bold: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet-paper.svg)
   /// fill: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet-paper.svg)
   /// duotone: ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper.svg)
-  static PiconData get toiletPaper {
+  static Object get toiletPaper {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toiletPaper;
@@ -31926,7 +31925,7 @@ class Picons {
   /// bold: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toolbox.svg)
   /// fill: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toolbox.svg)
   /// duotone: ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox.svg)
-  static PiconData get toolbox {
+  static Object get toolbox {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toolbox;
@@ -31949,7 +31948,7 @@ class Picons {
   /// bold: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tooth.svg)
   /// fill: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tooth.svg)
   /// duotone: ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth.svg)
-  static PiconData get tooth {
+  static Object get tooth {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tooth;
@@ -31972,7 +31971,7 @@ class Picons {
   /// bold: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tornado.svg)
   /// fill: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tornado.svg)
   /// duotone: ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado.svg)
-  static PiconData get tornado {
+  static Object get tornado {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tornado;
@@ -31995,7 +31994,7 @@ class Picons {
   /// bold: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote.svg)
   /// fill: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote.svg)
   /// duotone: ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote.svg)
-  static PiconData get tote {
+  static Object get tote {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tote;
@@ -32018,7 +32017,7 @@ class Picons {
   /// bold: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote-simple.svg)
   /// fill: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote-simple.svg)
   /// duotone: ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple.svg)
-  static PiconData get toteSimple {
+  static Object get toteSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.toteSimple;
@@ -32041,7 +32040,7 @@ class Picons {
   /// bold: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/towel.svg)
   /// fill: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/towel.svg)
   /// duotone: ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel.svg)
-  static PiconData get towel {
+  static Object get towel {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.towel;
@@ -32064,7 +32063,7 @@ class Picons {
   /// bold: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tractor.svg)
   /// fill: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tractor.svg)
   /// duotone: ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor.svg)
-  static PiconData get tractor {
+  static Object get tractor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tractor;
@@ -32087,7 +32086,7 @@ class Picons {
   /// bold: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark.svg)
   /// fill: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark.svg)
   /// duotone: ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark.svg)
-  static PiconData get trademark {
+  static Object get trademark {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trademark;
@@ -32110,7 +32109,7 @@ class Picons {
   /// bold: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark-registered.svg)
   /// fill: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark-registered.svg)
   /// duotone: ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered.svg)
-  static PiconData get trademarkRegistered {
+  static Object get trademarkRegistered {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trademarkRegistered;
@@ -32133,7 +32132,7 @@ class Picons {
   /// bold: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-cone.svg)
   /// fill: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-cone.svg)
   /// duotone: ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone.svg)
-  static PiconData get trafficCone {
+  static Object get trafficCone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trafficCone;
@@ -32156,7 +32155,7 @@ class Picons {
   /// bold: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-sign.svg)
   /// fill: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-sign.svg)
   /// duotone: ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign.svg)
-  static PiconData get trafficSign {
+  static Object get trafficSign {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trafficSign;
@@ -32179,7 +32178,7 @@ class Picons {
   /// bold: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-signal.svg)
   /// fill: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-signal.svg)
   /// duotone: ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal.svg)
-  static PiconData get trafficSignal {
+  static Object get trafficSignal {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trafficSignal;
@@ -32202,7 +32201,7 @@ class Picons {
   /// bold: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train.svg)
   /// fill: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train.svg)
   /// duotone: ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train.svg)
-  static PiconData get train {
+  static Object get train {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.train;
@@ -32225,7 +32224,7 @@ class Picons {
   /// bold: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-regional.svg)
   /// fill: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-regional.svg)
   /// duotone: ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional.svg)
-  static PiconData get trainRegional {
+  static Object get trainRegional {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trainRegional;
@@ -32248,7 +32247,7 @@ class Picons {
   /// bold: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-simple.svg)
   /// fill: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-simple.svg)
   /// duotone: ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple.svg)
-  static PiconData get trainSimple {
+  static Object get trainSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trainSimple;
@@ -32271,7 +32270,7 @@ class Picons {
   /// bold: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tram.svg)
   /// fill: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tram.svg)
   /// duotone: ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram.svg)
-  static PiconData get tram {
+  static Object get tram {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tram;
@@ -32294,7 +32293,7 @@ class Picons {
   /// bold: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/translate.svg)
   /// fill: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/translate.svg)
   /// duotone: ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate.svg)
-  static PiconData get translate {
+  static Object get translate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.translate;
@@ -32317,7 +32316,7 @@ class Picons {
   /// bold: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash.svg)
   /// fill: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash.svg)
   /// duotone: ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash.svg)
-  static PiconData get trash {
+  static Object get trash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trash;
@@ -32340,7 +32339,7 @@ class Picons {
   /// bold: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash-simple.svg)
   /// fill: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash-simple.svg)
   /// duotone: ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple.svg)
-  static PiconData get trashSimple {
+  static Object get trashSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trashSimple;
@@ -32363,7 +32362,7 @@ class Picons {
   /// bold: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray.svg)
   /// fill: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray.svg)
   /// duotone: ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray.svg)
-  static PiconData get tray {
+  static Object get tray {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tray;
@@ -32386,7 +32385,7 @@ class Picons {
   /// bold: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-down.svg)
   /// fill: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-down.svg)
   /// duotone: ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down.svg)
-  static PiconData get trayArrowDown {
+  static Object get trayArrowDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trayArrowDown;
@@ -32409,7 +32408,7 @@ class Picons {
   /// bold: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-up.svg)
   /// fill: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-up.svg)
   /// duotone: ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up.svg)
-  static PiconData get trayArrowUp {
+  static Object get trayArrowUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trayArrowUp;
@@ -32432,7 +32431,7 @@ class Picons {
   /// bold: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/treasure-chest.svg)
   /// fill: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/treasure-chest.svg)
   /// duotone: ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest.svg)
-  static PiconData get treasureChest {
+  static Object get treasureChest {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.treasureChest;
@@ -32455,7 +32454,7 @@ class Picons {
   /// bold: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree.svg)
   /// fill: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree.svg)
   /// duotone: ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree.svg)
-  static PiconData get tree {
+  static Object get tree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tree;
@@ -32478,7 +32477,7 @@ class Picons {
   /// bold: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-evergreen.svg)
   /// fill: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-evergreen.svg)
   /// duotone: ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen.svg)
-  static PiconData get treeEvergreen {
+  static Object get treeEvergreen {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.treeEvergreen;
@@ -32501,7 +32500,7 @@ class Picons {
   /// bold: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-palm.svg)
   /// fill: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-palm.svg)
   /// duotone: ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm.svg)
-  static PiconData get treePalm {
+  static Object get treePalm {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.treePalm;
@@ -32524,7 +32523,7 @@ class Picons {
   /// bold: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-structure.svg)
   /// fill: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-structure.svg)
   /// duotone: ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure.svg)
-  static PiconData get treeStructure {
+  static Object get treeStructure {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.treeStructure;
@@ -32547,7 +32546,7 @@ class Picons {
   /// bold: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-view.svg)
   /// fill: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-view.svg)
   /// duotone: ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view.svg)
-  static PiconData get treeView {
+  static Object get treeView {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.treeView;
@@ -32570,7 +32569,7 @@ class Picons {
   /// bold: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-down.svg)
   /// fill: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-down.svg)
   /// duotone: ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down.svg)
-  static PiconData get trendDown {
+  static Object get trendDown {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trendDown;
@@ -32593,7 +32592,7 @@ class Picons {
   /// bold: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-up.svg)
   /// fill: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-up.svg)
   /// duotone: ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up.svg)
-  static PiconData get trendUp {
+  static Object get trendUp {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trendUp;
@@ -32616,7 +32615,7 @@ class Picons {
   /// bold: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle.svg)
   /// fill: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle.svg)
   /// duotone: ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle.svg)
-  static PiconData get triangle {
+  static Object get triangle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.triangle;
@@ -32639,7 +32638,7 @@ class Picons {
   /// bold: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle-dashed.svg)
   /// fill: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle-dashed.svg)
   /// duotone: ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed.svg)
-  static PiconData get triangleDashed {
+  static Object get triangleDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.triangleDashed;
@@ -32662,7 +32661,7 @@ class Picons {
   /// bold: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley.svg)
   /// fill: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley.svg)
   /// duotone: ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley.svg)
-  static PiconData get trolley {
+  static Object get trolley {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trolley;
@@ -32685,7 +32684,7 @@ class Picons {
   /// bold: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley-suitcase.svg)
   /// fill: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley-suitcase.svg)
   /// duotone: ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase.svg)
-  static PiconData get trolleySuitcase {
+  static Object get trolleySuitcase {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trolleySuitcase;
@@ -32708,7 +32707,7 @@ class Picons {
   /// bold: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trophy.svg)
   /// fill: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trophy.svg)
   /// duotone: ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy.svg)
-  static PiconData get trophy {
+  static Object get trophy {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.trophy;
@@ -32731,7 +32730,7 @@ class Picons {
   /// bold: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck.svg)
   /// fill: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck.svg)
   /// duotone: ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck.svg)
-  static PiconData get truck {
+  static Object get truck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.truck;
@@ -32754,7 +32753,7 @@ class Picons {
   /// bold: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck-trailer.svg)
   /// fill: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck-trailer.svg)
   /// duotone: ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer.svg)
-  static PiconData get truckTrailer {
+  static Object get truckTrailer {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.truckTrailer;
@@ -32777,7 +32776,7 @@ class Picons {
   /// bold: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tumblr-logo.svg)
   /// fill: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tumblr-logo.svg)
   /// duotone: ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo.svg)
-  static PiconData get tumblrLogo {
+  static Object get tumblrLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.tumblrLogo;
@@ -32800,7 +32799,7 @@ class Picons {
   /// bold: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitch-logo.svg)
   /// fill: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitch-logo.svg)
   /// duotone: ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo.svg)
-  static PiconData get twitchLogo {
+  static Object get twitchLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.twitchLogo;
@@ -32823,7 +32822,7 @@ class Picons {
   /// bold: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitter-logo.svg)
   /// fill: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitter-logo.svg)
   /// duotone: ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo.svg)
-  static PiconData get twitterLogo {
+  static Object get twitterLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.twitterLogo;
@@ -32846,7 +32845,7 @@ class Picons {
   /// bold: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella.svg)
   /// fill: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella.svg)
   /// duotone: ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella.svg)
-  static PiconData get umbrella {
+  static Object get umbrella {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.umbrella;
@@ -32869,7 +32868,7 @@ class Picons {
   /// bold: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella-simple.svg)
   /// fill: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella-simple.svg)
   /// duotone: ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple.svg)
-  static PiconData get umbrellaSimple {
+  static Object get umbrellaSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.umbrellaSimple;
@@ -32892,7 +32891,7 @@ class Picons {
   /// bold: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/union.svg)
   /// fill: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/union.svg)
   /// duotone: ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union.svg)
-  static PiconData get union {
+  static Object get union {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.union;
@@ -32915,7 +32914,7 @@ class Picons {
   /// bold: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite.svg)
   /// fill: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite.svg)
   /// duotone: ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite.svg)
-  static PiconData get unite {
+  static Object get unite {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.unite;
@@ -32938,7 +32937,7 @@ class Picons {
   /// bold: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite-square.svg)
   /// fill: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite-square.svg)
   /// duotone: ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square.svg)
-  static PiconData get uniteSquare {
+  static Object get uniteSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.uniteSquare;
@@ -32961,7 +32960,7 @@ class Picons {
   /// bold: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload.svg)
   /// fill: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload.svg)
   /// duotone: ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload.svg)
-  static PiconData get upload {
+  static Object get upload {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.upload;
@@ -32984,7 +32983,7 @@ class Picons {
   /// bold: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload-simple.svg)
   /// fill: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload-simple.svg)
   /// duotone: ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple.svg)
-  static PiconData get uploadSimple {
+  static Object get uploadSimple {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.uploadSimple;
@@ -33007,7 +33006,7 @@ class Picons {
   /// bold: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/usb.svg)
   /// fill: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/usb.svg)
   /// duotone: ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb.svg)
-  static PiconData get usb {
+  static Object get usb {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.usb;
@@ -33030,7 +33029,7 @@ class Picons {
   /// bold: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user.svg)
   /// fill: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user.svg)
   /// duotone: ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user.svg)
-  static PiconData get user {
+  static Object get user {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.user;
@@ -33053,7 +33052,7 @@ class Picons {
   /// bold: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-check.svg)
   /// fill: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-check.svg)
   /// duotone: ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check.svg)
-  static PiconData get userCheck {
+  static Object get userCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCheck;
@@ -33076,7 +33075,7 @@ class Picons {
   /// bold: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle.svg)
   /// fill: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle.svg)
   /// duotone: ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle.svg)
-  static PiconData get userCircle {
+  static Object get userCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCircle;
@@ -33099,7 +33098,7 @@ class Picons {
   /// bold: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-check.svg)
   /// fill: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-check.svg)
   /// duotone: ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check.svg)
-  static PiconData get userCircleCheck {
+  static Object get userCircleCheck {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCircleCheck;
@@ -33122,7 +33121,7 @@ class Picons {
   /// bold: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-dashed.svg)
   /// fill: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-dashed.svg)
   /// duotone: ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed.svg)
-  static PiconData get userCircleDashed {
+  static Object get userCircleDashed {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCircleDashed;
@@ -33145,7 +33144,7 @@ class Picons {
   /// bold: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-gear.svg)
   /// fill: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-gear.svg)
   /// duotone: ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear.svg)
-  static PiconData get userCircleGear {
+  static Object get userCircleGear {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCircleGear;
@@ -33168,7 +33167,7 @@ class Picons {
   /// bold: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-minus.svg)
   /// fill: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-minus.svg)
   /// duotone: ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus.svg)
-  static PiconData get userCircleMinus {
+  static Object get userCircleMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCircleMinus;
@@ -33191,7 +33190,7 @@ class Picons {
   /// bold: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-plus.svg)
   /// fill: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-plus.svg)
   /// duotone: ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus.svg)
-  static PiconData get userCirclePlus {
+  static Object get userCirclePlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userCirclePlus;
@@ -33214,7 +33213,7 @@ class Picons {
   /// bold: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-focus.svg)
   /// fill: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-focus.svg)
   /// duotone: ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus.svg)
-  static PiconData get userFocus {
+  static Object get userFocus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userFocus;
@@ -33237,7 +33236,7 @@ class Picons {
   /// bold: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-gear.svg)
   /// fill: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-gear.svg)
   /// duotone: ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear.svg)
-  static PiconData get userGear {
+  static Object get userGear {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userGear;
@@ -33260,7 +33259,7 @@ class Picons {
   /// bold: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-list.svg)
   /// fill: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-list.svg)
   /// duotone: ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list.svg)
-  static PiconData get userList {
+  static Object get userList {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userList;
@@ -33283,7 +33282,7 @@ class Picons {
   /// bold: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-minus.svg)
   /// fill: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-minus.svg)
   /// duotone: ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus.svg)
-  static PiconData get userMinus {
+  static Object get userMinus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userMinus;
@@ -33306,7 +33305,7 @@ class Picons {
   /// bold: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-plus.svg)
   /// fill: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-plus.svg)
   /// duotone: ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus.svg)
-  static PiconData get userPlus {
+  static Object get userPlus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userPlus;
@@ -33329,7 +33328,7 @@ class Picons {
   /// bold: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-rectangle.svg)
   /// fill: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-rectangle.svg)
   /// duotone: ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle.svg)
-  static PiconData get userRectangle {
+  static Object get userRectangle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userRectangle;
@@ -33352,7 +33351,7 @@ class Picons {
   /// bold: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-sound.svg)
   /// fill: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-sound.svg)
   /// duotone: ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound.svg)
-  static PiconData get userSound {
+  static Object get userSound {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userSound;
@@ -33375,7 +33374,7 @@ class Picons {
   /// bold: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-square.svg)
   /// fill: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-square.svg)
   /// duotone: ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square.svg)
-  static PiconData get userSquare {
+  static Object get userSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userSquare;
@@ -33398,7 +33397,7 @@ class Picons {
   /// bold: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-switch.svg)
   /// fill: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-switch.svg)
   /// duotone: ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch.svg)
-  static PiconData get userSwitch {
+  static Object get userSwitch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.userSwitch;
@@ -33421,7 +33420,7 @@ class Picons {
   /// bold: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users.svg)
   /// fill: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users.svg)
   /// duotone: ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users.svg)
-  static PiconData get users {
+  static Object get users {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.users;
@@ -33444,7 +33443,7 @@ class Picons {
   /// bold: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-four.svg)
   /// fill: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-four.svg)
   /// duotone: ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four.svg)
-  static PiconData get usersFour {
+  static Object get usersFour {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.usersFour;
@@ -33467,7 +33466,7 @@ class Picons {
   /// bold: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-three.svg)
   /// fill: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-three.svg)
   /// duotone: ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three.svg)
-  static PiconData get usersThree {
+  static Object get usersThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.usersThree;
@@ -33490,7 +33489,7 @@ class Picons {
   /// bold: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/van.svg)
   /// fill: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/van.svg)
   /// duotone: ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van.svg)
-  static PiconData get van {
+  static Object get van {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.van;
@@ -33513,7 +33512,7 @@ class Picons {
   /// bold: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vault.svg)
   /// fill: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vault.svg)
   /// duotone: ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault.svg)
-  static PiconData get vault {
+  static Object get vault {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vault;
@@ -33536,7 +33535,7 @@ class Picons {
   /// bold: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-three.svg)
   /// fill: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-three.svg)
   /// duotone: ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three.svg)
-  static PiconData get vectorThree {
+  static Object get vectorThree {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vectorThree;
@@ -33559,7 +33558,7 @@ class Picons {
   /// bold: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-two.svg)
   /// fill: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-two.svg)
   /// duotone: ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two.svg)
-  static PiconData get vectorTwo {
+  static Object get vectorTwo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vectorTwo;
@@ -33582,7 +33581,7 @@ class Picons {
   /// bold: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vibrate.svg)
   /// fill: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vibrate.svg)
   /// duotone: ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate.svg)
-  static PiconData get vibrate {
+  static Object get vibrate {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vibrate;
@@ -33605,7 +33604,7 @@ class Picons {
   /// bold: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video.svg)
   /// fill: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video.svg)
   /// duotone: ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video.svg)
-  static PiconData get video {
+  static Object get video {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.video;
@@ -33628,7 +33627,7 @@ class Picons {
   /// bold: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera.svg)
   /// fill: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera.svg)
   /// duotone: ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera.svg)
-  static PiconData get videoCamera {
+  static Object get videoCamera {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.videoCamera;
@@ -33651,7 +33650,7 @@ class Picons {
   /// bold: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera-slash.svg)
   /// fill: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera-slash.svg)
   /// duotone: ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash.svg)
-  static PiconData get videoCameraSlash {
+  static Object get videoCameraSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.videoCameraSlash;
@@ -33674,7 +33673,7 @@ class Picons {
   /// bold: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-conference.svg)
   /// fill: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-conference.svg)
   /// duotone: ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference.svg)
-  static PiconData get videoConference {
+  static Object get videoConference {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.videoConference;
@@ -33697,7 +33696,7 @@ class Picons {
   /// bold: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vignette.svg)
   /// fill: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vignette.svg)
   /// duotone: ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette.svg)
-  static PiconData get vignette {
+  static Object get vignette {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vignette;
@@ -33720,7 +33719,7 @@ class Picons {
   /// bold: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vinyl-record.svg)
   /// fill: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vinyl-record.svg)
   /// duotone: ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record.svg)
-  static PiconData get vinylRecord {
+  static Object get vinylRecord {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.vinylRecord;
@@ -33743,7 +33742,7 @@ class Picons {
   /// bold: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virtual-reality.svg)
   /// fill: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virtual-reality.svg)
   /// duotone: ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality.svg)
-  static PiconData get virtualReality {
+  static Object get virtualReality {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.virtualReality;
@@ -33766,7 +33765,7 @@ class Picons {
   /// bold: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virus.svg)
   /// fill: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virus.svg)
   /// duotone: ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus.svg)
-  static PiconData get virus {
+  static Object get virus {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.virus;
@@ -33789,7 +33788,7 @@ class Picons {
   /// bold: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/visor.svg)
   /// fill: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/visor.svg)
   /// duotone: ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor.svg)
-  static PiconData get visor {
+  static Object get visor {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.visor;
@@ -33812,7 +33811,7 @@ class Picons {
   /// bold: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/voicemail.svg)
   /// fill: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/voicemail.svg)
   /// duotone: ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail.svg)
-  static PiconData get voicemail {
+  static Object get voicemail {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.voicemail;
@@ -33835,7 +33834,7 @@ class Picons {
   /// bold: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/volleyball.svg)
   /// fill: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/volleyball.svg)
   /// duotone: ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball.svg)
-  static PiconData get volleyball {
+  static Object get volleyball {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.volleyball;
@@ -33858,7 +33857,7 @@ class Picons {
   /// bold: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wall.svg)
   /// fill: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wall.svg)
   /// duotone: ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall.svg)
-  static PiconData get wall {
+  static Object get wall {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wall;
@@ -33881,7 +33880,7 @@ class Picons {
   /// bold: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wallet.svg)
   /// fill: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wallet.svg)
   /// duotone: ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet.svg)
-  static PiconData get wallet {
+  static Object get wallet {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wallet;
@@ -33904,7 +33903,7 @@ class Picons {
   /// bold: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warehouse.svg)
   /// fill: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warehouse.svg)
   /// duotone: ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse.svg)
-  static PiconData get warehouse {
+  static Object get warehouse {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.warehouse;
@@ -33927,7 +33926,7 @@ class Picons {
   /// bold: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning.svg)
   /// fill: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning.svg)
   /// duotone: ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning.svg)
-  static PiconData get warning {
+  static Object get warning {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.warning;
@@ -33950,7 +33949,7 @@ class Picons {
   /// bold: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-circle.svg)
   /// fill: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-circle.svg)
   /// duotone: ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle.svg)
-  static PiconData get warningCircle {
+  static Object get warningCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.warningCircle;
@@ -33973,7 +33972,7 @@ class Picons {
   /// bold: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-diamond.svg)
   /// fill: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-diamond.svg)
   /// duotone: ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond.svg)
-  static PiconData get warningDiamond {
+  static Object get warningDiamond {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.warningDiamond;
@@ -33996,7 +33995,7 @@ class Picons {
   /// bold: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-octagon.svg)
   /// fill: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-octagon.svg)
   /// duotone: ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon.svg)
-  static PiconData get warningOctagon {
+  static Object get warningOctagon {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.warningOctagon;
@@ -34019,7 +34018,7 @@ class Picons {
   /// bold: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/washing-machine.svg)
   /// fill: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/washing-machine.svg)
   /// duotone: ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine.svg)
-  static PiconData get washingMachine {
+  static Object get washingMachine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.washingMachine;
@@ -34042,7 +34041,7 @@ class Picons {
   /// bold: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/watch.svg)
   /// fill: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/watch.svg)
   /// duotone: ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch.svg)
-  static PiconData get watch {
+  static Object get watch {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.watch;
@@ -34065,7 +34064,7 @@ class Picons {
   /// bold: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sawtooth.svg)
   /// fill: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sawtooth.svg)
   /// duotone: ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth.svg)
-  static PiconData get waveSawtooth {
+  static Object get waveSawtooth {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveSawtooth;
@@ -34088,7 +34087,7 @@ class Picons {
   /// bold: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sine.svg)
   /// fill: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sine.svg)
   /// duotone: ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine.svg)
-  static PiconData get waveSine {
+  static Object get waveSine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveSine;
@@ -34111,7 +34110,7 @@ class Picons {
   /// bold: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-square.svg)
   /// fill: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-square.svg)
   /// duotone: ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square.svg)
-  static PiconData get waveSquare {
+  static Object get waveSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveSquare;
@@ -34134,7 +34133,7 @@ class Picons {
   /// bold: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-triangle.svg)
   /// fill: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-triangle.svg)
   /// duotone: ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle.svg)
-  static PiconData get waveTriangle {
+  static Object get waveTriangle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveTriangle;
@@ -34157,7 +34156,7 @@ class Picons {
   /// bold: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform.svg)
   /// fill: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform.svg)
   /// duotone: ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform.svg)
-  static PiconData get waveform {
+  static Object get waveform {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveform;
@@ -34180,7 +34179,7 @@ class Picons {
   /// bold: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform-slash.svg)
   /// fill: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform-slash.svg)
   /// duotone: ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash.svg)
-  static PiconData get waveformSlash {
+  static Object get waveformSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waveformSlash;
@@ -34203,7 +34202,7 @@ class Picons {
   /// bold: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waves.svg)
   /// fill: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waves.svg)
   /// duotone: ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves.svg)
-  static PiconData get waves {
+  static Object get waves {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.waves;
@@ -34226,7 +34225,7 @@ class Picons {
   /// bold: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam.svg)
   /// fill: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam.svg)
   /// duotone: ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam.svg)
-  static PiconData get webcam {
+  static Object get webcam {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.webcam;
@@ -34249,7 +34248,7 @@ class Picons {
   /// bold: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam-slash.svg)
   /// fill: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam-slash.svg)
   /// duotone: ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash.svg)
-  static PiconData get webcamSlash {
+  static Object get webcamSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.webcamSlash;
@@ -34272,7 +34271,7 @@ class Picons {
   /// bold: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webhooks-logo.svg)
   /// fill: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webhooks-logo.svg)
   /// duotone: ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo.svg)
-  static PiconData get webhooksLogo {
+  static Object get webhooksLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.webhooksLogo;
@@ -34295,7 +34294,7 @@ class Picons {
   /// bold: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wechat-logo.svg)
   /// fill: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wechat-logo.svg)
   /// duotone: ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo.svg)
-  static PiconData get wechatLogo {
+  static Object get wechatLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wechatLogo;
@@ -34318,7 +34317,7 @@ class Picons {
   /// bold: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/whatsapp-logo.svg)
   /// fill: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/whatsapp-logo.svg)
   /// duotone: ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo.svg)
-  static PiconData get whatsappLogo {
+  static Object get whatsappLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.whatsappLogo;
@@ -34341,7 +34340,7 @@ class Picons {
   /// bold: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair.svg)
   /// fill: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair.svg)
   /// duotone: ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair.svg)
-  static PiconData get wheelchair {
+  static Object get wheelchair {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wheelchair;
@@ -34364,7 +34363,7 @@ class Picons {
   /// bold: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair-motion.svg)
   /// fill: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair-motion.svg)
   /// duotone: ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion.svg)
-  static PiconData get wheelchairMotion {
+  static Object get wheelchairMotion {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wheelchairMotion;
@@ -34387,7 +34386,7 @@ class Picons {
   /// bold: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-high.svg)
   /// fill: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-high.svg)
   /// duotone: ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high.svg)
-  static PiconData get wifiHigh {
+  static Object get wifiHigh {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiHigh;
@@ -34410,7 +34409,7 @@ class Picons {
   /// bold: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-low.svg)
   /// fill: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-low.svg)
   /// duotone: ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low.svg)
-  static PiconData get wifiLow {
+  static Object get wifiLow {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiLow;
@@ -34433,7 +34432,7 @@ class Picons {
   /// bold: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-medium.svg)
   /// fill: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-medium.svg)
   /// duotone: ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium.svg)
-  static PiconData get wifiMedium {
+  static Object get wifiMedium {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiMedium;
@@ -34456,7 +34455,7 @@ class Picons {
   /// bold: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-none.svg)
   /// fill: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-none.svg)
   /// duotone: ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none.svg)
-  static PiconData get wifiNone {
+  static Object get wifiNone {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiNone;
@@ -34479,7 +34478,7 @@ class Picons {
   /// bold: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-slash.svg)
   /// fill: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-slash.svg)
   /// duotone: ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash.svg)
-  static PiconData get wifiSlash {
+  static Object get wifiSlash {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiSlash;
@@ -34502,7 +34501,7 @@ class Picons {
   /// bold: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-x.svg)
   /// fill: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-x.svg)
   /// duotone: ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x.svg)
-  static PiconData get wifiX {
+  static Object get wifiX {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wifiX;
@@ -34525,7 +34524,7 @@ class Picons {
   /// bold: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wind.svg)
   /// fill: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wind.svg)
   /// duotone: ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind.svg)
-  static PiconData get wind {
+  static Object get wind {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wind;
@@ -34548,7 +34547,7 @@ class Picons {
   /// bold: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windmill.svg)
   /// fill: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windmill.svg)
   /// duotone: ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill.svg)
-  static PiconData get windmill {
+  static Object get windmill {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.windmill;
@@ -34571,7 +34570,7 @@ class Picons {
   /// bold: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windows-logo.svg)
   /// fill: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windows-logo.svg)
   /// duotone: ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo.svg)
-  static PiconData get windowsLogo {
+  static Object get windowsLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.windowsLogo;
@@ -34594,7 +34593,7 @@ class Picons {
   /// bold: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wine.svg)
   /// fill: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wine.svg)
   /// duotone: ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine.svg)
-  static PiconData get wine {
+  static Object get wine {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wine;
@@ -34617,7 +34616,7 @@ class Picons {
   /// bold: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wrench.svg)
   /// fill: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wrench.svg)
   /// duotone: ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench.svg)
-  static PiconData get wrench {
+  static Object get wrench {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.wrench;
@@ -34640,7 +34639,7 @@ class Picons {
   /// bold: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x.svg)
   /// fill: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x.svg)
   /// duotone: ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x.svg)
-  static PiconData get x {
+  static Object get x {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.x;
@@ -34663,7 +34662,7 @@ class Picons {
   /// bold: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-circle.svg)
   /// fill: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-circle.svg)
   /// duotone: ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle.svg)
-  static PiconData get xCircle {
+  static Object get xCircle {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.xCircle;
@@ -34686,7 +34685,7 @@ class Picons {
   /// bold: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-logo.svg)
   /// fill: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-logo.svg)
   /// duotone: ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo.svg)
-  static PiconData get xLogo {
+  static Object get xLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.xLogo;
@@ -34709,7 +34708,7 @@ class Picons {
   /// bold: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-square.svg)
   /// fill: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-square.svg)
   /// duotone: ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square.svg)
-  static PiconData get xSquare {
+  static Object get xSquare {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.xSquare;
@@ -34732,7 +34731,7 @@ class Picons {
   /// bold: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yarn.svg)
   /// fill: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yarn.svg)
   /// duotone: ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn.svg)
-  static PiconData get yarn {
+  static Object get yarn {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.yarn;
@@ -34755,7 +34754,7 @@ class Picons {
   /// bold: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yin-yang.svg)
   /// fill: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yin-yang.svg)
   /// duotone: ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang.svg)
-  static PiconData get yinYang {
+  static Object get yinYang {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.yinYang;
@@ -34778,7 +34777,7 @@ class Picons {
   /// bold: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/youtube-logo.svg)
   /// fill: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/youtube-logo.svg)
   /// duotone: ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo.svg)
-  static PiconData get youtubeLogo {
+  static Object get youtubeLogo {
     switch (Picons.defaultStyle) {
       case PiconsStyle.regular:
         return PiconsRegular.youtubeLogo;

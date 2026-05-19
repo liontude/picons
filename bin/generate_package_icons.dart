@@ -109,7 +109,7 @@ case AppIconsStyle.${style.styleName}:
     ..docs.addAll(styles.map((style) =>
         '/// ${style.styleName}: ![$fullName](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.styleName}/$fullName.svg)'))
     ..body = Code(code)
-    ..returns = Reference('AppIconData'));
+    ..returns = Reference('Object'));
 }
 
 /// reads the phosphor json  of one style and generates a dart class
@@ -180,13 +180,14 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
     final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "AppDuotoneIconData($foregroundHexCode, AppIconData($backgroundHexCode, 'Duotone'),)",
+      "PiconDuotoneData(PiconData(IconData($foregroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)), PiconData(IconData($backgroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'picons', matchTextDirection: true)),)",
     );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
+    final styleName = style.styleName.capitalize();
     codeStatement = Code(
-      "AppFlatIconData($hexCode, '${style.styleName.capitalize()}')",
+      "PiconFlatData(IconData($hexCode, fontFamily: 'Phosphor$styleName', fontPackage: 'picons', matchTextDirection: true),)",
     );
   }
 

@@ -5,6 +5,11 @@
 1512 icons for Flutter — thin, light, regular, bold, fill, and duotone styles.
 Based on [Phosphor Icons](https://phosphoricons.com).
 
+## Requirements
+
+- Dart ≥ 3.3
+- Flutter ≥ 3.10
+
 ## Installation
 
 ```bash
@@ -86,6 +91,29 @@ MaterialApp(
 ```
 
 Colors resolve in this order: explicit value on the widget → `PiconsTheme` → `IconTheme`.
+
+## Migrating from v2
+
+**`PiconDuotoneData` constructor changed** — it no longer extends `IconData`.
+Old: `PiconDuotoneData(int codePoint, PiconData secondary)`
+New: `PiconDuotoneData(PiconData primary, PiconData secondary)`
+
+Use `PiconsDuotone.x` to get a fully-typed `PiconDuotoneData`, and render it
+with `Picon()` instead of `Icon()`:
+
+```dart
+// v2
+Icon(PiconsDuotone.pencil)
+
+// v3
+Picon(PiconsDuotone.pencil)
+```
+
+**`Picon` no longer extends `Icon`** — it is now a plain `StatelessWidget`.
+All visual parameters (`size`, `color`, `shadows`, etc.) are identical.
+
+**`Picons.x` with `defaultStyle = duotone`** now returns the primary layer as
+`PiconData`. For full duotone rendering use `PiconsDuotone.x` directly.
 
 ## Example App
 

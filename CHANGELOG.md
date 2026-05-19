@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [3.0.1] - 2026-05-19
+
+- Lower SDK constraint from `>=3.12.0` to `>=3.3.0` — the code only requires
+  extension types (Dart 3.3). Works with Dart 3.11.x (Flutter stable).
+- Lower Flutter constraint from `>=3.44.0` to `>=3.10.0`.
+
 ## [3.0.0] - 2026-05-19
 
 - **Fix (breaking)**: Dart 3.12 / Flutter 3.44 makes `IconData` a `final` class.
@@ -16,7 +22,7 @@
   rendering use `PiconsDuotone.x` directly.
 - Fix: dartdoc SVG image URLs updated to current Phosphor asset naming convention
   (`{name}-{style}.svg`).
-- Require Flutter >=3.44.0, Dart >=3.12.0.
+- SDK constraints set to Flutter >=3.44.0, Dart >=3.12.0 (relaxed to >=3.10.0 / >=3.3.0 in 3.0.1).
 
 ## [2.1.1] - 2026-05-11
 

@@ -2,8 +2,11 @@
 
 ## Requirements
 
-- Flutter >= 3.44.0
-- Dart >= 3.12.0
+These are requirements for running the **code generator** (your development machine),
+not for the published package. The package itself requires Dart >=3.3 / Flutter >=3.10.
+
+- Flutter >= 3.10.0
+- Dart >= 3.3.0
 
 ## Steps
 
